@@ -1,0 +1,55 @@
+diff -bru ../MT-2.62/lib/MT/App/Comments.pm ./lib/MT/App/Comments.pm
+--- ../MT-2.62/lib/MT/App/Comments.pm	2003-02-16 00:20:08.000000000 -0800
++++ ./lib/MT/App/Comments.pm	2003-02-18 11:56:46.974335000 -0800
+@@ -103,6 +103,8 @@
+     }
+     $comment->url(remove_html($url));
+     $comment->text($q->param('text'));
++    $comment->subject($q->param('subject'));
++    $comment->parent_id($q->param('parent_id'));
+     $comment->save;
+     $app->rebuild_indexes( Blog => $blog )
+         or return $app->error($app->translate(
+@@ -146,6 +148,7 @@
+               $app->translate('Name:') . ' ' . $comment->author . "\n" .
+               $app->translate('Email Address:') . ' ' . $comment->email . "\n" .
+               $app->translate('URL:') . ' ' . $comment->url . "\n\n" .
++              $app->translate('Subject:') . ' ' . $comment->subject . "\n\n" .
+               $app->translate('Comments:') . "\n\n" . $comment->text . "\n";
+             MT::Mail->send(\%head, $body);
+         }
+@@ -168,6 +171,7 @@
+             "Invalid entry ID '[_1]'", $entry_id));
+     my $ctx = MT::Template::Context->new;
+     $ctx->stash('entry', $entry);
++    $ctx->stash('comment_parent_id', $q->param('parent_id'));
+     $ctx->{current_timestamp} = $entry->created_on;
+     my %cond = (
+         EntryIfExtended => $entry->text_more ? 1 : 0,
+@@ -204,7 +208,7 @@
+     my $ctx = MT::Template::Context->new;
+     my $comment = MT::Comment->new;
+     $comment->blog_id($entry->blog_id);
+-    for my $f (qw( entry_id author email url text )) {
++    for my $f (qw( entry_id author email url text subject parent_id )) {
+         $comment->$f(scalar $q->param($f));
+     }
+     $comment->ip($app->remote_ip);
+diff -bru ../MT-2.62/lib/MT/Comment.pm ./lib/MT/Comment.pm
+--- ../MT-2.62/lib/MT/Comment.pm	2003-02-11 16:15:03.000000000 -0800
++++ ./lib/MT/Comment.pm	2003-02-18 11:57:41.144109000 -0800
+@@ -10,12 +10,13 @@
+ @MT::Comment::ISA = qw( MT::Object );
+ __PACKAGE__->install_properties({
+     columns => [
+-        'id', 'blog_id', 'entry_id', 'author', 'email', 'url', 'text', 'ip'
++        'id', 'blog_id', 'entry_id', 'author', 'email', 'url', 'text', 'ip', 'subject', 'parent_id'
+     ],
+     indexes => {
+         created_on => 1,
+         entry_id => 1,
+         blog_id => 1,
++	parent_id => 1,
+     },
+     audit => 1,
+     datasource => 'comment',

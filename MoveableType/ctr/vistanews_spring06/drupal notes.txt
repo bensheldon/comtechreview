@@ -1,0 +1,46 @@
+images: 
+
+We can upload the images into that (they will be resize automatically according to our specs and a thumbnail will also be generated so that we have TWO sizes to choose from) and then reference them in the code to embed in the stories...like THIS:
+
+<img class="float_right" src="http://www.cpcs.umb.edu/vista/files/images/filename.jpg">
+
+OR
+
+<img class="float_right" src="http://www.cpcs.umb.edu/vista/files/images/filename.thumbnail.jpg">
+
+OR with caption without link:
+
+<div class="float_right"><img border="0" src="" /><div class="caption">CAPTION TEXT HERE</div></div>
+
+OR with caption with link:
+
+<div class="float_right"><a href="" target="_blank"><img border="0" src="" /></a><div class="caption">CAPTION TEXT HERE</div></div>
+
+
+embedding videos:
+
+<table border='0' cellpadding='0' align="right" style="margin-left:15px;">        <!-- begin video window... -->        <tr><td>        <OBJECT classid='clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B' width="320"        height="255" codebase='http://www.apple.com/qtactivex/qtplugin.cab'>        <param name='src' value="http://www.cpcs.umb.edu/~danielle/zumix.mov">        <param name='autoplay' value="false">        <param name='controller' value="true">        <param name='loop' value="false">        <EMBED src="http://www.cpcs.umb.edu/~danielle/zumix.mov" width="320" height="255" autoplay="false"         controller="true" loop="false" pluginspage='http://www.apple.com/quicktime/download/'>        </EMBED>        </OBJECT>        </td></tr>        <!-- ...end embedded QuickTime file -->        </table>
+
+Front page:
+
+In Story options, check the "Promoted to the front page" option to get the story on the front page (and check the "Sticky at top of lists" to put it at the top)
+
+Q: Why is the one set as "Stick" come out blue background?
+
+More questions:
+-Do we want all the titles on front page to be lower case?
+-Can we make the preview blurb # of words less? Do we want to include photos in the intro blurbs? If we do include the photos, can we set it to always be the thumbnail?
+-clean up the tag cloud?
+-green article titles are too close to the yellow REPORT header
+-How can we order the articles in each subsection/tag section?
+-do we want to see all the subsection headers on top before scrolling down? (tied to this is why are some of the titles bigger in font than others?) Can we put the blog section on the top right above the tag cloud?
+-missing Wall of Video and Project HQ Updates subsections on front page
+(still missing Project HQ content too :) )
+-do we need to add some explain/text to the Wall of Video (I think so, but I'm not sure where will look good (it's all in the image tags/titles).
+-Image Gallery - does everybody need to see this or was this just for me during production?
+
+
+
+
+Editorial note:
+<div class="ednote">

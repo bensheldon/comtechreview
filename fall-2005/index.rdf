@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.comtechreview.org/fall-2005/">
+<title>Fall 2005</title>
+<link>http://www.comtechreview.org/fall-2005/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2005-10-28T00:00:03-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000350.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000348.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000343.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000347.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000352.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000351.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000361.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000346.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000394.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000362.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000373.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000363.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000364.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000354.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-2005/000353.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.comtechreview.org/fall-2005/000350.html">
+<title><![CDATA[<em>ComTechReview</em> and the CTC VISTA Project: Turning Inward and Looking Out Again]]></title>
+<link>http://www.comtechreview.org/fall-2005/000350.html</link>
+<description>CTC VISTA Project and CTR staff (2005-2006): Danielle Martin, Shannon McCue, Paul Hansen, Peter Miller, and Saul Baizman The current issue was conceived in the late spring, to be a much smaller special edition, focused on the CTC VISTA Project....</description>
+<dc:subject>ComTechReview</dc:subject>
+<dc:creator>Editor</dc:creator>
+<dc:date>2005-10-28T00:00:03-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000348.html">
+<title>The CTC VISTA Project: Looking Back, Looking Ahead</title>
+<link>http://www.comtechreview.org/fall-2005/000348.html</link>
+<description><![CDATA[As the CTC VISTA Project, in the College of Public and Community Service at the University of Massachusetts, Boston, begins its sixth year partnership with CTCNet and the Corporation for National and Community Service, we&rsquo;d like to reflect on the...]]></description>
+<dc:subject>ComTechReview</dc:subject>
+<dc:creator>Daniel Schackman</dc:creator>
+<dc:date>2005-10-28T00:00:02-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000343.html">
+<title>Priority Area Presentations at the Pre-service Orientation</title>
+<link>http://www.comtechreview.org/fall-2005/000343.html</link>
+<description><![CDATA[The CTC VISTA Project pre-service orientation (PSO) is a paradox of sorts.&nbsp; The VISTAs are mostly brand new, some never setting foot in their placements before.&nbsp; Yet it is the only chance to meet fellow VISTAs, supervisors and Project staff...]]></description>
+<dc:subject>ComTechReview</dc:subject>
+<dc:creator>Danielle Martin</dc:creator>
+<dc:date>2005-10-28T00:00:01-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000347.html">
+<title>What is a Community Network? And Why You Should Care!</title>
+<link>http://www.comtechreview.org/fall-2005/000347.html</link>
+<description><![CDATA[A Short Historical Overview Judie Halazon, an early CTC pioneer, offered Free Email from her one computer CTC in Jackson, MT, pop. of 48, starting an rural ecommerce legacy. The term &quot;community networking&quot; originally referred to common community gatherings where...]]></description>
+<dc:subject>Community Networking</dc:subject>
+<dc:creator>Frank Odasz</dc:creator>
+<dc:date>2005-10-27T00:00:09-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000352.html">
+<title>Community Networking Basics — Some Key Sites</title>
+<link>http://www.comtechreview.org/fall-2005/000352.html</link>
+<description><![CDATA[The Association for Community Networking (AFCN), www.afcn.org &mdash; note discussion lists and forums, membership services and information including directory of members. Frank Odasz/lone-eagles.com: Frank's articles in CTR archives (see sidebar), lone-eagle VISTA Resources and blog, compilation of Best Community Networking...]]></description>
+<dc:subject>Community Networking</dc:subject>
+<dc:creator>Editor</dc:creator>
+<dc:date>2005-10-27T00:00:08-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000351.html">
+<title><![CDATA[Community Networking in the <em>CTR</em> Archives]]></title>
+<link>http://www.comtechreview.org/fall-2005/000351.html</link>
+<description>Spring-Summer 2005 Community Networking: Movements in the Field and at the Radical Center by Michael Maranda Houston&apos;s Technology for All Wireless Project and the National Municipal Wireless Debate by Will Reed Open Space Austin: April 29-30, 2005 by Frank Odasz...</description>
+<dc:subject>Community Networking</dc:subject>
+<dc:creator>Editor</dc:creator>
+<dc:date>2005-10-27T00:00:07-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000361.html">
+<title>Democratic Vistas: Community Networking as the Practical Work of Regional and Local Organizing</title>
+<link>http://www.comtechreview.org/fall-2005/000361.html</link>
+<description><![CDATA[ There are metaphors and frames without which we would be at a loss to convey the profundity of change in our conception of the world and our possible futures.&nbsp; Such archetypal ideas have been called conceptual primitives:&nbsp; they involve...]]></description>
+<dc:subject>Community Networking</dc:subject>
+<dc:creator>Michael Maranda</dc:creator>
+<dc:date>2005-10-27T00:00:06-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000346.html">
+<title>Community Networks: The Future Has Arrived</title>
+<link>http://www.comtechreview.org/fall-2005/000346.html</link>
+<description><![CDATA[After a few years' declining support and growth, time are changing for community technology and networking. &nbsp;Recent events have dramatically demonstrated the need and importance of community-centered telecommunications capability, spurring local technology advocates to think "outside the coffin" and address...]]></description>
+<dc:subject>Community Networking</dc:subject>
+<dc:creator>Gene Crick</dc:creator>
+<dc:date>2005-10-27T00:00:05-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000394.html">
+<title>TechTalk: Dropped Into Deep Drupal – a NOC, NOC story</title>
+<link>http://www.comtechreview.org/fall-2005/000394.html</link>
+<description><![CDATA[For more than a decade our MAIN/TCRC community Network Operating Center (NOC) has been running smoothly, with Unix, Linux, NT, and Apple servers supporting both our R&amp;D and free nonprofit organization hosting services.&nbsp; But even though it wasn&rsquo;t &ldquo;broken,&rdquo; we...]]></description>
+<dc:subject>Community Networking</dc:subject>
+<dc:creator>Gene Crick</dc:creator>
+<dc:date>2005-10-27T00:00:04-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000362.html">
+<title>CTC VISTAs Strengthen RTPnet</title>
+<link>http://www.comtechreview.org/fall-2005/000362.html</link>
+<description> RTPnet, previously known as Triangle Free-Net and so named for the Research Triangle Park area between Raleigh, Durham and Chapel Hill, is a volunteer-driven, 501(c)3 nonprofit community network dedicated to helping North Carolina nonprofit organizations leverage Internet tools to...</description>
+<dc:subject>Community Networking</dc:subject>
+<dc:creator>Judy Hallman</dc:creator>
+<dc:date>2005-10-27T00:00:03-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000373.html">
+<title>RTPnet Adult Basic Computer Ed Handouts Available</title>
+<link>http://www.comtechreview.org/fall-2005/000373.html</link>
+<description>Read Hallman&apos;s full article:CTC VISTAs Strengthen RTPnet Links to revised handouts for four classes RTPnet has used (since 1996) to teach basic computer skills to adults were recently posted on the CTCNet members list and received several favorable reviews and...</description>
+<dc:subject>Community Networking</dc:subject>
+<dc:creator>Editor</dc:creator>
+<dc:date>2005-10-27T00:00:02-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000363.html">
+<title>Community History Helps TINCAN Create a Sense of Place in Spokane, WA</title>
+<link>http://www.comtechreview.org/fall-2005/000363.html</link>
+<description><![CDATA[May Alm's WWII Nurses On a sunny afternoon in November 2004, World War II veterans gathered in a neighborhood caf&eacute; in Spokane, Washington, to tell their stories of war.&nbsp;&nbsp; A cake decorated as an American flag, donated by an area...]]></description>
+<dc:subject>Community Networking</dc:subject>
+<dc:creator>Karen Michaelson</dc:creator>
+<dc:date>2005-10-27T00:00:01-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000364.html">
+<title><![CDATA[Ed Schwartz: <em>Community Organizing and Development</em>]]></title>
+<link>http://www.comtechreview.org/fall-2005/000364.html</link>
+<description><![CDATA[(see Focusing the Work of CTC VISTA Projects&mdash;Priority Area Presentations) Ed Schwartz. Community organizing and development is a priority area that may permeate the missions of many CTC VISTA Project technology centers, and indeed CTCs in general.&nbsp;&nbsp; This area also...]]></description>
+<dc:subject>Community Organizing and Development</dc:subject>
+<dc:creator>Danielle Martin</dc:creator>
+<dc:date>2005-10-26T00:00:08-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000354.html">
+<title>Ten Web Sites to Help Profile a Community</title>
+<link>http://www.comtechreview.org/fall-2005/000354.html</link>
+<description><![CDATA[ NeighborhoodsOnline.Net &mdash; the Institute for the Study of Civic Value's web site that includes links to all the links suggested below. Census Bureau - includes demographic data at the census tract, community, city, county, and state level; at the...]]></description>
+<dc:subject>Community Organizing and Development</dc:subject>
+<dc:creator>Editor</dc:creator>
+<dc:date>2005-10-26T00:00:07-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-2005/000353.html">
+<title><![CDATA[Community Organizing and Development in the <em>CTR</em> Archives]]></title>
+<link>http://www.comtechreview.org/fall-2005/000353.html</link>
+<description>Spring-Summer 2005 Community Networking: Movements in the Field and at the Radical Center by Michael Maranda Houston&apos;s Technology for All Wireless Project and the National Municipal Wireless Debate by Will Reed The Foundation of Community Information Technology: Community-Based Research by...</description>
+<dc:subject>Community Organizing and Development</dc:subject>
+<dc:creator>Editor</dc:creator>
+<dc:date>2005-10-26T00:00:06-05:00</dc:date>
+</item>
+
+
+</rdf:RDF>

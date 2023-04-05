@@ -1,0 +1,524 @@
+See http://www.youthspace.net/GISWiki/index.php/Main_Page
+
+Dave, Morgan, and Dan McNeil are involved in this discussion...ask them to write?
+
+
+
+----------------------------------------------------------------------
+Date: Tue, 18 Oct 2005 16:25:12 -0400
+From: Dan MacNeil <dan@thecsl.org>
+Subject: Re: [ctcnet] Could Google Earth revolutionize CTC work?
+
+I often miss stuff, but there may be simpler approaches to some problems 
+than full blown GIS. For:
+
+	 "what are the closest 10 taco bells/CTCs to my house"
+
+...All that is needed is the zip code of your house and some FOSS 
+libraries. For most people maintaining a list of zip codes is happy side 
+effect of keeping a database of addresses.
+
+Some random libs
+
+	http://geocoder.us/
+	http://search.cpan.org/src/SDERLE/Geo-Coder-US-1.00/README
+	http://search.cpan.org/~tjmather/Geo-PostalCode-0.06
+	http://search.cpan.org/~bluefeet/Geo-Distance-0.11/Distance.pm
+
+####
+
+Dan Bassill wrote:
+> I think GIS has much potential have been piloting the use of a GIS since
+> 1993 in a strategy intended to draw more consistent resources (volunteers,
+> donors, business partners, etc.) to volunteer-based tutor/mentor programs in
+> neighborhoods where these programs are most needed (based on poverty
+> concentrations, locations of poorly performing schools, etc.)
+> 
+> You can see examples of this in the Program Locator section of
+> www.tutormentorexchange.net.	You can also see examples in power point
+> essays that are in the Tutor/Mentor Institute section of the same site.
+> 
+> For a GIS to be used in the manner I'm describing, there need to be three
+> consistent conditions
+> 
+> a) the organization must have access to an interactive GIS platform, along
+> with someone who knows how to use the GIS to create map area views.  If a
+> GIS has been set up for a community, others can query the information using
+> search fields set up by the creator of the GIS
+> 
+> b) someone must be collecting and maintaining data related to the purpose of
+> the GIS. You can find census data and can purchase a variety of business and
+> organizational data. However, no one in Chicago has been maintaining a
+> database of non-school tutor/mentor programs, with sort fields for type of
+> program, age group served, time of day service is available, and zip code.
+> By collecting this data and hosting it on a GIS, our service not only helps
+> people find programs, it helps communities better understand the
+> availability and distribution of such programs.
+> 
+> c) you also need some form of advertising and public advocacy because no
+> matter how sophisticated your GIS is, and how good your data is, it's
+> useless if the people you want to look at it are not looking at it.
+> 
+> In my experience there are many researchers collecting good information.
+> However, after the initial release, the researchers are not leading the
+> campaign to get more people to look at the information, understand it, and
+> apply it in all of the places where the knowledge might do some good.
+> 
+> This takes time, money, and the ability to stay involved in a cause for the
+> many years it takes to build enough involvement of other people to actually
+> have some impact on solving a problem.
+> 
+> If a community can put together a team of people who take ownership of these
+> three elements, the GIS service can become a leadership resource for all of
+> the people concerned with the issue in a given community.
+> 
+> The weakness of our GIS is in point (a).  We've never been able to find the
+> money to have a GIS person continually on our staff, thus we've depended on
+> volunteers to build and maintain our GIS. While this is great while the
+> volunteer has time to be involved, it is not consistent because volunteers
+> are often called away to other priorities and it is difficult finding
+> another to replace them and maintain continuity and quality in services.
+> 
+> I've been searching for partners all over the world who may have the GIS,
+> but who may not have the capacity/interest in collecting the data, or in
+> leading the advertising/public awareness intended to get people to view and
+> use the system.  Thus a partnership across cities could lead to more cities
+> having all three components that I describe.
+> 
+> I host a Yahoo eGroup focused on our GIS. If any would like to join you can
+> find this in the Discussion area of www.tutormentorexchange.net
+> 
+> Dan Bassill
+> Tutor/Mentor Connection
+> Chicago
+> 
+> on 10/17/05 1:05 PM, Kenneth Wyrick at kmw@caltek.net wrote:
+> 
+> 
+>>Dear Morgan, David and the ctcnet community,
+>>
+>>I also have been researching models that leverage GIS for the work that
+>>ctcnet affiliates need to do, particularly in California. My work has been
+>>centered around testing Open Source solutions, including:
+>>http://freegis.org and
+>>
+>>several livecds:
+>>http://www.frozentech.com/content/livecd.php?pick=All&showonly=GIS
+>>
+>>The http://nkca.ucla.edu is where I have created:
+>>http://nkca.ucla.edu/Master.cfm?Content=MyMap&&SubContent=MyMap_View.cfm&NKCA
+_
+>>MyMapID=850&MapDefinitionID=917&CFID=66157&CFTOKEN=98550688
+>>http://nkca.ucla.edu/Master.cfm?Content=MyMap&&SubContent=MyMap_View.cfm&NKCA
+_
+>>MyMapID=848&MapDefinitionID=915&CFID=66157&CFTOKEN=98550688
+>>
+>>At the 14th annual, ctcnet conference, in ohio, I heard of a
+>>conversation with the lead person of the Neighborhood Knowledgy project
+>>and that he said that he's researching open source applications to do
+>>what is currenlty being done on the http://nkca.ucla.edu. I hope to
+>>connect directly with him, soon to collaborate on a set of requirements to
+>>work with.
+>>
+>>My concern, with what Morgan has presented, in this e-mail, is the
+>>promotion and use of google. I realize they have positioned themselves to
+>>provide valuable services, that we can use free of charge. I still believe
+>>in God bless the child that has their own. I'm sure google will change
+>>over time and while it works nicely today, tomorrow is mostly another
+>>story, which may or may not be in the best interests of our community
+>>technolgoy work.
+>>
+>>I'm all for the proof of concept. I did spend at least and hour going
+>>through the demo where I added data and found the CiviCRM to be very
+>>user friendly and easy to use. I'd very much like to take it a
+>>step further...download and install the CiviCRM which I'm not sure how
+>>to do at this point. I'm very interested in testing the the GIS
+>>component, that David describes in this e-mail. I had no idea that it had
+>>one.
+>>
+>>While there needs to be a common set of user access, the actual
+>>applications should focus on customized functionality which is
+>>very much in keeping with the open source moduler design framework.
+>>
+>>I'd like your involvement in setting up ways to assess what organizations
+>>are doing, so that we can use the assessments to prototype custom senerios
+>>and work to implement severa; custom designs.
+>>
+>>I see ctcnet, the organization, as being one of the organizations that
+>>needs to participate in the assessment, along with the regional ctcnet
+>>chapters. These are the two key organizing levels, that should be able to
+>>represent the common interests of ctcnet affiliates.
+>>
+>>David, thanks, for bringing up GIS, as a community topic. I look
+>>forward to working closely with you and others to effectively integrate
+>>GIS as a mapping tool for ctcnet affiliates.
+>>
+>>kmw
+>>
+>>On Mon, 17 Oct 2005, David Geilhufe wrote:
+>>
+>>
+>>>Another factor for CTC's in leveraging GIS for their work is the release of
+>>>CiviCRM. CiviCRM is open source, nonprofit-centric constituent relationship
+>>>management (CRM) software.  Think of it as an open source version of
+>>>Kintera/Convio.
+>>>
+>>>CiviCRM has a nice little google maps integration that could allow a CTC to
+>>>easily collect and store their own data and "automagically" have that data
+>>>displayed in Google Maps. Imagine walking your neighborhood and creating a
+>>>list of blighted properties. A map can be generated and displayed online. On
+>>>your website, volunteers help to identify the owners of those blighted
+>>>properties and store that information in the database. Other volunteers can
+>>>call those property owners and work with them to improve the property.
+>>>
+>>>All of this happens when specific people work toward "prooving the concept"
+>>>with the various software tools avaliable to them. The next step is taking
+>>>the
+>>>proof of concept and actually making it standardized and easy to use. And
+>>>finally you get the software adopted widely, creating enough of a user base
+>>>to
+>>>ensure the software doesn't disappear into a void of no support, no
+>>>consultants, and no sustainability.
+>>>
+>>>CiviCRM has been integrated with the current CivicSpace release
+>>>(www.civicspacelabs.org), offering a simple automated installer. You can try
+>>>a
+>>>demo of civicrm and look in depth at the code, documentation, and community
+>>>at
+>>>www.openngo.org.
+>>>
+>>>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>>>Try CiviCRM at http://www.openngo.org/
+>>>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>>>David Geilhufe
+>>>Co-Founder
+>>>Social Source Foundation
+>>>david -AT- socialsourcefoundation -DOT- org
+>>>http://www.socialsourcefoundation.org/
+>>>T: 409-781-1580
+>>>
+>>>Add me to your address book...
+>>><https://www.plaxo.com/add_me?u=34359748358&v0=19951&k0=-658465201>
+>>>Connect with me on Linkedin... <http://www.linkedin.com/>
+>>>
+>>>On Oct 14, 2005, at 6:48 PM, Sully, Morgan wrote:
+>>>
+>>>
+>>>>Hello fellow CTCnet folks,
+>>>>
+>>>>Recently, i came across this application called Google Earth.  My
+>>>>ctc-oriented brain has kicked into overdrive.  For those not in the know,
+>>>>it's basically an application that allows you to 'fly' to any place on
+>>>>earth.  You can zoom in from outerspace straight down to the street corner
+>>>>of where you live. It also combines the idea of a search engine by
+>>>>supporting 'layers' which are swarmed/grouped search results of particular
+>>>>businesses, tourist locations, libraries, atms/banks, hotels, gas stations,
+>>>>lodging... Just check the box next to the layer title and all the (user
+>>>>entered) locations for the said business show up! (ie. check "libraries"
+and
+>>>>viola!, all the libraries in your current view/vicinity materialize before
+>>>>your very eyes:)
+>>>>
+>>>>In the 'pro' version you can also do layer searches and overlay
+>>>>creation/sharing of crime statistics, traffic conditions, site plans and
+>>>>even blueprints. You can even import spreadsheets!	The part that i'm
+REALLY
+>>>>jazzed about though is it's capability for people to ADD THEIR OWN DATA.
+>>>>Anyone can, for instance, zoom to a particular
+>>>>spot/latitude/longtitude/address and 'tag' it with text data they create.
+>>>>The data can even be in HTML and then uploaded to the GoogleEarth database
+>>>>for live updating.
+>>>>
+>>>>People have already started tweaking it and creating their own KML files
+>>>>(files which store this data, plus instructions on when/how to invoke these
+>>>>live data feeds).  Many people from the website flickr.com and
+>>>>geoblogger.com have already tapped it to stream pictures from their
+>>>>flickr/geoblogger account to Google Earth.	These KML files can then be
+>>>>saved as 'layers' that are updated live.
+>>>>
+>>>>The layers i mentioned before (businesses, tourist locations, libraries,
+>>>>atms/banks, hotels, gas stations, lodging...  etc.) are just a few of the
+>>>>many default layers available.  my thought is this: what if COMMUNITY
+>>>>TECHNOLOGY CENTERS could BE one of those default layers?  What would it
+take
+>>>>to initiate that?  Anyone have any friends on the Google Earth programming
+>>>>team? :)  Maybe some of you out there are already working on this...  I'd
+>>>>love to know.
+>>>>
+>>>>In San Diego, where i'm from, we (The San Diego Community Technology
+>>>>Coalition) are trying to map out all our local CTCs with a online
+>>>>user-updateable interactive content management system of our communal
+>>>>resources/information.  Maybe i'm just spinning my wheels, but i really
+>>>>think this Google Earth application could galvanize our efforts.
+>>>>
+>>>>
+>>>>here's the links you'll need:
+>>>>
+>>>>http://earth.google.com/
+>>>>to the software you'll need to download and install - you can even dowlnoad
+>>>>the 'pro' version for a trial
+>>>>
+>>>>http://www.keyhole.com/kml/kml_doc.html
+>>>>documentation of the kml file format
+>>>>
+>>>>
+>>>>here's how one community (flick users) are utilizing it:
+>>>>
+>>>>http://www.flickr.com/groups/flickrhacks/discuss/50193/
+>>>>get the kml file of the flickr hack here (for viewing live updates of flick
+>>>>google earth contributors
+>>>>
+>>>>http://www.lifehacker.com/software/digital-photos/map-flickr-photos-with-go
+o
+>>>>gle-earth-110590.php
+>>>>how to map images from flickr to the map
+>>>>
+>>>>http://flickr.com/groups/geotagging/
+>>>>a group on flickr to discuss geotagging
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>my best to you,
+>>>>morgan
+>>>>
+>>>>Morgan Sully
+>>>>AmeriCorps CTC VISTA
+>>>>Community Technology/Youth Digital Media Coordinator
+>>>>
+>>>>*The Center*
+>>>>3909 Centre Street
+>>>>San Diego, CA 92103
+>>>>619.497.2920 x106
+>>>>
+>>>>---------------------------------------------------
+>>>>In collaboration with:
+>>>>
+>>>>The San Diego LGBT Community Center
+>>>>http://www.thecentersd.org
+>>>>3909 Centre Street
+>>>>San Diego, CA 92103
+>>>>619.692.2007
+>>>>The San Diego Community Technology Coalition
+>>>>http://www.sdctc.org/
+>>>>8799 Balboa Avenue, Suite 120
+>>>>San Diego, CA 92123
+>>>>619.692-2077 x107
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>____________________________________________________________
+>>>>You received this message as a subscriber on the list:
+>>>>ctcmembers@lists.ctcnet.org
+>>>>To be removed from the list, send any message to:
+>>>>ctcmembers-unsubscribe@lists.ctcnet.org
+>>>>
+>>>>
+>>>
+>>>____________________________________________________________
+>>>You received this message as a subscriber on the list:
+>>>ctcmembers@lists.ctcnet.org
+>>>To be removed from the list, send any message to:
+>>>ctcmembers-unsubscribe@lists.ctcnet.org
+>>>
+>>
+>>Kenneth Wyrick - kmw@caltek.net
+>>------------------------------------------------------
+>>http://nkca.ucla.edu/Master.cfm?CFID=65994&CFTOKEN=56681808 - CTCNet ca map
+>>http://www.soulinvitation.com/implosionmovies/ - Sacred Geomety
+>>http://ctcnet.org/membership/member_application.asp - CTCNet Membership
+>>http://www.medlineplus.gov/ - Medical Resources
+>>http://www.cenic.org/guide - Community Technology Assessment
+>>https://www.paypal.com/us/mrb/pal=FX5NF2J8AZ78J - Donate to The Lazarus
+>>Roundation
+>>http://teknowledgy.org/tek/f/download/orgchart.jpg?version_id=24813 - CTN
+>>Org Chart
+>>____________________________________________________________
+>>You received this message as a subscriber on the list:
+>>ctcmembers@lists.ctcnet.org
+>>To be removed from the list, send any message to:
+>>ctcmembers-unsubscribe@lists.ctcnet.org
+>>
+> 
+> 
+> ____________________________________________________________
+> You received this message as a subscriber on the list:
+>      ctcmembers@lists.ctcnet.org
+> To be removed from the list, send any message to:
+>      ctcmembers-unsubscribe@lists.ctcnet.org
+> 
+
+
+----------------------------------------------------------------------
+Date: Tue, 18 Oct 2005 15:42:38 -0500
+From: "Dave A. Chakrabarti" <dave@ctcnetchicago.org>
+Subject: Re: [ctcnet] [GIS Projects] Use-Cases, Tech questions
+
+
+My responses (mostly questions) in context below...we really need a more 
+threaded conversation.
+
+
+Kenneth Wyrick wrote:
+
+>On Tue, 18 Oct 2005, Dave A. Chakrabarti wrote:
+>
+>  
+>
+>>Hello again all,
+>>
+>>Kenneth seems to highlight an entirely different use-case (different my own
+>>thinking so far) ...GIS as a tool for the CTCs themselves, instead of being
+>>more focused on the communities using (and searching for) CTC resources.
+>>    
+>>
+>
+>I used the ctcnet start-up manaul, back in 1997, when I created caltek.net
+>to come up with regional membership services model. We sign up 3-7 ctcnets
+>per year. As we grow we need to be more efficient at planning how we
+>collectively represent the work that we are doing in any geographical
+>region.
+>  
+>
+---> Does your model involve members responsible for their own GIS 
+localities...for example, do you make a CTC responsible for updating and 
+maintaining your database records for its offerings, or also for the 
+community it serves? If not, I assume you pull these overlays from 
+sources like the census? Could you give me a listing of some places to 
+begin looking for data sources, other than the census?
+
+>>This seems to take the data-gathering I was envisioning to a much greater
+>>depth. For example, a model of membership where member CTCs update and
+>>maintain their own contact information on a central website could work for my
+>>use-cases, but not for yours...I'm interested in how you gathered the
+required
+>>depth of information for your model. Having a model of such depth on a
+>>national scale (perhaps seperated by state, to allow different servers to
+>>balance traffic and processing loads) would be an incredibly sophisticated
+and
+>>useful resource, and one I would love to work towards.
+>>    
+>>
+>
+>A component of the services plan is data gathering, updating and
+>reporting...The http://dotlrn.org and the CiviCRM can do this
+>easily...the other part of data access is to have several apps
+>that can convert documents into interactive browser based content that is
+>stored in a database.	This also includes the conversion of all sorts of
+>data formats (.pdf, .doc, .xls, .ppt) into text formats starting with the
+>documents that each of the affiliates use (this would be on their
+>intranet and only shareable by choice on a case by case bases). We
+>will focus on the documents on the ctcnet.org website which I figure we
+>will need to get permission from some of the authors to do this.
+>
+>  
+>
+---> I'm actually looking at the CiviCRM module now. I'm not sure I 
+follow your point on the need for document conversion, though...could 
+you explain the need for applications to convert data into interactive 
+web-served content? Are you implying a system that provides CTC 
+information the way a search engine would, from cached copies of content 
+pertaining to each one, or am I missing the point entirely?
+
+>>Could this be done by simply modelling CTC locations and overlaying census
+and
+>>other publicly available data? Is all of this information freely  and easily
+>>available?
+>>
+>>    
+>>
+>yes and yes... a collection of overlays (referred to as layers) already
+>exist by county, census tracks, blocks and by numberous other demograhpic
+>catagories...What I see as a way of working with this data is for each of
+>us to select a region and validate and update the existing information so
+>that we become the authorities on our own self selected communities. This
+>is why we need out own databases to work with and not just reporting on
+>what google or anther sources give us access to.
+>
+>  
+>
+
+---> Agreed. Having our own databases is necessary if this project is 
+going to continue in any real scope as a self-contained resource, and 
+there are many arguments for having such a resource, free of reliance on 
+Google or similar services. I also agree that the only way to work in 
+this direction is for various entities to become regional authorities on 
+the resources available in their communities, and also make those 
+entities responsible for their data "playing nice" with a centralized 
+repository for such data. By respository, of course, I don't necessarily 
+mean a centralized database...I'm envisioning more of a portal site that 
+directs queries to the appropriate database and associated site, with 
+ownership of each localization resting with the organization that is an 
+authority in that locality.
+
+
+>>Technical question: Is there an XML (or XML-like) system available for
+>>generating feeds from our GIS data? For example, could a map application draw
+>>a census population statistic overlay from one source and draw CTC location /
+>>resource data from our database, composite it, and present a custom visual on
+>>a third-party site? Making information available for syndication in this
+>>manner (or even a half-way solution, like Google's allowing other sites to
+>>develop custom applications of Google Maps or Google Site Search services for
+>>universities) would enhance the usefulness of such a project drastically, and
+>>might also enhance the likelihood of being awarded funding for this.
+>>
+>>    
+>>
+>yes to xml and feeds.
+>the http;//nkca.ucla.edu provides custom mapping as a third-party.
+>
+>
+>  
+>
+---> Thank you. I have much to learn, and read, in this field, and 
+you've provided several directions for my reading.
+
+>>Incidentally, Kenneth, if you do manage to create a GIS class using open
+>>source applications, and it's web delivered, I'd love to look at it. If it's
+>>free, count me in, otherwise I'll try to get CTCNet Chicago to sponsor the
+>>cost or part of it.
+>>    
+>>
+>
+>I hope to work with all of the ctcnet chapter affiliates in CA to plan and
+>fund such a project. Last week I started reviewing the document produced
+>during the formation of the Chicago ctcnet chapter. I'm looking
+>into organizing the bay area and san diego area chapters in conjunction
+>with the la chapter to form a state-wide chapter as per the
+>http://caltek.net mission:
+>http://bhnc.us/file-storage/view/arts-media/ctn/cp/bp/mission.html
+>
+>I feel that we can do it together but the strongest geographical division
+>is state by state...I would certainly work with you and other states like
+>Ohio and Mass to be able to evolve this into an International ctcnet project.
+>
+>  
+>
+---> I agree. State divisions are the most logical, as eventually 
+national divisions will be (since you mentioned a possible international 
+scope to this project). Working together to develop this, with a 
+division in responsibilities by state, but also with a commitment to 
+working together to build into our projects some capacity for merging 
+into an overarching national system would be ideal.
+
+  -Dave.
+
+
+
+--------------------------------------------------------
+End of ctcmembers Digest Tue, 18 Oct 2005
+*********************************************
+____________________________________________________________
+You received this message as a subscriber on the list:
+     ctcmembers@lists.ctcnet.org
+To be removed from the list, send any message to:
+     ctcmembers-unsubscribe@lists.ctcnet.org
+
+
+
+
+

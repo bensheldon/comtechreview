@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+  <title>Fall-Winter 2002-2003</title>
+  <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/" />
+  <modified>2005-06-14T11:01:00Z</modified>
+  <tagline></tagline>
+  <id>tag:www.comtechreview.org,2007:/fall-02_winter-03//7</id>
+  <generator url="http://www.movabletype.org/" version="2.661">Movable Type</generator>
+  <copyright>Copyright (c) 2005, Peter Miller and Richard Civille</copyright>
+  <entry>
+    <title>Editors&apos; Introduction: Community Technology in a Post 9-11 World (Part II)</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000099.html" />
+    <modified>2005-06-14T11:01:00Z</modified>
+    <issued>2005-06-14T07:01:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.99</id>
+    <created>2005-06-14T11:01:00Z</created>
+    <summary type="text/plain"> Submitting articles to the Review The editors welcome the submission of new material on an on-going basis and are committed to working with first-time authors as well as experienced writers to produce well-written pieces covering key developments and resources...</summary>
+    <author>
+      <name>Peter Miller and Richard Civille</name>
+      
+      
+    </author>
+    <dc:subject>ComTechReview</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<div class=sidebar_right> 
+<p><span class="subhead">Submitting articles to the Review</span></p>
+<P>The editors welcome the submission of new material on an on-going basis and are committed to working with first-time authors as well as experienced writers to produce well-written pieces covering key developments and resources in the growing field of community media and technology. Projects written about should be well into the implementation stage as it is unusual for us to feature pieces about plans and future developments. Themes include a continued interest in community building and special programs and resources supported by AmeriCorps and the Corporation for National and Community Service. Authors should give consideration to photos and graphics as well as text.<a href="submit.php"> Abstracts as well as more developed pieces are welcome.</a></p></div>
+<P>The slowdown in the rapid expansion of community technology in light of the Dot Com bubble burst and the events and follow-up to September 11, 2001, was the subject of our last editorial introduction and still defines our present context. The major issue we continue to face is this: Will the consolidation that is taking place make the most of the community technology development boom, preserving and extending model programs and lessons, or will the winding down encapsulate all the minuses as well as pluses of the boom, only on a reduced scale?</P>
+<P>The options are not mutually exclusive. We believe we've captured some of the major pluses here: promising updates from CTCNet and AFCN, model profiles of projects from around the country – and around the world, as the international community technology movement gathers momentum since <a href="http://www.comtechreview.org/summer-fall-2001/000144.html" target=_blank>its first global community networking congress in Barcelona</A> in December 2000. This past September, the <I>ComTechReview</I> co-sponsored a two week long international online orm on community technology called "<a href="http://www.civicnet02.net/story.shtml" target=_blank>CivicNet '02" Building Local Power With Community Networks</A>. From September 18 until October 2, over one hundred and fifty participants from over fifteen countries attended a series of virtual roundtables, open discussions, book reviews with authors, and special resource sessions. Discussions centered on the practice of facilitating and moderating online discussions, the increasingly globalized environment for community technology initiatives, and emerging tools and technologies that have the potential to empower local communities in the future. </P>
+<P>This online forum was the third in a series of "Virtual CivicNets" that began in the late 1990s and are summarized at the beginning of our International section.</P>
+<P>Will an online interactive forum like CivicNet become a "regular feature" for future issues and subscribers of the <I>Community Technology Review</I>? The editors were excited by the high quality of the discussions and the gold mine of reference material, much of which is included in our developing interactive "<a href="resources.php" target=_blank>Resource</A>" section below where <a href="resources.php" target=_blank>readers contribute to the ongoing compilation</A> of useful papers and reports, discussion lists and web sites, organizations and application service providers. Everyone who registered for CivicNet '02 will be receiving a copy of the current issue along with a special CD-ROM of the online forum proceedings.</P>
+<P>As our web site is now receiving over 1,000 individual site visits per week, with each visit averaging over ten minutes in length, we're eager to explore new ways for the <I>Review</I> to become increasingly engaging and interactive with readers and subscribers. Thanks to the addition of CTC VISTA Melissa Daigle as Assistant Editor, our issues will be more frequent over the coming year, to provide us with more opportunities to publicize more good projects and resources.</P>
+<P>We know there is growing interest in community technology and not many forums available for addressing its issues in an extended manner. We will be exploring ways in the year ahead to increase our visibility, expand this publication, and improve ways for people to engage in discussions about the issues and projects described. We welcome you as a contributor (see sidebar), and we welcome <a href="submit.php">your comments</A> on our views here and in the accompanying pieces, another of the <a href="#comments">interactive features</A> we began in the last issue and continue here. Let us know what you think.  – pm & rc</P>
+<P></P>
+<HR>
+
+<P><a href="mailto:peterm@igc.org">Peter Miller</A> and <a href="mailto:rciville@rockisland.com">Richard Civille</A> are co-editors of the <a href="/">Community Technology Review</A>.</P>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Fred Johnson Comes to UMass/Boston</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000100.html" />
+    <modified>2005-06-14T11:00:00Z</modified>
+    <issued>2005-06-14T07:00:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.100</id>
+    <created>2005-06-14T11:00:00Z</created>
+    <summary type="text/plain">Despite the entanglements that accompany a move to a new area and a new job (in this case, finding housing and wading through the university&apos;s red tape), Fred Johnson is quickly finding his niche in the Boston area and on...</summary>
+    <author>
+      <name>Melissa Daigle</name>
+      
+      
+    </author>
+    <dc:subject>ComTechReview</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<P>Despite the entanglements that accompany a move to a new area and a new job (in this case, finding housing and wading through the university's red tape), Fred Johnson is quickly finding his niche in the Boston area and on the campus of the University of Massachusetts/Boston. This fall, the College of Public and Community Service (CPCS) at UMB welcomed Johnson as the new&#151;and first&#151;professor of <A href="http://www.cpcs.umb.edu/cmt/" target=_blank>Community Media and Technology</A>.</P>
+<P><table align=left height=158 width=320><tr><td><IMG align=left height=158 src="/fall-02_winter-03/img/daigle8.JPG" width=287 alt="James Fishwick, Melissa Daigle, and Fred Johnson"></td></tr></table></p>
+<p>Since the beginning of his career, Fred Johnson (pictured here, far right, with CTC VISTAs James Fishwick and Melissa Daigle) has focused on the importance of using advanced technology for local democracy. He earned his Masters in Communication in the 1970s and has since worked as a telecommunications policy analyst, a cable access center director, and a teacher of community media topics at universities including Antioch College and Portland State University. Johnson has produced a number of documentaries independently, for PBS, and for the BBC. In 1987, Johnson founded the <A href="http://www.mwg.org/" target=_blank>Media Working Group</A>, an organization created to encourage critical thinking about the impact of electronic media on art, society, and culture, and in 2000, he was Planning Project Director for the Ford Foundation's "Digital Directions,"a study on the effect of digital conversion on media arts.</P>
+<P>In each role, Johnson has gained the praises of community media movers-and-shakers and has found a place among their ranks. When asked which role he enjoyed most, Johnson replied in his light Appalachian drawl, "I like it all...The exception, most probably, is making documentaries about social issues and doing it with groups or organizations in such a way that expresses things from their point-of-view&#151;arts, social issues&#151;<I>with</I> people rather than about people. I love the process of making documentaries for TV, the web, etc... But jumping to other jobs is not hard to understand: it's all quite interrelated actually."</P>
+<P>When he first heard about the UMB's Community Media and Technology program, Johnson was interested, but didn't immediately see his role in it. "Later, I saw the job listing on a listserv, but I was in Ireland [filming a documentary]. When I got back in the country that spring, I thought that I might enjoy teaching full-time, so I got in touch with Peter Miller and Reebee Garofalo at UMB."</P>
+<P>"To me Fred embodies the ideal of a CPCS faculty member," says Reebee Garofalo, the coordinator of the CMT Program at UMB. "[He's] someone who combines practical skills&#151;in this case, documentary film-making, video production, and digital editing&#151;with the theory and analysis that encourages critical reflection on how such skills are used. He is a true scholar/activist, with a commitment to giving voice to unheard populations, and as such he represents an excellent fit with the mission of the College."</P>
+<P>Community Media and Technology is already a <A href="http://www.cpcs.umb.edu/cmt/concentration.html" target=_blank>certificate option</A> for students at UMB&#151;and elsewhere, anywhere, since it's offered online as well as on campus&#151;and a groundbreaking <A href="http://www.cpcs.umb.edu/cmt/proposal.html" target=_blank>major</A> is being developed. This degree program will train current and future community leaders in the significance and application of technology and media in nonprofit and community building. Johnson sees the degree having an impact in two major ways. "First, the program will help define the community technology movement by training people as technologists and media builders and by setting standards to create a culture around these movements. They'll be trained professionals in that area, accredited, with a demonstrated background set in a program specifically designed to meet community technology needs."</P>
+<P>The second, more immediate impact involves the program's Boston location. "There's a critical mass here, a highly developed group of community media and technology practitioners... We hope to engage [these groups] in a critical dialogue about the future of the CMT program, such as what kinds of development changes should be undertaken."</P>
+<P>"Media and technology are the way that the status quo is maintained. They'll be tools for the powerful until we change that," says Johnson. "I feel a responsibility; I feel a desire and a delight in being involved in the policy and democracy of media. Media must be inclusive of populations and ideas, and the policies must reflect the diversity and social makeup of our society."</P>
+<P>Fred Johnson has indeed followed his desire and his sense of responsibility throughout the years. Those of us at UMB and in the Boston area are glad that the path has led him here, and we are eager to tap into his talents and passion in the community media and technology field. </P>
+<HR>
+
+<P><div class="bionote">Melissa Daigle is Assistant Editor of the <I>Community Technology Review</I> and a <A href="http://cpcs.umb.edu/vista">CTC VISTA </A>at the College of Public and Community Service.</div></P>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>CTCNet Update</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000104.html" />
+    <modified>2005-06-14T10:01:00Z</modified>
+    <issued>2005-06-14T06:01:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.104</id>
+    <created>2005-06-14T10:01:00Z</created>
+    <summary type="text/plain"> Remembering CTCNet Founder Toni Stone On Thursday, November 21, CTCNet founder Toni Stone died. The notice posted on the CTCNet members list the next day and elsewhere has been followed up by scores of testimonials, including a remembrance on...</summary>
+    <author>
+      <name>Daniel Schackman</name>
+      <url>www.comtechreview.org</url>
+      
+    </author>
+    <dc:subject>CTCNet</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<DIV class="sidebar_right">
+<DIV align=center><span class="subhead">Remembering CTCNet Founder Toni Stone </span></DIV>
+<P><FONT size=-1>On Thursday, November 21, CTCNet founder Toni Stone died. The notice posted on the CTCNet members list the next day and elsewhere has been followed up by scores of testimonials, including a remembrance on the <A href="http://www.ctcnet.org/tonistone/" target=_blank>CTCNet site</A>. A more complete tribute will be published in the next issue of the <EM>Review</EM>.</div>
+<table align=;eft height=223 width=200><tr><td>
+<P><IMG align=left height=223 src="/fall-02_winter-03/img/schackman_karen2.jpg" width=173 alt="Karen Chandler"></td></tr></table>
+<p>In September, CTCNet Executive Director Karen Chandler announced that she is leaving CTCNet in 2003. Said Chandler, "It is with very mixed feelings that after nearly four years of service to CTCNet members, I have decided to move on. My primary reason for leaving CTCNet is so that I may move back to California to be closer to loved ones." </P>
+<P>Chandler joined CTCNet as a Project Coordinator in 1999 when she designed and coordinated the Leadership Development Institute, the CTCNet intensive training program for center directors, orchestrated two CTCNet National Conferences, assisted in developing partnerships, and provided general support services to member centers. She served as the Acting Executive Director from June 2000 until June 2001, when the Board of Directors voted to name her the Executive Director, sharing the leadership role in the organization with Stephen Ronan, Managing Director. </P>
+<P><IMG align=right height=152 src="/fall-02_winter-03/img/KC.Collette.KZ.Marg.jpg" width=289 alt="Karen Chandler at CTC VISTA Pre-Service Orientation">Chandler would like to return to international development work which she developed a passion for while working in the community building field for two years in Cape Town, South Africa. Responding to the news, Erroll Reese, President of the CTCNet Board of Directors said, "As Board President, I would like to thank Karen for her role in the success of CTCNet over the past four years and wish much success to her in future endeavors."</P>
+<span class="subhead">CTCNet Opens Washington, DC Office</span>
+<P>This fall CTCNet expands its reach to the heart of national policy and foundation activity with the opening of a Washington, DC office. The October 1, 2002 opening marks the culmination of one of CTCNet's strategic goals set last fall in response to affiliate feedback which called for CTCNet to take a leading role in shaping digital divide policy in our nation's capital. </P>
+<P><table align=left height=98 width=155><tr><td><IMG align=left height=98 src="/fall-02_winter-03/img/schackman_john.jpg" width=135 alt="John Zoltner"></td></tr></table>
+<A href="mailto:jzoltner@ctcnet.org">John Zoltner</A>, the newly hired Director of Policy and Programs, has an extensive background in community technology at the grassroots and national levels. Most recently, he has worked for Gateway at Edgewood Terrace and Technology Works for Good, which provides technology resources to DC area nonprofits. </P>
+<P>"John's initial focus will be on establishing a CTCNet location in DC and on building cross-sector partnerships on behalf of CTCNet affiliates," said CTCNet Executive Director Karen Chandler. "We are extremely pleased that John will join CTCNet and we look forward to seeing our DC presence grow."</P>
+<span class="subhead">CTCNet Receives HHS—Compassion Capital Fund Grant</span>
+<P>On October 3, 2002, when U.S. Health and Human Services Secretary Tommy Thompson announced the recipients of a $30 million <A href="http://www.hhs.gov/news/press/2002pres/20021003a.html" target=_blank>Compassion Capital Fund</A>, CTCNet was listed as the recipient of one of its major demonstration project grants.</P>
+<P>"Connections for Tomorrow," a project of CTCNet and three partners—the Association of Christian Community Computer Centers (<A href="http://www.ac4.org/" target=_blank>AC4</A>), the Alliance for Technology Access (<A href="http://www.ataccess.org/" target=_blank>ATA</A>), and the Illinois Community Technology Consortium (<A href="http://www.mtag.org/" target=_blank>ILCTC</A>)—will be funded at approximately $2.25 million for Year One of the three-year project, with two-thirds of the budget ($1,499,770) federally funded. One-third of the project's budget ($750,000) will be made up of matching funds from non-governmental sources. Connections for Tomorrow will provide technical and operational training and support to faith- and community-based nonprofits in Massachusetts, Illinois, and California. Half of the federal funds ($750,000) will be awarded in the first year to Illinois-based organizations, with grants in years two and three to California and Massachusetts. </P>
+<P>The Connections for Tomorrow project will start up, expand, and improve programs that incorporate technology into social services—everything from organizational management and capacity building to learning programs. The first year of the grant will be dedicated to programs for at-risk youth and to homeless individuals, including those with disabilities.</P>
+<span class="subhead">CTC Success Stories Winners</span>
+<P>CTCNet has just announced the winners of the third round of <A href="http://www.ctcnet.org/stories/v3/index.htm" target=_blank>the CTC Success Stories contest</A>. The contest was organized to highlight the work being done at affiliate centers. Winning centers receive their choice of either a free CTCNet conference registration or a one-year extension on their current CTCNet membership.</P>
+<P>Round three winners are:</P>
+<UL>
+<LI>"Hot Links," Town Tech CTC , Brattleboro, VT, by Jeanie Crosby
+<LI>"Sorenson Computer Center: A CTC Success in Salt Lake City," by Sean Martin
+<LI>"Joe Booth is Doing His Thing—A Thing Called Success," Street Tech, CA, by Paul Lamb<</LI></UL>
+<P>You can read the winning stories and all of the entries as well as those from previous rounds at the <A href="http://www.ctcnet.org/stories/v3/index.htm" target=_blank>Success Story web site</A>.</P>
+<span class="subhead">New Round of Leadership Development Institutes (LDIs) </span>
+<P>With renewed support from the AT&T Foundation, CTCNet will conduct four Leadership Development Institutes (LDIs) in the upcoming year, beginning in November in Miami, FL.</P>
+<P>Since March 1999, CTCNet has held twelve Institutes around the country. LDIs have become one of the key venues for training CTC leaders in center start-up and capacity building. Since 1999, approximately 230 participants representing 180 organizations and 31 states have attended. The CTCNet LDI web site provides updated information about the Institutes.<BR><BR></P>
+<span class="subhead">Save the Date! CTCNet Conference 2003 set for June 26-29 in D.C.</span>
+<P>The twelfth annual CTCNet conference will take place at the Grand Hyatt Washington. This next conference will provide a special opportunity to showcase to the capital's policymakers the outstanding work that CTCs are doing around the country.</P>
+<P>For an interesting and informative perspective on the '02 conference in Austin, see Steve Cisler's summary; for a perspective on the entire program.</P>
+<span class="subhead">CTCs as Technology Assistance Providers</span>
+<P>As a network of 700 community technology centers, sharing good ideas and wisdom from the field with the field goes to the heart of CTCNet's work. In 2002, with funding from the Surdna Foundation, CTCNet set out to explore the state of the community technology center field in the quest to deliver <STRONG>technology assistance that supports nonprofit organizations in their communities. CTCNet contracted with Summit Collaborative to interview community technology practitioners doing this work to get a snapshot of the field.</STRONG></P>
+<P>CTCNet set out to gather information to answer the following questions:</P>
+<UL>
+<LI>What are the different ways that CTCs are delivering nonprofit technology assistance to community-based nonprofit organizations?
+<LI>How is nonprofit technology assistance linked to other CTC programs such as access, job training, computer training, youth programs, and others?
+<LI>What are the evolving practices, opportunities, and challenges in delivering technology assistance to nonprofit organizations?</LI></UL>
+<P>As the interviews progressed, several themes clearly emerged. Through collaborations or informally, community technology centers are putting their technology experience to work to deliver technical assistance and training to nonprofit organizations. Some CTCs are revising basic computer skills curriculum to fit the needs of nonprofit staff members. The expertise CTCs gain in helping to establish and support other community technology centers is in some cases helping them to advise nonprofit organizations to address "back-office" issues (technology for organizational use such as fundraising, planning, or financial management versus computer labs for programmatic or service delivery). Some CTCs are addressing the critical issue of sustainability by providing such services as community help desks that offer just-in-time technical support. Other CTCs are taking an entrepreneurial approach, doing market analysis and business planning leading to the launch of technology assistance programs. </P>
+<P>A lot of this work is in the early stages of development and is still evolving. However it demonstrates that community technology centers have the potential to play a substantive role to help strengthen existing community infrastructure by providing technology assistance to community-based organizations.</P>
+<P>—Excerpted from the Executive Summary of "<A href="http://www.ctcnet.org/resources/reports/ctctechprovreport.htm" target=_blank>Community Technology Centers as Technology Assistance Providers to Nonprofit & Community Based Organizations</A>," a report prepared for CTCNet by Beth Kanter, of Summit Collaborative, available in Word and PDF format. The full report includes an assessment of the challenges and opportunities that technology assistance to nonprofits provide and seven case studies/profiles of CTCs that are doing this.</P>
+<HR>
+<div class="bionote">Dan Schackman is a <A href="http://www.cpcs.umb.edu/vista" target=_blank>CTC VISTA</A> working directly with CTCNet.</DIV> 
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>The CTC Support Project: Local Support, National Implications</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000102.html" />
+    <modified>2005-06-14T10:00:00Z</modified>
+    <issued>2005-06-14T06:00:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.102</id>
+    <created>2005-06-14T10:00:00Z</created>
+    <summary type="text/plain"> CTC Support Project Places Technical Volunteers for MIT CityDays Marissa Martin Forty-five MIT students volunteered at Boston-area CTCs on August 30, 2002, as part of a joint CTCNet Service Learning and MIT CityDays event. (MIT CityDays is a project...</summary>
+    <author>
+      <name>Trang Le</name>
+      
+      
+    </author>
+    <dc:subject>CTCNet</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<div class="sidebar_right">
+<span class="subhead">CTC Support Project Places Technical Volunteers for MIT CityDays</font></span>
+        <H3><font size="-1"><I>Marissa Martin</I></font></H3>
+        <P><font size="-1">Forty-five MIT students volunteered at Boston-area 
+          CTCs on August 30, 2002, as part of a joint CTCNet Service Learning 
+          and <A href="http://web.mit.edu/mitpsc/programs/citydays ">MIT CityDays</A> 
+          event. (MIT CityDays is a project of the <A href="http://web.mit.edu/mitpsc">MIT 
+          Public Service Center</A>.) Participating CTCs included the Urban League 
+          of Eastern Massachusetts, El Batey Technology Center, and the McNamara 
+          House.  </font></P>
+        <P><font size="-1">The three groups of MIT student volunteers relocated 
+          computer and other equipment, set up a community cookout for immigrant 
+          and special needs residents, and set up take-home computers in peoples' 
+          homes. "It was an excellent event and a great opportunity,"said Khalid 
+          Mustafa, a program director at the <A href="http://www.ulem.org/">Urban 
+          League of Eastern Massachusetts</A>. "[This] opens up lines of communication 
+          with the students and offers them exposure to the community." About 
+          twenty energetic and enthusiastic student volunteers pitched in to move 
+          computers and other equipment at the Urban League of Eastern Massachusetts 
+          CTC.  Afterwards, Mustafa gave them program brochures and business 
+          cards.  "A couple of them seemed really interested in coming back."</font></P>
+        <P><font size="-1">Angel Peralta, General Manager of <A href="http://www.villatechonline.org/">El 
+          Batey</A>, a CTC that serves the predominately Latino community Inquilinos 
+          Boricuas en Accion, was also grateful for the volunteers' assistance. "They 
+          did a great job.  I was amazed how organized they were." At El 
+          Batey, the MIT students gave the computer lab a makeover, including 
+          rewiring for the new set-up.  Several volunteers then brought the 
+          take-home recycled computers to life in residents' homes</font></P>
+        <P><font size="-1">The CTC Support Project arranged for the collaboration 
+          with MIT for the event.  One major goal of the CTC Support Project 
+          is to bring together universities and CTCs for mutual learning and benefit.</font></P>
+      </div>
+  <P>When <A href="http://www.ctcnet.org" target=_blank>CTCNet</A> was awarded 
+    a grant from State Street's Global Philanthropy Program in July of 2000, we 
+    intended to pilot a Floating Help Desk that would involve roughly 14 CTCNet 
+    affiliates in the Boston Metropolitan area.</P>
+  <table width="36%" border="0" align="center">
+    <tr>
+      <td><img src="/fall-02_winter-03/img/schackman_LDI1.JPG" width="216" height="86" alt="Matt Crichton, Trang Le, and David Smith"></td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center"><span class="caption">At the Support Project workshop on 
+          planning with Matt Crichton, CTC <br>
+          VISTA Project: CTCNet Project Coordinator Trang Le and David <br>
+          Smith from Solutions at Work.</span></div>
+      </td>
+    </tr>
+  </table>
+  <P>During the project planning process, we realized that to create a replicable 
+    support model that would consistently address the volunteer and operational 
+    needs of CTCs, we would need to include services that reached far beyond the 
+    level of support offered by a simple help desk. The Technical 
+    Volunteer Matching Program was the first component of the project to be 
+    implemented in the summer of 2001, established for recruiting local, skilled 
+    technical volunteers to provide participating CTCs with direct and onsite 
+    technical support in response to a CTC's specific requests for service. Since 
+    then, the CTC Support Project has developed in size, capacity, and scope appropriately 
+    reflecting the technical needs identified by CTCs and currently also includes:</P>
+<UL>
+  <LI> 
+    Quarterly 
+      Workshop Series—Intended to help the staff and directors of our 
+      participating centers deepen their knowledge in various areas that cannot 
+      be addressed through the use of volunteers.  The topics of each workshop/training 
+      are specific issues that the CTCs themselves have identified and are struggling 
+      to resolve.
+  <LI>Technical 
+      Help Desk—Addresses short-term and specific technical needs without 
+      the presence of an onsite volunteer.  A local phone number and email 
+      address have been set up to answer day-to-day technical questions.
+  <LI>Consultant 
+      Directory—Consists of approximately 20 local consultants who are 
+      experienced in providing consultation services to nonprofits.
+  <LI>Online 
+      Resources—Contains project's background information and resources 
+      that are useful for both volunteers and CTCs such as volunteer management 
+      policy, technology plans, assessment tools, curriculum materials, and more. 
+  </LI>
+</UL>
+<P>The CTC Support Project, a pilot program in the Metropolitan Boston area run by CTCNet from 2001 - 2003, has concluded its work.  The project has served as the basis for the CTC Support Handbook, which can be found <a href="http://www.ctcnet.org/ctc/supporthandbook/handbook.htm">here</a>.</P>
+<HR>
+
+<P><div class="bionote">Trang Le and Marissa Martin are Project Coordinators at CTCNet.</div>.</P>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>AFCN Update</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000150.html" />
+    <modified>2005-06-14T09:01:00Z</modified>
+    <issued>2005-06-14T05:01:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.150</id>
+    <created>2005-06-14T09:01:00Z</created>
+    <summary type="text/plain"> As reported on the AFCN email list, results of the 2002 Board of Directors balloting were announced in July. Group members re-elected Ann Bishop, Richard Lowenberg, and Gene Crick to second terms on the board. Sally Rawlins, respected CN...</summary>
+    <author>
+      <name>Gene Crick</name>
+      
+      
+    </author>
+    <dc:subject>AFCN</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<p><table width=140 height=155 align=left><tr><td><img src="/fall-02_winter-03/img/genepublicity.jpg" width="114" height="155" align="left" alt="Gene Crick"></td></tr></table></p>
+<p>As 
+
+    reported on the <a href="http://www.afcn.org/" target="_blank">AFCN</a> email 
+
+    list, results of the 2002 Board of Directors balloting were announced in July. 
+
+    Group members re-elected Ann Bishop, Richard Lowenberg, and Gene Crick to 
+
+    second terms on the board. Sally Rawlins, respected CN leader and rural technology 
+
+    advocate, was elected as a new member of the board. </p>
+
+  <p>These board members join directors Laura Breeden, Judith Pepper, Andrew Cohill, 
+
+    and Steve Snow, whose terms were not expired. And as AFCN President-elect, 
+
+    I succeeded Andrew Cohill as president. </p>
+
+  <p>Hence, this is my first "AFCN Update" to the Community Technology 
+
+    Review. Please excuse any literary shortcomings. As a veteran CN leader, my 
+
+    writing experience has been mostly creative fiction and fantasy, notably grant 
+
+    applications and project budgets.</p>
+
+  <p>Since the early Nineties, I have been President, then Executive Director 
+
+    of a community network, the <a href="http://www.MAIN.org/" target="_blank">Metropolitan 
+
+    Austin Interactive Network</a>. We began as a text and gopher-based online 
+
+    information network, later installing Austin's first free public library Internet 
+
+    access (in 1995, if I recall correctly).</p>
+
+  <p>With the birth of Austin FreeNet, our friends and unofficial "sister", 
+
+    and their wonderful public access programs, MAIN re-focused on web information 
+
+    and support for non-profits within Austin and launched the <a href="http://www.TCRC.net/" target="_blank">TeleCommunity 
+
+    Resource Center</a> network to install free public access terminals in 25 
+
+    cities outside Austin (1996). In years since, TCRC has worked to become a 
+
+    support resource for community technology network leaders everywhere.</p>
+
+  <p>One of our most rewarding TCRC projects is "<a
+
+href="http://www.tcrc.net/roadshow" target="_blank">The Internet Roadshow</a>," 
+
+    a community technology outreach program. The Roadshow goes from town to town, 
+
+    by invitation, to explain and promote local telecom bandwidth and community 
+
+    technology networks. </p>
+
+  <p>Another enjoyable TCRC project is the national Community Network Conference, 
+
+    co-hosted by AFCN. This year's fifth annual conference, "<a href="http://www.tcrc.net/conference" target="_blank">CN2002</a>," 
+
+    will be held December 8-10 at the Hyatt Regency in Austin, Texas. (FYI: We 
+
+    currently plan to offer discount registrations for AFCN and CTCNet members.)</p>
+
+  <h3><b>AFCN and The Year Ahead</b></h3>
+
+  <p>As you may have heard, Dr. Andrew Cohill has left Blacksburg Electronic Village 
+
+    and the university to become a full-time CN consultant. Well, I'm happy to 
+
+    report Andrew has agreed to remain as active in the AFCN administration as 
+
+    he possibly can. </p>
+
+  <p>This is one more good sign for AFCN and community networking in general: 
+
+    the group's creators laid a solid foundation for our future. Since then, AFCN 
+
+    has steadily grown and is now a strong organization, blessed with more members 
+
+    and supporters than ever. Operations, accounting, communication, and 
+
+    other basics are running smoothly, thanks to smart, hardworking volunteers.</p>
+
+  <p>And a key mission remains unchanged: to provide support for CN leaders everywhere. 
+
+    Our challenge, with finite resources for the coming year, is where to sharpen 
+
+    focus and possible new directions, therefore I propose our next step of growth 
+
+    include broadening our leadership, our membership, and our services. 
+
+  </p>
+
+  <p>As a CN leader this challenge should sound familiar to you, because AFCN 
+
+    is itself a CN, as is CTCNet. Both organizations link a virtual, non-geographic 
+
+    community of people who use technology as a tool for social and economic benefits. 
+
+    Seems only reasonable we should aspire to become our own best CN model.</p>
+
+  <p>So how about it? Are you willing to speak up and step in as a volunteer leader 
+
+    for the coming year? You can help AFCN decide the best ways to help our communities 
+
+    and define the roles and committees (or working groups or whatever) required 
+
+    to deliver those services. This help doesn't have to be a burden; even a little 
+
+    time given can make a big difference.</p>
+
+  <p>Let's review some notions and needs, and then ask your insights and suggestions 
+
+    on the AFCN year's agenda. (And let us know if you are willing to work with 
+
+    any of these initiatives.)</p>
+
+  <h3><b>Wider Perspective &#150; CN and Local Bandwidth </b></h3>
+
+  <p>Our team spends a lot of time on the road with the Internet Roadshow and 
+
+    with our community technology consulting services. (We've done CN planning 
+
+    for more than fifty towns and cities.) In these travels, mostly to rural and 
+
+    underserved urban areas, we're hearing a clear message that the rural mood 
+
+    is changing.</p>
+
+  <p>Getting adequate local access is no longer viewed as merely a social "do-gooder" 
+
+    concern. With businesses closing and families leaving, community leaders now 
+
+    recognize telecom as part of a life-or-death economic priority. Similarly, 
+
+    people in underserved urban neighborhoods are increasingly aware that telecom 
+
+    inequity is another barrier facing their families and their futures. </p>
+
+  <p>These leaders tell us, "Telecom is not a novelty anymore; it can no 
+
+    longer be a luxury. Internet use has become a fundamental tool 
+
+    for community survival. We need it...but we don't have it." </p>
+
+  <p>In the US, despite "guarantees" like <a
+
+href="http://www./" target="_blank">Section 254 of the 96 Telecom Act,</a> too 
+
+    many people and places are still denied the full opportunities of our celebrated 
+
+    Information Age. Rural areas, for example, are losing residents who would 
+
+    stay if they had connectivity for jobs, for education and all the rest. Unfortunately, 
+
+    the deregulated broadband marketplace is simply ignoring them. </p>
+
+  <p>Let's hope AFCN can help improve this situation, working to expand access, 
+
+    training, and opportunities to use technology to enrich lives. </p>
+
+  <h4>Information Resource for Policy Makers </h4>
+
+  <p>Though AFCN, as a 501c3 nonprofit group, will never go into politics, we 
+
+    can inform decision makers about possibilities and realities of technology 
+
+    networks for community development. This assistance can help them make the 
+
+    best choices for government policy and programs (TOP and CTC, for example). 
+
+    Most legislators and regulators appreciate knowledgeable input from a credible 
+
+    source like the members of AFCN.</p>
+
+  <h4>Communication among CN Professionals </h4>
+
+  <p>Inclusion and communication are valuable not only within community networks, 
+
+    but also among community networks. Each member can help AFCN continue to improve 
+
+    cooperation and sharing among CN leaders. If members wish, we could even explore 
+
+    practical collaborations such as "group pricing" and vendor discounts 
+
+    for all AFCN member CNs.</p>
+
+  <h4>Management Support for CN Leaders </h4>
+
+  <p>Prompted by concerns about sustainability of state-funded CNs, TCRC and Texas 
+
+    government agencies are developing tools and training to support CN operations. 
+
+    These programs, beginning in early 2003, will be available to all CNs, wherever 
+
+    located.</p>
+
+  <h4>Community Network Guide </h4>
+
+  <p>This project is active but remains challenged by constant change in CN overall, 
+
+    and by the limited time of potential authors. We'll review and report on this 
+
+    effort.</p>
+
+  <h4>Outreach, Membership and Partnerships </h4>
+
+  <p>AFCN needs each community technology professional to join and enlist other 
+
+    organizations and professionals. AFCN membership is a powerful tool for CN 
+
+    leaders everywhere, and a genuine bargain besides. Please help us grow.</p>
+
+  <p>On that subject &#150; We're actively working to recruit members outside the 
+
+    US as well. So if you know someone who might be interested, do them a good 
+
+    turn and recommend AFCN.</p>
+
+  <h4>Map of CNs </h4>
+
+  <p>Is anyone interested in improving online mapping of CNs worldwide? While 
+
+    this could never be an absolutely perfect map, if kept current it will offer 
+
+    a valuable resource. (Hey, educators, wouldn't this be a great dissertation 
+
+    topic?)</p>
+
+  <h4>General CN Support </h4>
+
+  <p>There is little sense in each CN developing similar tools from scratch. AFCN, 
+
+    working with TCRC and other groups, could identify resources or create them 
+
+    as needed. Examples could be collections of Acceptable Use Policies, legal 
+
+    and privacy protection updates, and anything else you feel could help you.</p>
+
+  <h4>Wider Leadership </h4>
+
+  <p>AFCN, like the CNs we serve, grows stronger every time we gain another person 
+
+    willing to help the organization. Thus we ask about committees and working 
+
+    groups: Which committees should we have? Which will you join and support?</p>
+
+  <h4>And don't forget...</h4>
+
+  <p>National Community Network Conference, December 8-10, 2002, Hyatt Regency 
+
+    - Austin, Texas (includes an AFCN General Meeting ). AFCN is a sponsor of 
+
+    this fifth annual event, which gives us an opportunity to assemble and share 
+
+    the best possible information and resources for the changing world of community 
+
+    networking. Volunteers are invited to help build this world-class CN professional 
+
+    gathering. Please contact <a href="mailto:pclifford@main.org">Patti Clifford</a>, 
+
+    Conference Director: 512-919-7590. More conference info will be available 
+
+    via <a href="http://www.afcn.org/" target="_blank">www.afcn.org</a>.</p>
+
+  <p>So tell us how AFCN can best serve you and your CN. And please help us make 
+
+    that happen. Thanks, Gene</p>
+
+  <div align=center style='text-align:center'> 
+
+    <hr size=2 width="100%" align=center>
+
+  </div>
+
+  <p><div class="bionote"><a href="mailto:gcrick@main.org">Gene Crick</a> is the President of the Association 
+
+    for Community Networking.</div></p>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>The Rise of the Knowledge Democracy</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000105.html" />
+    <modified>2005-06-14T09:00:00Z</modified>
+    <issued>2005-06-14T05:00:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.105</id>
+    <created>2005-06-14T09:00:00Z</created>
+    <summary type="text/plain"> Technology should and must support human relationships. Many rural and inner city communities face a situation in which reliance on traditional methods of community planning and decision-making have resulted in shrinking communities with a constant outflow of the young...</summary>
+    <author>
+      <name>Andrew Cohill</name>
+      
+      
+    </author>
+    <dc:subject>AFCN</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<table border="0" align="left" width="135">
+    <tr>
+      <td><img src="/fall-02_winter-03/img/cohill.jpg" width="110" height="165" align="center" alt="Andrew Cohill"></td>
+    </tr>
+    <tr>
+      <td>
+        <div align="left"><span class="caption">Technology should and must support 
+          human relationships.</span></div>
+      </td>
+    </tr>
+  </table>
+  <p>Many rural and inner city communities face a situation in which reliance 
+    on traditional methods of community planning and decision-making have resulted 
+    in shrinking communities with a constant outflow of the young from the community--most 
+    never return. Despite overwhelming evidence that traditional economic development 
+    and educational methods are not working, these communities struggle mightily, 
+    continuing to rely on strategies that were appropriate forty years ago but 
+    no longer apply in a wired world and in an economy driven not by the geographic 
+    solidity of manufacturing but by the permeability and boundarylessness of 
+    information. </p>
+  <p>If we must accept the notion that everything around us is changing, where 
+    is the stability in our lives? What are the anchors in our lives? What is 
+    the bedrock that we can cling to in this storm of change?</p>
+  <p>In a world where change is a constant, the only things we can rely on are 
+    our relationships with others&#151;our family, our friends, our neighbors, 
+    and the larger community of people with whom we live and work. </p>
+  <p>We dare not cede the future of our communities to the technologists&#151;those 
+    who profit by selling technology. Technology has just one role that can be 
+    stated plainly and simply: <i>Technology should and must support human 
+    relationships.</i> </p>
+  <p>If we are going to use technology, then technology must make it easier for 
+    us to communicate with those with whom we have a relationship. This is the 
+    proper role of technology, in the classroom, in the family, in the workplace, 
+    and in the community.</p>
+  <p>But what has changed? The concept of the Knowledge Democracy involves three 
+    key points:</p>
+<ul>
+  <li>First, the acknowledgment that telecommunications and 
+      the rise of the Internet have permanently altered the way people acquire 
+      and use information. In the past, distribution of information about community 
+      issues and affairs was expensive and tedious. Information was often passed 
+      informally through the maintenance of human relationships in the community. 
+      Today, information is widely available from many sources, and human relationships 
+      are no longer needed to obtain information.</li>
+  <li>Second, a civil society trying to make decisions will 
+      be most effective when the process of finding the common good is regarded 
+      as a mutually interdependent effort in which the goal is to help all parties 
+      to the process succeed. This approach requires constant maintenance of relationships 
+      through mutual respect of the opinions of others, gained by speaking, listening, 
+      and understanding.</li>
+  <li>Third, the American model of democracy works best when 
+      approached as an ongoing set of conversations about issues, leading to a 
+      consensus within the community about the best course of action. These conversations 
+      are purposeful, parallel processes designed not just to talk about the issues 
+      but also to reach consensus on how the community should proceed. These processes 
+      are aimed at rebuilding trust by letting citizens participate fully in all 
+      aspects of deciding what to do about a key issue.</li>
+</ul>
+ 
+  <p>A community operating on the principles of the Knowledge Democracy will:</p>
+
+<ul>
+  <li>Make equitable use of information technology to encourage 
+      broad participation in conversations by as many individuals and organizations 
+      as possible. Information technology will also be used to gather, interpret, 
+      and disseminate widely all opinions and information about an issue, to those 
+      interested individuals and organizations.</li>
+  <li>Make a commitment to place the highest priority on human 
+      relationships, which are the basis of a healthy community. Participants 
+      in community discussions will agree to speak with care, to listen with respect, 
+      and to make every effort to understand the needs and wants of others (even 
+      if they disagree).</li>
+  <li>Make a commitment to seek consensus on issues and to respect 
+      the basic principles of representative democracy, rather than automatically 
+      resorting to litigation when outcomes reflect a consensus for the common 
+      good rather than self-serving wants.</li>
+</ul>
+  <p>There are numerous challenges that will affect communities over the next 
+    twenty to forty years.</p>
+  <h3><b>Ownership and distribution of information</b></h3>
+  <p>Who owns information? Who can distribute it? Does the malleability of pure 
+    data change ownership rights?</p>
+  <p>If technology changes more quickly than the courts and lawmakers can reasonably 
+    respond, who protects communities and consumers? Government regulation often 
+    provokes unintended and costly consequences. One alternative is for individuals 
+    and communities to intentionally develop and support open source software 
+    and hardware that places no artificial limits on how information is used.</p>
+  <h3><b>The right to communicate as a basic principle of democracy</b></h3>
+  <p>Companies that provide network access are often contractually restricting 
+    our rights to use the network to express ourselves.</p>
+  <p>Suppose a community is served primarily by a single Internet Service Provider 
+    (ISP) called BigNetworks, Inc. Using a community-sponsored online discussion 
+    forum, citizens and local leaders begin discussing plans to introduce competition 
+    in the community by encouraging a regional ISP to expand service into the 
+    area. Today, BigNetworks, with a few lines of software, could cut off access 
+    to that community online forum for all their customers in the community.</p>
+  <h3><b>Privacy issues</b></h3>
+  <p>The need for the privacy of personal information must be balanced against 
+    the need of the community for open communication.</p>
+  <p>A basic tenet of democracy is that we know the speaker. Before the rise of 
+    the Internet, most discussions were held in a physical place (the town hall 
+    meeting), where it was easy to recognize who was speaking. This recognition 
+    process is a powerful social incentive to be civil. Online, those social incentives 
+    are very weak, hence the common "flaming" where people write things 
+    online that they would never say in a face-to-face conversation.</p>
+  <h3><b>Ownership of telecommunications infrastructure</b></h3>
+  <p>Communities can ensure a sustainable future only by prudent investment in 
+    telecommunications infrastructure.</p>
+  <p>Often, a discussion about community-owned telecommunications tends to focus 
+    on wired vs. wireless, or copper vs. fiber, or more generally, about technology 
+    rather than service. Wired and wireless services already coexist seamlessly 
+    in the telephone world, and will do so as well in the Internet world. Rapid 
+    changes in technology mean that there is never a "right solution" 
+    or a "permanent" technology choice. </p>
+  <h3><b>Changing relationship between government and citizens</b></h3>
+  <p>The network and its ability to distribute information quickly and inexpensively 
+    creates a more equitable balance of power in the community.</p>
+  <p>Time is a precious commodity today, and many community members find it difficult 
+    to participate in community affairs simply because of the time involved. Internet 
+    services--email, mailing lists, Web sites, and discussion forums--offer new 
+    channels for distributing information and new ways of engaging people in the 
+    life of the community. But human-led processes are needed to ensure that discussions 
+    are fair and equitable, respectful of all, and to ensure that discussions 
+    actually lead to outcomes supported by a consensus of participants.</p>
+  <h3><b>Leadership crisis</b></h3>
+  <p>Where will the leaders of future come from? How will they learn to lead with 
+    respect and civility?</p>
+  <p>Leaders must be developed locally, from within the community, using locally-managed 
+    programs that provide appropriate opportunities for potential leaders to learn 
+    how to become effective process leaders. Nonprofit organizations are providing 
+    new sources of leaders to replace the now lost businesspeople. Youth programs 
+    crafted intentionally to provide leadership opportunities and training help 
+    ensure communities have a sustainable future.</p>
+  <h3><b>Decision-making crisis</b></h3>
+  <p>How communities make decisions affects not just the present but potentially 
+    reaches far into the future.</p>
+  <p>There are few issues in a community on which all will agree. In a civil society, 
+    the next best choice is to seek consensus. Consensus is developed by an active 
+    process of respectful speech, thoughtful listening, and a commitment to understanding 
+    the point of view of others (note that understanding someone is different 
+    from agreeing with them). Consensus is reached when all sides agree to respect 
+    a decision and to move on. This is best done intentionally, with a well-defined 
+    process, rather than leaving it to chance.</p>
+  <h3><b>Summary</b></h3>
+  <p>As individuals and as members of organizations and communities, our wealth 
+    and our abundance are rooted in our ability to tell our stories. Small business 
+    entrepreneurs have a story to tell. Neighborhoods trying to regain a sense 
+    of community have a story to tell. Senior citizens and second graders have 
+    a story to tell. Local government has a story to tell. The vision of the Knowledge 
+    Democracy should be to unleash the potential to have everyone in the community&#151;regardless 
+    of who or what they are&#151;possess the skills to tell their story without 
+    needing permission from someone else.</p>
+  <hr>
+  <p><div class="bionote"><a href="mailto:andrewc@knowledgedemocracy.org">Dr. Andrew Michael Cohill</a> 
+    is an information architect with an educational background in architecture, 
+    ergonomics, and computer science and is the Executive Director of the <a
+href="http://www.knowledgedemocracy.org/" target="_blank">Knowledge Democracy 
+    Center</a> which has a special focus on communities, technology, and local 
+    governance issues. He served as Director of the Blacksburg Electronic 
+    Village from its start in 1993 to May of 2002 and is past president of <a href="http://www.afcn.org/" target="_blank">the 
+    Association for Community Networking</a>. The author is deeply grateful to 
+    Rick Smyre, President of <a
+href="http://www.communitiesofthefuture.org/" target="_blank">Communities of the 
+    Future</a>, a national organization focused on helping communities create 
+    transformational change, with a special focus on consensus decision making, 
+    for his assistance and advice with this paper. </p></div>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Summer Camp in Columbia, SC: Community Style</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000108.html" />
+    <modified>2005-06-14T08:05:00Z</modified>
+    <issued>2005-06-14T04:05:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.108</id>
+    <created>2005-06-14T08:05:00Z</created>
+    <summary type="text/plain"><![CDATA[ Fast Forward is a community technology center housed at Hand Middle School in Columbia, South Carolina.&nbsp; In its three years, Fast Forward has developed a reputation for quality summer camps for children. Each year, the demand has increased, although...]]></summary>
+    <author>
+      <name>Dedria Albritton</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<p><table width=260 height=159 align=left><tr><td><img src="/fall-02_winter-03/img/allbrittonpctcelebrate.jpg" width="220" height="159" align="center" alt="Celebration"></td></tr></table></p>
+<p><a href="http://www.ctcnet.org/stories/v2/15.html" target="_blank">Fast 
+    Forward</a> is a community technology center housed at <a href="http://hornet.richlandone.org" target="_blank">Hand 
+    Middle School</a> in Columbia, South Carolina.&nbsp; In its three years, Fast 
+    Forward has developed a reputation for quality summer camps for children. 
+    Each year, the demand has increased, although federal funding has decreased. 
+    In 2001, Fast Forward had 240 seats in the summer camps for 5-8<sup>th</sup> 
+    graders and waiting lists of up to 10 children for each 20-student summer 
+    camp last year. We had to find a way to serve more children. 
+<table width=320 height=180 align=right><tr><td><img src="/fall-02_winter-03/img/PI_Hula_5.jpg" width="288" height="180" align="right"></td></tr></table></p>
+  <p>With a dream of increasing the number of seats in our summer camps by 100, 
+    planning began in June 2001. The first hurdle was how to transform a lab with 
+    24 computers and 12 laptops into space for 340 children. The first resource 
+    to come through was Hand Middle School. Administrators had an extra lab and 
+    two classrooms available. </p>
+  <p><table width=325 height=136 align=right><tr><td><img src="/fall-02_winter-03/img/Robotics_Group_3.jpg" width="288" height="136" align="right"></td></tr></table></p>
+<p>An 
+    experiment in the summer of 2001, using a high school senior to teach a keyboarding 
+    class, gave Fast Forward the possibility of creating a corps of teachers from 
+    the local high school. Dreher High School came through with ten juniors and 
+    seniors who were willing to train and teach for the summer. In addition, our 
+    pool of 16 youth volunteers (5-8<sup>th</sup> graders) swelled to 28.&nbsp; 
+    Each youth was willing to work all year and volunteer all summer. Some youth 
+    volunteers gave over 300 hours in seven weeks.</p>
+  <p>More problems solved: </p>
+
+<ul>
+  <li>
+    Snacks for each camper, volunteer, and teacher were a 
+      substantial expense. Piggly Wiggly, a local grocery store, allowed us to 
+      purchase everything at cost and stored the snacks for us&#151;3,000 juice 
+      boxes, 10,000 cookies, and 30 pounds of pretzels. 
+  </li>
+  <li>
+    After-camp care has always been a problem; camps end 
+      at 12:00 noon.&nbsp; A meeting with the City Parks and Recreation Department 
+      supplied the answer. The City agreed to provide after-camp care at the park 
+      across the street until 6:00 p.m. at $20 per week per child. 
+  </li>
+  <li> 
+    Fast Forward needed scholarships for students who could 
+      not afford the $35 fee. Local businesses and individuals came through with 
+      scholarships for the students.
+  </li>
+  <li> 
+    <i><a
+href="http://www.pcteachit.com/" target="_blank">PC Teach It</a> </i>magazine, 
+      headquartered in Columbia, provided the supplies for the <i>PC Teach It</i> 
+      Camp, along with incentive gifts for students and art and craft supplies 
+      for after-camp care at the park.
+  </li>
+  <li> 
+    East Coast Special Tees gave t-shirts for the price of 
+      the freight when our donated t-shirts turned out to be the wrong size.
+  </li>
+  <li> 
+    Fridays were celebration days. Parents were invited to 
+      a Popsicle Party at 11:30 a.m. to see the accomplishments of the week. Some 
+      children had no one to come. A call to Shandon Presbyterian Church produced 
+      volunteers who came every Friday to celebrate with students who had no one 
+      with whom to share.
+  </li>
+</ul>
+
+  <p>Our summer camp schedule was published in April 2002, and seventy percent 
+    of the classes were full by the second week. We added <i>more</i> camps&#151;480 
+    seats would be available in seven weeks (plus 220 seats for adults -- 700 
+    in seven weeks).&nbsp; Sixty to eighty children from every walk of life, every 
+    financial background, and every neighborhood joined together each week.&nbsp; 
+    Through special funding, a bus brought children from one of the most impoverished 
+    areas of Columbia for two weeks of camp. Every zip code in Columbia was represented.</p>
+  <p><table width=235 height=162 align=right><tr><td><img src="/fall-02_winter-03/img/Greg_Helping.jpg" width="216" height="162" align="center"></td></tr></table></p>
+<p>Children with special needs, home-schooled children, children with learning disabilities, 
+    children from the best neighborhoods in town, children from neighborhoods 
+    most people would be afraid to enter all worked together in teams to build 
+    robots and make movies. They learned keyboarding and created projects in <i>PC 
+    Teach It</i> Camp.</p>
+  <p>When a community comes 
+    together, anything can happen.&nbsp; It did in Columbia, South Carolina this 
+    summer. It can in your community, too. </p>
+  <hr>
+  <p><div class="bionote"><a href="mailto:dalbritton@richlandone.org">Dedria Albritton</a> is the director 
+    of Fast Forward in Columbia, South Carolina.</div></p>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>ScienceQuest for Youth: A Growing Program</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000109.html" />
+    <modified>2005-06-14T08:04:00Z</modified>
+    <issued>2005-06-14T04:04:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.109</id>
+    <created>2005-06-14T08:04:00Z</created>
+    <summary type="text/plain"> Our goals for all of our youth are the following: we want each child that enters our center to leave with self-confidence, healthy self-esteem, skills associated with social competency, and understanding of the new technology. We find that our...</summary>
+    <author>
+      <name>Jennifer Dorsen</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<div class="sidebar_right">
+        <p>Our goals for all of our youth are the following: we 
+          want each child that enters our center to leave with self-confidence, 
+          healthy self-esteem, skills associated with social competency, and understanding 
+          of the new technology. We find that our children learn better when they 
+          are interested in what they are doing. Our youth will benefit from ScienceQuest 
+          as an exciting enrichment opportunity; indeed, we hope it may spark 
+          further interest to pursue science and math. Expected as well is the 
+          development of skills related to life-long learning: team building and 
+          social competency, project planning, study and research, creative and 
+          critical thinking, and presentation skills.</p>
+        <p class=MsoBodyTextIndent>- Andrea Kimmich-Keyser, 
+          Greyston Community Learning Center, Yonkers, New York</p></div>
+        <h3 class=MsoBodyTextIndent><b>What do you want for the youth in your program?</b> 
+  </h3>
+  <p class=MsoBodyTextIndent>While each kid has unique needs, there are some common 
+    goals that many of us share, some of which are summed up in the quote above. 
+    Center directors and staff aim to provide a wide variety of things to their 
+    young clients, often with too few resources and too many needs.</p>
+  <p class=MsoBodyTextIndent>Through <a href="http://www.edc.org/sciencequest" target="_blank">ScienceQuest</a><a
+name="_Hlt23049198"></a>, we have developed a program that supports center staff 
+    and volunteers as they reach for these goals with their middle school aged 
+    youth (10-14). In the after-school hours, these youth are exploring the insides 
+    of volcanoes, communing with lions, and comparing pond water to tap water 
+    for health indicators. Others are finding the physics of skateboards, the 
+    daytime habits of spiders, or the workings of robots. As part of a small team, 
+    each child has the chance to make decisions and to become an information sleuth 
+    who presents complex explorations in a well designed website to teach others.&nbsp; 
+  </p>
+  <p>To date, teams all over Boston, in eight surrounding communities, and in 
+    thirteen cities nationally have worked on integrating informal science into 
+    their technology programs. Over two hundred youth have used their CTCs' tools 
+    for learning and presenting information. Eighty-five staff members and volunteers 
+    have been trained to guide these project-based explorations, and each receives 
+    extensive support during the process. ScienceQuest is funded in part by the 
+    <a href="http://www.nsf.gov/" target="_blank">National Science Foundation</a> 
+    and supported by <a href="http://www.edc.org/" target="_blank">Educational 
+    Development Center</a> in Newton, MA. Our partners are the community technology 
+    centers, business supporters, and science museums. </p>
+  <h4><b><img src="/fall-02_winter-03/img/dorsen_discussion.jpg" width="180" height="143" align="right" alt="Three girls">How 
+    does ScienceQuest work?</b> </h4>
+  <p>The key element to ScienceQuest is the &quot;I Search,&quot; a strategy that 
+    many teachers use and that we have adapted to fit the after-school world of 
+    CTCs. Through this process, coaches (staff or volunteers, but not science 
+    experts) work with a small team of youth through the four stages of investigation. 
+    The first stage is &quot;immersion.&quot; As the children explore, they discover 
+    for themselves what interests them, what doesn't interest them, and what they 
+    want to see next. During the immersion phase, they can try some water xperiments, 
+    watch a video on earthquakes, find signs of the coming winter outside the 
+    center, or surf the NASA web site.&nbsp; </p>
+  <p>Then we ask, what did you learn in each of these activities, and what excites 
+    you to learn more? Some recent questions have been: </p>
+<p><ul>
+  <li>Have there ever been volcanoes in Brockton, MA?</li>
+  <li>How do robots work and how do they help people with 
+        disabilities? (Roxbury, MA)</li>
+  <li>What sorts of bugs are helpful in a garden? (Yonkers, 
+      NY)</li>
+  <li>How do the ants outside the center survive in the heat 
+      of Texas? (Lufkin, TX)</li>
+  <li>What&#8217;s the nature of the universe? (Chicago, IL)</li>
+</ul></p>
+  <p>Once a team has a question that they must answer, the rest of the project 
+    unfolds over ten to fifteen weeks. They make a plan that identifies resources 
+    to help them find information. Some teams go out of the center on field trips, 
+    some talk to experts, and some go onto the Internet to find experiments and 
+    information to learn more. As they do this, they are gathering and creating 
+    content to build their <a
+href="http://www2.edc.org/sciencequest/youth/index.htm" target="_blank">web sites</a>.</p>
+  <p>In the past two years, we have noticed a few things: the youth involved often 
+    become famous around the center for creating their own web site, and the waiting 
+    list for ScienceQuest grows. Other times, we notice kids finishing up a project 
+    are simultaneously talking about what they will investigate next. One girl 
+    on the <a
+href="http://library.thinkquest.org/SQ0110120/" target="_blank">Mane Page</a> 
+    <a
+name="_Hlt23049366"></a> team, investigating lions, talked about her questions 
+    about rabbits, since her grandmother keeps rabbits. Bob Hamilton, the coach 
+    at Ministry in Action in Lufkin, TX, reported that the kids are asking for 
+    more time in the center to finish their project, since twice a week is not 
+    enough.&nbsp; </p>
+  <p><b><img src="/fall-02_winter-03/img/dorsen_animaldrawing.jpg" width="450" height="313" alt="My Dog Helps Me" align="center"></b></p>
+  <p>The youth can talk eloquently about what they have done and what they have 
+    learned, and their confidence shows through. While we do not have the capacity 
+    for following the youth through high school and into their post-graduation 
+    choices, we do know that youth engaged in quality after-school programs are 
+    more likely to graduate and have a positive attitude about learning and school. 
+    They show better group skills and make smarter choices about health and activities, 
+    according to the National Institute on Out-of-School Time (<a href="http://www.wellesley.edu/WCW/CRW/SAC" target="_blank">NIOST</a>). 
+    The youth in our centers live in complex worlds with increasingly complex 
+    goals for their future success. Through ScienceQuest, youth explore, learn, 
+    have fun and get ever closer to becoming successful adults with a deep understanding 
+    of their world.</p>
+  <p><img src="/fall-02_winter-03/img/dorsen_marquis3.jpg" width="144" height="114" align="right" alt="Marquis">The 
+    <a href="http://www.edc.org/sciencequest" target="_blank">ScienceQuest</a> 
+    <a
+name="_Hlt23049099"></a> web site has more information about the project, the 
+    youth web projects, answers to common questions, and a soon to be launched 
+    section of the site for youth. We hope that you will try a ScienceQuest project 
+    on your own or apply to attend one of our workshops at the next CTCNet conference!</p>
+  <div align=center style='text-align:center'> 
+    <hr size=2 width="100%" align=center>
+  </div>
+  <p><i><a href="mailto:jdorsen@edc.org">Jennifer Dorsen</a> is the program director 
+    for ScienceQuest at EDC.</i></p>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Transforming Rural Alaska through Wireless Technology in the Schools and Community</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000110.html" />
+    <modified>2005-06-14T08:03:00Z</modified>
+    <issued>2005-06-14T04:03:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.110</id>
+    <created>2005-06-14T08:03:00Z</created>
+    <summary type="text/plain"><![CDATA[ In remote Alaskan villages, the public school is usually the center of the community.&nbsp; Often the largest building, the school frequently functions as a town meeting hall, a recreation center, the town library, and&#8212;in the past few years&#8212;the technology...]]></summary>
+    <author>
+      <name>Martin Cary</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<P><table height=128 width=310 align=left><tr><td><IMG align=left alt="Village of Bethel" height=128 src="/fall-02_winter-03/img/Bethel_Village.gif" width=275></td></tr></table></P>
+<P>In remote Alaskan villages, the public school is usually the center of the community.&nbsp; Often the largest building, the school frequently functions as a town meeting hall, a recreation center, the town library, and&#8212;in the past few years&#8212;the technology hub.&nbsp; Through the <A href="http://www.sl.universalservice.org/" target=_blank>Universal Services Fund</A> <A name=_Hlt23047637></A>or "E-Rate,"a federal program that helps make telecommunications equipment and services affordable for rural and disadvantaged schools, Alaskan students and teachers have high-speed Internet access in the most remote villages.</P>
+<P>Broadband Internet in the schools has not only given teachers more resources to better educate students and engage them in learning, it has helped to transform many remote Alaskan towns by providing better access to news and information, improving communications with family and friends, and making fundamental tasks such as shopping quicker and easier.&nbsp; Even though federal regulations have in the past prohibited the use of the E-Rate funded telecommunications equipment and services by any entity other than the school, the positive impact of the improved technology has snowballed and now affects the entire village.&nbsp; </P>
+<span class="subhead">Advancing Internet Access </span>
+<TABLE align=right border=0 width="30%">
+<TBODY>
+<TR>
+<TD><IMG alt="Innoko River School" height=203 src="/fall-02_winter-03/img/innoko.jpg" width=288></TD></TR>
+<TR>
+<TD>
+<DIV align=center><span class="caption">Innoko River School</span></DIV></TD></TR></TBODY></TABLE>
+<P>Before 1998, Joy Hamilton, one of three teachers in the <A href="http://szshx.shx.iasd.gcisa.net/" target=_blank>Innoko River School</A><A name=_Hlt23047781></A><A name=_Hlt535062767></A><A name=_Hlt535062761></A>, a multi-grade K-12 school in Shageluk, Alaska accessible only by air or water, had little access to teaching resources for the 30+ students.&nbsp; The 130-resident community received the daily newspaper days after publication and possessed only a small school library that shelved about 500 outdated books, selected at the discretion of the previous teacher.&nbsp; Eight years ago, when she wanted to have her high school students complete a research paper on world inventors, she could not find a single book to use.&nbsp; A few years later, a $6/hour dial-up connection and spotty, unreliable access enabled Hamilton to receive text-based information, and to communicate with a New Hampshire-based teacher named Bill Hollis, who hosted the website.&nbsp; </P>
+<P>In 1998, <A href="http://www.gci.com/" target=_blank>General Communication, Inc.</A> (GCI), an Alaskan-based telecommunications company with expertise in delivering Internet services to rural schools, helped the school to apply for&#8212;and win&#8212;federal funding to upgrade their primitive connections.&nbsp; Through E-Rate funding, the Innoko River School received a satellite dish and server from GCI as well as 24x7 support from a team of education technology specialists, e-mail, content filtering, web hosting, caching and network authentication&#8212;all services bundled within a GCI product called "<A href="http://www.schoolaccess.net/" target=_blank>SchoolAccess</A>."</P>
+<span class="subhead">Improving Student Learning</span>
+<P>Teachers throughout the <A href="http://www.iditarodsd.org/" target=_blank>Iditarod Area School District</A> <A name=_Hlt535916312></A><A name=_Hlt23047879></A><A name=_Hlt23047876></A><A name=_Hlt535916328></A>use the Internet in a variety of ways to provide more hands-on learning for their students by creating their own programs and joining others.&nbsp; When the famous Iditarod dog sled race passes through the town, as it does every other year, Innoko River School students are out on the trail interviewing mushers, making iMovies, and posting their projects and reports on <A href="http://szshx.shx.iasd.gcisa.net/" target=_blank>the school web site</A>.</P>
+<TABLE align=left border=0 width=270>
+<TBODY>
+<TR>
+<TD><IMG height=123 src="/fall-02_winter-03/img/village_of_Selawik.JPG" width=252 alt="Village of Selawik"></TD></TR>
+<TR>
+<TD><span class="caption">The remote village of Selawik lies even with the Arctic Circle in Northwest Alaska.</span> </TD></TR></TBODY></TABLE>
+<P>Hamilton also has her students track the progress of other key animals in Alaska life&#8212;migratory species.&nbsp; With broadband Internet, Hamilton can better engage her students in education programs such as <A href="http://www.learner.org/jnorth" target=_blank>Journey North</A>, a national Annenberg Foundation project that teaches students about migration, enables them to track the paths of migratory species, share their field observations via email with students across the Hemisphere, and learn directly from scientific experts who work with the students.&nbsp; Mostly Deg Hitan (Native Alaskans from this area) who rely on subsistence activities, the students learn about a topic relevant to their way of life in a way that incorporates myriad academic disciplines&#8212;language arts, social studies, science and math&#8212;to create a well-rounded lesson.</P>
+<P>Hamilton also enhances her curriculum through current events, which especially since September 11<SUP>th</SUP> and its aftermath, provide a critical basis for classroom lessons.&nbsp; Before the advent of Internet access, students, teachers and the rest of the Shageluk community received national and worldwide news late as the daily newspaper is delivered several days after its publication and the one television station frequently fails to work.&nbsp; The ability to instantly access news sources and live web casts from around the globe has reduced isolation and help to engage students in world events.&nbsp; "They now know&#8212;and care&#8212;about what's going on," notes Hamilton.&nbsp;&nbsp; </P>
+<TABLE align=right border=0 width=230>
+<TBODY>
+<TR>
+<TD><IMG align=left height=214 src="/fall-02_winter-03/img/JuneNelsonElementarystuden.JPG" width=250 alt="Students at June Nelson Elementary School"></TD></TR>
+<TR>
+<TD><span class="caption">Technology isn't everything! June Nelson Elementary student, Sarah Lee, takes some time to read with friends. </span></TD></TR></TBODY></TABLE>
+<P>Karl Kowalski, a technology coordinator in <A href="http://www.nwarctic.org/" target=_blank>the Northwest Arctic Borough School District</A>, located in one of the most remote areas of Alaska, most of which is above the Arctic Circle, agrees. "Students are more engaged in learning, excited about school, and have a greater awareness of the larger world." Teachers in his school also use the Internet in a variety of ways to provide more hands-on learning for students, especially with a program called "<A href="http://www.epals.com/" target=_blank>E-Pals</A>."&nbsp; With E-Pals students interact via email and discuss current events, sports, climate and cultural differences, while they practice their writing.&nbsp; "Students learn lessons unavailable in any textbook," continues Kowalski.&nbsp; Landon Shuster, a middle school student in Kotzebue, provides a case in point. "I started a stock market simulation game that I couldn't have done without the Internet.&nbsp; I think it's a lot easier to check your stocks on the Internet than by phone or radio.&nbsp; The Internet at school gives me the ability to do that."</P>
+<span class="subhead">Connecting the Community, Reducing Isolation</span>
+<TABLE border=0 width="27%" align=center>
+<TBODY>
+<TR>
+<TD><IMG height=248 src="/fall-02_winter-03/img/alasaka_us_map.jpg" width=383 alt="Map of U.S. with Alaska inset"></TD></TR>
+<TR>
+<TD><span class="caption">The Remote Village of Deering - The remote village of Deering, (pop. approx 150) lies 30 miles below the Arctic Circle in Northwest Alaska. The Deering School is part of the Northwest Arctic Borough School District.</span></TD></TR></TBODY></TABLE>
+<P>For most Americans, the Internet provides quicker and easier access to information they have always enjoyed through television, daily newspapers, and the telephone.&nbsp; For remote Alaskans, however, the Internet functions as their window to the outside world and provides a wealth of information previously unavailable to them.</P>
+<P>It is difficult for people in the "Lower 48"&#8212;what Alaskans like to call the continental U.S.&#8212;to understand exactly the remoteness of Alaskan towns and the vastness of the state.&nbsp; One-fifth the size of the continental U.S., Alaska dwarfs the state of Texas or a good percentage of Western Europe.&nbsp; A limited highway system makes travel by air and sea the requisite means of transportation.&nbsp; Remote Alaskan residents often lack phone lines, television access and running water&#8212;basics many Americans take for granted.&nbsp; In Shageluk, for example, just over half of the residents have phone lines, the single TV station works sporadically, and a central washeteria provides the entire town facilities for bathing and laundry&#8212;yet despite this, it has broadband Internet access through the school.</P>
+<P>And the technology benefits have not stopped at the schoolhouse door.&nbsp; Teachers and students have worked hard to include the community in their technology efforts.&nbsp; Students, with Hamilton's guidance, design, operate, and manage the school and community web site.&nbsp; They also tutor adults on the computer after hours to help them learn to surf the Internet, send email, order clothes and books online, and check the weather, a critical capability when one relies on small airplanes for travel. A recent examination of the most visited web sites in Shageluk, in fact, showed Aviation Weather, Anchorage Daily News and CNN at the top of the list.</P>
+<TABLE align=left border=0 width=230>
+<TBODY>
+<TR>
+<TD><IMG height=191 src="/fall-02_winter-03/img/NoorvikHighSchoolstudentJo.JPG" width=287 align=left alt="Noorvik High School student John Morris"></TD></TR>
+<TR>
+<TD><span class="caption">Noorvik High School student, John Morris, works with the Technology Department to help set up new network equipment in the school. Students in remote Alaskan schools learn valuable technology skills while assisting technology coordinators like Karl Kowalski.</span></TD></TR></TBODY></TABLE>
+<P>But residents in the Iditarod Area School District enjoy more than just the capability to research and read the news.&nbsp; Three years ago, the district started Project PROMISE, an initiative funded through the U.S. Department of Education's <A href="http://www.ed.gov/21stcclc" target=_blank>21st Century Community Learning Center (CLC) Program</A> that provides academic, recreational and cultural enrichment for children and life-long learning opportunities for community members.&nbsp; With nearly $900,000 for the program, the district hired a technology specialist who taught onsite computer courses such as Excel and Word and helped students and community members take online courses through the University of Alaska Southeast, available through the broadband Internet access.</P>
+<P>In McGrath, a town of 400 and the district center for the Iditarod Area School District, the excitement for technology exploded from the kids to the parents and the rest of the community.&nbsp; When high-speed Internet access first became available, the lines outside the school community library snaked around the hallway at night.&nbsp; Sparked by their experience with Internet access and computers in the schools, more residents of McGrath decided they wanted computers and Internet in the home.&nbsp; Slowly but surely the cow-motif boxes, a signature of Gateway, increasingly decorated local delivery shipments and the local power company began to offer dial-up and wireless Internet access to residents.&nbsp;&nbsp; </P>
+<P>Visions of life in Alaska intrigue and amaze most residents of the continental U.S.&#8212;it's the Alaskan mystique.&nbsp; The remote vastness, the unadulterated landscape and the resilient people occupy an important place in the nation's collective consciousness.&nbsp; Through the technological advancements that have taken place in Alaska, not only have the remote residents of this unique state earned more about world events, the world has learned more about them and their inimitable lives. </P>
+<P>&nbsp;</P>
+<HR>
+<div class="bionote"><A href="mailto:mcary@gci.com">Martin Cary</A> is Vice President of Broadband Services for Alaska-based General Communication, Inc. (GCI) and handles all GCI educational initiatives, including SchoolAccess, which he developed. &nbsp;He was previously the Director of Information and Technology for the North Slope Borough School District.</div>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Mapping and Community Organizing in Philadelphia</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000112.html" />
+    <modified>2005-06-14T08:02:00Z</modified>
+    <issued>2005-06-14T04:02:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.112</id>
+    <created>2005-06-14T08:02:00Z</created>
+    <summary type="text/plain">Since 1995, the Philadelphia Association of Community Development Corporation (PACDC) has used wireless handheld technology for its member CDCs&apos; neighborhood-based data collection efforts. Early in 2001, PACDC launched a more ambitious program, acquiring a small fleet of Compaq iPAQ Pocket...</summary>
+    <author>
+      <name>Eric Hoffman</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<P align=left><IMG height=97 src="/fall-02_winter-03/img/hoffman.pacdcogo.gif" width=288 align=left alt="PACDC logo">Since 1995, the <A href="http://www.pacdc.org/">Philadelphia Association of Community Development Corporation</A> (PACDC) has used wireless handheld technology for its member CDCs' neighborhood-based data collection efforts. Early in 2001, PACDC launched a more ambitious program, acquiring a small fleet of Compaq iPAQ Pocket PCs and distributing them to CDCs that were creating neighborhood inventories of their service areas. The primary objectives of the Pocket Neighborhood Inventory System (NIS), the software application developed by PACDC to process collected data, are to increase the quality of data collected by CDCs by standardizing data collection for citywide comparability and to establish a basis for measuring changes in the neighborhood over time. The Pocket NIS is merely a tool for gathering information; however, the exercise itself has provided CDCs with valuable knowledge in their strategic planning, community outreach efforts, and development of policy initiatives.</P>
+<span class="subhead">Proactive Neighborhood Strategic Planning</span>
+<P>Neighborhood planning is a process whereby community representatives are brought together to raise concerns and needs, identify strengths and assets, establish goals for improving the neighborhood, and provide recommendations for realizing those goals. By taking a proactive approach to the planning process, CDCs can better understand neighborhood dynamics, prioritize and target resources, and make informed decisions about issues before they become problems. One recent illustration of proactive strategic planning involved a blight reduction project by <A href="http://www.projecthome.org/">Project H.O.M.E.</A>, a CDC that provides transitional housing for homeless men and single mothers. The stated goal of this project was to "stabilize up to one acre of land, within designated communities, by clearing and re-vegetating underutilized publicly-owned open space."</P>
+<TABLE width=240 align=left border=0>
+<TBODY>
+<TR>
+<TD><IMG height=210 src="/fall-02_winter-03/img/map.gif" width=216 alt="Project H.O.M.E. conceptual plan"></TD></TR>
+<TR>
+<TD><span class="caption">A conceptual plan for Project H.O.M.E. advocates restructuring blocks with older two-story rowhouses (courtesy Brown & Keener/Lager Raabe Skafte).</span></TD></TR></TBODY></TABLE>
+<P>Project H.O.M.E. elected to conduct a neighborhood inventory based on several departmental databases they had compiled. The databases revealed inconsistencies and other inaccuracies. The most common errors were typographical with variations on the format of property addresses. These errors add to the processing time needed to prepare the data for analysis and mapping. The Pocket NIS reduces response errors during data collection because elements in the survey are structured from predefined lists and checkboxes. Eliminating paper also significantly reduces the survey time by decreasing the number of steps involved in conducting a survey. As well, the Pocket NIS contains necessary geographic identifiers making the transition from the database to maps, tables, and charts a simpler process.</P>
+<P>Utilizing the data collected from their neighborhood inventory, the project steering committee and community representatives selected several clusters of vacant lots for cleaning-and-greening, lots covering eight square blocks of the target area. The sites were chosen for their high visibility and low maintenance that could be used as leverage in "creating enduring patterns of land use and development that will stimulate investment and encourage long-time residents to remain in their neighborhoods." The sites were cleared of refuse and were landscaped in August 2001.</P>
+<P>The project focused primarily on open space issues; however, the steering committee and community residents had identified high concentrations of abandoned property in rows of older two-story houses in drafts of maps of the inventory data. Older two-story houses are not viable rehabilitation candidates when more gracious larger homes are readily available for low upfront cost. Houses with small livable areas and no yards are also not attractive to prospective homebuyers. The resulting strategic plan advocates that these blocks be restructured as part of a homeownership project which would demolish structures to decrease densities and create open space for yards and off-street parking, and adjoin adjacent two-story structures to increase livable space per unit. </P>
+<span class="subhead">Community Outreach And Buy-In</span>
+<TABLE width=150 align=left border=0>
+<TBODY>
+<TR>
+<TD><IMG height=201 src="/fall-02_winter-03/img/girl.jpg" width=122 alt="Women's Community Revitalization Project garden"></TD></TR>
+<TR>
+<TD>
+<DIV align=center><span class="caption">Neighborhood children celebrate at one of the Women's Community Revitalization Project's newest community gardens</span>.</DIV></TD></TR></TBODY></TABLE>
+<P>In developing a neighborhood strategic plan, it is necessary to strengthen neighborhood relationships and make a concerted effort to enlist residents to buy-in to the community development process. Building a sense of empowerment in the neighborhood is absolutely crucial to sustaining community projects after a CDC has completed development. The <A name=_Hlt23528150></A><A href="http://www.pacdc.org/cgi-bin/board.cgi?WCRP">Women's Community Revitalization Project (WCRP)</A><A name=_Hlt23528165></A><A name=_Hlt23528249></A><A name=_Hlt23528139></A><A name=_Hlt23528301></A>, a CDC that focuses on physical development and advocacy as ways for revitalizing communities in which low-income women and their families live, recently completed an open space management project that involved community participation in each step of the planning and implementation process.</P>
+<P>WCRP conducted a survey of residents to identify environmental concerns and to evaluate WCRP's previous open space projects. The issue raised in these sessions was the illegal dumping of trash and the rat infestation that resulted from the associated dumping. </P>
+<P>WCRP supplemented the survey with a neighborhood inventory. Since they employed interns and volunteers to do the surveying, it was important that the survey instrument be simple and easy to navigate. The Pocket NIS is intended for use by persons with minimal computer experience. The application is designed to be flexible along a wide range of topics including evaluating the structural condition of property, compiling business data for commercial development, and cataloguing natural resources for open space management. Unnecessary survey elements are hidden from the surveyor to reduce the potential for confusion. Related survey elements are grouped together which leads to greater consistency of responses. An extensive HTML-based help file is contained as a feature of the Pocket NIS to assist in solving questions that may arise in the field. The file provides a definition for each survey element, a description of responses, and a photo. </P>
+<P>The analysis of WCRP's neighborhood inventory identified potential greening projects centered on resolving these issues. Residents prioritized sites for cleaning and greening as publicly owned vacant lots located near established WCRP developments and community anchors because of ease of management, residential interest, and the ability to build on relationships in the neighborhood. Enthusiastic residents were educated in water, soil, and lead issues and trained in other maintenance issues. Access to gardening tools and materials for planting were provided to complete the process.</P>
+<P>As planned, WCRP is no longer directly involved in this project. They have begun the process of identifying future initiatives to extend their record of creating more than 70 projects, all of which serve as examples of residential resolve. In the final report, neighborhood residents credit WCRP for supporting the community's effort to reclaim vacant land by "creating a neighborhood wide interest in the environment" and getting residents to invest in their community beyond their block and "providing fertile ground for leadership to take root in the community."</P>
+<span class="subhead">Partners in Citywide Initiatives and Policy Change</span>
+<P>While implementing strategies for change in their own neighborhoods will always be central to the work of CDCs, there is recognition that CDCs also need to think more broadly about their initiatives. The <A href="http://www.newkensingtoncdc.com/">New Kensington Community Development Corporation</A> established a neighborhood-based open space management program in 1996 to address the growing problem of urban vacant land. The long-term goal of the multi-year effort was to "create an effective system for managing and maintaining every vacant parcel in the <?xml:namespace prefix = st1 /><st1:City><st1:place>New Kensington</st1:place></st1:City> target area." The project was unique in that it enlisted support from a number of city institutions. The Pennsylvania Horticultural Society provided technical assistance and conducted workshops; the Department of Licenses & Inspections cleared the lots of trash; the Office of Housing and Community Development provided funding; and the Redevelopment Authority facilitated the land acquisition process.</P>
+<TABLE width=275 align=right border=0>
+<TBODY>
+<TR>
+<TD><IMG height=279 src="/fall-02_winter-03/img/house.jpg" width=250 alt="After School Club at New Kensington CDC Community Garden Center"></TD></TR>
+<TR>
+<TD><span class="caption">An After School Club at New Kensington CDC's Community Garden Center teaches responsible attitudes toward natural resources.</span></TD></TR></TBODY></TABLE>
+<P>A starting point in the project was to compile a vacant land inventory to identify ownership and the condition of vacant land and to develop a strategy to promote vacant land reuse. Because the project steering committee intended to replicate this model for other neighborhoods, they recognized that standardizing inventory data for citywide comparability would be important in documenting the success of this and future projects. Once a benchmark is established, a set of indicators must be constructed to monitor the changes that take place in the neighborhood. Following data collection with the Pocket NIS, a copy of the completed database was provided to the <st1:place><st1:PlaceType>University</st1:PlaceType> of <st1:PlaceName>Pennsylvania</st1:PlaceName></st1:place>'s <A href="http://cml.upenn.edu/">Cartographic Modeling Laboratory</A> (CML) who has developed a web-based <A href="http://cml.upenn.edu/nis">Neighborhood Information System</A> (NIS). The neighborhood data has been integrated with other data sets from City of <st1:City><st1:place>Philadelphia</st1:place></st1:City> agencies. Authorized users of the <st1:City><st1:place>NIS</st1:place></st1:City> can generate maps and reports of selected properties and create summary tables of their neighborhood. New Kensington CDC refers to this resource when researching the feasibility of their next development project.</P>
+<P>To date, New Kensington CDC has reclaimed 60% of the 1,100 vacant parcels in the neighborhood transferring land to adjacent homeowners for gardens, private "sideyards," and off street parking. The <st1:place><st1:PlaceName>Community</st1:PlaceName> <st1:PlaceType>Garden</st1:PlaceType> <st1:PlaceType>Center</st1:PlaceType></st1:place> is supported by local residents and offers free compost, soil, and mulch. An After School Club works with local students to develop a responsible attitude toward natural resources. New Kensington CDCs program received a HUD Best Practices Award in 1999 and the model has since been implemented in two additional <st1:City><st1:place>Philadelphia</st1:place></st1:City> neighborhoods.</P>
+<span class="subhead">Conclusion</span>
+<P>By summer's end, twelve CDCs had utilized the Pocket NIS for conducting inventories of their neighborhood in 2002. Wireless handheld technology has streamlined and strengthened the neighborhood data collection process and has succeeded in generating interest among other CDCs and neighborhood-based organizations in better documenting their activities. This low-cost, high-tech tool has allowed CDCs to think more strategically, expand participation in the planning process, and enlist other agencies as partners in progress in revitalizing neighborhoods in <st1:City><st1:place>Philadelphia</st1:place></st1:City>.</P>
+<HR>
+<DIV class="bionote"><A href="mailto:ehoffman@pacdc.org">Eric Hoffman</A> is Director of Information and Technology with the <A href="http://www.pacdc.org/">Philadelphia Association of Community Development Corporations.</A></div>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Edna Jackson, Technology And Community Building: From Staunchest Opponent to Greatest Proponent</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000113.html" />
+    <modified>2005-06-14T08:01:00Z</modified>
+    <issued>2005-06-14T04:01:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.113</id>
+    <created>2005-06-14T08:01:00Z</created>
+    <summary type="text/plain"> This article shares the case study of one individual in her efforts to achieve social and cultural resonance with technology. She is a participant in the Creating Community Connections (C3) Project,* an ongoing effort at Camfield Estates, a predominantly...</summary>
+    <author>
+      <name>Randal Pinkett</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<p><table width=160 align=left><tr><td><img src="/fall-02_winter-03/img/pinkett_pinkett.jpg" width="135" height="197" align="left" alt="Randal Pinkett"></td></tr></table></p>
+<p>This 
+    article shares the case study of one individual in her efforts to achieve 
+    social and cultural resonance with technology. She is a participant 
+    in the Creating Community Connections (C3) Project,* an ongoing effort at 
+    <a
+href="http://www.camfieldestates.net/" target="_blank">Camfield Estates</a>, a 
+    predominantly African-American, low- to moderate-income housing development 
+    in Roxbury, MA, since 1999. As part of this project, MIT researchers 
+    worked with residents to establish a technological infrastructure by offering 
+    every family a new computer, software, and high-speed Internet connection, 
+    along with comprehensive training and a web-based community building system.</p>
+  <span class="subhead">The Case Study of Edna Jackson</span>
+  <p>Edna and James Jackson (both pseudonyms) arrived at the housing development 
+    in 1990. For the next seven years leading up to the eventual demolition 
+    of the property in 1997, their attachment to the neighborhood grew stronger 
+    as the development became their home. In 1999, after renovation was 
+    completed, the Jacksons enthusiastically decided to return to the development 
+    given their longstanding ties to the community. However, their return 
+    to the development was somewhat bittersweet as Edna was now battling chronic 
+    obstructive pulmonary disease (COPD), a combination of emphysema (over-inflation 
+    of the structures in the lungs leading to decreased respiratory function) 
+    and chronic bronchitis (inflammation of the tubes connecting the windpipe 
+    and the lungs that obstructs airflow), a disease that claims the lives of 
+    approximately 100,000 Americans each year.</p>
+  <p>Having been diagnosed with COPD three years earlier, Edna's days at the new 
+    development would largely be confined to her residence. Now at age 57, 
+    she relies on an oxygen machine to provide constant respiratory assistance 
+    and uses a walker on the rare occasions when she leaves the house (usually 
+    to go to the hospital).</p>
+  <span class="subhead">Reluctance, Recruitment and Resonance</span>
+  <p>From the onset, Edna was the project's staunchest opponent. When the 
+    President of the tenants association first spoke with Edna, she flatly refused 
+    the offer for the computer, Internet access, and home-based training. 
+    Subsequent efforts by the President, a representative from the financier of 
+    the property, and other residents at the development also fell upon deaf ears. 
+    Meanwhile, the new computer intended for Edna sat in a corner of the community 
+    center gathering dust. Eventually, Edna was convinced to allow someone 
+    to set up the computer and Internet connection in her home, but only on a 
+    trial basis.</p>
+  <p class=MsoBodyTextIndent2 align=left style='text-align:left'>When we moved 
+    back and this building was done and I heard that we were going to get computers, 
+    I didn't care why. I didn't want one. And I told [them] I didn't 
+    want one. I was really disgusted with it all.</p>
+  <p>Rather quickly, the instructor was able to engage her. He did this 
+    not by showing her how to use the mouse or the keyboard per se, but by clearly 
+    demonstrating relevance. Initially this meant showing her how to connect 
+    with family and friends, which struck a definite chord.</p>
+  <p class=MsoBodyTextIndent2 align=left style='text-align:left'>I got my first 
+    session and I was amazed! I couldn't believe it! It was so fascinating! 
+    I get my second session and I'm getting e-mail, which was totally blowing 
+    my mind. And I'm saying, "Oh my God, this is incredible."</p>
+  <p><img src="/fall-02_winter-03/img/pinkett_camfield1.jpg" width="150" height="266" align="right" alt="C3 Project at Camfield Estates">With 
+    each passing day, Edna became increasingly more comfortable with the computer. 
+    However, the majority of her tasks still involved pointing and clicking. 
+    Her first jaunt beyond e-mail, web sites, and games was participating in a 
+    chat room on cancer (she is also a survivor of breast cancer). Given 
+    her positive experiences thus far, she far she didn't hesitate entering the 
+    chat room and "watching" the conversation take place among the participants. 
+    In fact, her early experiences with chat rooms were characterized by watching 
+    the conversations of others as she was reluctant to contribute to the dialog. 
+    And then one day everything changed. A question was posted in the chat 
+    room for which she knew the answer, and, slowly but surely, she found the 
+    courage to post a response. </p>
+  <p class=MsoBodyTextIndent2 align=left style='text-align:left'>So now I type 
+    it in. It looked OK. And I sent it. I had the nerve. 
+    It's like I was covering over my eyes. I was so afraid that someone 
+    would say, "What's this jerk? Who's this jerk? What's she 
+    talking about?" So now the person said, "Thanks Edna you cleared 
+    that up." I was so happy I didn't know what to do! I got 
+    up and I actually did a dance! You know when the football players do 
+    a...when they get a touchdown? I got up and did a dance just like those 
+    football players! When you are sick there is not much to celebrate.</p>
+  <p>Edna soon found herself in various chat rooms on a regular basis. She 
+    spent as many as nine hours per day on the computer and says, "I remember 
+    one time our lights went out and the only thing I was interested in...I didn't 
+    care about the food in the refrigerator, I wanted to be on the computer." 
+    She began to see herself as an advisor, confidant, and sounding board for 
+    others. She shared her thoughts about cancer, about COPD, and about 
+    life. On making this transition from passive bystander to active contributor 
+    she remarks, "It's so rewarding. And to be able to give...I'm not 
+    only getting, I am giving because I can tell them my experiences."</p>
+  <span class="subhead">A Social and Cultural Shift</span>
+  <table width="360" border="0" align="left">
+    <tr>
+      <td><img src="/fall-02_winter-03/img/pinkett_camfield3.jpg" width="333" height="231" alt="Camfield Estates"></td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center"><span class="caption">Camfield Estates</span></div>
+      </td>
+    </tr>
+  </table>
+  <p>A cultural shift has taken place in the Jackson's household. Attitudes 
+    have changed. Habits have changed. Ways of perceiving the world 
+    have changed. </p>
+  <p class=MsoBodyTextIndent2 align=left style='text-align:left'>I would have 
+    never wanted a computer. I didn't see anything in it. Now I wouldn't 
+    know what to do without it. I believe I am better physically and mentally 
+    because of the computer.</p>
+  <p>A social shift has also taken place. An environment that was once closed-off 
+    to the outside world in certain ways has now been reopened. Connections 
+    are being made that previously didn't exist and, in fact, weren't possible.</p>
+  <p>After completing approximately ten sessions with her instructors, Edna had 
+    to temporarily postpone their visits for health-related reasons. However, 
+    that has not prevented her from continuing to explore new arenas. </p>
+  <p>There are three competencies Edna has developed in her still embryonic exposure 
+    to digital technologies. First, she has developed a sense of empowerment 
+    as evidenced by her frequent references to having greater control of her life. 
+    Second, she has developed a renewed faith in her capacity to learn. 
+    Third, she has experienced a shift and transformation in her thinking with 
+    respect to computers and the Internet. Whereas in the past she saw no 
+    relationship between herself and these technologies due to unfamiliarity and 
+    consternation, she is able to reflect on that experience and realize that, 
+    now, the connection is very clear.</p>
+  <span class="subhead">Community Technology and Community Building</span>
+  <p class=MsoBodyTextIndent align=left style='text-align:left'>Community technology, 
+    and in particular community building, are fundamentally local, shared social 
+    and cultural processes. Edna Jackson's story is certainly one that incorporates 
+    notions of community, but in a more distant sense as well. Her interactions 
+    have largely been centered on a "community of interest" (i.e., cancer 
+    survivors) as opposed to a "community of practice" (i.e., the housing 
+    development), and her online activity has established global as well as neighborhood 
+    ties (excluding family). Is the community better off as a result of 
+    her experience? I reply with a resounding, "Yes."</p>
+  <p class=MsoBodyTextIndent align=left style='text-align:left'>On one hand, Edna 
+    has reached out to others in the community to the best of her ability. 
+    On the other hand, the more important lesson is that the community reached 
+    out to her. As a result of that outreach, Edna's and her husband's quality-of-life 
+    have improved, and for that reason alone, the community has improved, too. 
+    Her story demonstrates how technology can serve as a tool to break down walls, 
+    open doors, and reinvigorate life. More importantly, her story illustrates 
+    how the collective efforts of a community can open up new possibilities for 
+    one of its longstanding members. Thanks to the consolidated efforts 
+    of neighbors and caring staff at the development, one of the project's staunchest 
+    opponents is now, quite possibly, its greatest proponent.</p>
+  <hr>
+  <p><div class="bionote"><a href="mailto:rpinkett@bctpartners.com">Dr. Randal D. Pinkett</a> is a 
+    recent graduate of the Epistemology and Learning Group at the MIT Media Laboratory. 
+    Dr. Pinkett holds five degrees and is currently the Chief Executive Officer 
+    of <a
+href="http://www.bctpartners.com/" target="_blank">Building Community Technology 
+    (BCT) Partners, Inc.</a>, a IT consulting and services company.</div></p>
+  <p class=References align=left style='text-align:left'><span class="caption">*See O'Bryant, R. (2001), 
+    "Establishing Neighborhood Technology Centers in Low-Income Communities: 
+    A Crossroads for Social Science and Computer Information Technology," 
+    in Townsend, A. <i>Projections: The MIT Student Journal of Planning-Making 
+    Places through Information Technology (2)</i> 2 (112-127). See Pinkett, 
+    R. D., "The Camfield Estates-MIT Creating Community Connections Project: 
+    High-Technology in a Low- to Moderate-Income Community," in Lazar, J. 
+    (Ed.). <i>Managing IT/Community Partnerships in the 21st Century</i> (pp. 
+    222-247), Hershey, PA: Idea Publishing Group (2002). </p>
+  <p class=References align=left style='text-align:left;'>Note the wide selection 
+    of related papers and presentations at the <a href="http://web.media.mit.edu/~rpinkett/papers" target="_blank">Pinkett 
+    MIT media web site</a></span></p>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>From The Children&apos;s Partnership: Strategies and Resources for Community Technology Practitioners</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000107.html" />
+    <modified>2005-06-14T08:00:00Z</modified>
+    <issued>2005-06-14T04:00:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.107</id>
+    <created>2005-06-14T08:00:00Z</created>
+    <summary type="text/plain">The Children&apos;s Partnership (TCP) is a national child advocacy organization that undertakes research, demonstration programs, and advocacy campaigns to help ensure that low-income and other underserved communities benefit from the &quot;digital revolution.&quot; Over the past three years, the Children&apos;s Partnership...</summary>
+    <author>
+      <name>Laurie Lipper and Wendy Lazarus</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<p>The <a href="http://www.childrenspartnership.org/" target="_blank">Children's 
+    Partnership</a> (TCP) is a national child advocacy organization that undertakes 
+    research, demonstration programs, and advocacy campaigns to help ensure that 
+    low-income and other underserved communities benefit from the "digital 
+    revolution." Over the past three years, the Children's Partnership has 
+    focused on developing an agenda to further public policies that support community 
+    technology and online content that fulfills the needs of low-income communities.</p>
+  <p>As the community technology field continues to grow, the Children's Partnership 
+    is working to spread the word about information, tools, and effective programs 
+    that can benefit centers across the country.</p>
+  <p>In this article, TCP describes research and strategies which have practical 
+    applications for community technology providers, such as: (1) New state-by-state 
+    fact sheets about youth and technology; (2) Lessons for using cable franchise 
+    renegotiations to gain funding and resources for community technology efforts; 
+    and (3) Tools for informing elected officials and policymakers about community 
+    technology issues.</p>
+  <span class="subhead">(1) 50 State Fact Sheets on Youth and Technology Readiness</span>
+  <p>The Children's Partnership presents new <a
+href="http://www.childrenspartnership.org/youngamericans/statefacts.html" target="_blank">state-by-state 
+    data</a> on how each of the 50 states is faring in addressing the technology 
+    gap. These data help paint a picture of the benefits technology access offers 
+    youth and low-income communities, as well as where gaps remain. Check out 
+    statistics for your own state, such as: </p>
+<ul>
+  <li>Are your state's youth prepared for the digital economy? 
+  </li>
+  <li>Are your state's schools equipping today's youth?</li>
+  <li>How does your state compare to other states in equipping 
+      youth with technology skills?</li>
+</ul>
+  <p>Share this information with elected officials, civic leaders, the media, 
+    and colleagues.</p>
+  <span class="subhead">(2) Cable Franchise Renewals Offer Opportunities for Community Technology 
+    Programs</span>
+  <p>As community technology initiatives grapple with shrinking resources due 
+    to the slowing economy, it is increasingly challenging to find funding. 
+    However, even in these difficult times, a promising source of funding and 
+    resources for community technology is city-level cable franchise renewals. 
+    Seattle, Cleveland, Atlanta, and a handful of other cities have secured substantial 
+    resources for community technology using this strategy. This approach 
+    merits a close look because several hundred cities are slated to enter into 
+    either a cable franchise renewal or transfer over the next couple of years.</p>
+  <span class="subhead"><b>How It Works</b></span>
+  <p>The cable franchise is the agreement that establishes the type, quality, 
+    and level of service the cable company will provide in the city. In 
+    exchange, the cable provider can use the public's right-of-way to lay cable. 
+    The cable franchise is determined for a number of years, sometimes as many 
+    as 15, and locks in those provisions for that length of time. When the 
+    franchise nears expiration, the city and the cable operator enter into negotiations 
+    to renew the franchise. Usually, the city conducts a needs assessment 
+    and invites the community to comment on the types of services, both current 
+    and future, that the community needs. Based upon the input from the 
+    community, the city negotiates on behalf of the community with the cable operator 
+    to arrive at an agreement. </p>
+  <span class="subhead"><b>Suggested Policies</b></span>
+  <p>Based on the early experiences of several cities, it is becoming clearer 
+    what policies civic leaders and advocates can push for to promote community 
+    technology through cable franchise agreements. Suggested policies include:</p>
+<ul>
+  <li>A technology fund to support community technology programs 
+      that provide public access to computers and the Internet, training in technology 
+      skills for low-income communities, and production of multimedia content;
+  </li>
+  <li>Free, reduced, or volume-discounted rates for cable modems 
+      and monthly Internet subscriptions; and
+  </li>
+  <li>City staff assigned to support community technology.
+  </li>
+</ul> 
+  <span class="subhead"><b>Demonstrated Success</b></span>
+  <p>The successes are mounting: Cleveland received $3 million for a technology 
+    fund; free cable modem and Internet service for one computer center in each 
+    of the 21 city council wards; and a volume discount for Internet service and 
+    cable modems for all city facilities, public libraries, computer centers, 
+    and primary and secondary schools. Seattle received similar services 
+    as Cleveland, but also employs a staff person to assist, coordinate resources 
+    for, and strengthen the services and educational quality of community technology 
+    programs.</p>
+  <span class="subhead"><b>Additional Resources to Gain </b></span>
+  <p>In addition to these services, other services that could be requested to 
+    support community technology initiatives include: </p>
+<ul>
+  <li><b>Channel capacity reserved for community-oriented needs:</b> 
+      In order to ensure that the community can send and receive data quickly, 
+      a certain portion of channel capacity should be reserved specifically for 
+      community-related needs. Communities can then take advantage of the 
+      ever-more powerful communications delivery systems, i.e., cable companies 
+      upgrade from coaxial to optical cable.
+  </li>
+  <li><b>Connection to Institutional Networks, or</b> I-Nets: 
+      These high-speed networks allow schools, libraries, and governmental entities 
+      to communicate and share information with one another and the public.
+  </li>
+  <li><b>Public access support and resources for community 
+      technology programs that provide local programming capabilities:</b> These 
+      supports allow local community residents to develop programs they know are 
+      of interest to their neighborhood.
+  </li>
+</ul>
+  <span class="subhead"><b>Community Media and Community Technology: New</b><b> </b><b>Partnerships</b></span>
+  <p>As more community technology programs begin to offer residents the ability 
+    to create multimedia content to share with the community, there is a natural 
+    synergy with the work of those who provide public access programming. 
+    These "community media" providers have years of experience developing 
+    programming that is aired on public cable channels. Moreover, the offerings 
+    of community media and community technology are beginning to overlap as, for 
+    example, community media hosts computer labs, while community technology programs 
+    produce videos. Since both communities have their own user base, combining 
+    constituencies could provide added political clout. The larger customer base 
+    could also provide cable companies an additional incentive to offer more services.</p>
+  <p>As you consider these options, <a
+href="http://www.techpolicybank.org/" target="_blank">more resources about the 
+    cable franchise renewal</a> are available online.</p>
+  <span class="subhead">(3) Tools for Reaching Out to Elected Officials and Policymakers</span>
+  <p>Election cycles offer community technology practitioners an important opportunity 
+    to reach out to candidates running for office and to the newly elected officials 
+    and their staff. Over time, these outreach efforts can help build a cadre 
+    of new leaders aware of the benefits of community technology programs and 
+    committed to promoting a public policy agenda that supports technology resources 
+    for youth and low-income communities.</p>
+  <p>To help community technology groups get involved, the Children's Partnership 
+    (TCP), along with the <a
+href="http://www.cctpg.org/" target="_blank">California Community Technology Policy 
+    Group</a> (CCTPG) and <a
+href="http://www.policylink.org/" target="_blank">PolicyLink</a>, has launched 
+    the <a
+href="http://www.cctpg.org/other/elections/index.htm" target="_blank">Youth & 
+    Technology Candidate Information Program</a>. The Youth & Technology 
+    Candidate Information Program includes an information packet and outreach 
+    plan designed to inform candidates and elected officials about community technology 
+    issues and to encourage them to adopt an agenda that supports technology access 
+    for youth and low-income communities. </p>
+  <p>The Candidate Information Program includes:</p>
+<ul>
+  <li>Practical Information, including why this issue matters, 
+      a summary of voters' views, a statistical picture of technology readiness 
+      in California (as a model), policy ideas you can promote to demonstrate 
+      leadership, and resources for further help.
+  </li>
+  <li>Candidate Briefings from local leaders and national experts 
+      on this issue, which include standardized briefing materials available to 
+      everyone.
+  </li>
+  <li>Suggestions about connecting elected officials with visits 
+      to Local Community Technology Programs to see how technology access and 
+      training work and also to learn about the benefits they offer young people.
+  </li>
+</ul>
+  <p>These materials are designed to be used in any state and can also be adapted 
+    for policymakers at the state, local and federal levels. They can be used 
+    for outreach to candidates as they are running for office and as briefing 
+    packets for elected officials, their staff and other stakeholders. These 
+    materials were used for the 2002 election cycle in California, including the 
+    <a
+href="http://www.techpolicybank.org/interm.html" target="_blank">candidate survey</a> 
+    on Youth and Technology issues. </p>
+  <p>As another type of election activity, TCP coordinated an online voter registration 
+    and education drive with several community technology programs throughout 
+    California as a way to promote community technology and centers' capacity 
+    to provide e-government services and engage citizens in the elections. 
+    Resources to initiate this type of activity are available <a href="http://www.techpolicybank.org/e-lection.html" target="_blank">online</a>.</p>
+  <p>For further information on any of these resources and strategies contact 
+    <a href="mailto:frontdoor@childrenspartnership.org">frontdoor@childrenspartnership.org</a>, 
+    or 310-260-1220.</p>
+    <hr>
+<div class="bionote"><a href="mailto:llipper@childrenspartnership.org">Laurie Lipper</a> and <a href="mailto:wlazarus@childrenspartnership.org">Wendy 
+  Lazarus</a> are Co-Founders and Co-Presidents of the Children's Partnership. 
+  Other contributors include: James Lau and Jackie Cruz Wagener.</div>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Sweet, Sweet $ustainability</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000114.html" />
+    <modified>2005-06-14T07:02:00Z</modified>
+    <issued>2005-06-14T03:02:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.114</id>
+    <created>2005-06-14T07:02:00Z</created>
+    <summary type="text/plain"><![CDATA[My work brings me into contact with hundreds of Washington State-based community technology programs (&quot;CTPs&quot;), and they are all working on serious sustainability issues. I work on the Bill &amp; Melinda Gates Foundation's Community Access to Technology (CAT) Program, and...]]></summary>
+    <author>
+      <name>Ken Thompson</name>
+      
+      
+    </author>
+    <dc:subject>TA to Nonprofits</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<p>My work brings me into contact with hundreds of Washington State-based community 
+    technology programs (&quot;CTPs&quot;), and they are all working on serious 
+    sustainability issues. I work on the <a
+href="http://www.gatesfoundation.org/cat" target="_blank">Bill &amp; Melinda Gates 
+    Foundation's Community Access to Technology (CAT) Program</a>, and as such, 
+    I represent an impermanent step on the path to sustainability.&nbsp; With 
+    each proposal, however, would-be grantees and I both wrestle with issues of 
+    long-term sustainability.&nbsp; What will make an organization's technology 
+    project sustainable in the long term? The jury is still out. Actually, I'm 
+    not even sure they've seen all the evidence yet.</p>
+  <span class="subhead">Centers or Programs?</span>
+  <p>As this field matures, sustainability is certainly one of the questions of 
+    the day. In many ways, it begs another question&#151;what is the long-term 
+    purpose of community technology programs? Like dentists encouraging everyone 
+    to brush and floss, should they be trying to put themselves out of business 
+    by eliminating the problem they are there to address? Or will CTPs always 
+    be with us, dealing with the changing ranks of the digitally divided, and 
+    the changing nature of technology?</p>
+  <p>My feeling is that nonprofit-run technology programs will be with us for 
+    some time, if not effectively forever. I'm less sure about the fates of &quot;stand 
+    alone&quot; CTCs. In Washington State, where CAT does all its grantmaking, 
+    very few community technology programs are run out of organizations that have 
+    a mission built around technology access, and I don't suspect the national 
+    scene is much different. Of the 50 or so grantees of CAT, only two or three 
+    are CTCNet members. In other words, a CTCNet membership does not seem pertinent 
+    to the vast majority of CTPs out there. In my experience, the vast majority 
+    of CTPs work with an organization's specific client set, rather than being 
+    open to the public at large. This, plus not seeing their organization's mission 
+    as being &quot;about technology,&quot; and certainly not thinking of themselves 
+    as a &quot;technology center,&quot; all distance them from CTCNet.&nbsp; This 
+    is a shame, since there would be much for them to gain from membership.&nbsp; 
+    If CTCNet could morph into something useful to these organizations, CTCNet 
+    could be a meaningful player in making CTPs sustainable. At present, it is 
+    not.</p>
+  <span class="subhead">Plan A</span>
+  <p>Working on the assumption that most technology programs are part of larger 
+    (non-technology oriented) organizations, the basic philosophy should be that 
+    technology costs need to be thought of as just one line item in the general 
+    operations budget of an organization, not a &quot;special project&quot; cost.&nbsp; 
+    As such, making CTPs sustainable is really no different than any exercise 
+    in nonprofit sustainability. You need an effective fundraising plan and diversified 
+    sources of income. If humanly possible, you need to make your organization 
+    or program entirely non-dependent on fickle grantmakers. I estimate that there 
+    are only a few years left where most private grantmakers will be seduced by 
+    the allure of &quot;technology projects&quot; &#151;expect fundraising to 
+    get a lot harder if you are basing your argument for funding primarily on 
+    technology access in the years ahead.</p>
+  <span class="subhead">Blah, Blah, Blah</span>
+  <p>All the standard methods of promoting sustainability are covered in some 
+    depth in the City of Seattle's &quot;<a
+href="http://www.cityofseattle.net/tech/ctc/default.htm" target="_blank">Sustainability 
+    Strategies for Community Technology Centers in Seattle</a>,&quot; authored 
+    by the Environmental Health and Social Policy Center. Not to knock this report 
+    unduly (it is a workman-like recitation of all the elements that would help 
+    to make any nonprofit sustainable), but for the most part it fails to meet 
+    its own goals of &quot;finding strategies that will help place...CTCs on a 
+    path to sustainable operations&quot; and in finding whether &quot;strategies 
+    that work at one CTC (can) be successfully applied by others.&quot; Unless 
+    you have been operating a technology center under a rock for the past ten 
+    years, nothing much in this report will surprise you (however, if you are 
+    just thinking of starting a CTP, this report is a great primer on common issues 
+    and well-known broad strategies for survival). </p>
+  <p><br>
+    Likewise, Industry Canada's report on &quot;<a
+href="http://www.ecommons.ca/stage/main.phtml?css=100&amp;section=research&amp;show=cap" target="_blank">A 
+    Picture of the Community Access Program of Industry Canada</a> <a
+name="_Hlt23057116"></a><a name="_Hlt23057178"></a><a name="_Hlt23057196"></a><a
+name="_Hlt23057150"></a><a name="_Hlt23057006"></a><a name="_Hlt23057073"></a><a
+name="_Hlt23057001"></a> &quot; tries to address the issue of sustainability head 
+    on. Many of the conclusions they reach echo the Seattle report on best practices 
+    towards generic sustainability: community buy-in and participation, serving 
+    local needs, leadership, partnerships, and effective marketing, to name a 
+    few.&nbsp; </p>
+  <span class="subhead">The (Un)Holy Grail&#151;Cash</span>
+  <p>What I keep hoping that I will find in these reports are studies showing 
+    specific effective non-grants-based strategies for keeping your CTP going. 
+    Alas, this is not there. At the last CTCNet Conference there was some talk 
+    of trying to develop a research agenda for the field. If this is realized, 
+    I sincerely hope that <i>useful</i> sustainability research will be on the 
+    agenda.&nbsp; Given the lack of actual research to rely on, what follows are 
+    my thoughts and musings on the subject. </p>
+  <p>Substantial earned income needs to be the goal of every CTP&#151;this is 
+    a trend in the nonprofit sector generally. If you think that commerce is evil, 
+    get over it. Nothing says independence like your own income stream. The trick 
+    is making it work with your mission. As such, there do seem to be some opportunities 
+    for CTCs and CTPs to make a buck and do good at the same time. </p>
+  <p>The Industry Canada report lists a few interesting examples: one CTC built 
+    a digital recording studio into its center; another acts as a publishing center 
+    for its host organization, putting out retail items like calendars, cookbooks, 
+    and local history books; others design web pages for government and nonprofit 
+    clients for a fee. Part of the key here is that they feel okay charging a 
+    fee for enhanced services &#151;they don't feel obliged to give everything 
+    away for free. The Seattle report also lists some fee-for-service concepts 
+    that have been implemented: substantial class fees for high-end training curriculum; 
+    a fee-based computer repair service, and sales of donated, refurbished computers.&nbsp; 
+    I love these on-the-ground examples (no, your CTC/CTP doesn't have to become 
+    a competitive ISP to survive), and more needs to be written about them.&nbsp; 
+    Contact info for these projects is in the reports. Give 'em a call.</p>
+  <p>Actuall<u>y</u> adding something to this area of inquiry is a recent Summit 
+    Collaborative report called <a href="http://www.ctcnet.org/ctctechprovreport.html" target="_blank">&quot;Community 
+    Technology Centers as Technology Assistance Providers to Nonprofit &amp; Community 
+    Based Organizations.&quot;</a> It profiles several technology organizations 
+    that are looking to make money by providing technology consulting and other 
+    services to other local nonprofits.&nbsp; While larger cities may already 
+    have someone covering this area (<a href="http://www.npower.org" target="_blank">NPower</a> 
+    would be one example of this sort of provider), most mid-size cities and smaller 
+    towns do not have someone providing this service, opening up an on-mission 
+    earned income opportunity for community technology organizations.</p>
+  <p>We also need to be unafraid to learn from other nonprofit sectors. I just 
+    picked up a new book by Andy Robinson called <i>Selling Social Change (Without 
+    Selling Out</i>).&nbsp; I'm only on page 7, but he's already given one great 
+    case study about a nonprofit that promotes bicycling as a transportation alternative. 
+    They earn 100% of their annual $200,000 budget through earned income sources 
+    such as full service (full-priced) repairs, lower-cost assisted self-repairs, 
+    selling refurbished bikes from donated parts, and an innovative international 
+    linkages program with Guatemala.&nbsp; Sound familiar?&nbsp; Is this the sort 
+    of program that most CTCs/CTPs could run, but with computers instead of bikes? 
+    You bet. [My apologies if there is already this exact program operational 
+    out there. I have not heard of you yet.&nbsp; If you are making $200,000/year, 
+    you should get the word out!]&nbsp; If you have not read it, you might also 
+    check out Bill Shore's<i> The Cathedral Within</i> for some inspirational 
+    stories on how some larger nonprofits have succeeded in a big way at the earned 
+    income game. Shore lays out the institutional backing and will that needs 
+    to be behind larger income-earning projects.</p>
+  <span class="subhead">Take a Chance</span>
+  <p>I don't mean to downplay entirely the other tactics that can be used to edge 
+    toward sustainability. One I am seeing more and more are links with high school 
+    or community college students for credit/volunteer opportunities, especially 
+    around technical support issues and lab staffing.&nbsp; Innovative partnerships, 
+    especially at the moment of program inception, can be particularly powerful.&nbsp; 
+    A CAT grantee, <a
+href="http://www.pnt.org/" target="_blank">the Pacific Northwest Trail Association</a>, 
+    formulated their CTP in such a way that they had financial commitments secured 
+    from every layer of government imaginable before launching their project (federal&#151;provides 
+    transportation; state&#151;laid fiber for connectivity; school district&#151;donated 
+    space) in exchange for access and services from PNTA. Now they are developing 
+    an earned income enterprise based on growing and selling native plants for 
+    environmental rehabilitation projects, facilitated in part by their computer 
+    center.&nbsp; And no, they don't have a large staff or a million dollar budget, 
+    they are, in fact, located in tiny Sedro-Wolley, Washington.&nbsp; Unlike 
+    nearly every other funder on the planet, I do not think that partnerships 
+    and &quot;leveraging&quot; are a long-term sustainability plan, even though 
+    the PNW Trail Association story is a great one.</p>
+  <p>For many years, I worked for a small nonprofit. I know that time and dollars 
+    are short and tight in that environment, and it's not often easy to take a 
+    chance. But some thought to on-the-ground earned income experimentation needs 
+    to happen in the CTC/CTP space, and soon. And the word needs to get out, both 
+    about successes and failures. If you are running a CTP, read the reports and 
+    books I mentioned, and lobby CTCNet, or ACC, or someone, to produce useful 
+    studies on replicable earned income projects. Mostly, do not wait for funders 
+    to come to your rescue.&nbsp; Foundations are great at many things, but not 
+    at covering the ongoing costs of running an organization, and they are not 
+    renowned for their patience or decades-long commitments.&nbsp; As &quot;venture 
+    philanthropy&quot; and other trends from the business world take hold more 
+    firmly, expect funders to be looking for evidence and data on how you will 
+    survive without them.</p>
+  <hr>
+  <div class="bionote"><p><a href="mailto:mailto:cat@gatesfoundation.org">Ken Thompson</a> is the Program 
+    Officer for the Bill &amp; Melinda Gates Foundation's Community Access to 
+    Technology program, which makes grants in Washington State only.&nbsp; He 
+    was formerly a librarian, worked at an Internet start-up, was an arts administrator, 
+    and worked as an editor, in approximately that order.</p></div>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Online Fundraising Comes of Age</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000115.html" />
+    <modified>2005-06-14T07:01:00Z</modified>
+    <issued>2005-06-14T03:01:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.115</id>
+    <created>2005-06-14T07:01:00Z</created>
+    <summary type="text/plain"><![CDATA[Many of us recall the announcement by President Bush, encouraging Americans from all walks of life to visit Helping.org, RedCross.org and other online sites to donate generously.&nbsp; According to a March 21, 2002, Chronicle of Philanthropy article by Nicole Wallace,...]]></summary>
+    <author>
+      <name>Michael Stein</name>
+      
+      
+    </author>
+    <dc:subject>TA to Nonprofits</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<P>Many of us recall the announcement by President Bush, encouraging Americans from all walks of life to visit Helping.org, RedCross.org and other online sites to donate generously.&nbsp; According to a March 21, 2002, Chronicle of Philanthropy article by Nicole Wallace, over $215 million of the more than $2 billion collected altogether was donated online. Online fundraising had come of age.</P>
+<P>One year later, online fundraising has continued to evolve.&nbsp; Here are four trends that are notable during this past year.</P>
+<span class="subhead">Trend One: Small and medium-size nonprofits are making a commitment to online fundraising, many for the first time.</span>
+<P>Small and medium-size nonprofits have made notable investments in online fundraising systems, most frequently by putting "Donate Now" buttons on their web sites to solicit direct contributions from supporters.&nbsp; Organizations such as <A href="http://www.networkforgood.org/" target=_blank>Network for Good</A> (formerly operating as Helping.org and currently run by AOL Time Warner, Cisco and Yahoo) have been influential in encouraging this with their free -- though feature-light -- donation button service.&nbsp; Other fee-based services such as <A href="http://www.egrants.org/" target=_blank>eGrants.org</A>, <A href="http://www.entango.com/" target=_blank>Entango Corporation</A>, <A href="http://www.donate.net/" target=_blank>Donate.net</A>, <A href="http://www.etapestry.com/" target=_blank>eTapestry.com</A> and others have continued to acquire nonprofit customers, building the trend.&nbsp; This trend has grown because nonprofits continue to seek new sources of income, and are (finally) convinced that the effort of setting up a donation button is worth the return on investment.&nbsp; The events of September 11 appear to have influenced their thinking that donors are now comfortable with giving online.&nbsp; An economic downturn, coupled with budget cutbacks at foundations, has been another motivating factor that is encouraging experimentation.&nbsp; </P>
+<P><A href="http://www.commercialalert.org/" target=_blank>Commercial Alert</A> in Portland, Oregon, is a good example.&nbsp; With a broad mission of keeping commercial culture within its proper sphere, they've had their hands full recently.&nbsp; Recent campaigns have included challenging corporate marketing in public schools and campaigning UNICEF to cancel McDonald's World Children's Day. "We're getting a lot of good press recently," says Commercial Alert Executive Director Gary Ruskin. "We're expanding and growing as a result of the exposure. We did our first targeted direct mail campaign in April and May 2002, and encouraged people to support us. We redid our web site to improve the look and layout, and we figured out how to hook up the eGrants.org DonateNow! button."&nbsp; Their May online donations totaled $1,100, June was $1,800, and numbers have stayed over $1,000 each month.&nbsp; "Online gifts are only about 5% of our total gifts as a result of this direct mail campaign, and we hear that's pretty normal. We figure that some donors visit our web site after they get the direct mail piece to learn more about us, and then give online because it's convenient. Our goal is to get the word out about our work, and make it easy for people to give in whatever way they're comfortable." </P>
+<span class="subhead">Trend Two: Larger nonprofits are making significant infrastructure investments in membership management systems.</span>
+<P>Larger nonprofits have signed up in droves with integrated membership management systems, offered by companies such as Convio, Kintera, Groupstone, GetActive Software, Virtual Sprockets, Social Ecology and others.&nbsp; These services are transforming the infrastructure of nonprofits by integrating a wide variety of knowledge and information management processes such as Web site content updates, membership tracking, email messaging, events registration, credit card processing, e-commerce transactions, and advocacy campaigns.&nbsp; These integrated services, while often out of the price range of smaller nonprofits, nevertheless represent important advances in membership management and online fundraising.&nbsp; This trend has grown because larger nonprofits want to integrate both membership management and Internet presence, and it has come to encompass a number of different organizational functions and staff.&nbsp; Larger nonprofits are convinced that these best-of-breed services deliver improved organizational effectiveness and better member relationships.</P>
+<P><A href="http://www.childrennow.org/" target=_blank>Children Now</A> in Oakland, California is an example of a larger nonprofit doing this.&nbsp; Their mission is to improve the lives of children, and they accomplish this through groundbreaking research, media and advocacy campaigns.&nbsp; Recent projects have included studies of media and gender.&nbsp; "Boys to Men: Media Messages<A name=_Hlt18730886> </A>about Masculinity" is their landmark 1999 study that shows how media often reinforces a gender strait jacket and how boys need a fuller range of options to grow up healthy in America.&nbsp; "We were on the lookout for a company that was both flexible and willing to grow with our needs in mind," comments Children Now Internet Coordinator Colette Washington, who signed up with <A href="http://www.getactive.com/" target=_blank>GetActive Software</A> <A name=_Hlt23055529></A>to power their email messaging and advocacy campaigns needs.&nbsp; "Our staff had a wide variety of needs, because we do so many different things, and we quickly found that we would need to prioritize our wish list."&nbsp; They use GetActive Software to periodically contact registered users by email to recommend that certain actions be taken via fax, email, phone, or letters.&nbsp; GetActive powers the advocacy tool, complete with Congressional directory, tracks user activity to help customize action alerts and allows Children Now to contact registered users to provide updates on actions taken.&nbsp; "We have yet to convert all our membership management to this system, but this was an appropriate and affordable first step," says Washington.</P>
+<span class="subhead">Trend Three: Experimentation and creativity have become hallmarks in online fundraising campaigns.</span>
+<P>Both of the above-noted trends relate to infrastructure changes within nonprofits.&nbsp; Other than infrastructure, this last year has seen a big leap forward in how nonprofits are experimenting in the way that they're conducting their online fundraising.&nbsp; Creativity in using the tools of the Internet has allowed nonprofits to create audio, visual, photographic and other presentations to engage email subscribers and website visitors.&nbsp; Planned coordination between direct mail and Internet appeals has also allowed for better messaging and membership engagement.&nbsp; Finally, the relatively low cost of experimentation in the online medium allows nonprofits to do a lot of campaign testing, to find out what works and doesn't work, and thereby learn their own lessons on their way to online fundraising success.</P>
+<P>"<A href="http://www.mspca.org/news_events/enews/summeroflove.html" target=_blank>Give Pets a Chance</A>" is a groovy online fundraising campaign created by Internet agency <A href="http://www.donordigital.com/" target=_blank>Donordigital.com</A> for the <A href="http://www.mspca.org/" target=_blank>Massachusetts SPCA</A>.&nbsp; Combining the compelling appeal of animals needing homes with 60's flower power copy and graphics, the campaign is designed to help find homes for hard-to-adopt animals and increase giving for their care until they're adopted.&nbsp; Bi-monthly e-mails, a home page pitch, and special campaign and giving pages achieved results by dramatically increasing online giving, injecting some viral fun into the MSPCA's online program, giving pet-loving constituents even more ways to help animals, and finding homes for featured animals.</P>
+<P><A href="http://www.gristmagazine.org/" target=_blank>Grist Magazine</A>, an online environmental magazine and project of Earth Day Network, raised more than $65,000 in three weeks with a highly creative and innovative online fundraising campaign. Grist sent several personal, humorous, and compelling appeals to its subscribers (including one from the mother of editor Chip Giller), using a combination of HTML and straight text. Says Chip about the campaign: "We were amazed and gratified by our readers' generosity."</P>
+<span class="subhead">Trend Four: Online giving portals are playing a growing role in donor education and engagement.</span>
+<P>Building on the experiences of 9-11, several online giving portals have played an increasingly important role in educating and engaging donors in charitable giving and volunteering, with civic responsibility as the underlying message.&nbsp; Networkforgood.org, Volunteermatch.org, JustGive.org, USAFreedomCorps.org, NetAid.org, Idealist.org and many others have worked hard to collaborate to engage Americans to get involved.&nbsp; As a result, they are continuing to build the Internet as a medium that serves a vital role in civic life.&nbsp; That in turn is powering the other three, since it broadens the supply side of Internet giving, volunteering and engagement.</P>
+<P>While many would use online fundraising and dollars raised as a benchmark for success, many agree that ongoing relationship building between donors, volunteers and the nonprofits agencies themselves is the desired outcome.&nbsp; Internet technology tools have increased in sophistication this past year, allowing nonprofits to try new things.&nbsp; The experimentation that we hear talked about so much in nonprofit agencies is the sound of organizations changing and adapting to new ways of doing things in an era where high speed Internet access, online banking, Internet shopping, and e-commerce are becoming everyday realities for millions of Americans.</P>
+<P>It is now more important than ever for nonprofits of all sizes to improve their online fundraising effectiveness and performance.&nbsp; More broadly, it's important for nonprofits to learn how to build online relationships with donors and volunteers, and to do it gradually, effectively, and affordably.&nbsp; Let's use this occasion to renew our commitment to sharing our lessons learned, writing up our case studies, seeking out training opportunities, and working together to make the most of what the Internet has to offer. </P>
+<HR>
+<div class="bionote"><P class=HTMLBody><A href="mailto:mstein@egrants.org">Michael Stein</A> is a nationally renowned author and Internet strategist with over a decade of experience working with nonprofits, foundations, labor unions and technology assistance providers.&nbsp; He is currently the Associate Director of <A href="http://www.egrants.org/" target=_blank>Groundspring.org</A> (formerly eGrants.org), a nonprofit technology and training agency based in the Presidio National Park in San Francisco.&nbsp; He is the author of three books about the Internet including the recent<I> The eNonprofit: A Guide to ASPs, Internet Services and Online Software</I> with John Kenyon, published by CompassPoint Nonprofit Services.&nbsp; Michael also runs <A href="http://www.dotorgmedia.org/" target=_blank>Dot Org Media</A> as a joint venture with Marc Osten of Summit Collaborative, a content publishing service that offers an e-newsletter and special reports on key issues in nonprofit technology.</P></div>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Unlocking the Potential of Open-Source</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/fall-02_winter-03/000116.html" />
+    <modified>2005-06-14T07:00:00Z</modified>
+    <issued>2005-06-14T03:00:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/fall-02_winter-03//7.116</id>
+    <created>2005-06-14T07:00:00Z</created>
+    <summary type="text/plain">Community building is fundamentally about local problems being solved at the local level by local stakeholders. What if we were to apply this philosophy to technology development in nonprofit organizations? Already, NPOs are building technology to support their needs. Organizations...</summary>
+    <author>
+      <name>David Geilhufe</name>
+      
+      
+    </author>
+    <dc:subject>TA to Nonprofits</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/fall-02_winter-03/">
+      <![CDATA[<P>Community building is fundamentally about local problems being solved at the local level by local stakeholders.</P>
+<P>What if we were to apply this philosophy to technology development in nonprofit organizations? Already, NPOs are building technology to support their needs. Organizations like the <A href="http://www.americaconnects.net/research/ctcds.asp" target=_blank>Fast Forward Neighborhood Technology Center</A> have built databases with national resources to help other CTCs improve their internal operations. <A href="http://www.openhand.org/" target=_blank>Project Open Hand</A> <A name=_Hlt23049841></A>in San Francisco has built a custom database to manage their delivery of over 400 meals per day to people living with HIV and AIDS.</P>
+<P>Local technology solutions are being created for local technology problems. This is fundamentally different from traditional software development where entrepreneurs build a piece of technology for CTCs or HIV/AIDs meal providers because they expect to realize a profit on the sale of that technology. </P>
+<P>Open-source principles and practices allow the principles of community building to be applied to technology development in the nonprofit sector. Three key ideas of open-source relevant to the CTCs are distribution, licensing, and community.</P>
+<UL>
+<LI>"Distribution" refers to the availability of software. Open-source allows easy access to software usually via the web.
+<LI>"Licensing" refers to who has the legal right to use, modify, and distribute a piece of software. An open-source license allows people to do these things freely.
+<LI>"Community" refers to the ongoing group of stakeholders who support, extend, and improve the software. Open-source software has a number of people continually contributing changes back to others.</LI></UL>
+<P>In applying these principles to my two examples, we can see where community building and open-source share many of the same goals and values.</P>
+<span class="subhead">Distribution</span>
+<P>The Fast Forward CTC database embraces the open-source principle of distribution by making the technology freely accessible from the <A href="http://www.americaconnects.net/research/ctcds.asp" target=_blank>America Connects Consortium</A> (ACC) web site and advertising it widely. The Project Open Hand product, however, is not available for download. In fact, a reader of this article might never have otherwise known it even existed.</P>
+<P>An open-source approach mirrors how the ACC distributes the CTC database. The technology is easily downloadable and advertised to people who might be interested in it.</P>
+<span class="subhead">Licensing </span>
+<P>Project Open Hand chose not to license their software at all. Other HIV/AIDs meal providers have no legal right to use it. If they want similar functionality, they will need to build it themselves at a cost of over $100,000. A commercial software alternative is a virtually impossibility since the potential market is so small.</P>
+<P>Fast Forward's database is owned by <A href="http://www.edc.org/" target=_blank>Education Development Center, Inc.</A> Their license reads: "This material may be downloaded, reproduced and distributed only in its complete, original form. The material can not be sold, modified or incorporated into other works or materials without the express, written permission of EDC." If someone wants to add a single field or otherwise modify the database to better meet the needs of local CTCs, they need to obtain written permission from EDC.</P>
+<P>Under open-source licensing principles, local stakeholders determine for themselves how best to employ the technology according to their local needs. If the software needs slight modification to be useful, they do not have to seek permission before doing so. If a group wishes to modify the technology significantly and distribute it to an entire sub-group, perhaps PowerUp centers or Ohio CTCs, they can do so. [The most common open source software license is the <A href="http://www.fsf.org/copyleft/gpl.html" target=_blank>GNU Public License</A> (GPL).]</P>
+<span class="subhead">Community</span>
+<P>The final open-source principle, community, is both the most beneficial and the most difficult to achieve. "Community," here, refers to the group of people that can innovate and extend a piece of technology. Rather than use a static application, community builds new functionality, fixes problems, and generally makes needed changes. </P>
+<P>In both examples, the original "owner" of the technology is the only member of the community. Single-member communities are easy to manage&#8212;it is pretty easy to avoid conflicts with yourself. At the same time, there is value in the diversity that comes from community. Different ideas, different needs, and different resources lead to innovative and effective solutions. This is at the heart of why we value community building. Now we can bring some the same concepts into community technology through open-source and realize some of the same benefits.</P>
+<span class="subhead">What can you do?</span>
+<UL>
+<LI>If you participate in a technology project, take the time to examine the project through the lenses of the three open-source principles of distribution, license, and community.
+<LI>
+Consider licensing the software you are responsible for under the GPL.
+<LI>Encourage those responsible for software you use to license their software under the GPL.</LI></UL>
+<HR>
+<DIV class="caption"><A href="mailto:david@social-source.org">David Geilhufe</A> is the founder of <A href="http://www.social-source.org/" target=_blank>Social Source Software</A>, LLC., and edits the <A href="http://lists.social-source.org/lists/info/noss" target=_blank>Social Source Newsletter.</A></div>]]>
+      
+    </content>
+  </entry>
+
+</feed>

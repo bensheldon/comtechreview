@@ -1,0 +1,28 @@
+***************
+*** 10,21 ****
+  @MT::Comment::ISA = qw( MT::Object );
+  __PACKAGE__->install_properties({
+      columns => [
+-         'id', 'blog_id', 'entry_id', 'author', 'email', 'url', 'text', 'ip'
+      ],
+      indexes => {
+          created_on => 1,
+          entry_id => 1,
+          blog_id => 1,
+      },
+      audit => 1,
+      datasource => 'comment',
+--- 10,22 ----
+  @MT::Comment::ISA = qw( MT::Object );
+  __PACKAGE__->install_properties({
+      columns => [
++         'id', 'blog_id', 'entry_id', 'author', 'email', 'url', 'text', 'ip', 'subject', 'parent_id'
+      ],
+      indexes => {
+          created_on => 1,
+          entry_id => 1,
+          blog_id => 1,
++ 	parent_id => 1,
+      },
+      audit => 1,
+      datasource => 'comment',

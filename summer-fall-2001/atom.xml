@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+  <title>Summer-Fall 2001</title>
+  <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/" />
+  <modified>2005-10-18T20:13:48Z</modified>
+  <tagline></tagline>
+  <id>tag:comtechreview.org,2007:/summer-fall-2001//6</id>
+  <generator url="http://www.movabletype.org/" version="2.661">Movable Type</generator>
+  <copyright>Copyright (c) 2005, Editor</copyright>
+  <entry>
+    <title>Faces of Tomorrow</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000345.html" />
+    <modified>2005-10-18T20:13:48Z</modified>
+    <issued>2005-10-18T16:13:48-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.345</id>
+    <created>2005-10-18T20:13:48Z</created>
+    <summary type="text/plain"></summary>
+    <author>
+      <name>Editor</name>
+      
+      
+    </author>
+    <dc:subject>Back Cover</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<img alt="0601CTRbackcover.jpg" src="http://www.comtechreview.org/summer-fall-2001/0601CTRbackcover.jpg" width="550" height="699" border="0" />]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>About This Issue</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000086.html" />
+    <modified>2005-06-14T11:01:00Z</modified>
+    <issued>2005-06-14T07:01:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.86</id>
+    <created>2005-06-14T11:01:00Z</created>
+    <summary type="text/plain">We&apos;re extremely excited to be back and to have a new home for the Review at the UMass/Boston College of Public and Community Service (back issues are available online). Our enthusiasm is matched by our awe at the speed of...</summary>
+    <author>
+      <name>Peter Miller and Richard Civille</name>
+      
+      
+    </author>
+    <dc:subject>ComTechReview</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<p>We're extremely excited to be back and to have a new home for the Review at the UMass/Boston College of Public and Community Service (<A href="http://www.civicnet.org/comtechreview">back issues are available online</A>). Our enthusiasm is matched by our awe at the speed of development and change. Since the last issue and announcing the call for submissions for this one, we've learned an immense amount. Here are three key points we'd like to pass along. 
+<P>First, we've learned a lesson about "leadership in the community technology movement." Although we've put together another very full issue, we know we have barely touched on our topic. There are profiles and descriptions of lots of projects we get completed - a Morino Institute paper, PolicyLink's analysis of community development, profiles of Cincinnati and other municipalities, updates from lap.org and the National Recreation and Parks Association, best practices and resources from HUD's Neighborhood Network program-and much that we confess we do not even know to ask about.</P>
+<P>Nonetheless, we think we have made some a good effort to sketch out and report on a number of important sites on the map on community technology. Without providing too detailed a commentary on our table of contents, we've got a round-up of our key organizational sponsors, the Community Technology Centers' Network (CTCNet) and the Association for Community Networking (AFCN). You'll find asides about related programs through America Connects, Power Up, the Alliance for Community Media, and Computer Professionals for Social Responsibility. There's a special take on the extensive digital divide resources associated with AmericaCorps*VISTA and the Corporation for National Service, with useful contributions towards grasping what's happening in the worlds of technology assistance to the nonprofit sector, community technology program development in higher ed, and in the public policy arena which affects everything.</P>
+<P>Second, one of the definitive things we're learning is that major developments and transformations, which continue to take place within specific organizations and institutions, are also importantly being measured on municipal and regional scales-that's the lesson of our profiles on Atlanta, Georgia; Lowell, Massachusetts; and Seattle, Washington. As grassroots, municipal, corporate and foundation and association efforts converge, mapping efforts to grasp and coordinate further development become basic for our work more and more.</P>
+<P>Finally, as we've come to develop the hard copy print journalism medium and explore the possibilities of its integration into online resources over the last several years, we want to step on to the next rung of the ladder. While you'll find only a limited number of web sites explicitly listed in the hard copy version of these pieces, we've encouraged our contributors to make very liberal use of hypertext links which you can see by the color of the print in contrast to the regular black text. When you go to the text in our online edition, you'll be able to click on the links that you care to explore in depth to your own liking. You'll be able to select, too, on extended versions of some articles which the contributors edited for the print version. We've really not even begun to convey the art that community technology has created, and we'll look forward to doing that in the coming issues. - <A href="mailto:peterm@igc.org">Peter Miller</A> & <A href="mailto:rciville@civicnet.org">Richard Civille</A><BR></P>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Community Media &amp; Technology at UMass/Boston</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000135.html" />
+    <modified>2005-06-14T11:00:00Z</modified>
+    <issued>2005-06-14T07:00:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.135</id>
+    <created>2005-06-14T11:00:00Z</created>
+    <summary type="text/plain"> FRONT COVER: At the press conference at Boston Neighborhood Network&apos;s Roxbury studios and soon-to-open Multi-Media Center, celebrating the $1M+ award from the Corporation for National Service (CNS) to UMass/Boston CPCS for the CTC VISTA Project last October. (l to...</summary>
+    <author>
+      <name>Reebee Garafolo</name>
+      
+      
+    </author>
+    <dc:subject>ComTechReview</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<table width="272" border="0" cellspacing="5" cellpadding="5" align="left">
+  <tr> 
+    <td><img src="/summer-fall-2001/img/small_cover.jpg" width="252" height="148" alt="CTC VISTA Project grant press conference"></td>
+  </tr>
+  <tr> 
+    <td> <span class="caption">FRONT COVER: At the press conference at Boston Neighborhood 
+      Network's Roxbury studios and soon-to-open Multi-Media Center, celebrating 
+      the $1M+ award from the Corporation for National Service (CNS) to UMass/Boston 
+      CPCS for the CTC VISTA Project last October. (l to r) Mal Coles, CNS New 
+      England Atlantic Area Manager; Matt Dunne, National Director AmeriCorps*VISTA; 
+      Boston Mayor (and UMass CPCS graduate) Tom Menino; Curtis Henderson, General 
+      Manager, Boston Neighborhood Network; Liz Cavano, AmeriCorps*VISTA member 
+      at Somerville Community Access Television; UMass/ Boston Provost Charles 
+      Cnudde; CTC VISTA Project Principal Investigator Professor Reebee Garofalo; 
+      CTC VISTA Project Director Peter Miller; and Kate Snow, Director of the 
+      Codman Square Technology Center, and President of the Board, CTCNet.</span></td>
+  </tr>
+</table>
+<p>The <a href="http://www.cpcs.umb.edu">College of Public and Community Service 
+  (CPCS)</a> at <a href="http://www.umb.edu">UMass Boston</a> is in the process 
+  of launching a series of community technology initiatives &#150; a new degree 
+  program in <a href="http://www.cpcs.umb.edu/cmt">Community Media and Technology</a>, 
+  the <a href="http://www.cpcs.umb.edu/vista">CTC VISTA Project</a>, and a number 
+  of related projects, including sponsorship of The Community Technology Review. 
+  Here's why and more about each.</p>
+<p>It is by now axiomatic that most of our information about everything from people 
+  and places to pressing social issues and the diversity of world cultures comes 
+  to us through mass mediated words, sounds, and images. Particularly, as media 
+  and information technologies converge, corporate power is being concentrated 
+  in the hands of fewer and fewer transnational media and technology companies 
+  which play an ever more crucial role in shaping everyday life for millions of 
+  people. It is also the case that these very technologies hold out the promise 
+  of incredible decentralization and democratization of communication.</p>
+<p>There is, of course, a need to challenge the growing concentration of media 
+  power and to develop the analytic tools to become critical consumers of existing 
+  media fare. Just as importantly, there is a need to develop a community-based 
+  telecommunications infrastructure and new democratic and participatory community 
+  organizations and institutions that will empower people to become not just educated 
+  consumers but skilled producers as well, equipped with the knowledge and tools 
+  to tell their own stories, build their own communities and institutions, and 
+  mobilize their own constituencies. There are now countless projects all over 
+  the country where such goals are being realized. As these media and technologies 
+  have become more affordable and more accessible, they have become useful, if 
+  not indispensable, tools for even the smallest non-profits and community-based 
+  organizations.</p>
+<p>Given the increasing relevance of new media and information technologies to 
+  public and community service, a major curriculum revision at CPCS has led to 
+  the development of a new program in Community Media and Technology (CMT). While 
+  we are progressing toward approval of a new major, we have put in place a CMT 
+  concentration that can be used in conjunction with other degrees offered at 
+  the college, as well as a free-standing certificate for students who already 
+  have bachelor degrees. Both the concentration and certificate are designed to 
+  provide students with the key competencies they need to appreciate the dangers 
+  and the promises of media and technology for community building and incorporate 
+  a range of multi-media tools into their primary responsibilities, be they labor 
+  activists, community organizers, or agency professionals. Those wishing to explore 
+  the curriculum and program in the context of the College's competency-based 
+  approach to education are invited to explore its <a href="http://www.cpcs.umb.edu/cmt">online 
+  resources</a>.</p>
+<table width="232" border="0" cellspacing="5" cellpadding="5" align="left">
+  <tr> 
+    <td><img src="/summer-fall-2001/img/14.gif" width="252" height="167" alt="Eugena Harrington and Marsha Colbert""></td>
+  </tr>
+  <tr> 
+    <td><span class="caption">CTC VISTA member Eugena Harrington (left) and 
+      AmeriCorps*VISTA State Program Specialist Marsha Colbert after the orientation 
+      session in February. Gena and fellow CTC VISTA Martha Moore, both serving 
+      with RTPNet in NC, oversee the project electronic discussion list. Marsha 
+      Colbert oversees the CTC VISTA Project for the Corporation for National 
+      Service along with Mal Coles (far left cover) and is a UMass/Boston CPCS 
+      graduate.</span></td>
+  </tr>
+</table>
+<p>As a part of the effort to develop its capacities in the arena of Community 
+  Media and Technology, CPCS has become the prime sponsor of the <a href="http://www.cpcs.umb.edu/vista">CTC 
+  VISTA Project</a>  &#150; a collaboration with the Community Technology Centers' 
+  Network (<a href="http://www.ctcnet.org">CTCNet</a>) and <a href="http://www.americorps.org">AmeriCorps*VISTA</a> &#150; providing 
+  for the recruitment, placement, training, support, and administrative coordination 
+  for AmeriCorps*VISTA members who work in community technology centers (CTCs) 
+  in the greater Boston area and across the country. Participating VISTAs receive 
+  ongoing mentoring at their home sites and attend a periodic training and orientation 
+  institute at CPCS.</p>
+<p>Over the last year, a consortium of partners from the CTC VISTA project has 
+  come together to develop plans for expanding community media and technology 
+  resources throughout the region through developing the Greater Boston Broadband 
+  Network (<a href="http://www.cpcs.umb.edu/vista/gbbn.pdf">GBBN</a>). GBBN is 
+  designed to provide an integrated combination of advanced information technology 
+  and telecommunications services, including training, multi-media content production 
+  and distribution, and access to broadband services that includes building upon 
+  the university's high-speed telecommunications infrastructure.</p>
+<p>The GBBN consortium developed a <a href="http://www.cpcs.umb.edu/vista/top.proposal.html">proposal</a> 
+  for the Department of Commerce's Technology Opportunity Program (<a href="http://www.ntia.doc.gov/otiahome/top/index.html">TOP</a>), 
+  with strong support from local units of government, hoping to give these efforts 
+  a major boost. CPCS, the VISTA Project, and the Lowell community technology 
+  consortium members are helping forge a <a href="http://www.cpcs.umb.edu/vista/profdev.html">multi-campus-community 
+  technology project</a>, too.</p>
+<p>The CTC VISTA Project and the CPCS CMT program go hand in hand in developing 
+  complementary university-community partnerships. The Community Technology Review 
+  is part of this package of services and resources. We believe it provides an 
+  excellent opportunity to gather information about important community practices 
+  and to do so in a reflective, self-conscious way, thus combining the best of 
+  both partners is such a collaboration. We look forward to your feedback and 
+  involvement with our efforts.<br>
+  <br>
+</p>
+<hr>
+<div class="bionote"><p><a href="mailto:reebee.garofalo@umb.edu">Reebee Garofalo</a> is an internationally 
+  known scholar of popular music, professor at UMass/Boston, and former Associate 
+  Dean of the College of Public and Community Service, where he has taught since 
+  1978.<br>
+</p></div>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>MetroBoston State Street Technical Support Initiative</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000148.html" />
+    <modified>2005-06-14T10:05:00Z</modified>
+    <issued>2005-06-14T06:05:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.148</id>
+    <created>2005-06-14T10:05:00Z</created>
+    <summary type="text/plain"> At the press conference announcing the State Street grant at the United South End Settlements (USES) in Boston: George A. Russell, Jr., Executive Vice President and Director of Community Affairs for State Street; Kate Snow, Codman Square Health Center...</summary>
+    <author>
+      <name>Steve Ronan and Marissa Martin</name>
+      
+      
+    </author>
+    <dc:subject>CTCNet</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<table width="256" border="0" cellspacing="5" cellpadding="5" align="right">
+  <tr> 
+    <td><img src="/summer-fall-2001/img/statestreeBWt.jpg" width="252" height="209" alt="CTCNet State Street grant press conference"></td>
+  </tr>
+  <tr> 
+    <td><span class="caption">At the press conference announcing the State Street 
+      grant at the United South End Settlements (USES) in Boston: George A. Russell, 
+      Jr., Executive Vice President and Director of Community Affairs for State 
+      Street; Kate Snow, Codman Square Health Center and CTCNet Board President; 
+      John Fiore, Chief Information Officer of State Street, Frieda Garcia, Executive 
+      Director of USES.</span></td>
+  </tr>
+</table>
+<p>Thanks to a grant from State Street's Global Philanthropy Program, CTCNet is 
+  excited to begin implementing a new initiative to support CTCs in the Boston 
+  Metropolitan area - a pilot for a Floating Help Desk, an on-call technical support 
+  service exclusively for CTCs. </p>
+<p>The program has goals to: identify strategies and test approaches for improving 
+  the operation and service provision capabilities of CTCs; address centers' day-to-day 
+  technical problems in real or near-real time; reduce the learning/development 
+  curve of centers and center staff; and assist with the sustainability activities 
+  of centers and center facilities (e.g. technology planning and grant research).</p>
+<p>The pilot will target 10-12 CTCNet affiliate centers in the Boston area to 
+  undertake a three-fold program:</p>
+<ol>
+  <li><b>Do a Needs Assessment</b> - to determine what specific issues should 
+    be addressed by the State Street project. Surveys, interviews and site visits 
+    will help assess and prioritize issues to be addressed such as funding, staffing, 
+    training, locating available resources, and planning successful activities/programs/curricula. 
+    Currently, CTCNet is considering a combination of several techniques for the 
+    needs assessment. Additionally, CTCNet will create a module for 
+    a needs assessment procedure based on this identifying process, to allow centers 
+    or other groups to perform them efficiently and regularly.<br>
+    <br>
+  </li>
+  <li><b>Establish a Floating Help Desk</b> - to provide on-call, continuous technical 
+    support to the pilot centers with the expertise to troubleshoot hardware and 
+    software problems, instruct staff on tips for improved equipment maintenance, 
+    and advise centers in other technical matters, such as network options and 
+    hardware purchases. The Help Desk will be staffed by volunteers including 
+    corporate volunteers and technology interns (e.g., college students, high 
+    school students, VISTAs, and CTC graduates) and paid technicians.<br>
+    <br>
+  </li>
+  <li><b>Design a Technology Internship &amp; Corporate Volunteers Program</b> 
+    - to complement the paid staff of the pilot centers by providing diverse skill 
+    sets for centers and to help operate the Floating Help Desk. </li>
+</ol>
+<p>CTCNet hopes to complete the pilot stage of the project over the next year, 
+  with the intention of expanding its services beyond the initial participants 
+  to include all CTCNet affiliates in the Metropolitan Boston area. Through its 
+  participation in the <a href="http://www.cpcs.umb.edu/vista/gbbn.pdf">Greater 
+  Boston Broadband Network</a> CTCNet plans to expand the multi-media components 
+  and resources of the project.<br>
+<hr>
+<p><div class="bionote">Steve Ronan is CTCNet Network Manager; Marissa Martin is a CTCNet Project Coordinator.</div></p>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Online Panels with the America Connects Consortium</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000132.html" />
+    <modified>2005-06-14T10:04:00Z</modified>
+    <issued>2005-06-14T06:04:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.132</id>
+    <created>2005-06-14T10:04:00Z</created>
+    <summary type="text/plain">The America Connects Consortium online panels email list discussions, hosted by CTCNet and Education Development Center, give subscribers the opportunity to explore a series of topics in some depth, one at a time, in a format analogous to a panel...</summary>
+    <author>
+      <name>Steve Ronan</name>
+      
+      
+    </author>
+    <dc:subject>CTCNet</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<p>The America Connects Consortium online panels email list discussions, hosted 
+by CTCNet and Education Development Center, give subscribers the opportunity to 
+explore a series of topics in some depth, one at a time, in a format analogous 
+to a panel session at a conference. Each month this year there is a three-week 
+discussion, during which panelists make initial presentations and then field questions 
+and comments from subscribers, via a moderator. Topics covered have included: 
+<ul>
+  <li>Arts and Media</li>
+  <li>Workforce Development</li>
+  <li>Disability Access and Universal Usability</li>
+  <li>Program Design</li>
+  <li>Partnerships</li>
+  <li>Adult Education</li>
+</ul>
+<p>The panelists are, for the most part, managers of community technology programs, 
+  but others with expertise are also invited. For example, representatives of 
+  Boston Cyberarts and the New York Foundation for the Arts participated in the 
+  Arts and Media panel, and there were panel contributions from ICF Consulting 
+  in the Workforce Development panel. Individuals affiliated with a community 
+  technology center anywhere are welcome to join the discussion. To subscribe 
+  or unsubscribe, send e-mail with the name and location of your program and your 
+  own name and e-mail address to <a href="mailto:info@ctcnet.org">info@ctcnet.org</a>. 
+  <a href="http://www.ctcnet.org/americaconnects/panels/index.htm">Archived messages</a> 
+  for the list are available. 
+<hr>
+<p><div class="bionote">Steve Ronan is CTCNet Network Manager.</div></p>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Gathering Together: CTCNet&apos;s 10th Annual Conference</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000131.html" />
+    <modified>2005-06-14T10:03:00Z</modified>
+    <issued>2005-06-14T06:03:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.131</id>
+    <created>2005-06-14T10:03:00Z</created>
+    <summary type="text/plain">This year&apos;s CTCNet Annual Conference, Advancing Community Technology ~ The Next Wave, June 15-17, in collaboration with the America Connects Consortium and the Association for Community Networking, marks its ten-year anniversary, a milestone warranting a brief look back at its...</summary>
+    <author>
+      <name>Lauren Kadi</name>
+      
+      
+    </author>
+    <dc:subject>CTCNet</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<p>This year's CTCNet Annual Conference, Advancing 
+Community Technology ~ The Next Wave, June 15-17, in collaboration with the 
+America Connects Consortium and the Association for Community Networking, marks 
+its ten-year anniversary, a milestone warranting a brief look back at its evolution 
+from the one-day, twenty-one person "All-Affiliates Meeting" hosted 
+at the Harlem Playing to Win community computing center in 1991 to the three-day 
+five hundred person Annual Conference hosted at the Town & Country Resort 
+in San Diego this year. 
+<p>These gatherings began eleven years ago, when no CTC Start-Up Manual existed. 
+  Neither HUD Neighborhood Networks nor the resources that help sustain them existed; 
+  there was no America Connects Consortium, no Digital Divide Network, and Falling 
+  Through the Net had not yet been published. Funders had never heard of the digital 
+  divide-in fact, the phrase "digital divide" had not yet been coined, 
+  let alone around long enough to warrant debate about whether or not it was cliché.</p>
+<p>In 1990 a new field was creating itself, but its practitioners were spread 
+  around the country and working in relative isolation. The idea was forming that 
+  these centers should link their efforts and share their resources. Small pockets 
+  of peer-to-peer contact had already appeared, but a larger gathering had not 
+  yet emerged. In 1990, the Playing To Win Network (PTWNet, the precursor to CTCNet) 
+  held its first Advisory Board meeting, followed the next year by its first "all-affiliates" 
+  meeting.</p>
+<p>When CTC practitioners came together eleven years ago, they found that they 
+  faced similar challenges to those faced today. They discovered that they could 
+  replicate each other's success, that they could learn from each other's failures, 
+  and that they were not alone, that others were engaged in similar efforts, driven 
+  by the same desire to create equal technology access where it did not already 
+  exist. The same atmosphere prevailed the following year at the second all-affiliates' 
+  meeting. And again at the third -- and at each subsequent meeting, attendance 
+  grew and venues changed from individual centers to museums, universities, and 
+  hotels with conference facilities.</p>
+<p>Attendance has expanded to include researchers and writers and representatives 
+  of dozens of national organizations that didn't exist eleven years ago, all 
+  dedicated to working on different components of the digital divide. We have 
+  receptions and keynotes and "session coordinators" for multiple tracks 
+  and concurrent sessions.</p>
+<p>Early in the history of PTWNet, an affiliate member had this to say on an evaluation: 
+  "PTWNet counteracts that feeling that you're battling on your own. It gives 
+  purpose to the work you're doing. You're working toward a larger goal." 
+  During a recent conversation, a woman from Utah described attending a consortium 
+  meeting in another state, expressed an interest in creating a similar group 
+  in her own state, and mentioned her eagerness to attended this year's annual 
+  conference. These gatherings affirmed for her that no matter where she went, 
+  people working on community technology issues face the same challenges. "They 
+  remind me that I'm not doing this work alone."</p>
+<p>The conference may look a bit different now than it did at the first All-Affiliates' 
+  meeting, but the most important pieces remain the same. Its purpose and strength 
+  remain simple: to have at least one occasion each year when everyone comes together 
+  to recognize that we are not in this alone. <hr>
+<div class="bionote">Lauren Kadi coordinated the 2001 CTCNet 
+  National Conference.</div>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>CTCNet in the Lead</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000081.html" />
+    <modified>2005-06-14T10:02:00Z</modified>
+    <issued>2005-06-14T06:02:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.81</id>
+    <created>2005-06-14T10:02:00Z</created>
+    <summary type="text/plain">Origin and History Portraits from the 2000 Leadership Institute: (top to bottom) Michael Roberts (United Neighborhood Houses, New York City) and Stephanie McIntyre (TechnoTots, Perth Amboy, NJ), Lorraine Treadwell (Civic Association Serving Harlems), Karen Chandler, Director CTCNet, Davis Park (Little...</summary>
+    <author>
+      <name>Karen Chandler and Sarah Petrin</name>
+      
+      
+    </author>
+    <dc:subject>CTCNet</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<p><span class="subhead">Origin and History</span></p>
+<TABLE align=right border=0 cellPadding=5 cellSpacing=5 height=346 width=290>
+<TBODY>
+<TR>
+<TD><IMG border=0 height=299 name=leadership src="/summer-fall-2001/img/leadership.jpg" width=288 alt="2000 Leadership Institute"> </TD></TR>
+<TR>
+<TD><span class="caption">Portraits from the 2000 Leadership Institute: (top to bottom) Michael Roberts (United Neighborhood Houses, New York City) and Stephanie McIntyre (TechnoTots, Perth Amboy, NJ), Lorraine Treadwell (Civic Association Serving Harlems), Karen Chandler, Director CTCNet, Davis Park (Little Tokyo CTC, Los Angeles), Kris Smith (the Nonviolence Project, Miami, FL), Roger Holt (Parents, Let's United for Kids, Billings, MT).</span></TD></TR></TBODY></TABLE>
+<P>The Community Technology Centers' Network Leadership Institute (LDI) was conceived with the mission of expediting start-up for new centers, building capacity for existing affiliate centers, and creating opportunities for more advanced centers to apply their expertise in building a stronger movement for community technology education. Begun in 1999 with a pilot collaboration program with the National Urban League, the initial three-day institute brought together twelve CTCNet affiliate center Directors from centers ranging from New Orleans, LA to Rocky Mount, NC. The focus was to link organizational planning and decision-making to their specified client needs and program objectives, identify appropriate community and professional collaborations, and develop achievable action plans for program and financial sustainability.</P>
+<P>The Institute showcased the diversity of learning environments and types of CTCs that make up the Network by taking place at local centers in the Boston area. The Computer Clubhouse at the Computer Museum, the Boston Chinatown Neighborhood Center, La Alianza Hispana and the Urban League of Eastern Massachusetts each highlighted their own learning models and program problems and successes. </P>
+<P>In 2000, the LDI incorporated two key recommendations from the 1999 pilot evaluations - that future trainings would benefit from being longer and that the "action planning activity" should be emphasized. Thus the LDI was expanded to a six-month program, beginning with a three-day intensive workshop in Boston and including sponsored attendance at the CTCNet National Conference. Major topic areas included:</P>
+<UL>
+<LI>Leadership Competencies 
+<LI>Strategic Planning and SWOT (Strengths/Weaknesses/Opportunities/Threats) Analysis 
+<LI>Center Operations 
+<LI>Technology Integration Planning 
+<LI>Strategic Operations Plans (SOPs) </LI></UL>
+<P>Another twelve participants from California, Montana, Pennsylvania, Illinois, New York, Florida, and Massachusetts were divided into four teams, each assigned a mentor who is an established leader within the CTCNet affiliate base. Mentors were chosen whose selection was based on experience, expertise, and regional proximity to facilitate face-to-face contact during the six-month follow through. Participants developed strategic operational plans, starting the process in March, presenting drafts in June at the CTCNet National Conference in Atlanta where they practiced taking a leadership roles by representing the LDI 2000 class to their colleagues, and completing final products at the end of the Institute in August.</P>
+<span class="subhead">Conclusions and Implications for LDI 2001</span>
+<P>In addition to the specific challenges that center staff face in maintaining effective operations, center leaders can become drained as the stewards of these organizations that operate in a highly competitive, quick-changing environment. Six months after the 1999 LDI pilot, four of the original twelve participants had left their centers; after one year, another four were gone. Frequent burn out and brief tenures for leaders of non-profit organizations are not specific to community technology, but the problem is exacerbated at CTCs which are excellent training grounds from which talented, ambitious leaders spring into more lucrative for-profit sector positions, or into private consulting. In response, the LDI 2001 has built in sessions on succession planning so that current leaders can apply strategic thinking not only to immediate operations, but also to longer-range organizational support and changes.</P>
+<P>The LDI has changed in number and format in 2001, too. Instead of bringing participants from around the country to Boston, numerous Institutes are taking place in different cities around the country with local participants. In March, 80 people from CTCs across the country attended Leadership Development Institutes (LDIs). With the support of AT&T and the America Connects Consortium (ACC), CTCNet conducted four programs in empowerment zones in Chicago, New York, Pittsburgh, and Washington, DC. </P>
+<P>Five "hot topics" in community technology leadership have been chosen as the focus of this year's LDI program: personal leadership and management skills, succession planning for leadership transitions, technical plans, innovative fundraising strategies, and community collaborations. Two-day programs have included speaker sessions, learning exercises with their mentor groups, case studies discussing how CTCNet members handle situations of succession, technical planning, and difficult community relationships, and planning individual follow-up projects. Organizations in the midst of leadership transitions are creating recruitment plans. CTCs desiring to branch into multimedia programs are revising technical plans, adjusting for the new hardware, software, training, and support requirements. Board members of smaller CTCs are dedicating themselves to working more closely with their executive directors and being actively engaged in comprehensive strategic planning.</P>
+<H4>Highlights from March 2001 LDIs </H4>
+<P><B>Chicago</B> - Coordinated by Olomenji O'Connor at the <A href="http://www.thefic.org">Charles Hayes Family Investment Cente</A>r, the program included a keynote presentation on leadership by Bob Schout from the Support Center of Chicago. Bob led the mentor groups in an exercise that discussed the skills and organizational challenges of good managers and good leaders. Carl Davidson claimed it gave him the "leadership fuzzies."</P>
+<P><B>New York City</B> - Coordinated by Gregory Mills at the <A href="http://www.harlem.cc">Harlem Media Center</A>, the program keynote by Stephanie Creaturo of NpowerNY gave a comprehensive overview of the funding process from the perspective of CTC development and program staff, board members, the Executive Director, and the funder. Leading the group in an exercise to develop a plan for how a CTC would match a grant one-to-one within a year's time for a new program idea, Stephanie highlighted key questions CTCs must answer before pursuing any new funding opportunity.</P>
+<P><B>Pittsburgh</B> - LDI participants had a unique opportunity to tour the Community House with Director Wayne Peck and Technology Director Janet Leo. Wayne demonstrated how young people are learning interview and presentation skills with video technology in their new Mac lab, and participants viewed several short videos of "best practice" projects on how young people have demonstrated what they learn.</P>
+<P><B>Washington DC</B> - Coordinated by Evelyn Frazier at the <A href="http://www.mhcdo.org">Marshall Heights Community Development Organization</A>, this LDI included a focus on partnerships with Todd Endo of Urban Alternatives discussing how the diverse population growth of Arlington, VA is giving Urban Alternatives many new, creative opportunities in this arena. Todd discussed the stages of a partnership with examples of how to orchestrate their development, especially with local schools. According to one evaluation, Todd's presentation was "beyond awesome." Another said, "This could be a major help in building better relationships."</P>
+<P>CTCNet plans to place all the resource tools from the March LDIs on-line. Educational Development Center (EDC), a principle partner of ACC, is now working on compiling the materials and creating an on-line institute. CTCNet plans to hold six more LDIs between August and next April in the empowerment zones of Boston, Oakland, Rio Grande Valley, the Mississippi Delta, Los Angeles, and Atlanta. Keep posted to the <A href="http://www.ctcnet.org">CTCNet</A> and <A href="http://www.americaconnects.net">ACC</A> web sites and e-mail lists for details. 
+<HR>
+<P><div class="bionote">Karen Chandler is CTCNet Executive 
+Director; Sarah Petrin was the LDI Coordinator for the March sessions.</div></P>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Street Tech Poem: Digital Monster</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000087.html" />
+    <modified>2005-06-14T10:01:00Z</modified>
+    <issued>2005-06-14T06:01:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.87</id>
+    <created>2005-06-14T10:01:00Z</created>
+    <summary type="text/plain">Towering, menacing above meSpeaking, crying, whispering for me to come insideand seeThere was a door in the middle of 23rd Yes a big big door in the middle of the street standing erectThe monster calling me hither pushing urging commanding...</summary>
+    <author>
+      <name>Brandon Moore</name>
+      
+      
+    </author>
+    <dc:subject>CTCNet</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<br>Towering, menacing above me<BR>Speaking, crying, whispering for me to come inside<BR>and see<BR>There was a door in the middle of 23rd <BR>Yes a big big door in the middle of the street standing erect<BR>The monster calling me hither pushing urging commanding me to open its wooden frame<BR>So I arose standing in front &#8212;No choice&#8212;<BR>I opened the door<BR>Slowly with fear in my heart looking down as if shy<BR>then I lifting my eyes upward&#8212;I saw&#8212;I saw&#8212;<BR>A new world!!!<BR>Yea man I saw a new world!! One foot forward and<BR>the door shut, locking itself, I cried for help but all <BR>I saw was computers on <BR>the shelf!<BR>I saw new age soldiers computers on their backs <BR>linked to satellites rotating the heavens <BR>1 and 0&#8217;s everything either on or off backward or forward hard or soft but I remained strong&#8212;in this binary world&#8212;the monster had pushed me forward into a new world I knew nothing about, separated, yes divided from the rest as they ran forward, I tried to start a stride but my feet were stuck&#8212;yes due to lack of knowledge of this world I couldn&#8217;t move, backpedaling on cords and strings tripping on power supplies and outlets which hung from the dark sky like a dream, I was dying like the others their bodies canceling like word perfect windows I pushed myself to my feet and beheld a fountain from behind, drinking, I drank, as a camel in the desert, drinking, I drank of knowledge and grew strong enough to run&#8212;yes strong enough to run.<BR><BR><A href="http://www.streettech.org">Street Tech</A>, <EM>San Pablo</EM>, CA
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Street Tech Poem: Shadows That Covered My Future in a Lost World</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000088.html" />
+    <modified>2005-06-14T10:00:00Z</modified>
+    <issued>2005-06-14T06:00:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.88</id>
+    <created>2005-06-14T10:00:00Z</created>
+    <summary type="text/plain"><![CDATA[In honor of Michael J. Booth &nbsp; Shadows covering my future in a lost world Gangs, drugs, and lots of friends never seem to help Cold and lonely nights makes you realize things about yourself No direction, no future and...]]></summary>
+    <author>
+      <name>Joseph Booth</name>
+      
+      
+    </author>
+    <dc:subject>CTCNet</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<p><i>In honor of Michael J. Booth</i></p>
+<p>&nbsp;</p>
+<p>Shadows covering my future in a lost world<br>
+  Gangs, drugs, and lots of friends never seem to help<br>
+  Cold and lonely nights makes you realize things about yourself<br>
+  No direction, no future and no concerns about myself<br>
+  No one can ever know how my soul had felt<br>
+  It was just another day, another night that had to be dealt </p>
+<p>The day my brother had passed away from gang violence<br>
+  My life had stopped as everything became silenced<br>
+  Friends that were friends seemed faked,<br>
+  Wanting me to retaliate<br>
+  My life flashes before my heart can make a beat<br>
+  As the gun was handed down to me<br>
+  A tear falls from my eye as I walked away<br>
+  Just couldn&#146;t do it, knowing tomorrow was the day<br>
+  Now as I stare at the casket while being lowered into the ground<br>
+  I have then changed, wanting for my life to be turned around</p>
+<p>Overcoming certain obstacles in my life<br>
+  Needing to survive prevents me from doing right <br>
+  Now it&#146;s the time for a change, something new <br>
+  Moving was the only thing that I could do<br>
+  Going to jobs and getting rejections made me strong and able <br>
+  to see <br>
+  Almost started selling dope again; at least crack heads respected me<br>
+  Staying strong, keeping my head up and hoping for a chance<br>
+  I found a job where I felt I could advance<br>
+  Five years within the company and what do I have to show for it<br>
+  No respect for what I have done for the company, so I quit<br>
+  Wanting more in life but could not afford to go to school<br>
+  I then heard about a program called street tech, which I thought, was cool<br>
+  Understanding where I came from and what I was willing to do<br>
+  They gave me a chance to start something new<br>
+  My life has become much brighter as the dark shadow&#146;s caste away<br>
+  Once was a lost soul with visions of a blind future has now <br>
+  been saved.</p>
+<p><a href="http://www.streettech.org"><br>
+  Street Tech</a>, San Pablo, CA</p>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>The Association for Community Networking</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000133.html" />
+    <modified>2005-06-14T09:02:00Z</modified>
+    <issued>2005-06-14T05:02:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.133</id>
+    <created>2005-06-14T09:02:00Z</created>
+    <summary type="text/plain"> NO MORE STUFF! Andrew Cohill giving his keynote address: &quot;Networks and the Knowledge Democracy: Nine Challenges for Communities,&quot; at the Bridge Builder&apos;s Conference, Deleware State University in Dover, September 14, 2000. The 20 ounce Coke bottle prop provided an...</summary>
+    <author>
+      <name>Andrew Cohill</name>
+      
+      
+    </author>
+    <dc:subject>AFCN</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<TABLE align=right border=0 cellPadding=5 cellSpacing=5 width=257>
+<TBODY>
+<TR>
+<TD><IMG height=395 src="/summer-fall-2001/img/4.jpg" width=252 alt="Andrew Cohill"></TD></TR>
+<TR>
+<TD><span class="caption">NO MORE STUFF! Andrew Cohill giving his keynote address: "<A href="http://www.bev.net/project/digital_library/cn_kd.pdf">Networks and the Knowledge Democracy: Nine Challenges for Communities</A>," at the Bridge Builder's Conference, Deleware State University in Dover, September 14, 2000. The 20 ounce Coke bottle prop provided an example of the over-abundance of product that characterizes much of American life, including many people's approach to community networking development. "We have this national obsession with stuff. We need more stuff. We worry that we don't have enough stuff. But not long after we buy our stuff, we often throw it out. And then complain that we don't have enough landfills ... We need to stop worrying about teaching ourselves and our children how to use the stuff we already have ... Communities that are serious about solving the digital divide will focus less on acquiring stuff and focus more on comprehensive training and support."</span></TD></TR></TBODY></TABLE>
+<P>The <A href="http://www.afcn.net/">AFCN</A> formally incorporated in 1998 after several years of informal operation. In its fourth year as the national organization for community networking, AFCN is maturing, with more organizational support, an increased emphasis on services to members, and a growing membership.<BR><BR>AFCN's mission is to improve the visibility, viability and vitality of community networking by assisting and connecting people and organizations, building public awareness, identifying best practices, encouraging research, influencing policy, and developing products and services. The AFCN helps provide a framework to understand and remedy some of the problems facing community networks at the beginning of this century. Like the Internet, AFCN is a network, and is also a network of communities.Some of the key issues for community networks in the coming years include:</P>
+<UL>
+<LI>Developing a replicable and sustainable business model that relies less on dial up access fees and more on technology services. 
+<LI>Continued pressure from private sector firms that criticize CNs as &#8220;competition&#8221; without any real legal or moral justification for such charges. 
+<LI>Increased competition from private sector firms offering &#8220;one size fits all&#8221; Web sites to communities, typically supported by ad revenues. These business ventures lure local leaders with promises of &#8220;no cost&#8221; community networks that typically offer few if any of the traditional support, training, and hosting services of a &#8220;real&#8221; CN. 
+<LI>Development of a common set of principles and services that define a prototypical community network, recognizing that no CN will probably ever offer all of the services enumerated. CNs need to move beyond the pioneer stage of reinventing the wheel in each community and consolidate around a commonly accepted set of best practices in services and business management. 
+<LI>Wider national recognition of AFCN as an advocate for community wide networking and one of the few public service organizations with a focus on local management and control of network access and content. 
+<LI>Engagement of communities and community leaders in a broad discussion about the necessity of community-managed telecommunications infrastructure and information services. </LI></UL>
+<TABLE align=left border=0 cellPadding=5 cellSpacing=5 width=252>
+<TBODY>
+<TR>
+<TD><IMG height=182 src="/summer-fall-2001/img/18.jpg" width=252 alt="Steve Snow and Deborah Snow"></TD></TR>
+<TR>
+<TD><span class="caption">Steve Snow, past president of the Association for Community Networking and founder of Charlotte's Web after <A href="http://www.commcure.com/cn/workshops.html">his presentation</A> on community networking development at the UMass College of Public and Community Service last December, continues the discussion with his sister Deborah Snow, who is CTCNet New England coordinator.</span></TD></TR></TBODY></TABLE>
+<P>A troubling consolidation in the telecommunications industry that has the U.S. slowly returning to de facto monopoly control of local access by a few large companies.<BR><BR>The year 2000 was a watershed for both CTCs and CNs, as the &#8220;digital divide&#8221; issue publicized by the U.S. Department of Commerce brought technology issues to the forefront of many organizations. CTCNet and AFCN members found themselves competing for grant money with older, well-established organizations that have strong operations in Washington, but little or no track record in the community use and support of technology.<BR><BR>On the plus side, many more towns and neighborhoods began to ask the right questions about how technology can help improve their communities. The AFCN has benefited through a steady increase in members over the past nine months.<BR><BR>The <A href="http://www.afcn.net/">AFCN</A> began an ambitious program in 2000 to upgrade management procedures and central office operations, including:</P>
+<UL>
+<LI>A completely revamped billing system, including professional management and a change to calendar year billing to reduce costs and improve cash flow for the organization. 
+<LI>Retention of a professional accountant to do quarterly reviews of AFCN financial records, and to assist with tax management and corporate filing with state and federal agencies. 
+<LI>Establishment of a permanent mailing address and phone number for the organization, instead of changing them each time the president changed. 
+<LI>Eliminated the &#8220;members only&#8221; area of the Web site because of lack of use (We found most members thought that trying to remember the user ID and password was an obstacle to regular use.)<BR>
+<LI>A major facelift and re-organization of the AFCN Web site, with features like a Members page and an online directory of members and CN projects worldwide.<BR></LI></UL>
+<P>Early in the year, the AFCN Board also agreed to embark on a major new member benefit&#8212;the development and distribution (only to members) of an AFCN Community Networking Handbook. This Handbook will be in an attractive, sturdy, three-ring binder to make it easy to update and add new material. Materials for the Handbook will be written by AFCN members, who will be paid. The first version will be distributed to members in late summer 2001 and will contain three major sections:</P>
+<UL>
+<LI>Substantive, in-depth articles of 10 to 20 pages on key topics such as funding, organizational issues, technical management, business management, and volunteer management. Each year, several new articles will be added, and current articles will be updated as needed. 
+<LI>Case studies of active community networks (6-10 pages each). With a wide diversity of community network activities and models, case studies illuminate best practice ideas and make them accessible to other members and CNs. 
+<LI>
+<DIV align=left>Tips and techniques (2-5 pages each) will be short, concise descriptions of specific programs and activities, written to help other members develop new ideas and programs without reinventing the wheel.<BR></DIV></LI></UL>
+<DIV align=left>The AFCN has also begun to develop a set of AFCN teaching materials that can be used and re-used at regional and national conferences. The first set of AFCN seminars was offered to packed audiences at the recent (December 2000) Texas community network conference in Austin. As time goes by, the Board hopes to have AFCN members offering these seminars at several different conferences in several different locations each year, so that all AFCN members will have an opportunity to gain access to the expertise and experience of other members.</div> 
+<HR>
+<div class="bionote"><P>For more information on AFCN activities, contact current President <A href="mailto:cohill@bev.net">Andrew Cohill </A>by email, or by phone 540.231.1619. Andrew is Director of <A href="http://www.bev.net/">Blacksburg Electronic Village Communications Network Services</A>, part of Virginia Tech University, where he is an adjunct Professor of Architecture.</P></DIV>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Planning for Local Community Internet Awareness Initiatives</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000089.html" />
+    <modified>2005-06-14T09:01:00Z</modified>
+    <issued>2005-06-14T05:01:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.89</id>
+    <created>2005-06-14T09:01:00Z</created>
+    <summary type="text/plain">Clyde, Kansas, population 800, received a grant for community training to develop local electronic communication skills and Internet applications awareness in three specific areas: civic, personal, and business. After many internal planning meetings and a conference call with Lone Eagle...</summary>
+    <author>
+      <name>Frank Odasz</name>
+      
+      <email>frank@lone-eagles.com</email>
+    </author>
+    <dc:subject>AFCN</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<p>Clyde, Kansas, population 800, received a grant for community training to develop 
+  local electronic communication skills and Internet applications awareness in 
+  three specific areas: civic, personal, and business. After many internal planning 
+  meetings and a conference call with <a href="http://lone-eagles.com">Lone Eagle 
+  Consulting</a>, they asked me to come for multiple presentations as the first 
+  in a series of two presenter&#146;s visits.</p>
+<p>When I arrived in Clyde, KS, I met with 2 HS students and within 10 minutes 
+  they were creating a digital storytelling presentation tour of Clyde using my 
+  new CD-write digital camera (Sony Mavica CD-1000). Over a two day period, I 
+  showed their multimedia creation as I presented for the library board, clients 
+  at the senior center, the junior high school staff, the full high school assembly 
+  of students and faculty, and then at a keynote for the Chamber Banquet. By the 
+  time I was finished, I&#146;d presented for 299 persons out of the population 
+  of 800.</p>
+<p>The day I left these same high school students created a web authoring and 
+  training business and I&#146;ve continued to keep in touch them. They have created 
+  business flyers, business cards, T-shirts with their logo and have five businesses 
+  on contract for web page creation. They are not allowed to pocket their earnings, 
+  but will use the money to buy multimedia presentation equipment, and a CD-1000, 
+  to support their business and training activities. The idea is they have created 
+  jobs for themselves that will allow them to remain in Clyde to assure the future 
+  of the community.</p>
+<hr>
+<div class="bionote"<p><a href="mailto:frank@lone-eagles.com">Frank Odasz</a>&#151;All <a href="http://lone-eagles.com/clyde.htm">handouts</a>, 
+  including recommended low-cost short-term action initiatives, plus three mini-courses 
+  for citizens are available online. This is from a <a href="http://lone-eagles.com/initiatives.htm">fuller 
+  piece</a>.</p></div>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>The New Gold Rush - Mining Raw Human Potential Using Free Web Tools</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000090.html" />
+    <modified>2005-06-14T09:01:00Z</modified>
+    <issued>2005-06-14T05:01:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.90</id>
+    <created>2005-06-14T09:01:00Z</created>
+    <summary type="text/plain">As the cost of computers and Internet access continues to drop, and the range of free Web tools and online self-directed learning opportunities expands, serious questions emerge: How can we provide the best training for the most people&amp;#151;requiring the least...</summary>
+    <author>
+      <name>Frank Odasz</name>
+      
+      <email>frank@lone-eagles.com</email>
+    </author>
+    <dc:subject>AFCN</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<p>As the cost of computers and Internet access continues to drop, and the range 
+of free Web tools and online self-directed learning opportunities expands, serious 
+questions emerge: How can we provide the best training for the most people&#151;requiring 
+the least investment of time and effort, yet proven to produce inspired, self-motivated 
+learners? There is a huge, untapped economic reserve of raw human potential, made 
+accessible by the Internet&#146;s ability to offer ongoing, low-cost education, 
+training and support.<p>
+Here are a few examples of them.
+<ul>
+  <li> Citizen-to-citizen mentoring is the only way there will be enough mentors 
+    to meet the need, seeing as how six billion new Internet users are expected 
+    over the next 15 years due to advances in low-cost, high speed, two-way Internet 
+    satellite and wireless technologies. At <a href="http://www.about.com">About.com</a> 
+    we see individual mentors hosting national topic-specific directories of resources 
+    as part of a commercial business. Where is the local counterpart? At the <a href="http://granite.syr.edu/vrd/">ASKA+ 
+    site</a> one can see topical listings of citizens&#146; expertise with offerings 
+    of free online mentorship, an easily replicable model relevant to local and 
+    global citizen-to-citizen teaching</li>
+  <li> We&#146;re still seeing free E-business start-up services offered by dozens 
+    of businesses. Growing online consumer communities using interactive tools 
+    is fast becoming mainstream. There are rapidly emerging and diverse models 
+    for micropayments and alternative economies. For example: <a href="http://www.fatbrain.com">Fatbrain.com</a> 
+    and <a href="http://www.mightyworlds.com">Mightyworlds.com</a> reward creative 
+    citizens who post learning resources and articles. <a href="http://www.epinions.com">Epinions.com</a> 
+    rewards citizens who rate online resources. The number of examples is soaring.</li>
+  <li> The need exists to emphasize the role of youth-based community Internet 
+    awareness-raising through low-cost, short-term, local action initiatives such 
+    as those posted at the <a href="http://lone-eagles.com/academy.htm">Bootstrap 
+    Academy</a> and &#147;<a href="http://lone-eagles.com/teled.htm">Building 
+    Learning Communities</a>.&#148; 
+    <hr>
+  </li>
+</ul>
+<p><div class="bionote"> &#151;<a href="mailto:frank@lone-eagles.com"> Frank Odasz</a> is principal 
+  of <a href="http://lone-eagles.com">Lone Eagle Consulting</a>. This is from 
+  a <a href="http://lone-eagles.com/mining.htm">longer piece.</a></div></p>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>The Ars Portalis Project</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000136.html" />
+    <modified>2005-06-14T09:00:00Z</modified>
+    <issued>2005-06-14T05:00:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.136</id>
+    <created>2005-06-14T09:00:00Z</created>
+    <summary type="text/plain"> What have community network practitioners learned to do well that can now be taught to other practitioners? In antiquity, the walls and gates surrounding a town or city did more than provide protection: they helped define the boundaries of...</summary>
+    <author>
+      <name>Richard Civille</name>
+      
+      
+    </author>
+    <dc:subject>AFCN</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<table width="221" border="0" cellspacing="5" cellpadding="5" align="left">
+  <tr> 
+    <td><img src="/summer-fall-2001/img/citygates_mainpicture.jpg" width="219" height="354" align="left" alt="city gates"></td>
+  </tr>
+</table>
+<p>What have community network practitioners learned to do well that can now be 
+  taught to other practitioners? In antiquity, the walls and gates surrounding 
+  a town or city did more than provide protection: they helped define the boundaries 
+  of the culture and commerce that thrived within. In the age of the Internet, 
+  these boundaries are electronic. The art of community networking is evolving 
+  into a practice that uses the Internet creatively to help communities better 
+  define themselves, as the city gates of old had done. &#147;Ars Portalis&#148; 
+  literally translated means &#147;the arts of the city gates.&#148; <br>
+<p>The idea for the <a href="http://www.arsportalis.org">Ars Portalis</a> project 
+  began during an Association for Community Networking strategic planning retreat 
+  held in July 1998. The Technology Opportunity Program of the U.S. Department 
+  of Commerce (formerly TIIAP) had just announced a request for proposals to help 
+  the agency better focus program guidelines and improve understanding of how 
+  funded demonstration projects could thrive under their own steam. This issue 
+  of &#147;sustainability&#148; was an important theme at the AFCN retreat and 
+  remains so. Building on these discussions, the Center for Civic Networking successfully 
+  negotiated a one-year $100,000 contract from TOP, awarded in June 2000, to ask 
+  leading practitioners to compete in a cluster of small, short-term studies to 
+  sharpen understanding of key sustainability issues facing community networks. 
+<table width="257" border="0" cellspacing="5" cellpadding="5" align="right">
+  <tr> 
+    <td><img src="/summer-fall-2001/img/15.gif" width="252" height="138" alt="Ars Portalis planning meeting"></td>
+  </tr>
+  <tr> 
+    <td><span class="caption">Ars Portalis planning 
+      meeting on Whidbey Island, Washington, last September with Richard Lowenberg 
+      (Davis Community Network), Karen Michaelson (TINCAN), Tom Campbell (SnoNet) 
+      and Michael Gurstein (Vancouver Community Network).</span></td>
+  </tr>
+</table>
+<p>As an initial activity, a planning meeting held in September 2000 assessed 
+  the current &#147;state of play&#148; of community networking, producing a white 
+  paper entitled &#147;<a href="http://www.arsportalis.org/cnet_white.htm">Community 
+  Networking Gets Interesting</a>&#148; that can be downloaded from the Ars Portalis 
+  website. A request for proposals was prepared, based on the white paper. Twenty-five 
+  applications were received in November and reviewed by a panel of community 
+  networking experts in December, with five contract studies awarded in January 
+  2001 and completed in May. Towards the end of the studies, online requests for 
+  comments were invited from community networking practitioners from around the 
+  world to critique initial findings. 
+<p>The five contracted studies tackled a range of practical challenges and opportunities 
+  facing community networks. 
+<ul>
+  <li> MIT PhD candidate Randal Pinkett analyzed data from interviews with residents 
+    of a recently constructed&#151;and resident owned&#151;public housing development 
+    in Boston, on their use of a prototype community networking software application 
+    called the &#147;Creating Community Connections (C3)&#148; system. The C3 
+    system incorporates a suite of modules that could be useful in a variety of 
+    settings relevant to many community-based organizations such as CTCs and community 
+    networks. These modules include: User profiles, web email, calendar, forums, 
+    listserv, chat, file storage, news, org/business database, GIS maps, job/volunteer 
+    postings, surveys, resumes, personal portals and site-wide search.</li>
+  <li> 
+    <table width="182" border="0" cellspacing="5" cellpadding="5" align="right">
+      <tr> 
+        <td><img src="/summer-fall-2001/img/6.jpg" width="180" height="156" alt="Rachel Kimboko and Randal Pinkett"></td>
+      </tr>
+      <tr> 
+        <td><span class="caption">Randal Pinkett 
+          with Rachel Kimboko, HUD Neighborhood Network technical assistance staff, 
+          at special CTC VISTA Project HUD resource development session in February.</span></td>
+      </tr>
+    </table>
+    Dr. Avrum Bluming, founder of the Los Angeles Freenet, tested a potential 
+    community network &#147;killer application&#148; for health care that empowers 
+    patients and reduces demands on nurses, which can be replicated world-wide. 
+  </li>
+  <li> Matthew Shapiro, of a Boise Idaho based community development firm and 
+    one time mayoral candidate (with over 30% of the votes), explored prospects 
+    for municipal contract support of community network services to neighborhood 
+    associations. </li>
+  <li> Tom Campbell, executive director of SnoNet, a community network near Seattle, 
+    examined 12 business opportunities with a prospect of generating close to 
+    a half million a year in annual operating revenue. The business case analysis 
+    was critiqued by venture capitalists, attorneys, accountants, and others in 
+    the field of community networking to validate directions and risks for future 
+    development. </li>
+  <li> Finally, San Diego community media consultant Susan Myrland researched 
+    federal policy supporting public telecommunications and interviewed a number 
+    of community networking practitioners to uncover critical gaps that community 
+    networks need to address to understand audience demographics and marketing&#151;and 
+    where key federal investments based on public broadcasting precedent perhaps 
+    now need to be made to help open new markets for community networking.</li>
+</ul>
+<table width="133" border="0" cellspacing="5" cellpadding="5" align="left">
+  <tr>
+    <td><img src="/summer-fall-2001/img/5.jpg" width="108" height="128" align="left"alt="Richard Civille"></td>
+  </tr>
+  <tr>
+    <td><span class="caption"><a href="mailto:rciville@civicnet.org">Richard Civille</a> is director of the Ars Portalis project and co-editor of The Community Technology Review.</span> </td>
+  </tr>
+</table>
+<p>Where does the Ars Portalis project lead? Community networking is a work in 
+  progress. There is a great need to better formalize tacit knowledge embedded 
+  in the field experience of practitioners into formal knowledge that can influence 
+  both curriculum and funding priorities both public and private. The Ars Portalis 
+  project promotes a continual cycle of improved practice by supporting the work 
+  of practitioners in translating the lessons they learn in the field into practical 
+  ways that can be used by others. </p>
+<p> A final report compiling overall findings and recommendations and the online 
+  critique will be completed during the summer of 2001. This report will contribute 
+  to the transformation of ten years of demonstration projects into robust new 
+  enterprises that help local communities better define themselves in the digital 
+  age. The report will offer a detailed and rich assessment of key sustainability 
+  issues facing community networking. This assessment hopes to create a foundation 
+  for new curriculum development designed to improve practice, and suggest shifts 
+  in funding priorities needed to open new markets for community networking.
+<p>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Bridging the Digital Divide in DeKalb County</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000084.html" />
+    <modified>2005-06-14T08:03:00Z</modified>
+    <issued>2005-06-14T04:03:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.84</id>
+    <created>2005-06-14T08:03:00Z</created>
+    <summary type="text/plain"> For more detailed view, click on the map. The Family Technology Resource Centers (FTRC) Program consists of 14 community technology centers operated by the DeKalb County School System (DCSS) in Atlanta, GA. The model program is an outreach and...</summary>
+    <author>
+      <name>Paul Baker and Dara O&apos;Neil</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<table width="264" border="1" cellspacing="0" cellpadding="5" align="left">
+  <tr> 
+    <td><a href="summer-fall-2001/baker.ed.pdf"><img src="/summer-fall-2001/img/ATCs.gif" width="260" height="196" border="0" alt="Atlanta Area CTCs"></a></td>
+  </tr>
+  <tr> 
+    <td><span class="caption">For more detailed view, 
+      click on the map.</span></td>
+  </tr>
+</table>
+<p>The <a href="http://www.dekalb.k12.ga.us/ftrc/index.shtml">Family Technology 
+  Resource Centers (FTRC) Program</a> consists of 14 community technology centers 
+  operated by the DeKalb County School System (DCSS) in Atlanta, GA. The model 
+  program is an outreach and technology diffusion initiative developed and maintained 
+  by the DCSS to encourage the use and awareness of Information and Communication 
+  Technologies (ICTs) by under-served populations. Initiated in 1996, the program 
+  has been highly successful in sustaining program activities through active participation 
+  from an array of significant community stakeholders including members of the 
+  DeKalb County School Board, teachers, parents, community members, funders, and 
+  other community partners. DeKalb County's FTRC program has been recognized 
+  as a model community technology program in the United States. In October 1996, 
+  President Clinton applauded those families who transitioned from welfare to 
+  work after completing the FTRC's PC Skills, Jobs Training, and Employment 
+  Skills classes. In November 1998, President and Mrs. Clinton honored the FTRC 
+  at an official ceremony in the White House as an exemplary after school and 
+  community education program.
+</p>
+<span class="subhead">FTRC Program Overview</span>
+<p>According to the 1990 U.S. Census, DeKalb County's median income in zip code 
+  30316 where most of the FTRCs are located was $23,285, compared to a national 
+  median income of $35,894. In 1999, DeKalb County had the fastest growing poverty 
+  rate (15.7%) in Georgia. The DCSS is a 106,000-student school district with 
+  122 schools – the second largest school system in the South, behind the Miami/Dade 
+  School District in Florida. More than half the students qualify for free or 
+  reduced lunch, and the student body is 86.5 percent minority population. With 
+  the underlying principle that education cannot exist in a closed social system 
+  since all students are citizens of the larger community, the goals of the FTRCs 
+  are to:</p>
+<ul>
+  <li>provide equal access to computer training to all segments of the community;</li>
+  <li>enhance parent knowledge of computing skills so they can help support their 
+    children's education and improve their own employment opportunities; 
+    and</li>
+  <li>strengthen partnerships among key stakeholders including schools, parents, 
+    businesses, and community organizations. </li>
+</ul>
+<p>To accomplish these goals, DCSS keeps school facilities and community centers 
+  open after traditional school hours to provide computer-based learning opportunities 
+  for all community members. Each center maintains records on its users, and student 
+  data is related to parental participation at the FTRCs,<br>
+  Started with just one FTRC in 1996, the program has grown to include 14 centers 
+  distributed throughout the school system. All 14 FTRCs are available to DeKalb 
+  County students, their parents, senior citizens, and other interested residents, 
+  such as parents of private school students. The centers offer courses delivered 
+  through interactive multimedia technologies that allow each student to learn 
+  personal computer skills, job-related technical skills, basic and advanced literacy 
+  skills in reading, writing, and mathematics, and a variety of government regulations 
+  related to the workplace. The course offerings include:</p>
+<ul>
+  <li>PC skills: lessons in using a PC, Microsoft Windows, word processing, spreadsheets, 
+    databases, and presentation tools.</li>
+  <li>Basic skills: lessons in reading, math, writing, science, history, and language 
+    arts.</li>
+  <li>Technical and vocational skills: lessons in keyboarding, basic literacy, 
+    GED completion, and SAT/ACT preparation.</li>
+</ul>
+<p>Each course offered through the FTRCs takes between eight and 10 hours to complete; 
+  an entire curriculum takes between 53 and 85 hours. FTRCs provide trainees with 
+  access to "training facilitators" who answer questions, assist participants, 
+  and track attendance and course completion. The centers also provide childcare 
+  to parents with children too young to participate in FTRC activities. Children 
+  under age seven are entertained with age-appropriate activities, and children 
+  over age seven participate in computer-related activities that augment classroom-based 
+  instruction.</p>
+<span class="subhead">Implementation of the FTRC Program</span>
+<p>The FTRCs grew out of preliminary results of a pilot program to train teachers 
+  to effectively use technology in the classroom established by DCSS in the early 
+  1990s. Dr. Edward Bouie, Jr, initiated the program in three elementary schools 
+  in August 1995. The schools selected were specially categorized by the DCSS 
+  Superintendent as Special Instruction Program (SIP) schools having low-test 
+  scores and a downward trend. Initially the training program focused on four 
+  courses that addressed using a PC, Windows, and Microsoft Office products. Courses 
+  took place in after regular school hours until February 1996. An outside evaluation 
+  team from Clark Atlanta University found positive results for the effectiveness 
+  of the training program and courseware, results Bouie reported back to the Board, 
+  garnering their further support for the training program. The School Board decided 
+  to implement the teacher training program system-wide at a cost of 5.5 million 
+  dollars with the goal of training DCSS's 7,500 teachers and 1,500 staff.</p>
+<p>In the vendor's contract with the DeKalb County School System for purchase 
+  of the pilot program software, <a href="http://www.itclearning.com">ITC Learning</a> 
+  offered a statement that if the pilot was successful and if the Board decided 
+  to further implement the training program, they would provide funding for a 
+  community outreach project. Bouie defined this role as the FTRC program and 
+  developed a vision for how it could be implemented in a 1995 concept paper, 
+  "Family Technology Resource Centers: Serving Parents, Students, and Community." 
+  In this paper, Bouie explained the reason for involving the community in K-12 
+  education:<br>
+  "Schools cannot live apart from the community in which they reside. Communities 
+  of learning are vital for the stability and growth of all citizens. Stable communities 
+  working together to advance individual's skills in a technology-rich andinformation-driven 
+  atmosphere will provide the cornerstone to a citizenry ready to participate 
+  in the global economy."</p>
+<p>Realizing his need for assistance in implementing the program, Bouie brought 
+  on board Dr. Mindy DiSalvo, who in April, 1996, began writing a proposal to 
+  the Georgia Partnership in Education (GPEE), an organization that brings business, 
+  education and government to the table to advocate for educational improvement 
+  in Georgia; the proposal for $75,000 was successfully funded. In June, the FTRC 
+  received its first funding and began plans for program implementation. They 
+  decided to place the first center at Gresham Park Elementary School, as Wendolyn 
+  Norris, the school principal, was highly motivated and excited about the program's 
+  possibilities. </p>
+<p>In August and September of 1996, Bouie, DiSalvo, and Norris finalized the logistics 
+  of running an FTRC at an elementary school. Using previous research on adult 
+  learners that showed adult learners learn differently from K-12 students and 
+  need to study a subject at least four hours per week, they developed course 
+  schedules. They established all of the rules and guidelines and decided to set 
+  up a Local Advisory Board for each center, so that each site could make its 
+  own decisions based on its particular community's needs, values, and interests. 
+  Realizing the need for large amounts of staff time, Norris proposed that the 
+  only fee for participation would be that each FTRC user volunteer 30 hours back 
+  to the center or school – an idea that has become a significant catalyst 
+  for furthering other school goals at all 14 existing FTRCs. Norris interviewed 
+  potential staff for the center, with an emphasis on hiring local people from 
+  the community the center serves. </p>
+<p>In the five years since the FTRC program began at Gresham Park Elementary School, 
+  the school has realized an increase in parental involvement from five percent 
+  in 1995 to 88 percent in 2000 and of the approximately 500 students at the school, 
+  167 are involved in the FTRC in some way.<br>
+  The vendor's commitment to fund a community outreach program in its proposal 
+  to the DeKalb County School System resulted in $250,000 used to fund the payroll 
+  for staff at three new centers, opened in 1997 after successful implementation 
+  of the first program at Gresham Park in the prior year. Following the School 
+  Board's requirement that no school funds be used for FTRC staff, the FTRCs 
+  continued to leverage all available school resources as DCSS opened additional 
+  centers in the following years.</p>
+<span class="subhead">Program Outcomes</span>
+<p>Each center maintains records on its users, and student data is related to 
+  parental participation in the FTRCs. In <br>
+  the five years since program implementation, the DeKalb County School System 
+  reports for each school with an FTRC</p>
+<p>· school-wide Normal Curve Equivalent (NCE) and National Percentile Rank 
+  (NPR) increased<br>
+  · increased individual student achievement using Iowa Test of Basic Skills 
+  (ITBS) total reading and total math scores<br>
+  · improved school attendance (including decreased tardiness)<br>
+  · decreased student discipline referrals<br>
+  · increased parental involvement at school activities and functions<br>
+  · increased parental support in home-school partnership contracts<br>
+  · increased parental involvement in homework<br>
+  · increased home-school contact<br>
+  · expanded partnerships between schools and businesses<br>
+  · expanded services offered at school during non-traditional hours<br>
+  · expanded hours spent on-task learning for K-12 students<br>
+  · improved job status (raises and promotions) for parents, and<br>
+  · employment for those previously unemployed. <br>
+  <br>
+  The FTRCs have to date trained more than 12,500 participants (7,500 teachers, 
+  3,000 community members, 2,000 others) over five years. The FTRCs maintain usage 
+  at 100 percent of their capacity, and currently have a waiting list of over 
+  2,000 community members.</p>
+<p>Employers have continuously reported that the "job ready" applicants 
+  who have graduated from the program are successful. Four FTRC business partners 
+  have recognized the skills of the FTRC graduates and have hired them. One metropolitan 
+  Atlanta employer has hired over 20 FTRC graduates and has offered to pay for 
+  the CompTIA+ Certification Exam (a novice-level certification for computer technicians) 
+  for FTRC graduates, and when they pass, employ them. Fortune 500 companies, 
+  major hospitals and health centers, school districts, and government agencies 
+  in Atlanta have also hired graduates. Perhaps the greatest tribute to the FTRC 
+  program is the graduation ceremony celebrating the participants and their families 
+  each quarter. For many of the participants, this is the first time they have 
+  ever graduated from an educational program. Graduation programs have grown from 
+  the first class of 18 in February, 1997, to over 500 graduates this April. </p>
+<span class="subhead">Case Observations and Conclusions: </span>
+<p>Key factors influencing the program's success and conclusions include: 
+</p>
+<ul>
+  <li>Ongoing reinforcement (rather than a "one-shot") effort in formulating 
+    a plan for any participant to be welcomed back to the centers on an ongoing 
+    basis for continual learning opportunities.</li>
+  <li>Realistic Identification of Nature and Needs of Target Constituencies Mentoring 
+    and Training by Peers.</li>
+  <li>Leverage Existing School Resources </li>
+  <li>Community Buy-in and Strategic Partnership</li>
+</ul>
+<p>Although the impetus for the FTRC program came from leadership within the school 
+  system, program administrators focus on grassroots involvement at a variety 
+  of levels: requiring participants to volunteer 30 hours back to the FTRCs; hiring 
+  qualified FTRC graduates as trainers for other community members; and establishing 
+  local Advisory Boards at each site. The successful outreach of public schools 
+  into the community for purposes other than the traditional educational objectives 
+  reflects a partnership of school and community, drawing upon the resources (training 
+  and technology) of the public system to achieve synergistic benefits beyond 
+  the traditional orientation of the educational system toward in class-student 
+  learning. In the case presented here it appears that the impetus for program 
+  development was the result of a combination of an environment "suitable" 
+  for change, participation of various stakeholders, and the ability of key change 
+  agents both internally and externally to draw upon resources to "leverage" 
+  a policy initiative.<br>
+  <hr>
+  
+<p><div class="bionote">
+  <a href="mailto:paul.baker@pubpolicy.gatech.edu">Paul M.A. Baker</a> is ICT 
+  Associate at the Georgia Center for Advanced Telecommunications Technology, 
+  and an Adjunct Assistant Professor at the School of Public Policy, at Georgia 
+  Institute of Technology. <a href="mailto:dara.oneil@gtri.gatech.edu">Dara V. 
+  O'Neil</a> is a Research Associate II, Georgia Tech Research Institute, and 
+  a doctoral student, Information and Telecommunications Policy, School of Public 
+  Policy, Georgia Institute of Technology. The full 8600+ word, 16-page report 
+  on <a href="summer-fall-2001/baker.ed.pdf">"Engaging the Community 
+  in System Building: Implementing the DeKalb County's Family Technology Resource 
+  Centers"</a> contains a four-page bibliography, an extended integrated 
+  discussion of methodological issues involving how one evaluates and assesses 
+  programs like these, a section on program sustainability and maintenance, and 
+  a more detailed history and report of findings which are highlighted and summarized 
+  here. 
+</div></p>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>The Atlanta Community Technology (ACT) Initiative</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/summer-fall-2001/000137.html" />
+    <modified>2005-06-14T08:02:00Z</modified>
+    <issued>2005-06-14T04:02:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/summer-fall-2001//6.137</id>
+    <created>2005-06-14T08:02:00Z</created>
+    <summary type="text/plain">&amp;#147;Science and technology can sometimes be dazzling. Still human knowledge has not made life secure and happy for most people.&amp;#148;&amp;#151;cyber center client Jabari Simama keynoting at the CTCNet conference in Atlanta last June. Background In December of 1999, the City...</summary>
+    <author>
+      <name>Lynette Kvasny</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/summer-fall-2001/">
+      <![CDATA[<p><i>&#147;Science and technology can sometimes be dazzling. Still human knowledge 
+  has not made life secure and happy for most people.&#148;&#151;cyber center 
+  client </i></p>
+<table width="252" border="0" cellspacing="5" cellpadding="5" align="left">
+  <tr> 
+    <td><img src="/summer-fall-2001/img/13crop.gif" width="252" height="231" alt="Jabari Simama"></td>
+  </tr>
+  <tr> 
+    <td><span class="caption">Jabari Simama keynoting 
+      at the CTCNet conference in Atlanta last June.</span></td>
+  </tr>
+</table>
+<span class="subhead">Background</span>
+<p>In December of 1999, the City of Atlanta embarked on an effort to redress the 
+  digital divide. Mayor Bill Campbell charged Jabari Simama, Executive Director 
+  of the Mayor&#146;s Office of Community Technology, with developing and implementing 
+  a Community Technology Initiative for the municipality. The mission of the <a href="http://www.atlantacommunitytech.com">Atlanta 
+  Community Technology (ACT) Initiative</a> is to &#147;ensure that technology 
+  and new media improve the quality of life of Atlanta residents by providing 
+  public access to training, equipment, information and knowledge.&#148; 
+<p> Local business leaders, researchers from academic institutions, labor and 
+  education specialists, and administrators of city agencies with relevant experience 
+  in technology in low-income and under served communities of Atlanta were brought 
+  together to form committees and development teams to assist in the planning 
+  process. Drawing on the collective expertise of these diverse stakeholders, 
+  the ACT Initiative developed a strategic plan and opened the first cyber center 
+  in June, 2000, coinciding with the 9th annual conference of the <a href="http://www.ctcnet.org">Community 
+  Technology Centers&#146; Network.</a> 
+<p><span class="subhead">Program Synopsis</span></p>
+<p>
+The community cyber centers are funded by $8.1 million generated from the city&#146;s 
+Cable Franchise Agreement. Cable companies pay franchise fees to cities in exchange 
+for using public spaces to lay their cables. The funding for the ACT Initiative 
+was obtained in exchange for the city returning unused cable channels and foregoing 
+a partially funded fiber optic municipal network that was part of the original 
+Cable Franchise Agreement. The cyber centers have also received about $600,000 
+in donations from private corporations. Partners run the gamut of public, private 
+and non-profit organizations, such as SkillLearning.com, 3-Com, Earthlink, BellSouth, 
+Gateway, the Atlanta-Fulton Public Library, Atlanta Public Schools and Hands-On-Atlanta. 
+These partners provide hardware, software, Internet access, and training course. 
+In addition, the city is seeking additional partnerships for future centers. 
+<p> The ACT Initiative is ambitious, but as Microsoft CEO <a href="http://www.microsoft.com/billgates/speeches/2000/10-18digitaldividends.asp">Bill 
+  Gates stated</a>, &#147;just focusing on access to computers is a fairly narrow 
+  way to look at these problems.&#148; This is perhaps the first and the largest 
+  initiative funded by a major municipality. Some of the highlights: 
+<ul>
+  <li> Promotion and Community Education and Outreach</li>
+  <li>Community Technology Centers</li>
+  <li>&#147;One Stop Digital Shop&#148; Resource Center</li>
+  <li>Basic Literacy and Computer Literacy Programming</li>
+  <li>Job Skills Programming</li>
+  <li>A Virtual City Hall</li>
+  <li>A Virtual Community Portal</li>
+  <li>Public-Private Partnerships</li>
+  <li>Fundraising for Program Sustainability</li>
+  <li>Challenge Grants for Best Practices</li>
+</ul>
+<p> The plan calls for 15 centers to become operational with an 18-month period. 
+  <a href="#six">Six community centers</a> are open 
+  as of May 2001 and each center houses 30-45 computers with Internet access. 
+  The city will include at least one in south Atlanta with a bilingual emphasis 
+  to give special help and encouragement to Spanish-speaking residents. Others 
+  will include a special center for seniors, and another devoted to wireless communication 
+  on the campus of Morris Brown College. 
+<p>
+At the cyber centers, any citizen can use the computers and take courses free 
+of charge. To date, over 5000 residents have participated in the programs, one 
+third of those are senior citizens. The centers offer two adult training courses: 
+Introduction to Computers and Computer Applications, as well as After School and 
+Summer Cyber Camp programs for teens. All courses are conducted in six weeks sessions. 
+The cyber centers are staffed day and evening Monday through Friday with some 
+centers providing hours on Saturday. <p>
+The Virtual City Hall is currently under construction and will be brought online 
+this fall and integrated with a Virtual Community Portal being funded by a $100,000 
+grant from 3Com. The Virtual Community Portal will be a large Web site featuring 
+content on the City of Atlanta, community and neighborhood services, neighborhood 
+histories, homespun recipe books, and other forms of local content. Local residents 
+enrolled in courses will help develop content for this Web site.<p> 
+<p><span class="subhead"> Meeting Community Needs </span></p>
+<p> The <a href="http://www.atlantacommunitytech.com/strategic_plan_summary.htm">intent 
+  of the program</a> is to establish cyber centers in city-owned and designated 
+  facilities within approximately two miles of every resident who lives in a community 
+  where the majority of households are likely to be without computer and Internet 
+  access. In Atlanta, the inner city population has the greatest need for access. 
+  These target communities are best represented by the Atlanta Empowerment Zone 
+  and linkage neighborhoods. The Atlanta initiative faces the challenge of developing 
+  and implementing programs to serve communities in which over 60% of the adult 
+  population functions at the lowest literacy level Adults at Level 1 literacy 
+  cannot usually locate an intersection on a street map, locate two pieces of 
+  information in an article, complete a social security card application, or calculate 
+  total costs of a purchase from an order form.
+<p>
+Therefore, developing computer-based literacy in this community is an even greater 
+challenge. How are those less literate to deal with the overwhelming amount of 
+materials on the Internet? How are they to master the research skills necessary 
+to seek out information? Perhaps more importantly, how are they to create content 
+that is pertinent to local needs and interests? Clearly the initiative needs to 
+be prepared to offer both computer literacy and computer-based literacy programs. 
+<p>
+Given all the challenges detailed in a fuller examination, it is nonetheless fitting 
+to conclude on a hopeful note with a client&#146;s perspective of the program.
+<p> &quot;I cannot simply express the gratitude I have for Mayor Bill Campbell 
+  and the City of Atlanta staff that are primarily responsible for giving me an 
+  opportunity to obtain the computer skills that have now become almost necessary 
+  to obtain many entry-level jobs in today&#146;s job market. I&#146;d like to 
+  offer my support and prayers that this program will remain intact for our future 
+  generations.&#148;
+<hr>
+<div class="bionote"><p><a href="mailto:lkvasny@gsu.edu">Lynette Kvasny</a>, Ph.D. Candidate in Computer 
+  Information Systems at Georgia State University. This is edited from <a href="http://www.cis.gsu.edu/%7Elkvasny/atl_ctc.pdf">a 
+  longer report </a>that contains a fuller look at the Atlanta Empowerment Zone, 
+  an analysis of the more subtle issues related to the notion of access, with 
+  reference notes and a bibliography.</div></p>
+<hr>
+<p><table width="431" border="0" cellspacing="0" cellpadding="0">
+<tr> 
+<td colspan="2" height="328"><a name="six"><img name="ATCsBW" src="/summer-fall-2001/img/ATCs2.gif" width="396" height="295" border="0"> </a>
+</td>
+</tr>
+<tr valign="top"> 
+<td valign="top" height="79" colspan="2"> 
+<div align="center"><font size="2"><b>Atlanta Area Community Technology Centers </b></font> </div>
+<p><font size="2">Atlanta area community technology centers: Numbers 1-6 are part of the Atlanta Community Technology Initiative. Numbers 7-21 are members of the DeKalb County Family Technology Resource Centers.<br>
+</font></p>
+</td>
+</tr>
+<tr valign="top"> 
+<td width="222" valign="top" height="194"> 
+<p><font size="2">1. Atlanta Cyber Center HQ<br>
+2. Bessie Branham Recreation Center<br>
+3. Atlanta Fulton Public Library<br>
+4. John Birdine Community Center<br>
+5. Collier Heights Recreation Center<br>
+6. Morris Brown Cyber Center<br>
+7. Cedar Grove High School<br>
+8. DeKalb Life Skills Academy<br>
+9. Egleston Hospital<br>
+</font><font size="2">10. Escuelas del Condado de Dekalb<br>
+</font></p>
+</td>
+<td width="223" valign="top"><font size="2">11. Gresham Park Elementary<br>
+12. Hooper Alexander Elementary<br>
+13. Kingsley Theme Elementary<br>
+14. Max Cleland Center<br>
+15. McNair Middle School<br>
+16. Nicholas House<br>
+17. Oakliff Theme Elementary<br>
+18. Rainbox Charter Elementary<br>
+19. Rehoboth Instructional Center<br>
+20. Robert Shaw School<br>
+21. YMCA</font></td>
+</tr>
+</table>
+
+]]>
+      
+    </content>
+  </entry>
+
+</feed>

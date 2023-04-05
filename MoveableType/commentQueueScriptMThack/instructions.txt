@@ -1,0 +1,210 @@
+/*
+	-----------------------------------------------
+		Comment Queue (Moveable Type Hack)
+		Written by Jennifer of scriptygoddess.com
+		
+		This script is available for download on
+		scriptygoddess.com.
+
+		Please do not re-distribute or remove
+		this credit line.
+
+		If you use this script, a link back to 
+		scriptygoddess would be appreciated.
+	-----------------------------------------------
+*/
+
+This script will put all comments in a "holding" state until manually approved by an "admin" (you). It provides a UI that will let you view pending comments, edit them, delete them, or approve them.
+
+This script will work with mulitple blogs in the same installation of MT. You can also install it to work with only select blogs (of the same MT install).
+
+This script requires the use of the mt-rebuild script written by Timothy Appnel. You must download this script FIRST before installing this script. Go here to download the mt-rebuild script: http://www.mplode.com/tima/files/mt-plugins/#mt-rebuild
+
+See information about mt-rebuild here: http://www.mplode.com/tima/archives/000238.html
+
+IMPORTANT: Installation of this script requires modifying two MT files and the MT database. It is strongly suggested that you backup your database and your MT files in the (hopefully unlikely) event that something goes wrong. If you are not comfortable modifying these files, then you may want to hold off implementing this script - or setting up a test installation of MT somewhere to practice and test on.
+
+The author of this script can not be held responsible for any problems that occur due to installation of this script. The makers of MT have no connection to this script and will not provide support on it. You are free to leave comments on scriptygoddess if you have questions - but support availability is not guaranteed.
+
+:::::::::::::::::::::::::::::::::::::::::
+Upgrade instructions
+:::::::::::::::::::::::::::::::::::::::::
+
+UPGRADE FROM VERSION .01:
+::PRE-STEP:: IMPORTANT!!!
+Go here and download the mt-rebuild script: 
+http://www.mplode.com/tima/files/mt-plugins/#mt-rebuild
+
+You do not need to edit the file, just upload it to the same directory where you have your MT files.
+The Comment Queue script will not work without this file.
+
+
+::STEP 1::
+The config file changed from previous version, so you will need to edit the new one.
+(dbconnect.php did not change from previous version, so you do not need to edit it, and do not upload it).
+
+
+::STEP 2:: UPLOAD SCRIPT FILES
+Upload all files to your server (except the dbconnect.php)
+
+
+
+
+UPGRADE FROM VERSION .02:
+upload all files to your server (except the dbconnect.php)
+
+
+
+:::::::::::::::::::::::::::::::::::::::::
+Installation instructions
+:::::::::::::::::::::::::::::::::::::::::
+
+
+::PRE-STEP:: IMPORTANT!!!
+Go here and download the mt-rebuild script: 
+http://www.mplode.com/tima/files/mt-plugins/#mt-rebuild
+
+You do not need to edit the file, just upload it to the same directory where you have your MT files.
+The Comment Queue script will not work without this file.
+
+
+
+::STEP 1:: EDIT CONFIG.PHP and DBCONNECT.PHP FILES INCLUDED WITH SCRIPT
+
+Edit config.php as noted in the file.
+Edit dbconnect.php as noted in the file.
+
+
+
+::STEP 2:: UPLOAD SCRIPT FILES
+
+Upload files to your server. 
+dbconnect.php should be placed where you indicted in the previous step.
+All other files should be in the same directory as each other.
+Make sure you chmod 777 the folder you indicated the password.php page will go. (The script will be creating the password.php)
+
+
+
+::STEP 3:: SET PASSWORD FOR COMMENT QUEUE SCRIPT
+
+This will make it so that you have to be logged in to edit/view comments using the script. It is based on a session cookie which has a limited life-span. If you are idle for an extended period of time, or if you close your browser, it will log you out. For added security, you can also password protect the entire folder where this script lives. You can also select the "remember me" box to not have to login each time. Clicking "log out" will expire your cookie.
+
+Load the setpassword.php page in your browser (http://WWW.YOURDOMAIN.COM/COMMENTQUEUE/setpassword.php)
+type in the username and password you want to use for the script. Hit submit.
+
+If you get errors after hitting submit - make sure the folder where you indicated the password.php file would go (in the config.php) is chmod 777
+
+IMPORTANT!!!!
+After setting your password - remove the setpassword.php page off your server! Hang onto a backup copy of it somewhere in case you want to change the password.
+
+
+
+::STEP 4:: MODIFY MT_COMMENTS TABLE IN MT DATABASE
+
+You will need to run this SQL query. I suggest going into phpMyAdmin (if your host provider has this). Click on the SQL tab, and paste the line below in the field, and then click go.
+
+ALTER TABLE mt_comment ADD comment_temp_entry_id INT( 11 ) NOT NULL ;
+
+
+
+
+::STEP 5:: MODIFY MOVEABLE TYPE FILES: Comments.pm
+
+Edit Comments.pm (located here: YourMTFolder/lib/MT/App/) following **ONE** of the options below...
+
+---ALL BLOGS OPTION---
+This will make the script work with all blogs in your MT install.
+Change this line (If you have trouble finding the line - do a search to find it):
+
+    $comment->entry_id($q->param('entry_id'));
+
+to:
+
+    $comment->entry_id('0');
+    $comment->temp_entry_id($q->param('entry_id'));
+
+
+---ONE BLOG OPTION---
+This will make the script work with only the blog you indicate. Other blogs in the same MT install will not use this script.
+Change this line (If you have trouble finding the line - do a search to find it):
+
+    $comment->entry_id($q->param('entry_id'));
+
+to:
+
+    if ($entry->blog_id == '1') {
+    	$comment->entry_id('0');
+    } else {
+    	$comment->entry_id($q->param('entry_id'));
+    }
+    $comment->temp_entry_id($q->param('entry_id'));
+
+where '1' (in that first line) is the id of the blog you want this script to run for. (To find out the ID# of your blog, log into MT, and from the main menu, mouseover the name of the blog. the URL in the status field will look something like this: http://www.yourdomain.com/mt/mt.cgi?__mode=menu&blog_id=1
+see that "blog_id=".. the number that follows that is your blog id number.
+
+
+---MULTIPLE (but not all) BLOG OPTION---
+This will make the script work with only the blogs you indicate. Other blogs in the same MT install will not use this script.
+Change this line (If you have trouble finding the line - do a search to find it):
+
+    $comment->entry_id($q->param('entry_id'));
+
+to:
+
+    if ($entry->blog_id == '1' || $entry->blog_id == '2' ) {
+    	$comment->entry_id('0');
+    } else {
+    	$comment->entry_id($q->param('entry_id'));
+    }
+    $comment->temp_entry_id($q->param('entry_id'));
+
+Change the '1' and the '2' to the blog ids you want the script to run for (see note above about how to locate your blog ID number)... if you need to, add more of the below before the ") {" in that first line:
+ || $entry->blog_id == '??'
+
+
+
+::STEP 6:: MODIFY MOVEABLE TYPE FILES: Comment.pm
+
+Edit Comment.pm (located here: YourMTFolder/lib/MT/)
+
+Change this line:
+
+ 'id', 'blog_id', 'entry_id', 'author', 'email', 'url', 'text', 'ip'
+
+to:
+
+ 'id', 'blog_id', 'entry_id', 'temp_entry_id', 'author', 'email', 'url', 'text', 'ip'
+
+
+:::::::::::::::::::::::::::::::::::::::::
+Instructions for use
+:::::::::::::::::::::::::::::::::::::::::
+Once there are comments made to your blog - they will not show up on your site until after you approve them and rebuild the appropriate pages.
+
+(SUGGESTION NOTE: From a usability perspective, it is suggested that you indicate that comments will not appear until approved by the blog author. Otherwise people leaving comments will not understand why they don't immediately appear on your site.)
+
+After logging in (http://www.YOURDOMAIN.COM/COMMENTQUEUE/login.php) you will be brought to a list view of all pending comments. You can click on a the name of a field (Column header) to sort by that column. (The actual TEXT of the comment will not be displayed on this screen) You can select multiple comments to delete or approve them all at once. You can also click "view comment" to view the actual comment. (This is where you will be able to see/edit the comment text). You can also see a list view of all comments (including the full text of the comment).
+
+From the single comment view, you can edit the comment (including author name, email and URL) if you desire and then approve or delete the comment. You can also make changes to the comment and save your changes. By saving changes you are neither approving or deleting the comment - and the comment will still not yet appear on your site.
+
+After approving a comment(s) in either views - you will be shown a list of posts that will need to be rebuilt before the comment will be seen on your site. (If you are using the "manual" method). Or if you have this set to automatic - a new window will launch and start rebuilding your posts. (Make sure you have logged into your Moveable Type in another window before clicking those links or approving comments. If you have chosen the automatic method - you will need to have logged into MT with the "remember me" box checked.) Once it is finished rebuilding - you can close the newly opened window, and click on the next link (if appropriate and if you have chosen to manually rebuild). If you have selected to automatically rebuild comments, they will all rebuild at once.
+
+IMPORTANT: if in the config file, you indicated your MT install was here:
+http://www.yourdomain.com/mt/mt.cgi
+make sure you go to that SAME URL when logging into MT - (in other words - DON'T LOG INTO MT using this url:
+http://yourdomain.com/mt/mt.cgi (The rebuilding will not work otherwise).
+
+:::::::::::::::::::::::::::::::::::::::::
+Version notes
+:::::::::::::::::::::::::::::::::::::::::
+version .03 - released June 25, 2003
+fixed bug with wrong title displaying. (thanks Marco (http://www.jesusmechicoteia.com.br) for your help fixing this!)
+Known "bug" remains - script will only correctly link to INDIVIDUAL archive page. If your blog is not set to generate these, links to individual posts may not work correctly...
+
+
+version .02 - released June 20, 2003
+-added use of mt-rebuild script in place of launching new windows with mt-rebuild. (This also fixes bug with pings being turned off after a rebuild)
+-Added option to indicate file extension of blog pages.
+
+
+version .01 - released June 10, 2003

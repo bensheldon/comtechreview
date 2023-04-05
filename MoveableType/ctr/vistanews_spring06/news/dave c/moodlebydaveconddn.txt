@@ -1,0 +1,98 @@
+------------------------------
+
+Message: 3
+Date: Wed, 22 Mar 2006 21:14:47 -0600
+From: "Dave A. Chakrabarti" <dave@ctcnetchicago.org>
+Subject: [DDN] Why Moodle could revolutionize how CTCs work
+To: The Digital Divide Network discussion group
+	<digitaldivide@milhouse.edc.org>
+Message-ID: <442212A7.8050203@ctcnetchicago.org>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+
+Hi all,
+
+I sat down and took some time to look at Moodle today. For those of you 
+who don't know, Moodle is a free, open sourced program that's designed 
+to allow a website to offer online courses, just like Blackboard or 
+Chalk. It has an impressive number of features, including the ability to 
+manage massive numbers of students, instructors, and courses, and seems 
+to offer full email -> forum integration (something I haven't managed to 
+get working in Drupal yet, annoyingly enough).
+
+Why should you care?
+
+I think Moodle could revolutionize efforts to bridge the Digital Divide. 
+If it's truly as easy to use as it seems (and I've seen nothing to 
+contradict this assumption so far), then this is a package that *any* 
+community technology organization could, and should, be using.
+
+Consider this: say we have a group of 50 community technology groups 
+across a city. One of them has a staff member who's skilled in search 
+engine optimization, but the organization desperately needs some help in 
+developing a sustainability plan. Another may have good fundraising 
+efforts in place, but offers only basic computer literacy courses...and 
+doesn't know where to send their students when they ask for more 
+involved instruction, for example in website design. A third 
+organization has a wealth of experience in community outreach and 
+development and holds advanced classes in digital video editing, but 
+lacks the capacity for developing basic literacy courses for ESL 
+populations.
+
+What I'm describing is pretty much the status quo of the community 
+technology field. We have tremendous resources in our network, of which 
+knowledge is perhaps the most important. We also suffer from serious 
+drawbacks, since very few organizations have a perfect mastery of every 
+area needed for a successful program.
+
+If these organizations had a centralized online system for coursework, 
+however, we can see some major potential for change in this model. 
+Consider an organization that is considering adding a website 
+development course to their offerings. How much easier would it be to 
+implement if this organization could simply have a staff member take an 
+online course in website development and then in teaching website 
+development, while offering the same online website development course 
+to students in a lab, with the newly trained staff member as a course 
+instructor / facilitator? Instead of developing their own curriculum, 
+they'd have access to curricula developed by several experienced 
+organizations to draw from. Similarly, their staff members would go from 
+having relatively few opportunities for professional development to 
+having multiple courses available to them at any given time, on a 
+variety of topics. Courses can also be controlled, so participation can 
+be limited to members affiliated with a partner institution, or those 
+who've paid a sliding scale fee, for example. In the event of a highly 
+successful program, courses could even be provided for corporate or 
+other participants willing to pay commercial rates for training, which 
+would be a welcome stream of income. Courses could be used as-is, or 
+used as the basis for a classroom course in a specific area...for 
+example, a CTC in Dhaka could use a course on website development as an 
+accompaniment to a classroom course taught in Bangla on the same subject.
+
+This has implications for how we conduct our workshops and training 
+sessions, too. If I'm leading a panel discussion on search engine 
+optimization, for example, I can reach a fairly limited audience. How 
+many more people can I reach if I've developed that same content into an 
+online course, which any participating institution can make available to 
+its members? How many organizations are thinking "sure, we could use a 
+staff member training in search engine optimization, but we can't 
+justify the staff time to send someone out during the day" ...but would 
+gladly have staff members participating if the workshop were online, 
+self-scheduled?
+
+As organizations in the field of education, our network is in a position 
+to benefit from Moodle in a big way, both in terms of directly working 
+with our constituencies and in professional development for staff and 
+volunteers. We need systems like this in place to really establish our 
+work as a field, and to begin to tap the potential already hiding in 
+various pockets of our network.
+
+Anyone using Moodle already? Other ideas, comments, suggestions?
+
+   Dave.
+
+-------------------
+Dave A. Chakrabarti
+Projects Coordinator
+CTCNet Chicago
+dave@ctcnetchicago.org
+(708) 919 1026
+-------------------

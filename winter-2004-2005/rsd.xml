@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+  <service>
+    <engineName>Movable Type 2.661</engineName> 
+    <engineLink>http://www.movabletype.org/</engineLink>
+    <homePageLink>http://www.comtechreview.org/winter-2004-2005/</homePageLink>
+    <apis>
+      <api name="MetaWeblog" preferred="true" apiLink="http://www.comtechreview.org/mt/mt-xmlrpc.cgi" blogID="12" />
+      <api name="Blogger" preferred="false" apiLink="http://www.comtechreview.org/mt/mt-xmlrpc.cgi" blogID="12" />
+    </apis>
+  </service>
+</rsd>

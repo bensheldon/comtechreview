@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.comtechreview.org/winter-spring-2002/">
+<title>Winter-Spring 2002</title>
+<link>http://www.comtechreview.org/winter-spring-2002/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2005-06-14T07:01:00-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000076.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000061.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000063.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000062.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000064.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000071.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000069.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000152.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000059.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000058.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000055.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000153.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000070.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000065.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-spring-2002/000056.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000076.html">
+<title>Editors&apos; Introduction: Community Technology in a Post 9-11 World</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000076.html</link>
+<description> The rapid expansion of community technology programs ended well before September 11. The slow-down began with the burst of the dot-com bubble. But 9-11 contributed to the slowdown in its own ways. In our new, security-driven economy, all social...</description>
+<dc:subject>ComTechReview</dc:subject>
+<dc:creator>Richard Civille and Peter Miller</dc:creator>
+<dc:date>2005-06-14T07:01:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000061.html">
+<title>The Greater Boston Broadband Network: An Innovative University-Community Partnership</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000061.html</link>
+<description> George Stoney and Toni Stone on the Cablecast/webcast program on &amp;#8220;The Politics of Public Access Cable and the Community Technology Movement&amp;#8221; from last November. The program is currently available as video-on-demand. Since its founding in the early 1970s, the...</description>
+<dc:subject>ComTechReview</dc:subject>
+<dc:creator>Reebee Garafolo</dc:creator>
+<dc:date>2005-06-14T07:00:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000063.html">
+<title>The Space Between: An Interview with CTCNet Executive Director Karen Chandler</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000063.html</link>
+<description> Gathering after the national CTC VISTA orientation session with CTCNet staff last November (l to r, back row): Michael Allwood (Bruce Wall Ministries PREP Computer Center, Boston); Peter Miller (CTC VISTA Project); Karen Zgoda (CTCNet and CTC VISTA Project);...</description>
+<dc:subject>CTCNet</dc:subject>
+<dc:creator>Karen Zgoda</dc:creator>
+<dc:date>2005-06-14T06:01:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000062.html">
+<title>Alive and Well, Not in Manhattan Today as Planned</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000062.html</link>
+<description> “Alive and Well, Not in Manhattan Today as Planned.”  So read one message left at the &quot;I&apos;m Okay&quot; Registry from a woman in Brooklyn.  This web site flourished in the wee hours after the September 11th attacks, briefly serving...</description>
+<dc:subject>CTCNet</dc:subject>
+<dc:creator>Karen Zgoda</dc:creator>
+<dc:date>2005-06-14T06:00:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000064.html">
+<title>AFCN Organizational Update</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000064.html</link>
+<description> New office building housing the AFCN Central Office in Blacksburg, VA. In the last six months, AFCN has made some major changes and has initiated some new programs. One of the most significant changes for the organization has been...</description>
+<dc:subject>AFCN</dc:subject>
+<dc:creator>Andrew Cohill</dc:creator>
+<dc:date>2005-06-14T05:03:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000071.html">
+<title>Thinking Chaordically - The Future of Communities and Technology</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000071.html</link>
+<description> We have to look for power sources here, and distribution networks we were never taught, routes of power our teachers never imagined, or were encouraged to avoid...We have to find meters whose scales are unknown in the world, draw...</description>
+<dc:subject>AFCN</dc:subject>
+<dc:creator>Andrew Cohill</dc:creator>
+<dc:date>2005-06-14T05:02:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000069.html">
+<title>Community Networking on the Night Shift, Part Three: Librarians, Community Networks, and Philosophy Lite</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000069.html</link>
+<description>In Part 2 of this series, &quot;When A Community Organizer Tries to be a Techie,&quot; I detailed my losing battle with technology and publicly admitted to being a technomoron. Hating to leave myself with that label, I have been looking...</description>
+<dc:subject>AFCN</dc:subject>
+<dc:creator>Anne McFarland</dc:creator>
+<dc:date>2005-06-14T05:01:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000152.html">
+<title>Northern New Mexico&apos;s Last Mile Technology: Wireless Service!</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000152.html</link>
+<description>With the growing use of the worldwide Internet, communication companies are providing high bandwidth fiber optic backbones to connect communities to the rest of the world. Left behind are the small rural towns and villages that communication companies cannot economically...</description>
+<dc:subject>AFCN</dc:subject>
+<dc:creator>Judith Pepper</dc:creator>
+<dc:date>2005-06-14T05:00:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000059.html">
+<title>Small Points of Connection</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000059.html</link>
+<description> At the heart of any community there exist many small connecting points: a conversation at the bus stop, a nod in the grocery store, a shared smile over youthful antics. Through fostering these seemingly insignificant beginnings communities are made....</description>
+<dc:subject>Profiles</dc:subject>
+<dc:creator>Rhonda Allison</dc:creator>
+<dc:date>2005-06-14T04:07:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000058.html">
+<title>Community Mapping for Neighborhood Knowledge in Los Angeles</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000058.html</link>
+<description>Background: Data Integration and Dissemination The Neighborhood Knowledge Los Angeles (NKLA) project began in 1996 as a web portal for people concerned with improving the conditions of Los Angeles neighborhoods. From the beginning of the project, NKLA has provided free...</description>
+<dc:subject>Profiles</dc:subject>
+<dc:creator>Bill Pitkin and Nick Rattray</dc:creator>
+<dc:date>2005-06-14T04:06:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000055.html">
+<title>Running LAPs: On the Local Access Path</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000055.html</link>
+<description> The challenges we face are very real. So is our potential to solve them. We are at once on the brink of annihilation&amp;#151;and global fulfillment. Information and communications technologies are making it possible for our voices to reach each...</description>
+<dc:subject>Profiles</dc:subject>
+<dc:creator>Max Gail and Casey Hughes</dc:creator>
+<dc:date>2005-06-14T04:05:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000153.html">
+<title>Parks and Recreation LAPs Are &quot;Connected&quot; for the Future</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000153.html</link>
+<description>Parks and Recreation Services are naturally positioned to become local technology centers. Parks and Recreation department services have historically been mandated to meet the social, physical, and educational needs of citizens. Through building the physical structures and the opportunities to...</description>
+<dc:subject>Profiles</dc:subject>
+<dc:creator>Pam Earle and Cathy Matheson</dc:creator>
+<dc:date>2005-06-14T04:04:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000070.html">
+<title>New Technology Policy and Advocacy Resource from The Children&apos;s Partnership</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000070.html</link>
+<description>With federal leadership related to communities and technology uncertain at best, opportunities to define this emerging arena are planted squarely with city and states. In response to this reality The Children&apos;s Partnership has developed a new online resource for leaders...</description>
+<dc:subject>Profiles</dc:subject>
+<dc:creator>Wendy Lazarus and James Lau</dc:creator>
+<dc:date>2005-06-14T04:03:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000065.html">
+<title>Contentbank.org: Content-Building for and by Local Communities</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000065.html</link>
+<description> The Children&amp;#8217;s Partnership is launching a new web site geared toward community technology center staff that focuses on helping build content for and by local under-served communities in early 2002 &amp;#8212; Contentbank.org. When The Children&amp;#8217;s Partnership released its study...</description>
+<dc:subject>Profiles</dc:subject>
+<dc:creator>Laurie Lipper and Francisco Mora</dc:creator>
+<dc:date>2005-06-14T04:02:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-spring-2002/000056.html">
+<title>Community Informatics: Current Status and Future Prospects - Some Thoughts</title>
+<link>http://www.comtechreview.org/winter-spring-2002/000056.html</link>
+<description> What is Community Informatics? Community Informatics (CI) is the application of information and communications technologies (ICTs) to enable community processes and the achievement of community objectives including overcoming “digital divides” both within and among communities.  But CI also goes...</description>
+<dc:subject>Profiles</dc:subject>
+<dc:creator>Michael Gurstein</dc:creator>
+<dc:date>2005-06-14T04:01:00-05:00</dc:date>
+</item>
+
+
+</rdf:RDF>

@@ -1,0 +1,38 @@
+p, TD {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.header {
+	background-color: #000000;
+}
+.header td, .header p, .header a:link, .header a:visited, .header a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	white-space: nowrap;
+}
+.data {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	white-space: nowrap;
+}
+.dataeven {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	white-space: nowrap;
+	background-color: #FFFF99;
+
+
+}
+.dataeven td {
+white-space: nowrap;
+}
+.data td {
+white-space: nowrap;
+}
+.pagetitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}

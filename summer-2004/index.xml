@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title>Summer 2004</title>
+<link>http://www.comtechreview.org/summer-2004/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator>peterm@igc.org</dc:creator>
+<dc:date>2005-06-14T08:00:00-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+
+<item>
+<title></title>
+<link>http://www.comtechreview.org/summer-2004/000221.html</link>
+<description>Our cover features three of the people whose stories are told in Freedom Machines, a film about technology access for people with disabilities being shown at the conference, and community technology activists involved with conference presentations and CTCNet organizational development....</description>
+<guid isPermaLink="false">221@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>Cover Info</dc:subject>
+<dc:date>2005-06-14T08:00:00-05:00</dc:date>
+</item>
+<item>
+<title>Editors&apos; Introduction: East Side, West Side...</title>
+<link>http://www.comtechreview.org/summer-2004/000198.html</link>
+<description> From small gatherings and early conferences in New York and Boston, the Annual CTCNet Conference has grown in scope and traveled across the land, to Washington, DC, farther south to Atlanta and Austin and San Diego, through Pittsburgh and...</description>
+<guid isPermaLink="false">198@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>CTR &amp; CTCNet</dc:subject>
+<dc:date>2005-06-14T07:04:00-05:00</dc:date>
+</item>
+<item>
+<title>The 2004 CTCNet Conference</title>
+<link>http://www.comtechreview.org/summer-2004/000190.html</link>
+<description> The Annual CTCNet Conference provides an opportunity for people to share their organizational expertise and personal experiences towards a more active and informed community of interests. This year we are working to highlight the resources and model programs that...</description>
+<guid isPermaLink="false">190@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>CTR &amp; CTCNet</dc:subject>
+<dc:date>2005-06-14T07:03:00-05:00</dc:date>
+</item>
+<item>
+<title>Welcome to Seattle</title>
+<link>http://www.comtechreview.org/summer-2004/000199.html</link>
+<description>This year&apos;s CTCNet Conference in Seattle, Washington, brings us to the frontier of technology and strong community access. Washington State is famous for apples, airplanes, salmon, scenic wilderness, logging, and software. The same frontier spirit that promotes and protects these...</description>
+<guid isPermaLink="false">199@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>CTR &amp; CTCNet</dc:subject>
+<dc:date>2005-06-14T07:02:00-05:00</dc:date>
+</item>
+<item>
+<title>The Toni Stone Innovative Initiative Awards</title>
+<link>http://www.comtechreview.org/summer-2004/000200.html</link>
+<description> Since 1996, CTCNet has presented the Innovative Initiative award to the leaders behind outstanding and innovative new programs, as a way of recognizing special contributions made by an individual at a CTCNet center, demonstrating innovation in the field and...</description>
+<guid isPermaLink="false">200@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>CTR &amp; CTCNet</dc:subject>
+<dc:date>2005-06-14T07:01:00-05:00</dc:date>
+</item>
+<item>
+<title>Pre-Conference Sessions</title>
+<link>http://www.comtechreview.org/summer-2004/000192.html</link>
+<description>Thanks to support from the U.S. Department of Health and Human Services Compassion Capital Fund, CTCNet is pleased to present an expanded slate of Pre-Conference workshops offering more in-depth exploration of issues and resources useful to our members&apos; work. This...</description>
+<guid isPermaLink="false">192@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>CTR &amp; CTCNet</dc:subject>
+<dc:date>2005-06-14T07:00:00-05:00</dc:date>
+</item>
+<item>
+<title>Emergence, Convergence, and Empowerment</title>
+<link>http://www.comtechreview.org/summer-2004/000188.html</link>
+<description>While the latter part of the twentieth century witnessed a growth in alternatives to mainstream corporate media, the technological advances of the 1990&apos;s--particularly the arrival of the World Wide Web--signaled the delivery of increasingly narrow distribution of specialized content to...</description>
+<guid isPermaLink="false">188@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>Community Development</dc:subject>
+<dc:date>2005-06-14T06:03:00-05:00</dc:date>
+</item>
+<item>
+<title>Community and Independent Media Organizations</title>
+<link>http://www.comtechreview.org/summer-2004/000201.html</link>
+<description> Alliance for Community Media (ACM) Independent Media Centers (IMCs) Independent Press Association (IPA) National Alliance for Media Arts &amp; Culture (NAMAC) Commonwealth Broadband Collaborative (CBC)...</description>
+<guid isPermaLink="false">201@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>Community Development</dc:subject>
+<dc:date>2005-06-14T06:02:00-05:00</dc:date>
+</item>
+<item>
+<title>Community Development and Technology Track Sessions &amp; Presenters</title>
+<link>http://www.comtechreview.org/summer-2004/000182.html</link>
+<description>An Innovative Partnership: Aligning CTC efforts with the Community Building Movement Presented by: Vicky Glenzer Ð Gelatt, Oregon Center for Applied Science, Jennifer Gonzalez, Alamo Area Mutual Housing; Tony Fleming, Eastmont Computing Center Building Community from the Inside Out Presented...</description>
+<guid isPermaLink="false">182@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>Community Development</dc:subject>
+<dc:date>2005-06-14T06:01:00-05:00</dc:date>
+</item>
+<item>
+<title>Spotlight: Lisa J. Servon</title>
+<link>http://www.comtechreview.org/summer-2004/000189.html</link>
+<description> Lisa J. Servon is Associate Professor of Urban Policy and Associate Director of the Community Development Research Center at the Robert J. Milano Graduate School of Management and Urban Policy, New School University. Professor Servon holds a BA in...</description>
+<guid isPermaLink="false">189@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>Community Development</dc:subject>
+<dc:date>2005-06-14T06:00:00-05:00</dc:date>
+</item>
+<item>
+<title>Staffing for Sustainability: CTCs in Cleveland</title>
+<link>http://www.comtechreview.org/summer-2004/000202.html</link>
+<description>IntroductionOpening a Community Technology Center (CTC) typically requires fewer resources than sustaining its operations over time. &quot;If you build it, they will come&quot; may have worked for Kevin Costner in Field of Dreams, but keeping it going and growing over...</description>
+<guid isPermaLink="false">202@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>Organizational Capacity</dc:subject>
+<dc:date>2005-06-14T05:03:00-05:00</dc:date>
+</item>
+<item>
+<title>Resources for Organizational Capacity &amp; Leadership Development</title>
+<link>http://www.comtechreview.org/summer-2004/000203.html</link>
+<description>Alliance for Nonprofit Management Nonprofit Good Practice Guide: Staff Development &amp; Organizational Capacity (Dorothy A. Johnson Center for Philanthropy &amp; Nonprofit Leadership) CTCNet Leadership Development Institutes Idealist Volunteer Match The CTC VISTA Project CompassPoint Peter F. Drucker Foundation for Nonprofit...</description>
+<guid isPermaLink="false">203@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>Organizational Capacity</dc:subject>
+<dc:date>2005-06-14T05:02:00-05:00</dc:date>
+</item>
+<item>
+<title>Organizational Capacity and Leadership Track Sessions &amp; Presenters</title>
+<link>http://www.comtechreview.org/summer-2004/000183.html</link>
+<description><![CDATA[Funding the Future of Community Technology: funders listen to YOU Presented by: Ken Thompson, The Bill & Melinda Gates Foundation; Jane Meseck, Microsoft Community Affairs; Miguel Garcia, Ford Foundation; Ceil Erickson; The Seattle Foundation; Tessie Guillermo, Community Technology Foundation of...]]></description>
+<guid isPermaLink="false">183@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>Organizational Capacity</dc:subject>
+<dc:date>2005-06-14T05:01:00-05:00</dc:date>
+</item>
+<item>
+<title>Spotlight: Mercedes Soto</title>
+<link>http://www.comtechreview.org/summer-2004/000196.html</link>
+<description> Mercedes Soto currently serves as the Project Director for the innovative Community Technology Center (CTC) Accelerator at the IT Resource Center. The Accelerator is a centralized resource to assist nonprofits that provide technology access and training to low-income community...</description>
+<guid isPermaLink="false">196@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>Organizational Capacity</dc:subject>
+<dc:date>2005-06-14T05:00:00-05:00</dc:date>
+</item>
+<item>
+<title>Youth Engagement in Evaluation and Research</title>
+<link>http://www.comtechreview.org/summer-2004/000204.html</link>
+<description>When young people are involved in community research and evaluation, all sides of the equation benefit greatly. Youth engagement bridges the generation gap, provides important information from new perspectives, and builds both skills and community connections for the young people...</description>
+<guid isPermaLink="false">204@http://www.comtechreview.org/summer-2004/</guid>
+<dc:subject>Research &amp; Evaluation</dc:subject>
+<dc:date>2005-06-14T04:03:00-05:00</dc:date>
+</item>
+
+
+</channel>
+</rss>

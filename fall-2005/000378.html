@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<title>Fall 2005</title>
+
+<link rel="stylesheet" href="http://www.comtechreview.org/fall-2005/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.comtechreview.org/fall-2005/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.comtechreview.org/fall-2005/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.comtechreview.org/fall-2005/rsd.xml" />
+
+<script language="javascript" type="text/javascript">
+function OpenComments (c) {
+    window.open(c,
+                    'comments',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+</script>
+
+
+
+</head>
+
+<body>
+
+<div id="banner">
+<a href="http://www.comtechreview.org/fall-2005/" accesskey="1"><img src="ctr-title.gif"  border="0"></a>
+</div>
+
+<div id="subbanner">
+<h1><a href="http://www.comtechreview.org/fall-2005/" accesskey="1">Fall 2005</a></h1>
+</div>
+
+<table cellspacing="0" cellpadding="0" border="0" width="800" height="1">
+<tr><td valign="top" width="200">
+<div id="links">
+<div class="side">
+
+<div class="menu2"><a href="toc.html">Table of Contents</a></div>
+<div class="menu"><a href="http://www.comtechreview.org/fall-2005/cat_comtechreview.html">ComTechReview</a></div>
+<div class="menu"><a href="http://www.comtechreview.org/fall-2005/cat_community_networking.html">Community Networking</a></div>
+<div class="menu"><a href="http://www.comtechreview.org/fall-2005/cat_community_organizing_and_development.html">Community Organizing and Development</a></div>
+<div class="menu"><a href="http://www.comtechreview.org/fall-2005/cat_digital_media_support_programs_for_youth.html">Digital Media Support Programs for Youth</a></div>
+<div class="menu"><a href="http://www.comtechreview.org/fall-2005/cat_ta_to_nonprofits.html">TA to Nonprofits</a></div>
+<div class="menu"><a href="http://www.comtechreview.org/fall-2005/cat_resources.html">Resources</a></div>
+
+<div>&nbsp;</div>
+<div class="menu2"><a href="comments.html">Letters & Comments</a></div>
+<div>&nbsp;</div>
+<div class="menu2"><a href="/order.php">Order Hardcopy</a></div>
+<div class="menu2"><a href="/issue.php">Back Issues</a></div>
+<div class="menu2"><a href="/submit.php">Submissions</a></div>
+<div class="menu2"><a href="/contact.php">Contact</a></div>
+<div>&nbsp;</div>
+<div class="menu2" colspan="2"><b>Search the ComTechReview</b><br>
+    <form method="get" action="http://www.comtechreview.org/mt/mt-search.cgi">
+    <input id="search" name="search" size="20" />&nbsp;<input type="submit" value=">" /><br />
+    <input type="checkbox" name="IncludeBlogs" value="16" > Search This Issue Only
+    </form>
+</div>
+
+</div>
+</div>
+</td>
+<td valign="top" align="right" class="content" width="600">
+<div class="blog">
+<div class="blogbody">
+
+<div class="category_title">Notes on LDAP-Movable Type Implementation</div> 
+<span class="posted">
+<script language="javascript">
+var author = 'Danielle Martin';
+if (author!="Editor") document.write("by "+author);
+</script>
+</span>
+
+
+
+<p>An obscure software developer created a <a href="http://www.decafbad.com/twiki/bin/view/Main/MovableTypeLDAPAuthors">proof-of-concept modification</a> to <a href="http://movabletype.com/">Movable Type</a> which enabled support for LDAP. The plug-in required some configuration, but by and large it worked. Sort of. We didn't just need the gateway to the VISTA directory.&nbsp; I overcame several other shortcomings with simple work-arounds. For instance, the comment script required visitors to log in, yet if the visitor weren&rsquo;t a current VISTA, she couldn't leave a comment. Movable Type also had to be modified to prohibit VISTAs from editing their profiles (i.e., name, email address, etc.) or changing their passwords, since all of that information was kept in the directory. Finally, the &ldquo;logout&rdquo; functionality broke, and quitting the web browser became the only certain way to exit a Movable Type session.</p>
+<p>The integration work was hardly a walk in the park: some of the source code to both the LDAP plug-in and Movable Type itself had to be altered to get the system to work in the desired manner. The configuration does require custom web-based gateway software to synchronize account information (a web page, in this case). Below is a chart of the services currently available on the CTC VISTA Project website and their LDAP ratings, based on ease of installing LDAP support and the extent to which LDAP replaces the native authentication mechanism.</p>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100" valign="top"><p><strong>Functionality</strong></p></td>
+    <td width="162" valign="top"><p><strong>Package</strong></p></td>
+    <td width="181" valign="top"><p><strong>LDAP rating</strong></p></td>
+  </tr>
+  <tr>
+    <td width="100" valign="top"><p>weblogs</p></td>
+    <td width="162" valign="top"><p>Movable Type 2.661</p></td>
+    <td width="181" valign="top"><p>B-</p></td>
+  </tr>
+  <tr>
+    <td width="100" valign="top"><p>mailing lists</p></td>
+    <td width="162" valign="top"><p>Mailman 2.1.2</p></td>
+    <td width="181" valign="top"><p>N/A (web-based gateway)</p></td>
+  </tr>
+  <tr>
+    <td width="100" valign="top"><p>wiki</p></td>
+    <td width="162" valign="top"><p>pmWiki 2.0b20</p></td>
+    <td width="181" valign="top"><p>N/A (no authentication)</p></td>
+  </tr>
+  <tr>
+    <td width="100" valign="top"><p>bulletin board</p></td>
+    <td width="162" valign="top"><p>phpBB 2.0.17</p></td>
+    <td width="181" valign="top"><p>C</p></td>
+  </tr>
+  <tr>
+    <td width="100" valign="top"><p>photo gallery</p></td>
+    <td width="162" valign="top"><p>gallery 1.5_5</p></td>
+    <td width="181" valign="top"><p>B</p></td>
+  </tr>
+</table>
+<p>We haven&rsquo;t needed to implement LDAP support on every service, but it is important to highlight that trying to lay an LDAP foundation may limit one&rsquo;s software choices. Additionally, because LDAP is so new and used by so few, support is often grafted onto a lot of programs in the same embarrassing manner that handicap accessible ramps are added to buildings long after construction has ceased in order to make them &ldquo;compliant.&rdquo;</p>
+<p>While Movable Type&rsquo;s LDAP support is shaky, most weblog packages don&rsquo;t even include support, either built-in or contributed by a kind-hearted software developer. Those seeking a weblog package with better integration need look no further than <a href="http://www.wordpress.org">WordPress</a>. To keep mailing lists in sync with a directory, <a href="http://www.sympa.org/">Sympa</a> comes to mind. And while we don&rsquo;t use it at the Project, <a href="http://www.gnu.org/software/mailman/">Mailman</a> does have a special module, the <a href="file://localhost/tracker">MemberAdaptor</a>, but I&rsquo;ve heard it&rsquo;s a kludge. Finally, the <a href="http://sourceforge.net/projects/ldapauthmod/">LDAP modifications for phpBB</a> were particularly horrendous since they required adding several files and tediously editing several more. Plus, one netizen saw some shortcomings in the mod and posted his own <a href="http://cerebus.sandiego.edu/~jerry/blog/article.php?story=20031126163833533">fixes</a>.</p>
+<p>The final obstacle to setting up a directory may prove the most difficult: getting your hands on an LDAP server. Most hosting companies make web and FTP services routinely available to their users, but nary a one dares touch LDAP. If, on the other hand, you have access to a server and feel comfortable compiling and installing software on it, <a href="http://www.openldap.org">OpenLDAP</a> is a platform-independent, open source program that can be downloaded and installed free of charge (even on Windows). Get up and running in an afternoon with the <a href="http://www.openldap.org/doc/admin23/quickstart.html">Quick Start Guide</a>. To set up organization-wide white pages, see the <a href="http://www.onlamp.com/pub/a/onlamp/2003/03/27/ldap_ab.html?page=1">ONLamp.com set-up article</a>. For administrative tasks I highly recommended the web-based tool <a href="http://phpldapadmin.sourceforge.net/">phpLDAPadmin</a>.</p>
+<p>Lastly, it would be irresponsible of me not to mention that other single, monolithic software packages can be downloaded from the Internet that provide most of the same services as those used on the CTC VISTA website (and more). The primary benefit of our approach is the ability to add any number of services in the future and still use the existing database of usernames and passwords. No other technology is as tightly integrated with email readers and servers, either.</p>
+<p>If you have any questions about getting your organization up and running with LDAP, please feel free to contact me.</p>
+
+</div>
+
+</br>
+<div class="comments-head"><a name="comments"></a>Comments</div>
+
+
+
+
+<div class="comments-body">
+<hr>
+<a href="http://www.comtechreview.org/mt/mt-comments.cgi?entry_id=378#comment">Comment on this article.</a>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+
+</div>
+</div>
+</td>
+</tr>
+<tr><td colspan="2">
+<div id="footer">Copyright &copy; 2005&nbsp; &nbsp; &nbsp;</div>
+</td></tr>
+</table>
+
+
+
+<p>&nbsp;</p><p>&nbsp;</p>
+<br clear="all" /><p>&nbsp;</p>
+</body>
+</html>

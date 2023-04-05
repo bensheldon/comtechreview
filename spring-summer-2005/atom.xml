@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+  <title>Spring-Summer 2005</title>
+  <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/" />
+  <modified>2005-06-08T20:35:43Z</modified>
+  <tagline></tagline>
+  <id>tag:www.comtechreview.org,2007:/spring-summer-2005//14</id>
+  <generator url="http://www.movabletype.org/" version="2.661">Movable Type</generator>
+  <copyright>Copyright (c) 2005, Editor</copyright>
+  <entry>
+    <title>An Update on Digital Divide Research</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000310.html" />
+    <modified>2005-05-25T21:02:00Z</modified>
+    <issued>2005-05-25T17:02:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.310</id>
+    <created>2005-05-25T21:02:00Z</created>
+    <summary type="text/plain">The Digital Divide is a slippery fish but trying to grasp its complex and dynamic nature is absolutely critical to finding solutions. National level studies and those covering particular regions, states, and communities teach us to avoid a “one-size-fits-all” understanding...</summary>
+    <author>
+      <name>Mary Stansbury</name>
+      
+      <email>mstansbu@slis.kent.edu</email>
+    </author>
+    <dc:subject><![CDATA[Research &amp; Evaluation]]></dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<p>The Digital Divide is a slippery fish but trying to grasp its complex and dynamic nature is absolutely critical to finding solutions. National level studies and those covering particular regions, states, and communities teach us to avoid a “one-size-fits-all” understanding of the Digital Divide. For example, Ohio is both bellwether <em>and </em> exceptional. Ohio has often been called “bellwether” because of the representative features of the state's population. As Eric Rademacher, CoDirector of Public Polling at the Institute for Policy Research at the University of Cincinnati said, “You have a wide variety of viewpoints from extreme conservatism to extreme liberalism, a wide array of socioeconomic segments and of sectors.” Ohio is also exceptional because of economic and social conditions that frequently put it in the lowest tiers of achievement; at the same time, Ohio has some of the most exemplary public libraries and CTCs in the nation. </p>
+<table border="1" cellpadding="3" cellspacing="0" bordercolor="#000000">
+  <tr>
+    <td width="163" valign="top"><p>&nbsp; </p>
+        <p>(Sample: Adults 18 and older) </p></td>
+    <td width="144" valign="top"><p align="center">&nbsp; </p>
+        <p align="center">Children's Partnership 2003 </p></td>
+    <td width="120" valign="top"><p align="center">Pew Internet &amp; American Life 2005 </p></td>
+    <td width="84" valign="top"><p align="center">&nbsp; </p>
+        <p align="center">US Census 2001 </p></td>
+    <td width="120" valign="top"><p align="center">Mossberger, Tolbert, &amp; Stansbury 2003 </p></td>
+  </tr>
+  <tr>
+    <td width="163" valign="top"><p>Own Home Computer </p></td>
+    <td width="144" valign="top"><p align="right">57% </p></td>
+    <td width="120" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="84" valign="top"><p align="right">56.3% </p></td>
+    <td width="120" valign="top"><p align="right">57% </p></td>
+  </tr>
+  <tr>
+    <td width="163" valign="top"><p>Internet Access </p></td>
+    <td width="144" valign="top"><p align="right">51% </p></td>
+    <td width="120" valign="top"><p align="right">66% </p></td>
+    <td width="84" valign="top"><p align="right">50.4% </p></td>
+    <td width="120" valign="top"><p align="right">50% </p></td>
+  </tr>
+</table>
+<p>Recent studies show us that there continues to be an alarming Access Divide along racial, income, and education lines. In a national study of low-income adults I conducted with Karen Mossberger and Caroline Tolbert, we found evidence to reaffirm that those with low-income or little education were much less likely to have Internet access at home than those of higher income or education and that African Americans and Latinos were much less likely to have this than Whites. These trends are also confirmed by US Census data, collected in 2001, and the monthly tracking survey conducted by the <a href="http://www.pewinternet.org/">Pew Internet &amp; American Life Project</a>. </p>
+<br>
+<table border="1" cellpadding="3" cellspacing="0" bordercolor="#000000">
+  <tr>
+    <td width="211" valign="top"><p align="center"><strong>&nbsp; </strong></p>
+        <p align="center"><strong><em>Own Home Computer </em></strong></p></td>
+    <td width="96" valign="top"><p align="center"><strong>&nbsp; </strong></p>
+        <p align="center"><strong>&nbsp; </strong></p>
+        <p align="center"><strong>US Census 2001 </strong></p></td>
+    <td width="127" valign="top"><p align="center"><strong>&nbsp; </strong></p>
+        <p align="center"><strong><em>Internet Access </em></strong></p></td>
+    <td width="102" valign="top"><p align="center"><strong>&nbsp; </strong></p>
+        <p align="center"><strong>&nbsp; </strong></p>
+        <p align="center"><strong>US Census 2001 </strong></p></td>
+    <td width="102" valign="top"><p align="center"><strong>Pew Internet &amp; American Life 2005 </strong></p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p><strong>Race/Ethnicity </strong></p></td>
+    <td width="96" valign="top"><p>&nbsp; </p></td>
+    <td width="127" valign="top"><p>&nbsp; </p></td>
+    <td width="102" valign="top"><p>&nbsp; </p></td>
+    <td width="102" valign="top"><p>&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>White </p></td>
+    <td width="96" valign="top"><p align="right">58.5% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">52.7% </p></td>
+    <td width="102" valign="top"><p align="right">-- </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>White Not Hispanic </p></td>
+    <td width="96" valign="top"><p align="right">60.9% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">55.2% </p></td>
+    <td width="102" valign="top"><p align="right">68% </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>Black </p></td>
+    <td width="96" valign="top"><p align="right">37.3% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">31.1% </p></td>
+    <td width="102" valign="top"><p align="right">51% </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>Asian/Pacific Islander </p></td>
+    <td width="96" valign="top"><p align="right">72.3% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">67.5% </p></td>
+    <td width="102" valign="top"><p align="right">&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>Hispanic of Any Race </p></td>
+    <td width="96" valign="top"><p align="right">40.0% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">32.2% </p></td>
+    <td width="102" valign="top"><p align="right">63% </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p><strong>Education </strong></p></td>
+    <td width="96" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>Less than High School Graduate </p></td>
+    <td width="96" valign="top"><p align="right">23.3% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">18.0% </p></td>
+    <td width="102" valign="top"><p align="right">32% </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>High School Grad. Or GED </p></td>
+    <td width="96" valign="top"><p align="right">46.4% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">39.7% </p></td>
+    <td width="102" valign="top"><p align="right">-- </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>Some college or associate degree </p></td>
+    <td width="96" valign="top"><p align="right">64.5% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">57.7% </p></td>
+    <td width="102" valign="top"><p align="right">80% </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>Bachelor's degree </p></td>
+    <td width="96" valign="top"><p align="right">78.4% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">73.8% </p></td>
+    <td width="102" valign="top"><p align="right">-- </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>Advanced degree </p></td>
+    <td width="96" valign="top"><p align="right">82.2% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">77.7% </p></td>
+    <td width="102" valign="top"><p align="right">88% </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p><strong>Income </strong></p></td>
+    <td width="96" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>Less than $15K </p></td>
+    <td width="96" valign="top"><p align="right">28.0% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">20.6% </p></td>
+    <td width="102" valign="top"><p align="right">-- </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>Less than $30K </p></td>
+    <td width="96" valign="top"><p align="right">41.2% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">30.8% </p></td>
+    <td width="102" valign="top"><p align="right">48% </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>$30 - $50K </p></td>
+    <td width="96" valign="top"><p align="right">65.4% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">57.0% </p></td>
+    <td width="102" valign="top"><p align="right">69% </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>$50 - $75K </p></td>
+    <td width="96" valign="top"><p align="right">76.8% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">72.7% </p></td>
+    <td width="102" valign="top"><p align="right">84% </p></td>
+  </tr>
+  <tr>
+    <td width="211" valign="top"><p>$75K or more </p></td>
+    <td width="96" valign="top"><p align="right">90.8% </p></td>
+    <td width="127" valign="top"><p align="right">&nbsp; </p></td>
+    <td width="102" valign="top"><p align="right">87.0% </p></td>
+    <td width="102" valign="top"><p align="right">92% </p></td>
+  </tr>
+</table>
+<p>While a lack of access continues to be an important feature of the Digital Divide, we now think of the Digital Divide as much more than a gap in access to information and communication technologies (ICT). In addition to the persistent Access Divide, there is a growing body of evidence related to a divide of ICT skills and use. And many studies go beyond the descriptive and try to answer the “so what?” sorts of questions that cross practice and research community lines as well as lines of academic disciplines and even social values.</p>
+<p>E-government is an area of interest for many researchers and advocates, for example. The Pew Internet &amp; American Life Project reports that 54% of all Americans contact the government for some reason during a typical year but 72% of Internet users are more likely to contact the government than those who are not Internet users. Most people (42%) use the telephone to make contact, while 29% visit Websites, and 18% use e-mail.</p>
+<p>There is also a great deal of interest, activity, and funding opportunities related to developing electronic health products and programs. One of the objectives of <em><a href="http://www.healthypeople.gov/Document/HTML/Volume1/11HealthCom.htm">Healthy People 2010</a></em>, sponsored by the U.S. Department of Health and Human Services with programs and projects at many levels, is to see that individuals and health care providers “use information strategically to improve health.” Internet access and information literacy skills necessary to find, evaluate, and use health information are included in the goals of <em>Healthy People 2010 </em>, and studies in this arena over the last few years provide another source of supporting evidence for the Digital Divide, one that, in fact, shows growing inequalities in accessing basic life resources. “[R]esearch indicates that even after targeted health communication interventions, low-education and low-income groups remain less knowledgeable and less likely to change behavior than higher education and income groups, which creates a knowledge gap and leaves some people chronically uninformed <a name="_ednref27">.” </a><a href="http://www.healthypeople.gov/Document/HTML/Volume1/11HealthCom.htm#_edn27#_edn27"></a>(From <em>Healthy People 2010, Chapter 11 </em>citing Freimuth, V.S. &quot;The Chronically Uninformed: Closing the Knowledge Gap in Health,&quot; in Ray, E.B., and Donohew, L., eds. Communication and Health: Systems and Applications . Hillsdale , NJ : Lawrence Erlbaum Associates, 1990.) </p>
+<p>Keeping these national trends and descriptions in mind, we can now look at Ohio and see where the national and state pictures overlap and where they diverge. According to Quick Facts from the U.S. Census Bureau (<a href="http://quickfacts.census.gov/">http://quickfacts.census.gov</a>), Ohio is currently experiencing special economic difficulties, as attested to by a state unemployment rate of 5.9% for January 2005, as compared to the national rate of 5.4%. Regionally, only Michigan is higher at 7.1%. Regarding education and its relationship to attracting jobs and industries and keeping people in the state, only 21.1% of Ohio 's population older than 25 years has a Bachelor's degree or higher, compared to 24.4% nationally.</p>
+<p>Data from Ohio for the Pew Internet &amp; American Life Project studies show a notably lower degree of computer use in work, school and home and Internet access than in other states.</p>
+<table border="1" cellpadding="3" cellspacing="0" bordercolor="#000000">
+  <tr>
+    <td width="468" valign="top"><p><strong>From Pew Internet &amp; American Life Survey, March-May 2003 Data Set </strong></p>
+        <p><strong>( </strong><a href="http://www.pewinternet.org/datasets.asp">http://www.pewinternet.org/datasets.asp</a>) <strong></strong></p></td>
+    <td width="60" valign="top"><p><strong>&nbsp; </strong></p>
+        <p align="center"><strong>Ohio </strong><strong></strong></p></td>
+    <td width="84" valign="top"><p align="center"><strong>All Other States </strong></p></td>
+  </tr>
+  <tr>
+    <td width="468" valign="top"><p>Uses a computer at your workplace, at school, at home, or anywhere else on at least an occasional basis </p></td>
+    <td width="60" valign="top"><p align="right">&nbsp; </p>
+        <p align="right">64.5% </p></td>
+    <td width="84" valign="top"><p align="right">&nbsp; </p>
+        <p align="right">68.3% </p></td>
+  </tr>
+  <tr>
+    <td width="468" valign="top"><p>Goes online to access the Internet or WWW or to send and receive e-mail </p></td>
+    <td width="60" valign="top"><p align="right">59.3% </p></td>
+    <td width="84" valign="top"><p align="right">60.8% </p></td>
+  </tr>
+  <tr>
+    <td width="468" valign="top"><p>Has had access to the Internet for 5 years or more </p></td>
+    <td width="60" valign="top"><p align="right">34.0% </p></td>
+    <td width="84" valign="top"><p align="right">38.4% </p></td>
+  </tr>
+  <tr>
+    <td width="468" valign="top"><p>Goes online from work </p></td>
+    <td width="60" valign="top"><p align="right">8.7% </p></td>
+    <td width="84" valign="top"><p align="right">14.9% </p></td>
+  </tr>
+</table>
+<p>Given all these considerations, it is reasonable to urge Ohio to continue to pay close attention to the Digital Divide. </p>
+<hr noshade>
+<p><em><a href="mailto:mstansbu@slis.kent.edu">Mary Stansbury</a> is an Associate Professor at the <a href="http://www.slis.kent.edu/">School of Library and Information Science</a> at <a href="http://www.kent.edu/">Kent State University</a> and co-author of “Virtual Inequality: Beyond the Digital Divide</em>” (Georgetown University Press, 2003). </p>
+<br>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>New Immigrants and Internet Use: Crossing Borders for Social and Cultural Benefit</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000309.html" />
+    <modified>2005-05-25T21:03:00Z</modified>
+    <issued>2005-05-25T17:03:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.309</id>
+    <created>2005-05-25T21:03:00Z</created>
+    <summary type="text/plain">New immigrant groups are among the many without easy or common access to high-speed Internet, having limited personal as well as public access. In this article, we identify a few of the barriers new immigrants face in accessing and using...</summary>
+    <author>
+      <name>Corry Bregendahl and Cornelia Flora</name>
+      
+      <email>corry@iastate.edu,cflora@iastate.edu</email>
+    </author>
+    <dc:subject><![CDATA[Research &amp; Evaluation]]></dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<p>New immigrant groups are among the many without easy or common access to high-speed Internet, having limited personal as well as public access. In this article, we identify a few of the barriers new immigrants face in accessing and using the Internet, and suggest ways staff at CTCs can design and deliver technology programs to improve their quality of life and life opportunities. </p>
+<p><span class="subhead">The Effect of Poverty and Public Housing on Technology Access and Use </span></p>
+<p>New immigrant families are experiencing poverty at higher rates than the native-born population. According to 2000 Census statistics, 19.4 percent of non-citizens live in poverty, compared to 8.3 percent of the native-born population. This disparity is linked to higher rates of under-employment. “Although immigrants represent roughly 11 percent of the total U.S. population, they make up a … larger share of the low-wage labor market (20%)” (Nightingale and Fix, 2004: 53). Constrained in the financial resources for purchase for their children—including Internet access and equipment (Hernandez, 2004)—like many low-income families, immigrants turn to CTCs for Internet access (Moore et al, 2002). </p>
+<p><span class="subhead">About the Project </span></p>
+<p>County Cooperative Extension Offices, and sites where they are partnering, are joining an increasingly diversified list of CTCs in expanding efforts to offer technology-based services to underserved groups. The <a href="http://www.adec.edu/nsf">Advanced Internet Satellite Extension Project (AISEP)</a>, funded by the National Science Foundation, is a major resouce in this effort. Administered by the <a href="http://www.adec.edu/">American Distance Education Consortium (ADEC)</a> with public and private sector partners (Internet2 and Tachyon, Inc.), this ongoing research and development project has brought high-speed Internet access and support to 60 public learning centers nationwide at little or no cost to them from 2001 to 2005. The <a href="http://www.ncrcrd.iastate.edu/">North Central Regional Center for Rural Development</a> is evaluating the impact high-speed Internet access is having on participating sites and community partners. So far, we have written <a href="http://www.ncrcrd.iastate.edu/projects/adec/index.htm">four reports on our findings</a> and are continuing to conduct research for the project. </p>
+<p>For this article, we report results from interviews with site facilitators at three new immigrant-serving sites— administrators, educators, program coordinators, technicians, and others who provide an array of services to support use of the high-speed Internet. Facilitators have specialized knowledge as a result of managing and using the connectivity for educational, training, administrative, community development, and other purposes. We interviewed facilitators at the following CTCs: </p>
+<ul>
+  <li>The <a href="http://learningcenters.wsu.edu/salishan/">Salishan Learning Center (SLC)</a>, operated by Washington State University Cooperative Extension in cooperation with the Tacoma Housing Authority, located in an inner-city public housing development and serving a diverse population of low-income, mostly new immigrant residents from Southeast Asia and former Eastern Bloc countries. </li>
+</ul>
+<table width="200" border="0" align="center" cellpadding="1" cellspacing="1">
+  <tr>
+    <td><div align="center"><img alt="Marsing Resource Center" src="http://www.comtechreview.org/spring-summer-2005/images/bregendahlimage3small.jpg" width="400" height="300" border="0" /></div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><p><span class="caption">Marsing Resource Center </span></p></div></td>
+  </tr>
+</table>
+<ul>
+  <li>The Marsing Resource Center (MRC) in rural Marsing, Idaho, operating on a shoestring budget from a variety of grants to serve Spanish-speaking immigrant Latino populations among others. University of Idaho Cooperative Extension is a crucial partner and provides staff support for technology programs offered at the MRC. </li>
+  <li>The <a href="http://lexingtonlibrary.com/">Lexington Public Library (LPL)</a> in rural Nebraska, cooperating with the local County Extension office to provide Internet access and programming for Spanish-speaking new immigrant Latino populations and others . </li>
+</ul>
+<p><span class="subhead">Issues Facilitators Raise about Building Technology Assets of New Immigrants </span></p>
+<p>What can CTCs do to build the technology skills of new immigrants? Facilitators we interviewed say new immigrants' quality of life and life opportunities can best be enhanced by supporting their access to and use of technology in the following ways. <em></em></p>
+<p><span class="subhead"><em>Providing High-Speed Access and Use in Public Housing Developments </em></span></p>
+<p>According to the Census Bureau, 60 percent of non-citizens rent housing units compared to 20 percent of native-born citizens. Many new immigrants—especially involuntary immigrants or refugees and even seasonal transnationals—live in temporary and/or subsidized housing typically lacking Internet access. Yet there is a lack of agreement among policy-makers as to what extent the public sector should be responsible for providing technology and Internet resources, and if technology is a housing luxury or a necessity. Even if policy hurdles can be cleared, formidable construction challenges exist, especially with in older, decaying structures. Private developers and federal and local housing authorities need to be persuaded to provide basic infrastructure as well as program support. </p>
+<p><span class="subhead"><em>Building Trust in Authority </em></span></p>
+<p>Facilitators mentioned that some new immigrants bring with them distrust of authority figures as a result of harrowing experiences in their homelands. “Many of [the groups] do not trust anything that has to do with government.” The involvement of public sector partners in CTC programming can therefore pose its own set of problems. For instance, the network at one site in the project went down for several days, and new immigrant users who routinely experienced marginalization interpreted this as a pretext for denying them access to services. Said one site facilitator, “ We had some people that thought we were lying to them [about the technical problems] and that we were [using it as an excuse] to deny them access to the Internet.” </p>
+<p>Minimizing staff turnover and developing responsive resident services are good general management principles and can help build trust with users over the long term and mitigate this situation in particular. </p>
+<p><span class="subhead"><em>Embracing New Immigrant Cultures and Identities </em></span></p>
+<p>Facilitators said CTC staff cultural and social sensitivity, together with flexibility, are key elements for delivering effective programs. CTC staff who can communicate in users' native languages and who encourage peer, shared, and familial learning in order to reach these groups are preferable to having intimidating situations with individuals at unshared workstations trying to learn from virtual strangers. </p>
+<p>Fisher et al (2004) report that new immigrants maintain language and culture ties to cope with life in a new country. Offering programs that train and help users to access the Internet for recreational and personal use that involves them with family members, friends, and culture in their native country can help new immigrants maintain important social and cultural connections, while at the same time building their computer skills <em>and </em> trust in CTC staff. </p>
+<p><span class="subhead"><em>Documenting Results </em></span></p>
+<p>Site facilitators with whom we spoke have difficulty gauging the financial and other benefits new immigrants accrue from using the Internet at CTCs, in part because their CTCs lack funding for this purpose and also because highly mobile users who move and/or get a job are especially difficult to track. Yet for CTCs, showing positive impacts of their efforts is critical for securing support in the future. Measuring financial gains in the form of a new job or increased wages as a result of acquiring new technology skills, showing how users make new professional and personal connections, maintain old connections, adjust to life in a new country, and build confidence—all of this can be documented by conducting brief but pointed conversations with users. This can provide CTC staff a wealth of information to help justify and secure technology funding for the future. </p>
+<p>The Advanced Internet Satellite Extension Project is drawing to a close. Sites no longer receiving the AISEP subsidy are finding ways to justify continued access to high-speed Internet in cooperation with county government and partnerships with community-based organizations. The AISEP achieved its technical mission of bringing affordable, high-speed Internet access to underserved sites across the country. The project also demonstrated that while Internet access offers people on the margins possibilities, attendant investments in policy and programming are needed to help CTCs and the people they serve turn those possibilities into probabilities. </p>
+<hr noshade>
+<p><span class="subhead">References </span></p>
+<div class="endnotes">
+<p>Fisher, Karen E., Joan C. Durrance, and Marian Bouch Hinton. 2004. “Information Grounds and the Use of Need-Based Services by Immigrants in Queens, New York: A Content-Based, Outcome Evaluation Approach.” <em>Journal of the American Society for Information Science and Technology. </em> 55(8):754-766. </p>
+<p>Hernandez, Donald J. 2004. “Demographic Change and the Life Circumstances of Immigrant Families.” <em>Children of Immigrant Families </em>. Vol. 14(2):17-49. <a href="http://www.futureofchildren.org/usr_doc/Vol_14_No2_no_photos.pdf">Accessed March 20, 2005</a>. </p>
+<p>Moore, Elizabeth J., Andrew C. Gordon, Margaret T. Gordon, and Linda Heuertz. 2002. “It's Working: People from Low-Income Families Disproportionately Use Library Computers” Evans School of Public Affairs, University of Washington. <a href="http://www.gatesfoundation.org/NR/Downloads/libraries/eval_docs/pdf/lowincome0209.pdf">Accessed June 15, 2004</a>. </p>
+<p>Nightingale, Demetra Smith and Michael Fix. 2004. “Economic and Labor Market Trends.” <em>Children of Immigrant Families. </em> Vol. 14(2): 49-59. <a href="http://www.futureofchildren.org/usr_doc/Vol_14_No2_no_photos.pdf">Accessed March 20, 2005</a>. </p>
+</div>
+<hr noshade>
+
+<div class="bionote" style="height:171px"><p><img alt="Corry Bregendahl" src="http://www.comtechreview.org/spring-summer-2005/images/bregendahlimage1small.jpg" width="150" height="171" border="0" class="float_left" />
+
+<em><a href="mailto:corry@iastate.edu">Corry Bregendahl</a> is a research associate at the <a href="http://www.ncrcrd.iastate.edu/">North Central Regional Center for Rural Development</a>. She holds an M.S. in Rural Sociology from <a href="http://www.iastate.edu/">Iowa State University</a>. </em></p></div>
+<div class="bionote" style="height:188px;">
+<img alt="Cornelia Butler Flora" src="http://www.comtechreview.org/spring-summer-2005/images/bregendahlimage2small.jpg" width="125" height="188" border="0" class="float_right" />
+
+<p><em><a href="mailto:cflora@iastate.edu">Cornelia Butler Flora</a> is the director of the <a href="http://www.ncrcrd.iastate.edu/">North Central Regional Center for Rural Development</a>. She is Charles F. Curtiss Distinguished Professor of Agriculture in the department of sociology at <a href="http://www.iastate.edu/">Iowa State University</a>. </em></p></div>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>The Stockholm Challenge Awards</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000324.html" />
+    <modified>2005-05-25T21:05:00Z</modified>
+    <issued>2005-05-25T17:05:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.324</id>
+    <created>2005-05-25T21:05:00Z</created>
+    <summary type="text/plain">The Stockholm Challenge enables ICT community development projects in all parts of the world to share their work. The biennial Stockholm Challenge Awards are accepting entries for the current event until December 31st, 2005. Categories are Public Administration, Culture, Health,...</summary>
+    <author>
+      <name>Editor</name>
+      
+      
+    </author>
+    <dc:subject>International</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<p><a href="http://www.stockholmchallenge.se/index.html">The Stockholm Challenge</a> enables ICT community development projects in all parts of the world to share their work. The biennial Stockholm Challenge Awards are accepting entries for the current event until December 31st, 2005. Categories are Public Administration, Culture, Health, Education, Economic Development, and Environment. The 2004 Awards attracted nearly 900 project entries from 107 countries. The awards will be presented in a ceremony at Stockholm City Hall in May, 2006 at the end of a three-day networking and exhibition event. The <a href="http://www.stockholmchallenge.se/application.html">application</a> for the award is available online. </p>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Community Technology, Guatemalan style</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000319.html" />
+    <modified>2005-05-25T22:00:00Z</modified>
+    <issued>2005-05-25T18:00:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.319</id>
+    <created>2005-05-25T22:00:00Z</created>
+    <summary type="text/plain"><![CDATA[ Guatemala There is no short job description of my current work at Acci&oacute;n Cultural Guatemalteca (ACG), a small non-profit community and cultural development organization made up of entirely indigenous Mayans based in Santa Cruz del Quich&eacute;, Guatemala. One-room, one-computer...]]></summary>
+    <author>
+      <name>Paul Pitcher</name>
+      
+      <email>paulpitcher@earthlink.net</email>
+    </author>
+    <dc:subject>International</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<center><div class="float_center" style="width:300px;"><img alt="Guatemala" src="http://www.comtechreview.org/spring-summer-2005/images/pitcherimage10small.jpg" width="300" height="308" border="0" />
+<div class="caption">Guatemala</div>
+</div></center>
+
+<p>There is no short job description of my current work at <a href="http://www.acgguatemala.org/">Acci&oacute;n Cultural Guatemalteca (ACG),</a> a small non-profit community and cultural development organization made up of entirely indigenous Mayans based in Santa Cruz del Quich&eacute;, Guatemala. </p>
+<div style="width:300px; float:right; padding-right:10px;">
+<div class="float_right" style="width:300px;"><img alt="CTC in Uspantan" src="http://www.comtechreview.org/spring-summer-2005/images/pitcherimage8small.jpg" width="300" height="225" border="0" />
+<div class="caption">One-room, one-computer community technology center in Uspantan</div></div>
+
+<div class="float_right" style="width:300px"><img alt="Students at the CTC in Uspantan" src="http://www.comtechreview.org/spring-summer-2005/images/pitcherimage5small.jpg" width="300" height="222" border="0" /><div class="caption">Students at the community technology center in Uspantan</div></div>
+</div>
+
+<p align="left">Every time someone asks me what I do, it takes me at least 5 minutes and a few small stories to attempt to relate my variety of tasks. In many ways, it reminds of me of my work as a community technology VISTA in Ohio at <a href="http://www.oberlin.net/~thebridge/">The Bridge, Oberlin's Community Technology Center</a>, where I joked with my boss that my job description was “Just doing anything that needed to be done.” In the same vein, one of the many assignments that was waiting for me when I walked into the 
+ACG office a little over a year ago was that of computer technician, computer teacher, and web designer—and that's only a small part of it. ACG serves the indigenous Guatemalan population through projects involving micro-credit, educational scholarships, improved stoves, HAM radios, training in traditional weaving, animal breeding and care, just to name a few of them, in 36 communities all over the countryside. I spend many of my days on the road meeting with villagers, working with doctors, setting up solar-powered HAM radios, leading delegations, translating from one language to another (both Spanish and <em> K'iche' </em>, the local Mayan language). The key is the ability to provide the technology that ACG recognizes is necessary for all of its members to have the opportunity to learn in order to advance in the 
+world and to be able to put the teaching of this “computer language” into a language that they can understand. It requires me to, sometimes, go a little off the beaten path in order to provide these services.</p>
+<p>I will tell you a story of a small community technology center out in the Guatemalan mountains, doing what needs to be done to bring technology to those who have the desire to learn about it, and bridging languages in order to bridge the digital divide. </p>
+
+<div class="float_left" style="width:300px"><img alt="Chicken buses" src="http://www.comtechreview.org/spring-summer-2005/images/pitcherimage7small.jpg" width="300" height="225" border="0" /><div class="caption">Chicken buses at the bus terminal in Xela</div>
+</div>  
+
+<p align="left">One day recently I spent eight hours on buses for 22 minutes of work, 22 minutes of “community technology” there. At around 8:00 a.m. I, along with two of my friends from a remote village above Uspantan in rural northern mountainous Guatemala, jumped on a second class Guatemalan chicken bus, named so by foreign visitors to Guatemala due to the boxes of baby chicks that normally travel in the storage space above the passengers heads or the full grown chickens sticking their heads out of the wicker bags in the aisle way next to you. My friends Jacinto and Marcelino were headed home and I was off to install a printer at my one-room, one-computer “community technology center” in Uspantan that I set up last year for a group of 16 students who go to school in that town since their home village has no higher education facilities past the sixth grade. They had been in need of a printer for a while but, due to limited financial resources and the scarce supply of parallel port printers in the small 5,000 person town, they did not have many options. For their school work they often need to print up documents and it costs roughly 1.5 Quetzales (about $0.19) for each page in black and white if they print at the one local computer room. I had sat down on a previous visit with them to discuss their needs and promised to return in a week or so with a printer. Since my town of Santa Cruz del Quich&eacute; is bigger, 22,000, there are a few more options for printers though I did not find a parallel port printer that would suit their needs. Due to the fact that they needed to be able to buy injectable ink cartridges, I decided on a Canon printer that would require the installation of a USB card. This meant that I would have to travel out to the community since none of the students could install this peripheral device by themselves. </p>
+<p>The bus finally left at 9:20am, just a <em>little </em> late, and we sped on down the half-paved, half dust, sometimes one lane, snake-shaped roadway out into the Guatemalan countryside climbing anywhere between 5,000 and 9,000 feet, that's one to two miles up, to reach our destination. We flew by farmers and their spades tirelessly working out under the scorching sun in their fields, past barefoot children playing soccer in the street who would scream and scramble to get out of the way as the bus came rattling around the hairpin turns, past women with long thin poles driving their sheep down the roadway from one field to another, just missing the scrawny dogs that appear with amazing frequency even where there are no villages and sometimes like to take naps in the middle of the road, through the dusty towns of adobe houses that materialize every few miles, through the mountains, in some of the most beautiful and poor country side imaginable. We arrived in Uspantan with about ten minutes to spare, ten minutes before the guardian of the key to the computer room would be gone. Jacinto, Marcelino, and I, along with my multicolored <em>sabana </em>, a woven Guatemalan sheet used by women to carry babies and men to carry everything else from boxes, to clothes, to TVs, in this case wrapped around the printer and my traveling bag which had a USB card and my tools stuffed inside, ran from the bus up the hill to the computer room, and just caught my friend Francisco with the key before he went off to school. </p>
+<p>At this point, it was 12:55 and the bus back to Santa Cruz del Quich&eacute; left in 35 minutes. If I didn't catch that one, I would have to wait until 4:00 p.m. for the next bus, which would not get me home until 7:30 at night. So with incredible speed I disconnected all the cords, popped open the casing of the computer, quickly installed the USB card, reconnected all the cables including the one to the new printer, installed the drivers for the card and printer, restarted the computer twice, and printed a test page off on the only paper available, a worksheet that I had along with me for my studies in <em>K'iche' </em>. All this while jabbering along with the three Guatemalans watching and explaining what I was doing and how to maintain the printer. I would not be able to make it back up to the town for at least a month, so they needed to be able to troubleshoot any problems that arose. When I was done, Marcelino, who had been timing me, proudly announced that I had finished in 22 minutes. With that I shook hands with all the guys, said I wished I could stay longer and ran back down the hill to catch the microbus for another three-to-four hour trip back home. </p>
+<p>And so, as I sat squished in the back of the sweltering metal-walled sweat-box microbus, heated by the blistering midday sun and surrounded by the other passengers packed into every space available like sardines, I found a refreshing smile on my face, looking at these adventures that are common place in my day-to-day life. </p>
+<p>Here in Guatemala I have seen the will of the people to learn and to be a part of what computers bring to the world and so, sometimes, when it's up to me to figure out a way to give them the chance to participate, the journeys to bring technology to the remote locations of the world, especially for those of us interested in “community technology” may be longer, harder, and more demanding than the normal calls of duty, but they're well worth it. </p>
+<hr noshade>
+<div class="bionote" style="height:197px;"><p><img alt="Paul Pitcher" src="http://www.comtechreview.org/spring-summer-2005/images/pitcherimage6small.jpg" width="200" height="145" border="0" class="float_left" />
+<em><a href="mailto:paulpitcher@earthlink.net">Paul “Pablo” Pitcher </a> is currently a youth and communications worker for <a href="http://www.acgguatemala.org/">Acci&oacute;n Cultural Guatemalteca </a> in Santa Cruz del Quich&eacute;, Guatemala. He previously served as a community technology VISTA in Ohio, loves to travel, write stories, and find ways to bring technology to anyone who wants to learn even if that means spending hours flying around dangerous curves in an old school bus. </em></p></div>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Technology and Culture in Nepal</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000320.html" />
+    <modified>2005-05-25T22:01:00Z</modified>
+    <issued>2005-05-25T18:01:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.320</id>
+    <created>2005-05-25T22:01:00Z</created>
+    <summary type="text/plain">Nepal I spent the month of November 2004 in Nepal doing technology assessment and planning, and I&apos;m scheduled to go back in late summer, 2005. Working with the non-governmental organization (NGO) Lumanti: Support Group for Shelter in the Kathmandu Valley,...</summary>
+    <author>
+      <name>Patricia Perkins</name>
+      
+      <email>travelertrish@yahoo.com</email>
+    </author>
+    <dc:subject>International</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<div class="float_right" style="width:150px"><img alt="Nepal" src="http://www.comtechreview.org/spring-summer-2005/nepal.gif" width="150" height="177" border="0" /><div class="caption" align="right">Nepal</div></div>
+<p></p>
+<p>I spent the month of November 2004 in Nepal doing technology assessment and planning, and I'm scheduled to go back in late summer, 2005. Working with the non-governmental organization (NGO) <a href="http://www.lumanti.com.np/">Lumanti: Support Group for Shelter</a> in the Kathmandu Valley, I'm exploring ways database technology can help with data analysis, report generation for their donor agencies, and policy and decision support. This is a story about cross-cultural technology development. </p>
+<p>When I got off the plane in Kathmandu, <strong><em></em></strong>I told Lajana Manandhar, the director of Lumanti, that I just wanted to get my bearings for a few hours, head to my lodgings, maybe sleep off some jet lag. &quot;I have a full programme for you today,&quot; Lajana informed me when we stowed my bags in her car. </p>
+<div class="float_left" style="width:350px"><img alt="Creation Community, Kathmandu" src="http://www.comtechreview.org/spring-summer-2005/images/perkinsimage5small.jpg" width="350" height="263" border="0" /><br><span class="caption">The inhabitants of this squatter community, “Creation Community” in Kathmandu have settled in for the long haul, with brick buildings and gardens, with Lumanti's help. </span></div>
+<p>We went from the airport to the Lumanti offices, where I took off my shoes and sat on the floor for a welcoming ceremony. &quot;Okay,&quot; I told Lajana. &quot;Think of me as a clueless but willing eight-year-old girl. You just have to tell me what to do.&quot; They sprinkled water over my hands. They gave me foods to eat, strong liquour to drink, stuck a red glob on my forehead, and bestowed a white silk scarf and a garland of marigolds upon me. </p>
+<p>It took me two weeks to get an overview of Lumanti's entire organization. I made the rounds, trying to touch base with everyone who could speak English. This is a world that turns on relationships, so what really matters for a foreigner like me is to establish personal connections with as many people as possible. </p>
+<p>I didn't try to make appointments. I figured out early on that they don't function out of appointment books, memos, staff notices. They have a staff mail cubbyhole system that, as far as I could tell, is completely ignored. Paper, as a communications tool, isn't part of their <em>modus operandi. </em>This is an almost entirely verbal business culture. People sit together and discuss everything. They meet with their counterpart NGOs and donor agency people and talk everything out. Nobody likes writing reports. </p>
+<p>At the end of two weeks, I was ready to present my preliminary findings to the group. Lumanti has computers, a laptop, and an LCD projector. They're adept at using PowerPoint. But they're unfamiliar with databases and they've asked us to design, build, and teach them to use one. I talked about the theory of database technology. It's like this cube of information, I told them, and you can look at it from any of its many sides, making a square appear between my hands, turning it this way and that. &quot;Can I do this?&quot; somebody asked. With the click of a mouse, I told him. &quot;And that?&quot; Yep. </p>
+<p>Since they operated on a verbal not printed level, made decisions verbally, solved problems by talking, and did almost everything through conversation, no wonder their monthly reports were driving them nuts. It wasn't their way of working. Heads nodded enthusiastically. Yep. I had seen them as they see themselves. It was a success.<br>
+</p><div class="float_left" style="width:275px;"><img alt="Creation Community, Kathmandu" src="http://www.comtechreview.org/spring-summer-2005/images/perkinsimage4small.jpg" width="275" height="320" border="0" /><br>
+<span class="caption"><p>The families who live in the "Creation Community" in Kathmandu are proud of their garbage-free lanes. Lumanti paved streets and put in under-ground drains here. </p></span></div><p>All through the month, Lajana sent me out into the field. We drove out to Tokha, a small town about a half-hour from Kathmandu's last sprawl, the &quot;before&quot; scene. I went to a successful squatter community and attended a meeting between townspeople and a group of journalists and other NGO bigwigs. I sat in on a tense meeting with some evicted squatters who stand to be the inhabitants of Lumanti's first housing project and wanted to be sure the housing they were getting was going to be acceptable. We walked through a low-caste neighborhood in Patan, where Lumanti had paved streets, streets now free of garbage and stench. I went to a meeting with Lumanti's health coordinator and the city officials in Bhaktapur planning a big Health and Sanitation Fair. I sat in on a child/youth network meeting on International Child Day. I spent a Saturday morning at a meeting of one of the three savings/credit cooperatives Lumanti has helped start. Three hundred and fifty women in a huge university meeting hall and Lajana pushed me to get up in front of the whole meeting and make a speech. I told them America's poor could learn from their courage and resourcefulness. </p>
+<p>Part of me felt that my job was gathering information for the database. What was I doing, gallivanting around the valley? I enjoyed my field trips, but did I really <em>need </em> them? Once more, Lajana was right. No matter how many interviews I conducted, how many computer and paper files I collected, it was seeing the streets, the houses and the faces of the poor that Lumanti has helped that taught, inspired and changed me. I knew that going to Nepal for a month was more about what they were going to teach me than what I was going to teach them. </p>
+<p>In fact, I did get a small database built. The Squatter Federation, the association of people living illegally on land they don't own, is trying to extend its base into the troubled Nepalese countryside. They sent researchers out into 22 squatter neighborhoods in a district outside the Kathmandu Valley with a simple questionnaire. They asked about population, household size, kids in school, water sources, toilets, jobs, health issues, and other community problems. </p>
+<p>I took those questionnaires and created a database, with a form for easily entering the information on the questionnaires. One morning, after I'd given Mahendra, Lumanti's second-in-command, a tour of his new database, he started happily listing the reports he'd like to see. &quot;List of communities, with ward numbers, date established. Chart with districts migrated from. Total population with a pie chart showing men, women, girls and boys. Pie chart with percentages of ethnic groups. Total households with percentages of private toilets and water sources.&quot; </p>
+<p>As satisfying as that small database was, the big job was collecting information about how the larger organization functions so I could help them with those infernal monthly reports. What information is each sector responsible for? No matter whom I was interviewing, interruptions and diversions were the rule. People, I observed again and again, are more important than data. <br>
+&quot;I don't see how I can get the rest of the information collected in the time I have left,&quot; I told Lajana on our way to work about a week before my flight was to take off from Tribhuvan Airport for Bangkok and then home. </p>
+<p>&quot;We'll have a general staff meeting on Friday and hammer the rest of it out,&quot; she declared. Of course. Why hadn't I thought of that? This is a country where everyone comes, sits in a circle, and talks. That's exactly how we'd get our information for the Lumanti Information Management System. </p>
+<table width="200" border="0" align="center" cellpadding="1" cellspacing="1">
+  <tr>
+    <td><div align="center"><img alt="Lumanti meeting" src="http://www.comtechreview.org/spring-summer-2005/images/perkinsimage8small.jpg" width="350" height="263" border="0" />
+</div></td>
+  </tr>
+  <tr>
+    <td><span class="caption"><p>Lumanti Director Lajana Manandhar (second from left) introduces the Patricia Perkins (left) to agency donors, government officials and staff.</p></span></td>
+  </tr>
+</table>
+<p>That meeting was a kind of blueprint for how things work in Nepal in general and Lumanti in particular. The meeting was scheduled for &quot;first hour,&quot; which could mean 10:00 a.m. but never quite does. Instead it means &quot;when everyone gets there, when the slide projector is set up, when we've all had our first cup of tea.&quot; In fact, I spent the first two hours of the morning showing Mahendra his new database, taking notes on the reports he wanted. </p>
+<p>The projector cable needed replacing. Benita, the office girl, called the computer guys across the street and they eventually arrived with shoulder bags and solutions. Lajana had to go to the bank and run a couple of other errands, so we started this meeting without her. The micro-finance guy was busy with his savings/credit cooperatives people who were planning a huge general meeting in early December. People came and went as the meeting progressed. Side conversations were the rule rather than the exception. </p>
+<p>We were slogging through English/Nepali translations, the clock ticking inexorably towards lunch time, when Lajana jumped up, grabbed the marker and galvanized everybody. She appointed the water and sewer documentalist secretary and began, rapid-fire, getting everyone's input for the database system. </p>
+<p>By lunchtime, we had filled in all the blanks, several staffers had reports to print out so we could flesh out the bones, and — <em>voila! </em>—two weeks worth of work in a flurry on a Friday morning. </p>
+<p>The database I'm designing—which will be critiqued, tested, and installed on my next trip to Nepal in early summer—will store decision-making and policy information, make monthly reports much easier to write, and provide donor agencies with reports that conform to each agency's requirements. Users will log meetings, training sessions, workshops, celebrations and exchange visits.
+<p>James Windle of Hatfield, UK, a computer systems tester who provides pro bono tech assistance to an AIDS clinic in Africa, had given me two pieces of advice about before I left for Nepal: </p>
+<ol>
+  <li>Take a laptop, so you can work on data analysis and on form construction at night and early in the morning. You can also show them an idea directly, rather than trying to describe it. And they'll be able to respond right away to design ideas that don't work. </li>
+  <li>Create something small that works. Take one piece, design, and build it from start to finish, and that will give everybody, including <em>you </em>, a feeling of accomplishment and a forward momentum. </li>
+</ol>
+<p>James was right on both counts. Taking the portable computer meant that I didn't displace someone sitting at her desk and that I had the capability to demonstrate the power of technology. Creating the small, working, effective demonstration helped push the decision-makers into the critical buy-in so necessary for technology project success. </p>
+<p>The other key to success, I learned, is living in the end users' world, on their time, at their pace. People, relationships, conversation—these are what make things—even databases—happen at Lumanti in Nepal. </p>
+<hr noshade>
+
+
+    <div class="bionote" style="height:197px;"><p><img alt="Patricia Perkins" src="http://www.comtechreview.org/spring-summer-2005/images/perkinsimage9small.jpg" width="125" height="197" border="0" class="float_left"><a href="mailto:travelertrish@yahoo.com">Patricia Perkins </a> is database and web designer for <a href="http://www.worldstouch.org">Worlds Touch</a>, a technical assistance nonprofit. Trish is a world traveler, writer and information management practitioner whom you can learn more about from her <a href="http://www.livejournal.com/users/travelertrish">blog</a>. </p></div>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>e-Literacy and Connectivity for Development in India, the Akshaya Approach</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000321.html" />
+    <modified>2005-05-25T22:02:00Z</modified>
+    <issued>2005-05-25T18:02:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.321</id>
+    <created>2005-05-25T22:02:00Z</created>
+    <summary type="text/plain"> Kerala, India The Akshaya Project in the Malappuram district of Kerala in southern India has established the first district-wide e-literacy project in the country, claiming to reach at least one resident in over 600,000 households, representing a population of...</summary>
+    <author>
+      <name>Joyojeet Pal and G.R. Kiran</name>
+      
+      <email>joyojeet@berkeley.edu</email>
+    </author>
+    <dc:subject>International</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<p><table width="335" border="0" align="center" cellpadding="1" cellspacing="1">
+  <tr>
+        <td width="78"><div align="center"><img alt="Kerala, India" src="http://www.comtechreview.org/spring-summer-2005/images/palimage5.png" width="200" height="243" border="0" />
+ </div></td>
+  </tr>
+  <tr>
+<td><div align="center"><p><span class="caption">Kerala, India<span></p></div></td>
+  </tr>
+</table>
+<p>The <a href="http://www.akshaya.net/">Akshaya Project</a> in the Malappuram district of Kerala in southern India has established the first district-wide e-literacy project in the country, claiming to reach at least one resident in over 600,000 households, representing a population of about 3.2 million. The Project has, in the process, concurrently set up what is now one of the world's largest Internet Protocol (IP) based wireless networks, covering an area of 38,000 sq. km. </p>
+<p>The Akshaya network now consists of 630 permanent village telecenters, known as e-Centers, such that no point in the district is more than a few kilometers from a shared computing facility. Each e-Center is connected through wireless IP by a network of government-funded towers 18-30 meters tall. Each e-Center is expected to have five computers, a printer and scanner along with high bandwidth connectivity. The kiosks are manned by entrepreneurs trained by the Akshaya staff, chosen from the Kerala State IT Mission, in e-Literacy and other applications and services. Services include online bill-payment, assistance with government forms, and investment information. </p>
+<p><span class="subhead">Project Background, Development, and Implementation </span></p>
+<p>By the mid 90s, there was a wave of enthusiasm in India for computing projects in underserved areas as enablers of regional development. Educating people in the use of computing, and using computing to make citizen access to government services easier, in an economy increasingly driven towards the service sector, was recognized as a vital part of progress. </p>
+<p><em>Panchayats </em> (village councils) in the Malappuram district in Kerala approached the state IT Minister in April 2002 with a request for a district-wide computer literacy project. The state government took the idea forward into a telecenter project for the entire state, using Malappuram as the initial testbed. The plan was to use subsidized e-literacy to start off the project, and let e-Centers continue as access and training telecenters thereafter. </p>
+<p>The pilot was planned and overseen by a state team from the capital, Thiruvananthapuram, and headed by a specially appointed district collector in Malappuram. The full-scale operating network with telecenters and the e-literacy project were up and running in less than two years, 158 of the e-Centers converted from existing businesses, the rest as new ventures. </p>
+<p>The project required curriculum development and planning to reach the entire population, provide maximum usage, and telecenter sustainability following the completion of the state-subsidized e-literacy phase. The e-Centers were planned to service approximately 1,000 families each and given an assigned list of households and incentives to train one member from each in e-Literacy. Each home could get subsidized training only at the assigned e-Center. The e-Literacy package included a 15-hour running CD of ten modules, and, though there is a test built in, anyone having watched sessions is considered e-literate. </p>
+<p>By March 2004, the e-literacy phase for Malappuram was completed. This in effect means every household has had basic exposure to computing. This does not necessarily mean every household the ability to use applications, but it has been an approach that works towards the gradual removal of the fear of technology and provides a far-reaching introduction to computer basics. The Akshaya planners emphasized training for entrepreneurs for the post-e-literacy phase in six focus areas — multimedia, data operations, software, hardware, financial services, and community building. E-Centers were pooled into groups of six, all groups having one e-Center in each focus area, to distribute demand evenly.</p>
+<p><span class="subhead">Phase II: From e-Literacy to Shared Access </span></p>
+<p>A year after completion of the e-literacy phase, about 30% of the e-Centers have closed shop, while others have flourished. Local local-level participation— with bottom-up demand and the councils voting to invest their tax revenues in the project— has been able to galvanize a major transformation. Tying the e-Literacy disbursements from the government to entrepreneurs' ability to market the project facilitated a spontaneous campaign of project outreach, which brought the computer to each doorstep. The average entrepreneur had to go door to door, convincing households to enroll for the e-Literacy classes. Of the 140 Rupees (about US$3.25) paid for one person/household taking e-literacy course, the entrepreneur got Rs. 20 directly from the user, the remainder through the village councils. E ntrepreneurs often made repeated trips to households, trying to get every potential customer on board. This micro level promotion was supported by a macro level campaign by the state. </p>
+<p>The initial phase of the Akshaya e-literacy implementation generated a buzz about computers throughout the district, an extremely valuable phenomenon in itself. Most e-Centers claimed enrollment in the range of 95% of their assigned households. At many locations, the e-literacy program raised the profiles of the entrepreneurs, some eventually standing for public office following their new-found recognition within their communities. Anecdotal evidence indicates that people buying computers had started consulting their local Akshaya entrepreneurs, some of whom became computer resellers. </p>
+<p>There are concerns, to be sure, about the financial future of the telecenters. Although the large size of the network was a huge advantage in effectively carrying out the e-literacy phase, the fixed capital infrastructure is faced with economic sustainability concerns now that Internet access and advanced training courses and services are to be the prime drivers of income. Despite the investment in district-wide wireless broadband, less than 400 e-Centers have used the network, and about half of those make money. This raises the question of whether e-literacy, a one-time payback investment, and community Internet access centers, a recurrent revenue enterprise, should be tied together at all. It is also worth comparing the long-term benefits of e-literacy provided through fixed infrastructure with the results of a mobile training model like the example of the <a href="http://www.etampere.fi/en/">eTampere bus</a> in Tampere, Finland. The search for the sustainability foundation with permanent kiosks requires greater study of the regional characteristics of areas in which kiosks are located and of the people who are targeted as future users of the Internet. </p>
+<p>Although the state has focused on providing services such as agricultural and fishing information, network analysis shows that communications and transactions are the main draw of customers to telecenters. This suggests that Akshaya e-Centers may need to ramp up and better publicize the suite of services available such as bill payments. </p>
+<p>Another factor about community access centers also comes to fore from observing Akshaya. The operational success of the project was guided by the proactive work of M. Sivasankar, who was appointed district collector, the highest administrative position in the state, primarily to run the project. Other districts may not have a similar political heavyweight to prioritize operations. This points towards the need to research the role of a project champion in such development efforts that involve introducing new consumer technologies and include an important citizen-government interface. </p>
+<p>Are telecenters a public good and should they be underwritten with public funds? Given the government of India's announcement of a $22 million package for connecting Indian villages to the Internet, this is a crucial question. However, using Akshaya as an indicator for the rest of India can be contentious. Studies such as <a href="http://www.globaledevelopment.org/papers/aksh_finlnd_fin.doc">&quot;The Case of Akshaya&quot;</a> indicate that several distinguishing economic and human development characteristics of Malappuram (and Kerala in general) give it an appreciably unique demand potential of services. Additionally, the Akshaya project bottom-up demand and planning at the village council level present a fascinating perspective on the role of collaborative and community-inclusive planning in setting up telecenters. The referendum-like expression of demand for computer literacy creates a strong case for spending state funds in Malappuram, and the same may not apply to all of Kerala. </p>
+<p>In any case, justifying state spending for such a service entails the need to create a case for e-literacy and Internet access as a public utility. The measurable effects of the project on skills, job creation, and local trade in Malappuram and the rest of Kerala attributable in part or whole to the Akshaya Project over the next few years will be instrumental in gaining clarity on these issues.</p>
+<p><em>Acknowledgements: M.S. Vinod, Geetha Pious, Eric Brewer, Sergiu Nedevschi, Rabin Patra, Eric A. Brewer. </em></p>
+<hr noshade>
+<p>Editors’ note: Akshaya has won a <a href="http://www.aec.at/en/prix/winners2005.asp">2005 Prix Ars Electronica</a> in the Digital Communities category.</p>
+<hr noshade>
+<p><em><a href="mailto:joyojeet@berkeley.edu">Joyojeet Pal</a><strong></strong> is a doctoral candidate in the <a href="http://www-dcrp.ced.berkeley.edu/">Department of City and Regional Planning</a> at the <a href="http://www.berkeley.edu/">University of California at Berkeley</a>, where he received his Master's Degree in Information Management and Systems. Joyojeet is part of the <a href="http://tier.cs.berkeley.edu/">Technology and Infrastructure in Emerging Regions (TIER)</a> research group there. </em></p>
+<p><em>G.R. Kiran <strong></strong>is the <a href="http://www.akshaya.net/">Akshaya Project</a> Coordinator and has been involved in policymaking and implementation of e-governance and ICT for development projects in the state of Kerala, India since 1996. He is an Electronics &amp; Communication Engineer and MBA, with an M.Phil in Applied Economics from <a href="http://www.jnu.ac.in/">Jawaharlal Nehru University</a>, New Delhi, and is currently a PhD scholar in Information Systems at the <a href="http://www.lse.ac.uk/">London School of Economics</a>. </p></em>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>eSeva E-services in Southeast India</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000322.html" />
+    <modified>2005-05-25T22:03:00Z</modified>
+    <issued>2005-05-25T18:03:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.322</id>
+    <created>2005-05-25T22:03:00Z</created>
+    <summary type="text/plain"> Andhra Pradesh, India Democracy, as we all learned in high school, has been defined as government of the people, for the people and by the people. While the first two goals have been to an extent met, the true...</summary>
+    <author>
+      <name>Sanjay Jaju</name>
+      
+      <email>sjaju1@rediffmail.com</email>
+    </author>
+    <dc:subject>International</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<p><table width="200" border="0" align="center" cellpadding="1" cellspacing="1">
+  <tr>
+        <td><div align="center"><img alt="Andhra Pradesh, India" src="http://www.comtechreview.org/spring-summer-2005/images/jajuimage2.png" width="200" height="243" border="0" />
+  </td>
+  <tr>
+       <td><div align="center"><span class="caption">Andhra Pradesh, India</span></div></td>
+  </tr>
+</table>
+<p>Democracy, as we all learned in high school, has been defined as government of the people, for the people and by the people. While the first two goals have been to an extent met, the true test of democracy lies in it transitioning to being administered by the people themselves. Being the head of the district administration of the <a href="http://www.esevaonline.com/">eSeva</a> (e-services) project in the West Godavari District in the province of Andhra Pradesh in India, I had the opportunity of conceptualizing, implementing and sustaining an initiative wherein information and communications technology have acted as an agent in enabling such a change. We have helped to replace the traditional form of governance and its accompanying deficiencies with a modern, more open, transparent and responsive service delivery system. </p>
+<p align="left">The project is the prime tool to bridge the digital divide in the rural areas and has used Information Technology for providing access to various citizen-to-government and citizen-to-citizen services through web enabled rural kiosks established in the villages throughout the district. These centers are managed by women's self-help groups, and have been able to position the women as information leaders to help bridge the gender divide.</p>
+<p>These centers provide access to the WestGodavari.org <a href="http://www.westgodavari.org/">district portal</a>&nbsp;which has services ranging from the issuance of certificates required for getting various social benefits to government, education, employment, medical and health program information to utility bill and tax payment capabilities. </p>
+<p>The computers in the village information kiosks are on a district wide network (a hybrid of dial up, 802.11 and WLL) helping kiosks interact with the district server hosting the local portal. To save on the networking costs, the project has developed a unique synchronization tool that allows the kiosks to work offline and the databases to be periodically synchronized in minimal time. </p>
+<table width="200" border="0" align="center" cellpadding="1" cellspacing="1">
+  <tr>
+    <td><div align="center"><img alt="A view of an e-Seva centre" src="http://www.comtechreview.org/spring-summer-2005/images/jajuimage4.gif" width="276" height="206" border="0" />
+</div></td>
+    <td><div align="center"><img alt="A view of an e-Seva centre" src="http://www.comtechreview.org/spring-summer-2005/images/jajuimage5.gif" width="276" height="206" border="0" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="2"><div align="center"><span class="caption">Views of e-Seva centres</span></div></td>
+  </tr>
+</table>
+<p>The project has been developed using local knowledge and local content by local professionals. There are citizen forums and online auctions and biddings for rural marketing. The project has developed a citizen-centric land records system resulting in evolution of a transparent and effective land record delivery system designed to address the insecurities of the farmers. Although the roman alphabet is being used currently, the content on the citizen petitions is in local language. 14,000 citizen grievances have been redressed in this way—see the success stories listing of 30 <a href="http://www.westgodavari.org/success_stories/sustories.asp?nm=1">Long Pending Grievances Settled</a>. Steps are underway to switch over to the local language fonts.</p>
+<div class="sidebar">
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="590" valign="top"><p align="left"><span class="subhead">e-Seva Project Growth </span></p>
+        <p>June 2002: Pilot ICT initiative to strengthen the self-help groups started. </p>
+        <p>Nov 2002: A comprehensive program to deliver civic services at rural points in convergence with self-employment plans envioned and conceptualized. </p>
+        <p>Jan 2003: Web-enabled rural kiosks established in 46 places. </p>
+        <p>June 2003: Over 300,000 transactions recorded by this time. </p>
+        <p>Sept 2003: Partnership with Azim Premji Foundation forged to initiate model whereby children from the elementary government schools can visit the centers daily and use multimedia CDs. </p>
+        <p>Nov 2003: 120 more centers added; e-enabled education reaches to over 28,000 students; transactions exceed 600,000. </p>
+        <p>July 2004: Centers connected through WLL; 70,000 students taking e-enabled education. </p>
+        <p align="left">Oct 2004: Transactions reach 1.5 million; over 350 million rupees collected against electricity bills. </p>
+        <p align="left">Nov 2004: e-commerce activities for tribal tourism activities launched. </p>
+        <p align="left">Dec 2004: Telemedicine from specialists to the primary health centers started. </p>
+        <p>Jan 2005: Transactions exceed 2 million. </p>
+        <p>Feb 2005: A strategy entitled “Closing School” for training graduate unemployed youth in computers, English, communication, and managerial skills for corporate placement launched. </p></td>
+  </tr>
+</table>
+</div>
+<p>With over 200 kiosks in the district the project has completed more than two million transactions so far. Centers are doing good business and becoming self-sustainable, earning $50-500 per month. The project has also opened the possibility for the self-help groups to market their products directly without the need for middlemen. The website has become a major dissemination and broadcasting tool and has helped in the creation of a knowledge and information economy. </p>
+<div class="sidebar" "float_left"><p><span class="subhead">Some Additional Benchmark Statistics </span></p>
+<p><span class="subhead">January 2003 – March 2005 </span></p>
+<ul>
+  <li>68,500 Old Age Pensions issued along with Identity cards </li>
+  <li>3,59,790 Integrated Certificates issued </li>
+  <li>770 House sites disputes solved </li>
+  <li>328 Bus shelter and timings issues resolved </li>
+  <li>945 Land disputes resolved </li>
+  <li>54,000 Ration card issues solved </li>
+  <li>13,906 specific citizen problems solved </li>
+  <li>Over 10,000 e-commerce transactions for tourism, goods and services. </li>
+</ul></div>
+<p>The West Godavari eSeva project won the Outstanding Gender and ICT Project Award for Community/Individual Capacity Building at the World Summit on Information Society in Geneva in December 2003. The project has also won the first prize in the National Awards of the Computer Society of India that year. The project was nominated for the 2004 Stockholm Challenge Award in e-democracy category. In January 2005, the Project was conferred the National Award for Exemplary Implementation of eGovernance (&quot;Gold Icon&quot;) by the Government of India. </p>
+<hr noshade>
+<p><em><a href="mailto:sjaju1@rediffmail.com">Mr. Sanjay Jaju</a> is Collector &amp; District Magistrate, West Godavari, and Director of Disrict Administration of eSeva. Mr. Jaju is a mechanical engineer, has completed the Post Graduate Programme in Project Design &amp; Management at the <a href="http://www.man.ac.uk/">University of Manchester</a> in the U.K., and previously served in the Indian Administrative Service. </em></p>
+<p>
+ ]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Burkina Faso, West Africa: A Case Study of Internet Development and Usage in Higher Education in Emerging Countries</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000323.html" />
+    <modified>2005-05-25T22:04:00Z</modified>
+    <issued>2005-05-25T18:04:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.323</id>
+    <created>2005-05-25T22:04:00Z</created>
+    <summary type="text/plain"> Africa spotlighting Burkina Faso Burkina Faso Among the former French colonies of West Africa, Burkina Faso (formerly Upper Volta), gained its independence in 1960 and became one of the first countries in francophone Africa to gain access to the...</summary>
+    <author>
+      <name>Ibrahima Poda and William Brescia</name>
+      
+      <email>podai@muohio.edu,brescia@uark.edu</email>
+    </author>
+    <dc:subject>International</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<table width="485" border="0" align="center" cellpadding="1" cellspacing="1">
+  <tr>
+    <td width="300"><div align="center"><img alt="Africa spotlighting Burkina Faso" src="http://www.comtechreview.org/spring-summer-2005/images/burkina.gif" width="158" height="163" border="0" />
+</div></td>
+    <td width="178"><div align="center"><img alt="bresciaimage5.gif" src="http://www.comtechreview.org/spring-summer-2005/images/bresciaimage5.gif" width="158" height="163" border="0" />
+ </div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><span class="caption">Africa spotlighting Burkina Faso</span></div></td>
+    <td><div align="center"><span class="caption">Burkina Faso</span></div></td>
+  </tr>
+</table>
+<p>Among the former French colonies of West Africa, Burkina Faso (formerly Upper Volta), gained its independence in 1960 and became one of the first countries in francophone Africa to gain access to the Internet in 1989. With a population of 12.2 million and a per capita gross national product (GNP) of $300, it is one of the poorest nations in the world, with only 32% literacy, according to the <a href="http://www.state.gov/r/pa/ei/bgn/2834.htm#geo">U.S. State Department's Bureau of African Affairs</a>. </p>
+<p align="left">The leaders of the country believe that Internet usage can accelerate social and economic development. A <a href="http://www.uneca.org/aisi/nici/country_profiles/Burkina%20Faso/Burkina%20Faso%20NICI%20PLan.html">National Information and Communications Infrastructure (NICI) Development Plan</a> was approved in 1999, addressing the areas of (a) computerization of the state/administration, (b) reinforcement of national capacities and the quality of training and research, (c) improvement of economic potential, (d) development of community communication centers, and (e) infrastructure development. The NICI Plan 2000-2005 includes a detailed Internet Initiative to (a) establish a national infrastructure through expanding the existing <a href="http://www.onatel.bf/fasonet/abonnementemail.htm">FasoNet</a>, (b) increase the connectivity rate (from 256 Kilobits per second to 512 Kbps) between FasoNet and <a href="http://www.teleglobe.com/en/">Teleglobe Canada</a>, their international ISP, (c) reinforce training at training centers, and (d) develop national expertise through trainer training. </p>
+<p align="left">The <a href="http://www.univ-ouaga.bf/">University of Ouagadougou</a> in the nation's capital currently uses the Internet for two purposes: to improve communications and to increase accessibility to useful information. The Internet greatly enhances communications and the exchange of information between faculty, staff, and students and provides savings when compared to other electronic forms of communications. The costs for Internet communications are lower than the telephone or FAX, making the Internet the least expensive communications tool to use. For faculty, staff, and students, the Internet helps in meeting the need for resources otherwise only available in libraries. The NICI Plan foresees education and research institutions in Burkina Faso connected together through the Internet, allowing them to exchange resources, collaborate at a distance, participate in virtual training, and use scientific and technical information to facilitate learning and socio-economic development nation-wide. </p>
+<table width="329" border="0" align="center" cellpadding="1" cellspacing="1">
+  <tr>
+    <td width="325"><div align="center"></div>      
+<div align="center"><img alt="The RESAFAD computer lab" src="http://www.comtechreview.org/spring-summer-2005/images/bresciaimage4.gif" width="250" height="178" border="0" /> </div></td>
+  </tr>
+  <tr>
+    <td><div align="center"><span class="caption">The <a href="http://www.bf.resafad.org/equipement.htm">Réseau Africain de Formation à Distance (RESAFAD)/African Distance Learning Network lab</a></span></div></td>
+  </tr>
+</table>
+<p>There are, however, major problems. First, equipment and connectivity is limited. In 2001, the Direction de la Promotion des Nouvelles Technologies de l'Information et de la Communication (DPNTIC), the department for promoting the use of the new information and communications technologies, indicated that there were only 1,700 Internet users and the 14,000 students enrolled in various degree programs on campus. Most of the existing equipment continues to have limited capacity, and connectivity is random. Faculty, staff, and students endure slow speeds when browsing the Internet, and frequently experience being disconnected from the main server, rendering the online experience challenging for campus users. </p>
+<p align="left">Internet usage at the Unit&eacute; de Formation et de Recherche/Sciences Humaines or the Learning and Research Unit/Social Sciences (UFR/SH) is influenced by a lack of computers with Internet access. This academic and research unit is facing mounting internal and external pressures for changing the way information is accessed and how learning takes place and research conducted. When the DPNTIC undertook its general survey, the department inventoried 56 computers available at UFR/SH that were fully functioning; they found half of these were providing access to the Internet, however, most were installed in administrative offices. Only 50% of the faculty members at UFR/SH regularly used the Internet and accessed it in the computer labs located at the technology centers across campus and the central library. Student Internet access at UFR/SH was restricted to graduate students due to the insufficient capacity in computer labs. </p>
+<p align="left">In addition to the absence of consistent interconnection among an insufficient number of existing computers on campus there is also a lack of technicians, technology coordinators, and training and support for administrators, faculty, and students. The university has not yet proven to be effective in assessing needs, and disparities between academic units, insufficient coordination of various initiatives, and the absence of an institutional technology plan for administrative and financial management as well as educational purposes all hinder development. </p>
+<p align="left">Despite these problems, because the Internet offers a broad range of possibilities for learning at all academic levels, there is a growing interest in financing technology and developing strategies and techniques for incorporating technology into the curriculum at UFR/SH. Already limited Internet use has had a positive influence on learning for everyone. On campus, the administration is now increasing computer support and training to administrators, faculty members, and students. </p>
+<p align="left">While the obstacles remain substantial, there is promise for the future. A short-term plan for improving Internet use at UFR/SH is necessary. UFR/SH and the university must find effective means for additional equipment acquisition and increased the connectivity. Creating faculty and student labs and providing additional assistants are additional steps that would have immediate positive effects. </p>
+<p align="left">The case of the University of Ouagadougou in Burkina Faso provides information about a state of limited connectedness within an academic unit, suggesting the type of assistance that is needed. Deconstructing this information might provide a better understanding of the patterns, opportunities, and needs elsewhere in the emerging countries. </p>
+<hr noshade>
+<p><em><a href="mailto:podai@muohio.edu">Ibrahima Poda</a> is an Instructional Technology Specialist at Miami University in Oxford, Ohio; <a href="mailto:brescia@uark.edu">William Brescia</a> is an Assistant Professor of Educational Technology at the University of Arkansas in Fayetteville. </em></p>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Publications Update: The Journal of Community Informatics, Community Media Review, The Nation, The Nonprofit Quarterly, Brainstorm</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000325.html" />
+    <modified>2005-05-25T23:00:00Z</modified>
+    <issued>2005-05-25T19:00:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.325</id>
+    <created>2005-05-25T23:00:00Z</created>
+    <summary type="text/plain"><![CDATA[ The Journal of Community Informatics The newly-inaugurated Journal of Community Informatics brings together a global range of academics, CI practitioners, and national and multi-lateral policy makers. The third issue is dedicated to the theme of &quot;Putting Our Work in...]]></summary>
+    <author>
+      <name>Editor</name>
+      
+      
+    </author>
+    <dc:subject>Resources</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<p><img alt="The Journal of Community Informatics logo" src="http://www.comtechreview.org/spring-summer-2005/images/jocilogo.gif" width="500" height="78" border="0" /></p>
+<p><em><span class="subhead"><a href="http://ci-journal.net/index.php">The Journal of Community Informatics</a></span></em></p>
+<p>The newly-inaugurated <em>Journal of Community Informatics </em> brings together a global range of academics, CI practitioners, and national and multi-lateral policy makers. The third issue is dedicated to the theme of <a href="http://www.ci-journal.net/viewissue.php">&quot;Putting Our Work in Context&quot;</a> and reflects the diversity of research (and practice) in the area of CI.</p>
+<ul>
+  <li>Editorial: Putting Our Work in Context <em>by Michael Gurstein </em></li>
+</ul>
+<ul>
+  <li>Is Community Informatics Good for Communities? Questions Confronting an Emerging Field <em>by Randy Stoecker, </em><em>University </em><em> of </em><em>Toledo </em></li>
+</ul>
+<ul>
+  <li>Community Democratization of Telecommunications Community Cooperatives in Argentina : The Case Of TELPIN <em>by Susana Finquelievich, LINKS, and Graciela Cecilia Kisilevsky, </em><em>University </em><em> of </em><em>Buenos Aires </em></li>
+</ul>
+<ul>
+  <li>Crisis, Farming &amp; Community <em>by Chris Hagar, Graduate School of Library &amp; Information Science, University of Illinois at Urbana Champaign </em></li>
+</ul>
+<ul>
+  <li>Cybercaf&eacute;s and their potential as Community Development Tools in India <em>by Anikar Michael Haseloff, Universit&auml;t Augsburg </em></li>
+</ul>
+<ul>
+  <li>ICTs and Community and Suggestions for Further Research in Scotland <em>by Anna Malina and Ian W. Ball, University of Dundee, Scotland </em></li>
+</ul>
+<ul>
+  <li>Structuration, ICTs, and Community Work <em>by Larry Stillman, Monash University, Melbourne Australia and Randy Stoecker, University of Toledo </em></li>
+</ul>
+<p>Points of View</p>
+<ul>
+  <li>Community Networking as Radical Practice <em>by Garth </em><em>Graham </em><em>, </em><em>Victoria </em><em>, </em><em>Canada </em></li>
+</ul>
+<p>Notes and Cases from the Field</p>
+<ul>
+  <li>Position Paper: Turning the Corner with First Nations Telehealth <em>by Geordi Kakepetum, Keewaytinook Okimakanak </em></li>
+</ul>
+<ul>
+  <li>Report From the Field: The RICTA Meeting Video <em>by Susan O'Donnell, National Research Council Canada, Brian Walmark, Keewaytinook Okimakanak Research Institute, and Cal Kenny, Knet </em></li>
+</ul>
+<ul>
+  <li>KiHS: Bridging the Traditional and Virtual Classroom in Canada 's First Nation Schools, <em>by Brian Walmark, Keewaytinook Okimakanak </em></li>
+</ul>
+<p>Note: <a href="http://www.ci-journal.net/archive.php">Issue #2</a>, on &quot;Sustainability and Community ICTs,&quot; exploring the challenges of creating sustainable projects and initiatives, and transformations that results from these efforts, is also available online as is <a href="http://www.ci-journal.net/archive.php">the premiere issue</a>. </p>
+<p>
+<p><img alt="Community Media Review cover" src="http://www.comtechreview.org/spring-summer-2005/images/cmrautumn2004cover.jpg" width="150" height="187" border="0" /></p>
+<p><span class="subhead"><a href="http://www.communitymediareview.org"><em>Community Media Review</em></a></span> </p>
+<p>The quarterly journal of the <a href="http://alliancecm.org/"><strong>Alliance for Community Media</strong></a>, a nonprofit, national membership organization founded in 1976, representing over 1,000 Public, Educational and Governmental (PEG) access organizations and community media centers throughout the country. The Fall 2004 issue, edited by Margie Nicholson, is focused on the theme of <strong><a href="http://communitymediareview.org/issue.html">“Cultural Preservation &amp; Diversity”</a></strong> and available in its entirety in PDF format. </p>
+<p><img alt="The Nation cover" src="http://www.comtechreview.org/spring-summer-2005/images/TheNation0523coversmall.jpg" width="150" height="200" border="0" /></p>
+<p><span class="subhead"><em><a href="http://www.thenation.com">The Nation</a></em></span></p>
+<p>The May 23 issue is dedicated to the theme of <a href="http://www.thenation.com/issue.mhtml?i=20050523"><strong>&quot;Radio Waves: The New Sounds of Unmanaged Democracy,&quot;</strong></a>, much of which is available online including a profile of Amy Goodman, the dynamic host of Democracy Now! by Lizzy Ratner, The Liberal Media—What Would Dewey Do? by Eric Alterman, Confessions of a Listener by Garrison Keillor, Low-power Radio by Rick Carr, Clear Channel's Failure by Eric Magnuson, Good, Gray NPR by Scott Sherman, and more. </p>
+<p><img alt="Nonprofit Quarterly logo" src="http://www.comtechreview.org/spring-summer-2005/images/npqwinter2004cover.gif" width="83" height="110" border="0" /></p>
+<p><span class="subhead"><em><a href="http://www.nonprofitquarterly.org/">The Nonprofit Quarterly </a></em></span></p>
+<p>The journal of <a href="http://www.tsne.org/"><strong>Third Sector New England</strong></a>, that provides information and services to support the entire nonprofit sector. Each issue generally contains a &quot;Technology&quot; section. The Winter 2004 issue on <a href="http://www.nonprofitquarterly.org/section/562.html"><strong>“The Responsibility of Leadership”</strong></a> includes online version of the editors' conversation with Eli Pariser, one of MoveOn's founders, on &quot;Online Fundraising and Engagement&quot; and how the two are linked.</strong></p>
+<p><span class="subhead"><a href="http://seattle.gov/tech/brainstorm"><em>Brainstorm </em></a></span></p>
+<p>The City of Seattle Community Technology ezine. The May 2005 issue features updates on free city WiFi spots; Acessa S&atilde;o Paulo, a community technology initiative in S&atilde;o Paulo, Brazil to close the digital divide; www.tips4you.org, a new consumer website about how to establish and protect your credit, avoid predatory lending, and manage money; more, including archives with techtips and links. </p>
+<p>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Research Methods for Community Change: A Project-Based Approach</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000326.html" />
+    <modified>2005-05-25T23:01:00Z</modified>
+    <issued>2005-05-25T19:01:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.326</id>
+    <created>2005-05-25T23:01:00Z</created>
+    <summary type="text/plain"><![CDATA[ Written by Randy Stoecker Sage Publications, Inc. Thousand Oaks, CA, USA London, UK &copy; 2005 076192888X/ 0761928898 Order online Research Methods for Community Change is a practical and thoughtful guide for all who have a burning desire to actualize...]]></summary>
+    <author>
+      <name>Melissa C. Jeter</name>
+      
+      <email>melissacjeter@gmail.com</email>
+    </author>
+    <dc:subject>Resources</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<div style="width:350px"><img alt="Research Methods for Community Change book cover" src="http://www.comtechreview.org/spring-summer-2005/images/jeterimage1large.jpg" width="150" height="225" border="0" class="float_left" />
+
+Written by Randy Stoecker <br>
+Sage Publications, Inc. <br>
+Thousand Oaks, CA, USA <br>
+London, UK <br>
+&copy; 2005 <br>
+076192888X/ 0761928898 </p>
+<p><a href="http://www.sagepub.com/book.aspx?pid=10546">Order online</a></p></div>
+
+<p><em>Research Methods for Community Change </em> is a practical and thoughtful guide for all who have a burning desire to actualize fairness, justice, peace and true democracy. Written in a narrative style that includes personal anecdotes and observations, stories from <em>Alice in Wonderland</em>, common idioms and jokes that in no way diminish vital scholastic insight, this book is accessible to both community workers and students. Stoecker provides a summarized list of conclusions and concrete investigative resources in addition to the expected endnotes and takes the reader chapter by chapter through research methods that are systematic and goal-oriented. Throughout the book Stoecker confronts the truth of how community work stretches and challenges your will as you encounter the realities of issues such as possible homelessness due to predatory lending practices, child abuse, domestic violence, and job loss as well as the navigation of community-based organization, office, city, state, and local politics. Stoecker has written this for people who want to get their hands dirty and resuscitate unhealthy communities. </p>
+<p>In the first chapter, Stoecker argues that ongoing systematic goal-oriented research can yield better results. Community-based organizations and their staff who produce real, concrete, and measurable project-specified results demonstrate the importance of their work to funders and have an advantage in obtaining and maintaining funding. Chapter two examines the roles and capacities of the researcher, and explores the differences between the work of academic researchers and community-based researchers. In chapter three, Stoecker presents the project-based approach to research methods, and addresses the long-standing lack of connection that academic research methods have had with actualizing community change. </p>
+<p>To emphasize that the goal-oriented nature of project-based research is to resuscitate unhealthy communities, Stoecker uses medical terminology in the titles of chapters four through seven: diagnosing the problem, prescribing an intervention, implementing the prescription, and evaluating the impact. In chapter seven, Stoecker discusses evaluation. While evaluation is the end of the research process, it is best seen as an ongoing process, one that should include community members. Stoecker shares his evaluations with the community so they can participate in their own portrayal before he delivers reports to funders or government officials, and he shows that community change brought about democratically in this way is as important as creating the change itself. </p>
+<p>In the last chapter, Stoecker discusses research methods as a lifestyle, and begins by discussing how his parents were able to educate themselves about getting affordable prescription drugs. Such techniques as popular education involve learning information based on real, immediate needs and Stoecker shows how integrating research into our lives can lead to our becoming more of a do-it-yourself society rather than one in which we pay others to do research as service for us. When you work in a community you find that the community is quite knowledgeable about what its problems are and how to solve them. The benefit of community-based research is that the community becomes empowered. Communities can leverage their knowledge by working with organizations or academics who have chosen to recognize the power and privileges a university provides and lend them to long-time disempowered communities. As community workers and students who aspire to create change in communities, it is important to note the difference between knowing information and having the ability to influence. Recognizing and using your power and privileges to create change in communities is not paternalistic, it is a real and noble effort. </p>
+<p>In sum, read this book and use it. It is a thoughtful and practical guide that offers priceless resources for community workers and students who want to create community change. </p>
+<hr noshade>
+
+<div class="bionote" style="height:250px;"><p><img alt="Melissa Jeter" src="http://www.comtechreview.org/spring-summer-2005/images/jeterimage2small.gif" width="200" height="160" border="0" class="float_left" />
+
+<em><a href="mailto:melissacjeter@gmail.com">Melissa C. Jeter</a> has been a community organizer in Toledo, Ohio, trained by the Association of Community Organizations for Reform Now (ACORN) as well as an instructor at Adrian College, Monroe County Community College and the <a href="http://www.utoledo.edu/">University of Toledo</a> Community and Technical College, where she earned a Master's Degree in Sociology, emphasizing community development and community organizing. Jeter is currently writing a novel about a community worker's quest for the meaning of the American Dream in response to predatory lending and a changing Midwestern economy. </em></p></div>
+]]>
+      Book Review
+    </content>
+  </entry>
+  <entry>
+    <title>Community Practice in the Network Society: Local Action/Global Interaction</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000327.html" />
+    <modified>2005-05-25T23:02:00Z</modified>
+    <issued>2005-05-25T19:02:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.327</id>
+    <created>2005-05-25T23:02:00Z</created>
+    <summary type="text/plain"><![CDATA[ Edited by Peter Day and Douglas Schuler Routledge (Taylor &amp; Francis Group) London, UK and New York, NY, USA &copy; 2004 0415301955 Order online As a companion volume to Shaping the Network Society (previously reviewed here), this interesting collection...]]></summary>
+    <author>
+      <name>Daniel Schackman</name>
+      <url>www.comtechreview.org</url>
+      
+    </author>
+    <dc:subject>Resources</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<table width="136" height="187" border="0" cellspacing="1" cellpadding="1" align="left">
+  <tr>
+    <td width="132"><div align="center"> <img alt="Community Practice in the Network Society" src="http://www.comtechreview.org/spring-summer-2005/images/schackmanreviewimage1.jpg" width="93" height="140" border="0" />
+</div></td>
+  </tr>
+</table>
+<p>Edited by Peter Day and Douglas Schuler <br>
+Routledge (Taylor &amp; Francis Group) <br>
+London, UK and New York, NY, USA <br>
+&copy; 2004 <br>
+0415301955 <br>
+<a href="http://search.tandf.co.uk/bookscatalogue.asp?URL=https://ecommerce.tandf.co.uk/catalogue/DirectLink.asp?ResourceCentre=SEARCH&ContinentSelected=0&CountrySelected=0&USSelected=0&ChangeCountry=0&search_text=0415301955&SearchGroup=ISBN&results_order=ByTitle&">Order online</a></p>
+<p>As a companion volume to <em>Shaping the Network Society </em> (<a href="http://www.comtechreview.org/winter-2004-2005/000228.html">previously reviewed here</a>), this interesting collection delves deeper into the role of community technology and networking in the Network Society. Day and Schuler are particularly concerned with the lack of involvement of civil society and communities in the ICT (information and communication technologies) revolution that is primarily serving the interest of globalized commercial interests, and is a threat to true democratization. But there are signs of hope at the grass roots as communities use ICT for social networking to further their vision of a more citizen-oriented, diverse, “Civil Network Society.” </p>
+<p>As in <em>Shaping the Network Society</em>, the authors divide the publication into three sections. Part I, “The network society: issues and exigencies,” lays out some historical context and current state of things. The articles make a compelling case for the challenges to democracy, civil society, and civic engagement wrought by corporate control of the Network Society, and offer some examples of initiatives that are countering these effects. In Chapter 5, “The changing online landscape,” Eszter Hargittai describes the challenges faced by non-profits fighting for a presence in the commercial web environment and suggests strategies to overcome the odds: focusing content on a target audience of stakeholders rather than trying to compete with broader-interest web sites; working in tandem with other like-minded and supportive organizations to cross-link in order to raise their respective rankings on search engines; keeping the content fresh, both to encourage return visitors and to keep up with web search engine programs that look for new material as part of their ranking criteria (she writes: “Ideal in this case would be to include a blog…on the site with nearly daily updates.”); creating interactivity on web sites; and developing email lists with messages about web site updates to encourage traffic. She also proposes the creation of a non-profit search engine initiative, but recognizes that there would still be the challenge of getting people to the web site. </p>
+<p>Part II, “Snapshots of community practice,” focuses in on specific ICT models, including networks in Latin America facing the challenges of internal digital divide issues among elites and poor in their own countries, and a national public dialogue about ICT in El Salvador that is yielding some positive results. Chapter 9, “Social cyberpower in the everyday life of an African American community,” profiles the exciting community-building work being done with ICT at The Murchison Center in Toledo, Ohio, that will be particularly interesting to readers who want to find out more about that center <a href="http://www.comtechreview.org/spring-summer-2005/000298.html">covered in this issue</a>. </p>
+<p>Part III, “An emerging community technology research agenda,” explores the growing field of community informatics with specific case studies and theoretical constructs such as “A human rights perspective on the digital divide” (Chapter 11). In Chapter 12, “An asset-based approach to community building and community technology,” Nicol E. Turner-Lee and Randal D. Pinkett offer strong conclusions based on case study research that shows how valuable and crucial it is to view members of the community as assets that can be tapped into to identify, address and solve community problems through ICT. Their involvement is crucial to their investment in the process of social change that emerges, and is in and of itself empowering, rather than a top-down approach coming from outside the community. </p>
+<p>In the Conclusion of the book, “Integrating practice, policy, and research,” Day and Schuler make a convincing case for academia, community groups, and advocacy organizations to work together as a powerful force for effective social change. This publication fulfills the editors' goal of providing inspiration for community practitioners and researchers to develop the field of community informatics, and to discover the strength derived from working collaboratively. </p>
+<hr noshade>
+
+<div class="bionote" style="height:197px;"><p><img alt="Daniel Schackman" src="http://www.comtechreview.org/spring-summer-2005/images/schackmanimage2small.gif" width="138" height="166" border="0" class="float_left" />
+
+<em>Daniel Schackman, previously a VISTA with <a href="http://www.ctcnet.org">CTCNet</a>, is one of two </em><em>VISTA </em><em> Leaders with the <a href="http://www.cpcs.umb.edu/vista/">CTC VISTA Project</a> and Assistant Editor of the Community Technology Review. </em></p></div>
+]]>
+      Book Review
+    </content>
+  </entry>
+  <entry>
+    <title>Atomiclearning.com</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000328.html" />
+    <modified>2005-05-25T23:03:00Z</modified>
+    <issued>2005-05-25T19:03:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.328</id>
+    <created>2005-05-25T23:03:00Z</created>
+    <summary type="text/plain"> Atomiclearning.com is a website that provides software training for various Windows and Macintosh applications. Some of the application tutorials for Mac are Macromedia Dreamweaver, Adobe Photoshop, Microsoft Excel, Adobe Illustrator, Final Cut Pro, GarageBand. Windows tutorials include Adobe Reader,...</summary>
+    <author>
+      <name>Shannon McCue</name>
+      
+      <email>shannon.mccue@umb.edu</email>
+    </author>
+    <dc:subject>Resources</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<table width="270" height="75" border="0" align="left" cellpadding="1" cellspacing="1">
+  <tr>
+    <td width="172"> 
+</div><img alt="Atomic Learning logo" src="http://www.comtechreview.org/spring-summer-2005/images/mccueimage4.gif" width="242" height="52" border="0" /></td>
+  </tr>
+</table>
+<p><a href="http://www.atomiclearning.com/">Atomiclearning.com</a> is a website that provides software training for various Windows and Macintosh applications. Some of the application tutorials for Mac are Macromedia Dreamweaver, Adobe Photoshop, Microsoft Excel, Adobe Illustrator, Final Cut Pro, GarageBand. Windows tutorials include Adobe Reader, Macromedia Flash, and Microsoft Word and PowerPoint. The list goes on and on. There are thousands of short tutorials on dozens of applications, focused on answering the common questions that teachers, students and other users might have when learning software programs. </p>
+<p>What I like most about this website is its ability to break up the learning process into the basic need-to-know essentials. It sets you up with five or six 2- to 3- minute QuickTime tutorials and takes you through the process of setting up and starting a project. The only downside is you have to sign up for a membership ($79) if you want to get the full tutorial. In my opinion it is well worth the money, especially if you are working at a school, university, or CTC, and there is plenty of useful training available to all members, clients, students, and staff. They also provide you with lesson plans, curriculum tools, and workshop guides. As you can see, the free tutorials can be a tremendous help in providing training for staff, students, and faculty. This website is a very good resource for anyone working in the community technology field; I know I definitely will be using their tutorials more in the future. </p>
+<hr noshade>
+
+<div class="bionote" style="height:197px;"><p><img alt="Shannon McCue" src="http://www.comtechreview.org/spring-summer-2005/images/mccueimage3small.jpg" width="143" height="156" border="0" class="float_left" />
+
+<em><a href="mailto:shannon.mccue@umb.edu">Shannon McCue</a> is a CTC </em><em>VISTA </em><em> working with the <a href="http://www.cpcs.umb.edu/cmt/">Community Media and Technology</a> program at <a href="http://www.umb.edu/">UMass Boston</a>. </em></p></div>
+]]>
+      Web Site Review
+    </content>
+  </entry>
+  <entry>
+    <title>ArcView and TerraSeer Data Analysis Software</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000329.html" />
+    <modified>2005-05-25T23:04:00Z</modified>
+    <issued>2005-05-25T19:04:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.329</id>
+    <created>2005-05-25T23:04:00Z</created>
+    <summary type="text/plain">Technology Assistance and Resource Centers, CTCs, and other community organizations provide persons with a variety of needs with technology access and training and other technology-based social services. By using geographic information systems (GIS) and exploratory spatial data analysis (ESDA) to...</summary>
+    <author>
+      <name>Michael Wolf-Branigin</name>
+      
+      <email>mwolfbra@gmu.edu</email>
+    </author>
+    <dc:subject>Resources</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<p>Technology Assistance and Resource Centers, CTCs, and other community organizations provide persons with a variety of needs with technology access and training and other technology-based social services. By using geographic information systems (GIS) and exploratory spatial data analysis (ESDA) to identify clusters of activities, community practitioners can better plan for supports and services. ESDA provides good descriptions, often in the form of maps, of available data. By using ESDA, stakeholders in organizations improve their ability to detect patterns and relationships. Using GIS and ESDA provides the ability to identify clusters and aids in deciding whether to allocate or reassign additional resources and supports to areas of high use. </p>
+<p>Two relevant software packages for performing this kind of research are <em><a href="http://www.esri.com/software/arcgis/arcview/">ArcView</a></em> and <em><a href="TerraSeer">TerraSeer</a></em>. <em>ArcView </em> software supplies the framework for conducting the analysis by providing the address mapping information. The <em>TerraSeer </em> software provides the ESDA with the ability to analyze the data from <em>ArcView</em>. Use of this begins by collecting data at the individual consumer level and is often available in the organization's database. The address matching function, available within the <em>Arc View </em> software program, generates the two geographic coordinates (longitude and latitude) to represent the person's address on a map. After plotting these coordinates, we assess clustering by applying spatial autocorrelation analyses available in the <em>TerraSeer </em>software package in order to determine the degree of clustering. </p>
+<p>Because these software programs can be difficult to use when you begin and are comparatively expensive (though under $1,000 each), look for assistance at the company websites or through colleges and universities. Urban planning and geography departments can provide valuable resources. While each will be different, many university departments, including graduate level social work and urban planning programs, can arrange internships for college credit. Most universities with urban planning programs will have access to these software packages. Many faculty members will provide pro-bono assistance especially if your organization's project can provide the basis for classroom assignments and possibly lead to publications. </p>
+<hr noshade>
+<p><em><a href="mailto:mwolfbra@gmu.edu">Michael Wolf-Branigin</a>, Ph.D., Associate Professor of Social Work at <a href="http://www.gmu.edu/">George Mason University</a> in Virginia, teaches courses in research methods, and social policy and social justice. His areas of specialization include disability studies, consumer-choice models, and quality of life outcomes. </em></p>
+]]>
+      Software Review
+    </content>
+  </entry>
+  <entry>
+    <title>My Fuzzy Crystal Ball</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000308.html" />
+    <modified>2005-05-26T00:00:00Z</modified>
+    <issued>2005-05-25T20:00:00-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.308</id>
+    <created>2005-05-26T00:00:00Z</created>
+    <summary type="text/plain">I am very skeptical of those who call themselves visionaries, thus I hesitate to reveal the scene in my crystal ball. A few members of the OCCN Board have pressed upon me the importance of being ready for the future,...</summary>
+    <author>
+      <name>Angela Stuber</name>
+      
+      <email>astuber@ohioccn.org</email>
+    </author>
+    <dc:subject>Perspective</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<p>I am very skeptical of those who call themselves visionaries, thus I hesitate to reveal the scene in my crystal ball. A few members of the <a href="http://www.ohioccn.org/about/board.htm">OCCN Board</a> have pressed upon me the importance of being ready for the future, whatever that may hold. Since my crystal ball is a bit fuzzy, I've chucked it over my shoulder and begun looking at this issue using the only methods I am familiar with &mdash; fact gathering and group discussions. </p>
+<p>This past year, OCCN conducted a survey of Ohio CTCs to determine such data as number of individuals served, programs being offered, biggest obstacles, etc. The OCCN Board then held a strategic planning retreat with board, staff and CTC guests. </p>
+<p>The result was an acknowledgement that technology and how our communities use technology is becoming less place-based. We have seen an increase of community-based organizations (some with place-based CTCs and some without) operating mobile computer labs (such as the <a href="http://www.akronul.org/">Akron Urban League</a>) and mobile media programs (such as the <a href="http://www.theneighborhoodnetwork.org/">Neighborhood Network</a>). We also realized the kinds of services being offered by CTCs is growing wider. Some CTCs only offer computer usage and training for basic computer skills, r&eacute;sum&eacute; writing and Internet access. Other CTCs have entered into access and training for multimedia, IT networking, and PC hardware. Beyond classes, some CTCs are running computer recycling centers and giving away or selling computers for the home. </p>
+<p>Considering the immense variety of community technology programs and the inclusion of non-place based programs, the OCCN Board recently voted to change the OCCN mission statement. <a href="http://www.comtechreview.org/spring-summer-2005/000296.html">The new mission statement</a> was broadened to include community technology programs beyond CTCs. The term the board created to define who we serve is “community technology service providers.” </p>
+<p>The Board members who pressed me to be visionary want OCCN to be prepared for any technology changes that impact technology accessibility and usage. Such a charge leads into the question of how OCCN can help community technology programs be prepared for technological changes. A large part of the task for OCCN and our members is being open to creatively considering how new technologies can be used to respond to the needs of our communities. Two organizations that already operate with this foresight are the Southern Perry County Youth Art &amp; Media Center (<a href="http://www.seorf.ohiou.edu/~ag725">SPiCYAM</a>) and the Appalachian Center for Collaborative and Engaged Learning (<a href="http://www.accelearn.org/">ACCEL</a>).  SPiCYAM provides rural youth technology-based art opportunities to focus their energies.  ACCEL has discovered immense success utilizing online curricula as an alternative high school education. </p>
+<p>Another issue that impacts both urban and rural Ohio constituencies and that needs to be addressed is Internet access. Dial-up access to the Internet severely restricts the users' access to online information. Broadband providers install broadband where it is economically beneficial to do so resulting in some rural areas not having access to broadband. Both rural and urban area CTCs and individuals struggle with the high cost of broadband. </p>
+<p>When I accepted the OCCN Executive Director position in January of 2000, I heard repeatedly that CTCs would become obsolete, that computers would be so cheap everyone would have one in the home and they would all be connected to the Internet. Those visionaries were wrong. The role of CTCs may be changing but they are still very much needed, and the challenges and opportunities we face in Ohio have resonance with CTCs around the country. </p>
+<p>The community technology movement is changing, as it should, to not only keep pace with current technology but to find innovative uses for it to benefit our communities. Considering that the community technology movement is full of solution-minded activists, I have no doubt the challenge will be met head on with a plethora of amazing ideas. </p>
+<hr noshade>
+
+<div class="bionote" style="height:197px;"><p><img alt="Angela Stuber" src="http://www.comtechreview.org/spring-summer-2005/images/stuberimage1small.jpg" width="150" height="187" border="0" class="float_left" />
+
+<em><a href="mailto:astuber@ohioccn.org">Angela Stuber</a> is the <a href="http://www.ohioccn.org/">OCCN</a> Executive Director and <a href="http://www.ctcnet.org/">CTCNet</a> Board President. </em></p></div>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>newCube</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/spring-summer-2005/000339.html" />
+    <modified>2005-06-08T20:35:43Z</modified>
+    <issued>2005-06-08T16:35:43-05:00</issued>
+    <id>tag:www.comtechreview.org,2005:/spring-summer-2005//14.339</id>
+    <created>2005-06-08T20:35:43Z</created>
+    <summary type="text/plain"> newCube, a sculpture by Paul Hansen, was installed on and around Sol LeWitt’s sculpture, Double Cubes, at UMass/Boston in May ‘05. newCube plays off LeWitt’s minimalist system based approach—essentially extending the system while also questioning many of the underlying...</summary>
+    <author>
+      <name>Editor</name>
+      
+      
+    </author>
+    <dc:subject>Back Cover</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/spring-summer-2005/">
+      <![CDATA[<p><img alt="newcube.jpg" src="http://www.comtechreview.org/spring-summer-2005/newcube.jpg" width="550" height="381" border="1" /></p>
+<p><i>newCube</i>, a sculpture by Paul Hansen, was installed on and around Sol LeWitt’s sculpture, <i>Double Cubes</i>, at UMass/Boston in May ‘05. <br>
+newCube plays off LeWitt’s minimalist system based approach—essentially extending the system while also questioning many of the underlying principles on which the work is based: completeness, permanence, simplicity and stability. 
+<br>See <a href="http://cube.userobject.com" target="_blank">cube.userobject.com</a>.</p>
+<p><i>
+newCube is the sculptural output of an incomplete psuedo-computational system.</i><br>
+From the newCube source code:</p>
+<p><font face="monaco" size="1">
+doubleCubes=new Sculpture(Cube(4,flat,black),Cube(4,glossy,black));<br>
+Sculpture.toField=new Function(location)<br>
+{<br>
+site=new Map(location,this);<br>
+field=site.toArray();<br>
+return field;v
+}<br>
+...<br>
+return doubleCubes.toField(UMB).clip().slice();<br>
+]]>
+      
+    </content>
+  </entry>
+
+</feed>

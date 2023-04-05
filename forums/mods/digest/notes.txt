@@ -1,0 +1,101 @@
+###########################################################################
+#                                                                         #
+#     Email_Digests-1.0.3                                                 #
+#     Copyright (C) 2000  The phpBB Group                                 #
+#     Copyright (C) 2005  Terrell Russell                                 #
+#     PunBB 1.2, 1.2.1, 1.2.2, 1.2.3, 1.2.4                               #
+#                                                                         #
+###########################################################################
+
+--[ Notes ]-----------------------------------------------------------------
+
+This mod was originally written for the phpBB system.  I have modified it
+to function inline with PunBB.  I have stripped out a bit of functionality
+to meet the design goals and philosophy of PunBB.  One of these is the
+capability to send (x)html email.  I do not have any plans to add this
+functionality back into this mod.  I have also removed the capability to
+receive hourly digests.  I feel daily digests are plenty sufficient and
+if you need more frequent updates, you're probably visiting the forums
+fairly regularly already.
+
+
+I have tried to leave the basic PunBB install as untouched as possible.
+
+There are only three one line changes to the original files, two in
+include/functions.php and one in the profile language file.
+
+
+The digests_send_now.php file does not have to be stored in a web-viewable
+directory.  Since it will be called by the crontab, it can live 'above'
+your public directories.  If this is the case, please make sure to change
+the PUN_ROOT definition at the top of digests_send_now.php to point to the
+correct location.
+
+You may capture the output from the digests_send_now.php script anywhere
+you like.  It will report on the number of digests sent, to whom, and when.
+If you do not capture the output, there is no harm.
+
+Output will be in the form:
+
+A digest containing 3 posts was sent to moe at moe@example.com
+Digests Sent: 1
+Server Date: 1/29/2005
+Server Time: 05:00:00
+Server Time Zone: -5 or EST
+----
+A digest containing 4 posts was sent to larry at larry@example.com
+A digest containing 7 posts was sent to curly at curly@example.com
+A digest containing 1 post was sent to moe at moe@example.com
+A digest containing 3 posts was sent to shep at shep@example.com
+Digests Sent: 4
+Server Date: 1/30/2005
+Server Time: 05:00:00
+Server Time Zone: -5 or EST
+----
+
+
+--[ Upgrading ]-------------------------------------------------------------
+
+You do not need to upgrade to Email_Digests-1.0.3
+
+Email_Digests-1.0.1 and 1.0.2 are the same code, functionally.
+
+This release is only to keep documentation current for new installs
+
+
+--[ To Do ]-----------------------------------------------------------------
+
+- Options will look like:
+  - Only Send Topics, No Messages (Selecting this disables the inner 3)
+    - Display excerpt ...
+    - Include my messages ...
+    - Include only the messages ...
+  - Send Digest, even ...
+  
+
+--[ Version history ]-------------------------------------------------------
+
+Changes in Email_Digests-1.0.3 (2005-03-24) :
+  - no functional changes at all - bumped for PunBB 1.2.4
+
+Changes in Email_Digests-1.0.2 (2005-02-24) :
+  - updated some documentation (line numbering changes)
+  - no functional changes at all - bumped for PunBB 1.2.2
+
+Changes in Email_Digests-1.0.1 (2005-02-01) :
+  - changed install_mod.php to reflect line numbers in PunBB 1.2.1
+  - default excerpt length is now 300 characters
+  - updated some documentation
+  - link to punres.org project page
+  - added 600 characters option
+
+Changes in Email_Digests-1.0.0 (2005-01-30) :
+  - Initial Release
+
+  
+--[ License ]--------------------------------------------------------------
+
+GPL.  This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by the
+Free Software Foundation; either version 2 of the License, or (at your
+option) any later version.

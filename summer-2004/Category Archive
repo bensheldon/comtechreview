@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<title>Front page: CTR & CTCNet Archives</title>
+
+<link rel="stylesheet" href="http://ctr-dev.org/styles-site.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://ctr-dev.org/index.rdf" />
+
+<script language="javascript" type="text/javascript">
+function OpenComments (c) {
+    window.open(c,
+                    'comments',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+</script>
+
+</head>
+
+<body>
+
+<div id="banner">
+<h1><a href="http://ctr-dev.org/" accesskey="1">Front page</a></h1>
+<span class="description"></span>
+</div>
+
+<div id="container">
+
+<div class="blog">
+
+
+<h2 class="date">March 15, 2005</h2>
+
+
+<div class="blogbody">
+
+<a name="000199"></a>
+<h3 class="title">Welcome to Seattle</h3>
+
+<p>
+This year's CTCNet Conference in Seattle, Washington, brings us to the frontier of technology and strong community access. 
+</p><p>
+<table border="0" align="right" cellpadding="1" cellspacing="1">
+<tbody>
+<tr>
+<td width="360" valign="top">
+<center><img src="/summer-2004/img/seattlemap.jpg">
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+Washington State is famous for apples, airplanes, salmon, scenic wilderness, logging, and software. The same frontier spirit that promotes and protects these assets may have also led to its deep immersion in community technology including public access TV, community networks, media arts, computer tech centers, leading library access, community Wi-Fi, and even community voice mail. On the business front <a href=" http://www.real.com/">Real Networks</a>, <a href="http://www.microsoft.com">Microsoft</a>, <a href="http://www.adobe.com">Adobe</a> and many more have homes here. Seattle is home to the <a href="http://www.washington.edu/">University of Washington</a>, the northwest stop on Internet2. The foundation community, including the <a href="http://www.gatesfoundation.org/">Bill and Melinda Gates Foundation</a>, has been a strong supporter of technology literacy and integration efforts for libraries, schools, rural and urban areas.  Nearby Tacoma features <a href="http://www.click-network.com/">the Click! Network</a>, the municipally owned cable and broadband utility.
+</p><p>
+<a href="http://www.jackstraw.org/">The Jack Straw Foundation</a> started as KRAB community radio in 1962 and now offers community audio access and training, including audio editing for visually impaired users. Public access TV centers in Seattle (now <a href="http://www.scantv.org/">SCAN</a>) and Olympia (<a href="http://www.tctv.net/">TCTV</a> started in 1982) have long been centers of community technology, and <a href="http://www.911media.org/">911 Media Arts</a> continues to pave the way for new media artists. The national <a href="http://www.cvm.org/">Community Voice Mail</a> began service in 1992. By 1996 Washington State had three community Free-Net networks:  the <a href="http://www.tcfn.org/">Columbia Free-Net</a>, <a href="http://www.tincan.org/">the Inland Northwest Community Access Network (TINCAN)</a>, and the <a href="http://www.scn.org/">Seattle Community Network</a>. All are still doing vital work, reaching urban and rural users with services including TINCAN's on-line Business Incubator. The WTO launched the worldwide <a href="http://www.indymedia.org">indymedia.org</a> community.  Now <a href="http://www.seattlewireless.net">Seattlewireless.net</a> leads a growing metropolitan community wireless network.
+</p><p>
+The <a href="http://www.cityofseattle.net/tech/techmap.htm">City of Seattle's tech map</a> lists over 160 community access points in and around the metropolitan area. There's a strong belief here in investing in diverse community-driven CTCs.  <a href="http://www.hud.gov/nnw/nnwindex.html">Neighborhood Networks'</a> development in the housing community grew up here, with Washington State's Digital Promise leading the way. Now the <a href="http://psact.org/">Puget Sound Alliance for Community Technology (PSACT)</a> brings together CTCs and supporters to improve service delivery. <a href="http://www.npower.org/">Npower</a> started here and continues to assist non-profits, while <a href="http://www.onenw.org/">One Northwest</a> serves the environmental movement, <a href="http://www.digitalpartners.org/">Digital Partners</a> works worldwide, and <a href="http://projectalchemy.org/">Project Alchemy</a> supports progressive applications of technology. 
+</p><p>
+The City of Seattle provided public bulletin board access in 1995 and public Internet terminals a few years later. Seattle was the first in the nation to establish a community technology planner position, Technology Matching Fund and IT indicators. CTCs in the area receive strong support from the <a href="http://www.seattleschools.org/">Seattle Public Schools</a>, which has been involved in community technology since 1996 and is leading the way to a more systemic and systematic approach to connecting K-12 education and community technology efforts.
+</p><p>
+Community technology leaders from Washington state made significant contributions in planning the 2004 CTCNet Conference, as CTCNet engaged a local host committee including representatives from the City of Seattle, Seattle Public Schools, PSACT, the Seattle Public Library, the RECA Foundation, the Inland Northwest Community Access Network (TINCAN), <a href="http://www.seattleartmuseum.org/">the Seattle Art Museum</a>, and others, and the host committee is pleased to welcome the 2004 CTCNet Conference to Seattle! 
+<hr>
+<a href="mailto:david.keyes@ci.seattle.wa.us">David Keyes</a> directs the City of Seattle Department of Information Technology and is a CTCNet Board Member.  <a href="mailto:Revans@tcfn.org">Rhonda Evans</a> of the RECA Foundation and <a href="mailto:mdonlin@seattleschools.org">Mike Donlin</a> of the Seattle Public Schools also contributed to this piece.
+
+
+
+<div class="posted">
+	Posted by David Keyes and Rhonda Evans and Mike Donlin at <a href="http://ctr-dev.org/summer-2004/000199.html">12:33 AM</a>
+		| <a href="http://ctr-dev.org/mt/mt-comments.cgi?entry_id=199" onclick="OpenComments(this.href); return false">Comments (0)</a>
+	
+	
+</div>
+
+</div>
+
+
+
+<h2 class="date">March 09, 2005</h2>
+
+
+<div class="blogbody">
+
+<a name="000190"></a>
+<h3 class="title">The 2004 CTCNet Conference</h3>
+
+<p><table border="0" align="left" cellpadding="1" cellspacing="1">
+<tbody>
+<tr>
+<td width="140" valign="top">
+<center><img src="/summer-2004/img/CTCNetKavita.jpg">
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+The Annual CTCNet Conference provides an opportunity for people to share their organizational expertise and personal experiences towards a more active and informed community of interests.  This year we are working to highlight the resources and model programs that use technology in ways that inform and engage citizens and that contribute to community development.<br><br>
+Community technology centers and programs continue to improve individual lives and foster healthy neighborhoods around the world. The capacity of the community technology field itself has grown to address a broader set of human needs and social priorities, including workforce development, education and literacy, youth media, immigration, health, public safety, housing, business and economic development, and civic engagement.
+</p><p>
+Community technology, in a relatively short period of time, has emerged as a vital social force that impacts the ways we think about, and act upon, the issues affecting our society. This year's meeting affords us a chance to recount our successes, recognize the diversity and creativity within our programs, and challenge ourselves to better address local community needs as we harness the power of people and technology to build connected communities.
+</p><p>
+<table border="0" align="right" cellpadding="1" cellspacing="1">
+<tbody>
+<tr>
+<td width="140" valign="top">
+<center><img src="/summer-2004/img/CTCNetlogo.gif">
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+We should never lose sight of basic needs within the core of our missions: equity in technology access and opportunities to acquire and apply technology skills. There is still much work to be done to ensure that vital information and communications technology tools and resources are affordable, accessible, and applicable to all people.  We hope to explore ways to sustain the momentum we have achieved while expanding the role for, and impact of, CTCs within the communities in which we work.</p><p>
+We're looking forward to seeing you in Seattle and discussing the future of our field!<br>
+--Kavita Singh, Executive Director
+
+
+
+<div class="posted">
+	Posted by Kavita Singh at <a href="http://ctr-dev.org/summer-2004/000190.html">09:04 PM</a>
+		| <a href="http://ctr-dev.org/mt/mt-comments.cgi?entry_id=190" onclick="OpenComments(this.href); return false">Comments (0)</a>
+	
+	
+</div>
+
+</div>
+
+
+
+
+
+<div class="blogbody">
+
+<a name="000192"></a>
+<h3 class="title">Pre-Conference Sessions</h3>
+
+<p>Thanks to support from the U.S. Department of Health and Human Services Compassion Capital Fund, CTCNet is pleased to present an expanded slate of Pre-Conference workshops offering more in-depth exploration of issues and resources useful to our members' work.<br><br>
+This year, sessions include:</p><p> 
+<a href="http://ctcnet.org/conf/2004/at_conference/program_detail.asp?SessionID=82">Access Aware: Making Your CTC Accessible to People with Disabilities</a></p><p>
+<a href="http://ctcnet.org/conf/2004/at_conference/program_detail.asp?SessionID=88">The Best of New & Old: Fundraising Strategies for CTCs</a></p><p>
+<a href="http://ctcnet.org/conf/2004/at_conference/program_detail.asp?SessionID=162">CTCs & Community Change: Tools & Strategies</a></p><p>
+<a href="http://ctcnet.org/conf/2004/at_conference/program_detail.asp?SessionID=83">The CTC VISTA Project: Supervisor Orientation & Training</a></p><p>
+<a href="http://ctcnet.org/conf/2004/at_conference/program_detail.asp?SessionID=87">ScienceQuest:  Successful After-School Learning</a></p><p>
+<a href="http://ctcnet.org/conf/2004/at_conference/program_detail.asp?SessionID=85">Curriculum Development for Youth Technology Programs: the YouthLearn Method</a></p><p>
+<a href="http://ctcnet.org/conf/2004/at_conference/program_detail.asp?SessionID=161">Incorporating Youth Multimedia for Social Change in Your Community Technology Program</a>
+</p><p>
+<i>Freedom Machines</i>, a documentary that will be airing this fall on PBS and is being shown as a pre-conference event Thursday evening, explores the remarkable power that technology has to transform the lives of people with disabilities. The Alliance for Technology Access (ATA) has been very involved in the development of this film, with an award-winning crew and Oscar-nominated producer. Shot in nine locations around the U.S--including several ATA centers--with characters ranging from 7 to 92 years of age, <i>Freedom Machines</i> is not only a revelation but also a call to action. <a href="http://www.freedommachines.com">The film's web site</a> provides useful information to supplement the documentary both in educating people about disabilities and how technology and civil rights laws can bring us closer to a world that is more inclusive for everyone.</p>
+
+
+
+<div class="posted">
+	Posted by anonymous at <a href="http://ctr-dev.org/summer-2004/000192.html">09:04 PM</a>
+		| <a href="http://ctr-dev.org/mt/mt-comments.cgi?entry_id=192" onclick="OpenComments(this.href); return false">Comments (0)</a>
+	
+	
+</div>
+
+</div>
+
+
+
+
+
+<div class="blogbody">
+
+<a name="000198"></a>
+<h3 class="title">Editors' Introduction: East Side, West Side...</h3>
+
+<p>
+From small gatherings and early conferences in New York and Boston, the Annual CTCNet Conference has grown in scope and traveled across the land, to Washington, DC, farther south to Atlanta and Austin and San Diego, through Pittsburgh and Chicago in the midwest, and now to the northwest, Seattle.
+</p><p>
+As the country's oldest and largest association of organizations providing technology access, education, and support to underserved communities, CTCNet represents programs ranging from basic access and support to advanced multimedia applications and wireless zones, from human services and community organizing to business and economic development.
+</p><p>
+The Annual CTCNet Conference reflects the diversity of the community technology movement, last year drawing attendance from nearly every state and twelve countries. It also reinforces the need to incorporate, rather than simply accommodate, the perspectives and talents of communities of color and people with disabilities. This year's pre-conference and schedule includes an added emphasis on disability access and assistive technology, including a special advance screening of the documentary <i>Freedom Machines</i>, scheduled to air nationally on PBS this fall.
+</p><p>
+Finally, in a world where daily organizational demands are generally overwhelming, the CTCNet conference represents one of the few community technology gatherings where there are reflective and thoughtful presentations and discussions that are then available in a repository for future use.  As with last year, when CTC VISTAs Melissa Daigle and Dan Schackman pulled together the first <a href="http://www.comtechreview.org/issue.php?issue_id=2">special issue of the <i>Community Technology Review</i></a> to supplement the 2003 DC national conference and offer a portal to its archives, this year's similar efforts by Dan Schackman, once again, along with Ryan Turner at CTCNet and Caroline Bennett, CTC VISTA and Assistant <i>Review</i> editor, provide a special dimension to the conference proceedings and gathering.  Like last year's issue, the articles and spotlights here and the links to the workshops that connect with presentation material provide not only a historical record of presenters and their resources, but a living archive to build upon and grow with. 
+</p><p>
+There are few conferences that we know of that are able to bring together so much that is testimony to the ongoing vitality of these kinds of gatherings.  Computer Professionals for Social Responsibility has supported a biannual gathering to examine Directions and Implications of Advanced Computing with a community technology perspective, and the DIAC proceedings are <a href="http://www.cpsr.org/conferences/conferences.html">summarized online</a> and are available in hardcopy.  The <a href="http://www.ntia.doc.gov/otiahome/top/research/research.htm">reports and evaluations</a> of the Department of Commerce's Technology Opportunities Program (TOP) are another special resource in this regard.  CTCNet's recent track record in documenting its lessons at these gatherings is exemplary.  Congratulations, once again. We're pleased to support this effort. --pm & rc
+</p>
+
+
+
+<div class="posted">
+	Posted by anonymous at <a href="http://ctr-dev.org/summer-2004/000198.html">09:04 PM</a>
+		| <a href="http://ctr-dev.org/mt/mt-comments.cgi?entry_id=198" onclick="OpenComments(this.href); return false">Comments (0)</a>
+	
+	
+</div>
+
+</div>
+
+
+
+
+
+<div class="blogbody">
+
+<a name="000200"></a>
+<h3 class="title">The Toni Stone Innovative Initiative Awards</h3>
+
+<p>
+<table border="0" align="right" cellpadding="1" cellspacing="1">
+<tbody>
+<tr>
+<td width="110" valign="top">
+<center><img src="/summer-2004/img/CTCNetToni.jpg">
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+Since 1996, CTCNet has presented the Innovative Initiative award to the leaders behind outstanding and innovative new programs, as a way of recognizing special contributions made by an individual at a CTCNet center, demonstrating innovation in the field and a commitment to impacting people's lives. In 2003, the award was renamed the Toni Stone Innovative Initiative Award.  The award is presented each year at the Annual CTCNet Conference.
+</p><p>
+In a moving presentation at the 12th Annual Conference in Washington, DC, the founder of the award, Tim Barclay, gave the award to Jenny Pierce, praising her dedication and commitment to her work.  Jenny is Director of <a href="http://www.fight.org/critpath.asp">the AIDS Library and Critical Path Projects at Philadelphia FIGHT</a>.  These programs provide a continuum of services to people with HIV, those at high risk, and those living in communities at risk so that they are able to access the Internet, learn how to use this powerful tool to meet their own goals, and communicate with each other through personal email and discussion lists.
+</p><p>
+Previous recipients of the award are:
+</p><p>
+2002: <b>Dee Albritton</b><br>
+<a href="http://www.ctcnet.org/stories/v2/15.html">Fast Forward</a><br>
+Columbia, SC <br>
+<br>
+2001: <b>Karen Chi Chung</b><br>
+<a href="http://www.bpsos.org/Camden%20Website%2012.9.02/index.htm">Boat People S.O.S.</a><br>
+Camden, NJ<br>
+<br>
+2000: <b>Nancy Montana</b><br>
+<a href="http://www.laplaza.org/">La Plaza Telecommunity Foundation</a><br>
+Taos, NM<br>
+<br>
+1998-1999 (joint winners):<br>
+<b>Jackie Ziglar</b><br>
+<a href="http://www.garfieldchildsfund.org/">Garfield F. Childs Memorial Fund</a><br>
+Richmond, VA <br>
+<b>Bill Callahan</b><br>
+<a href="http://www.ctcnet.org/resources/reports/casey/casey16.htm">West Side Community Computer Center</a><br>
+Cleveland, OH<br>
+<br>
+1997: <b>Josh Merrow</b><br>
+<a href="http://www.newvisions.org/schoolsuccess/samples/integration/ElPuenteoverview.shtml">El Puente Academy for Peace and Social Justice</a><br>
+Brooklyn, NY<br>
+<br>
+1996: <b>Marcia Snowden</b><br>
+<a href="http://hillhouse.ckp.edu/guide.html">New Beginnings Learning Center </a><br>
+Pittsburgh, PA<br>
+</p>
+
+
+
+<div class="posted">
+	Posted by anonymous at <a href="http://ctr-dev.org/summer-2004/000200.html">09:04 PM</a>
+		| <a href="http://ctr-dev.org/mt/mt-comments.cgi?entry_id=200" onclick="OpenComments(this.href); return false">Comments (0)</a>
+	
+	
+</div>
+
+</div>
+
+
+</div>
+
+</div>
+
+</body>
+</html>

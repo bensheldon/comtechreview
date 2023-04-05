@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.comtechreview.org/fall-1995/">
+<title>Fall 1995</title>
+<link>http://www.comtechreview.org/fall-1995/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2005-06-01T11:25:44-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.comtechreview.org/fall-1995/000338.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/fall-1995/000331.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.comtechreview.org/fall-1995/000338.html">
+<title>In Ohio: Statewide Coordinator Chosen and Six Initial Centers Selected</title>
+<link>http://www.comtechreview.org/fall-1995/000338.html</link>
+<description>Columbus, OH - June 21 and 22, 1995. The Ohio Community Computing Center Network (OCCCN) Coordinating Committee concluded two days of meetings at the Ameritech Building, just three blocks north of the State House, by selecting Carolyn Williams as its...</description>
+<dc:subject></dc:subject>
+<dc:creator>Editor</dc:creator>
+<dc:date>2005-06-01T11:25:44-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/fall-1995/000331.html">
+<title>Cable Access II: The Grand Rapids Community Media Center</title>
+<link>http://www.comtechreview.org/fall-1995/000331.html</link>
+<description>In Grand Rapids, Michigan, community access television (GRTV) is the hub of the Community Media Center (CMC), a cooperative venture of a half dozen affiliates teaming up to share costs and services and create a unique community of access points...</description>
+<dc:subject></dc:subject>
+<dc:creator>Editor</dc:creator>
+<dc:date>2005-05-24T15:05:40-05:00</dc:date>
+</item>
+
+
+</rdf:RDF>

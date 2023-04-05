@@ -1,0 +1,299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<title>Community Technology Review | Order Hardcopy</title>
+
+<link rel="stylesheet" href="http://www.comtechreview.org/styles-site.css" type="text/css" />
+<link rel="stylesheet" href="/print.css" type="text/css" media="print" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.comtechreview.org/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.comtechreview.org/atom.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.comtechreview.org/rsd.xml" />
+
+<script language="javascript" type="text/javascript">
+function OpenComments (c) {
+    window.open(c,
+                    'comments',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+</script>
+
+
+
+</head>
+
+<body>
+
+<div id="banner">
+<a href="http://www.comtechreview.org/" accesskey="1"><img src="space.gif" height="75" width="750" border="0"></a>
+</div>
+
+<div id="subbanner">
+ComTechReview
+</div>
+
+<table cellspacing="0" cellpadding="0" border="0" width="800" height="1">
+<tr><td valign="top" id="menu_td">
+<div id="links">
+<div class="side">
+
+<div class="menu"><a href="/index.php">Current Issue</a></div>
+<div>&nbsp;</div>
+<div class="menu2"><a href="/order.php">Order Hardcopy</a></div>
+<div class="menu2"><a href="/issue.php">Back Issues</a></div>
+<div class="menu2"><a href="/abstracts.php">Submissions</a></div>
+<div class="menu2"><a href="/contact.php">Contact</a></div>
+<div>&nbsp;</div>
+<div class="menu2" colspan="2"><b>Search the ComTechReview</b><br>
+    <form method="get" action="http://www.comtechreview.org/mt/mt-search.cgi">
+    <input id="search" name="search" size="20" />&nbsp;<input type="submit" value=">" /><br />
+    </form>
+</div>
+
+</div>
+</div>
+</td>
+<td valign="top" class="content" width="600">
+<div class="blog">
+<div class="blogbody">
+
+
+<div class="category_title">Order Hardcopy</div>
+
+Send all inquiries about the Community Technology Review
+to <a href="mailto:info@comtechreview.org">info@comtechreview.org</a>.
+
+
+<?php /* COMMENT ALL OF THIS OUT 
+<!--
+
+DO NOT ERASE THIS PAGE.
+
+http://www.comtechreview.org/order.php
+
+-->
+
+<script language="JavaScript">
+
+function computeSubtotal ( affiliation, quantity ) {
+
+	var cost ;
+	// FIXME: verify what the person entered is a number
+	// need a couple loops to verify every character can be found in the set of [0-9]
+	
+	if ( quantity < 1 ) {
+
+		alert ("Invalid quantity.") ;
+		quantity = 1 ;
+		document.order.quantity.value = quantity ;
+
+	}
+
+	// set the affiliation, if necessary
+
+	if ( affiliation == 'empty' ) {
+		for ( var i=0; i < document.order.affiliation.length; i++ ) {
+			if ( document.order.affiliation[i].checked ) {
+				affiliation = document.order.affiliation[i].value ;
+			}
+		}
+	}
+
+	if ( affiliation == 'other' ) {
+		cost = 10 ;
+	}
+	else if ( affiliation == 'nten' )
+	{
+		cost = 7.5 ;
+	}
+	else
+	{
+		cost = 5 ;
+	}
+
+
+	// compute subtotal
+	var subtotal = quantity * cost ;
+
+	// pretty-print the subtotal
+	if ( affiliation == 'nten' )
+	{
+		// if quantity is not divisble by two, add a 0
+		if ( quantity%2 == 0 )
+		{
+			document.order.subtotal.value = subtotal ;
+		}
+		else
+		{
+			document.order.subtotal.value = subtotal+'0'; ;
+		}
+	}
+	else
+	{
+		document.order.subtotal.value = subtotal ;
+	}
+
+	// update the PayPal subtotal (in hidden amount field)
+	document.order.amount.value = cost ;
+
+}
+
+function checkIssue ( issue ) {
+
+	if ( issue == 0 ) {
+		alert("Please select an issue.") ;
+		return false ;
+	}
+	else
+	{
+		document.order.item_name.value = issue ;
+		return true ;
+	}
+
+}
+
+</script>
+
+<p><small>Select an issue and quantity below.</small></p>
+<p><small>You will be prompted for your postal address and billing information after clicking the "buy now" button.</small></p>
+
+
+<form onSubmit="return checkIssue(document.order.issue.options[document.order.issue.selectedIndex].value)" name="order" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="peterm@igc.org">
+<input type="hidden" name="undefined_quantity" value="1">
+<input type="hidden" name="item_name" value="ctr_issue">
+<input type="hidden" name="amount" value="10">
+<input type="hidden" name="no_shipping" value="2">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+
+<center>
+<table>
+<!-- Beginning of the row -->
+<tr>
+<!-- Beginning of the cell -->
+<td>
+Issue:
+</td>
+<!-- End of the cell -->
+<!-- Beginning of the cell -->
+<td>
+<select name="issue">
+<option value="0">Select . . .</option>
+<option value="Fall-2005">Fall 2005</option>
+<option value="Spring-Summer 2005">Spring-Summer 2005</option>
+<option value="Winter 2004-2005">Winter 2004-2005</option>
+<option value="Summer 2004">Summer 2004</option>
+<option value="Winter-Spring 2004">Winter-Spring 2004</option>
+<option value="Summer 2003">Summer 2003</option>
+<option value="Spring 2003">Spring 2003</option>
+<option value="Fall-Winter 2002-2003">Fall-Winter 2002-2003</option>
+<option value="Winter-Spring 2002">Winter-Spring 2002</option>
+<option value="Summer-Fall 2001">Summer-Fall 2001</option>
+<option value="Summer-Fall 1999">Summer-Fall 1999</option>
+<option value="Winter-Spring 1998">Winter-Spring 1998</option>
+<option value="Spring-Summer 1997">Spring-Summer 1997</option>
+<option value="Fall-Winter 1996-1997">Fall-Winter 1996-1997</option>
+<option value="Spring 1996">Spring 1996</option>
+</select>
+</td>
+<!-- End of the cell -->
+</tr>
+<!-- End of the row -->
+<!-- Beginning of the row -->
+<tr>
+<!-- Beginning of the cell -->
+<td>
+Quantity:
+</td>
+<!-- End of the cell -->
+<!-- Beginning of the cell -->
+<td>
+<input type="text" name="quantity" size="1" maxlength="2" value="1" onChange="computeSubtotal('empty', this.value)">
+</td>
+<!-- End of the cell -->
+</tr>
+<!-- End of the row -->
+<!-- Beginning of the row -->
+<tr>
+<!-- Beginning of the cell -->
+<td>
+Affiliation:
+</td>
+<!-- End of the cell -->
+<!-- Beginning of the cell -->
+<td>
+<input type="radio" name="affiliation" value="afcn" onClick="computeSubtotal(this.value, document.order.quantity.value)"> AFCN 
+<input type="radio" name="affiliation" value="ctcnet" onClick="computeSubtotal(this.value, document.order.quantity.value)"> CTCNet 
+<input type="radio" name="affiliation" value="nten" onClick="computeSubtotal(this.value, document.order.quantity.value)"> NTEN 
+<input type="radio" name="affiliation" value="other" checked onClick="computeSubtotal(this.value, document.order.quantity.value)"> Other
+</td>
+<!-- End of the cell -->
+</tr>
+<!-- End of the row -->
+<!-- Beginning of the row -->
+<tr>
+<!-- Beginning of the cell -->
+<td>
+Subtotal:
+</td>
+<!-- End of the cell -->
+<!-- Beginning of the cell -->
+<td>
+$<input type="text" name="subtotal" size="5" value="10" onfocus="this.blur()">
+</td>
+<!-- End of the cell -->
+</tr>
+<!-- End of the row -->
+<!-- Beginning of the row -->
+<tr>
+<!-- Beginning of the cell -->
+<td>
+</td>
+<!-- End of the cell -->
+<!-- Beginning of the cell -->
+<td>
+<input type="image" src="http://www.comtechreview.org/images/credit-cards.jpg" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<!--
+<input type="submit" name="submit" value="go">
+-->
+</td>
+<!-- End of the cell -->
+</tr>
+<!-- End of the row -->
+</table>
+</center>
+</form>
+
+*/ ?>
+
+
+</div>
+</br>
+
+
+<p>&nbsp;</p><p>&nbsp;</p>
+</div>
+</div>
+</td>
+</tr>
+<tr><td colspan="2">
+<div id="footer">Copyright &copy; 2005&nbsp; &nbsp; &nbsp;</div>
+</td></tr>
+</table>
+
+
+
+<p>&nbsp;</p><p>&nbsp;</p>
+<br clear="all" /><p>&nbsp;</p>
+</body>
+</html>

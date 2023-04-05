@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title>Winter-Spring 2004</title>
+<link>http://www.comtechreview.org/winter-spring-2004/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator>peterm@igc.org</dc:creator>
+<dc:date>2005-06-14T06:02:00-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+
+<item>
+<title><![CDATA[Now You See It &mdash; Now You Don't]]></title>
+<link>http://www.comtechreview.org/winter-spring-2004/000172.html</link>
+<description> It&apos;s been a while—since the special conference issue last summer—and we&apos;ve got a dynamite issue to kick off 2004 with here. We&apos;ve got special features on the amazing Growing Digital Network and how it&apos;s responsible for the explosive growth...</description>
+<guid isPermaLink="false">172@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>ComTechReview</dc:subject>
+<dc:date>2005-06-14T06:02:00-05:00</dc:date>
+</item>
+<item>
+<title>New BA Degree in Community Media and Technology at UMass/Boston</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000159.html</link>
+<description> The University of Massachusetts Community Media and Technology Program has just received final approval to begin offering a liberal arts degree [Bachelor of Arts]. As part of the College of Public and Community Service [CPCS] at UMass/Boston, the CMT...</description>
+<guid isPermaLink="false">159@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>ComTechReview</dc:subject>
+<dc:date>2005-06-14T06:01:00-05:00</dc:date>
+</item>
+<item>
+<title>The Boston Earned Income Tax Credit Electronic Filing and Technology Access Project</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000181.html</link>
+<description>Twenty-five percent of Boston&apos;s eligible populace has been missing out on what is arguably one of the country&apos;s most effective anti-poverty programs, and those who have taken advantage have often paid needless filing fees. The Boston Earned Income Tax Credit...</description>
+<guid isPermaLink="false">181@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>ComTechReview</dc:subject>
+<dc:date>2005-06-14T06:00:00-05:00</dc:date>
+</item>
+<item>
+<title><![CDATA[CTCNet &mdash; Update Now, Looking Back &amp; Looking Ahead]]></title>
+<link>http://www.comtechreview.org/winter-spring-2004/000168.html</link>
+<description> Kavita Singh 2003 saw many changes for CTCNet, as the organization restructured under a new Executive Director, Kavita Singh, and moved its headquarters to Washington, DC while retaining its satellite offices in Cambridge, MA; Chicago, IL; San Diego and...</description>
+<guid isPermaLink="false">168@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>CTCNet</dc:subject>
+<dc:date>2005-06-14T05:00:00-05:00</dc:date>
+</item>
+<item>
+<title>Dispatches from the AFCN</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000166.html</link>
+<description> Rapid advances in technological development, Internet working applications, and information flow are having increasing impacts upon communities, organizations and individuals, with many associated concerns, challenges, opportunities and benefits. The AFCN advocates strategies, provides resources, and offers services to help...</description>
+<guid isPermaLink="false">166@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>AFCN</dc:subject>
+<dc:date>2005-06-14T04:03:00-05:00</dc:date>
+</item>
+<item>
+<title>The Third Age of Community Networking</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000165.html</link>
+<description>As the dot-com era collapsed and cable/DSL access became more common in communities, many local leaders turned their backs on the issues of how communities use technology. But from the work presented at the AFCN conference this last December, it...</description>
+<guid isPermaLink="false">165@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>AFCN</dc:subject>
+<dc:date>2005-06-14T04:02:00-05:00</dc:date>
+</item>
+<item>
+<title>The Next Wave: Community Information Hubs</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000162.html</link>
+<description>Many Community Technology Centers serve as a drop-in place for groups of people in a particular neighborhood. As technology continues to grow smaller, cheaper, and faster, CTCs have an opportunity to take the lead in creating spaces where people gather...</description>
+<guid isPermaLink="false">162@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>AFCN</dc:subject>
+<dc:date>2005-06-14T04:01:00-05:00</dc:date>
+</item>
+<item>
+<title><![CDATA[Closing the Books on ACORN &mdash; Well, Almost]]></title>
+<link>http://www.comtechreview.org/winter-spring-2004/000163.html</link>
+<description> This was the year for winding up the legal remains of what was once the Akron Regional Free-Net (ARFN). The project is alive and well, having become ACORN, part of the Akron-Summit County Public Library. It had started with...</description>
+<guid isPermaLink="false">163@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>AFCN</dc:subject>
+<dc:date>2005-06-14T04:00:00-05:00</dc:date>
+</item>
+<item>
+<title>Growing Demand for Rural Broadband and the Growing Digital Network</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000171.html</link>
+<description> About three years ago I was asked by a community college to &quot;dig deep&quot; and find ways to drive the demand for broadband in rural Southside County Virginia. The assignment was an urgent one. Over the past twenty years,...</description>
+<guid isPermaLink="false">171@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>Profiles</dc:subject>
+<dc:date>2005-06-14T03:02:00-05:00</dc:date>
+</item>
+<item>
+<title>Telemedicine in Hawaii</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000169.html</link>
+<description> This graphic is a composite of the maps found on the project web site, which includes a full listing with more detailed information about each video teleconference center. The Hawaii Unified Telehealth (HUT) project aims to improve the health...</description>
+<guid isPermaLink="false">169@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>Profiles</dc:subject>
+<dc:date>2005-06-14T03:01:00-05:00</dc:date>
+</item>
+<item>
+<title>Community Technology Leadership Development: The Case of Mountaintown</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000170.html</link>
+<description> The Georgia Tech Economic Development Institute has been working for over three years to develop Techsmart tools and services to help communities use information technology (IT) for community and economic development, what we refer to as &quot;digital development.&quot; Leadership...</description>
+<guid isPermaLink="false">170@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>Profiles</dc:subject>
+<dc:date>2005-06-14T03:00:00-05:00</dc:date>
+</item>
+<item>
+<title>Addressing Gaps in Internet Content and Access: New Research, Guidelines, and Legislation</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000173.html</link>
+<description> New Research and Guidelines: The Children&apos;s Partnership&apos;s Online Content Program Although 47 million Americans speak a language other than English at home, only 13% of state and federal e-government sites offer non-English access (US Census 2000; and West, Darrell...</description>
+<guid isPermaLink="false">173@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>Public Policy</dc:subject>
+<dc:date>2005-06-14T02:02:00-05:00</dc:date>
+</item>
+<item>
+<title>The CAN SPAM Act, or How to Earn Big Dollars Suing Spammers</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000177.html</link>
+<description> Pop quiz! When was the first reported SPAM? Clearly an issue of mythology, it was purportedly in 1978 when an aspiring salesman posted an advertisement for a new DEC computer to Arpanet. Where does the nickname &quot;SPAM&quot; come from?...</description>
+<guid isPermaLink="false">177@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>Public Policy</dc:subject>
+<dc:date>2005-06-14T02:01:00-05:00</dc:date>
+</item>
+<item>
+<title>Lessons Learned from the Very First (but Definitely Not Last) Ohio Community Technology Day</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000175.html</link>
+<description> The Event On October 15, 2003, 34 representatives from 23 Community Technology Centers (CTCs) and eight organizations that support the mission of equal access to technology from around the state converged on Ohio&apos;s state capitol. Their mission for the...</description>
+<guid isPermaLink="false">175@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>Public Policy</dc:subject>
+<dc:date>2005-06-14T02:00:00-05:00</dc:date>
+</item>
+<item>
+<title>This Evaluation Will Be Televised:  An Interview with Chet Davis, Ohio Community Computing VISTA</title>
+<link>http://www.comtechreview.org/winter-spring-2004/000174.html</link>
+<description> Chet Davis From the beginning, volunteerism has served as the foundation of the Community Technology Center movement. With initial funding scarce to nonexistent, CTCs survived only on the strength of the true believers, the volunteers. And the federal AmeriCorps*VISTA...</description>
+<guid isPermaLink="false">174@http://www.comtechreview.org/winter-spring-2004/</guid>
+<dc:subject>VISTA &amp; TA to NPOs</dc:subject>
+<dc:date>2005-06-14T01:03:00-05:00</dc:date>
+</item>
+
+
+</channel>
+</rss>

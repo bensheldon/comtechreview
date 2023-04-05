@@ -1,0 +1,156 @@
+<?
+
+include_once 'mysql-functions.php' ;
+
+// database config
+define ( "MYSQL_HOST", "localhost" ) ;
+define ( "MYSQL_PORT", "3306" ) ;
+define ( "MYSQL_USERNAME", "comtechreview" ) ;
+define ( "MYSQL_PASSWORD", "8dgf3l.5," ) ;
+define ( "MYSQL_DATABASE_NAME", "comtechreview_dev" ) ;
+define ( "MYSQL_OPTIONS", "" )  ;
+
+// grab all articles with internal links
+
+$internally_linked_articles_sql = "select entry_id,
+			entry_blog_id as blog_id,
+			entry_title,
+			entry_text
+			from mt_entry
+			where entry_text like '%article.php?article_id=%'";
+
+/*
+for each article,
+1) find all the references to "article.php?article_id=???"
+2) grab the article id
+3) look up the URL [folder] of the article based on the article_id/entry_id  
+4) update the link from "article.php?article_id=???" to "/folder/000123.html"
+*/
+
+	$db_link = open_database_connection ( ) ;
+
+	$internally_linked_articles_return = execute_sql_query ( $internally_linked_articles_sql ) ;
+
+	$interally_linked_articles = array ( ) ;
+	while ( $row = mysql_fetch_assoc ( $internally_linked_articles_return ) )
+	{
+
+		$interally_linked_articles[] = array (
+				'entry_id' => $row['entry_id'],
+				'blog_id' => $row['blog_id'],
+				'entry_title' =>$row['entry_title'],
+				'entry_text' => $row['entry_text']
+				); 
+	}
+	/*
+	print_r ($interally_linked_articles ) ;
+	exit ;
+	*/
+
+	foreach ( $interally_linked_articles as $id => $info ) 
+	{
+
+		// list ( $entry_id, $blog_id, $entry_title, $entry_text ) = $info ;
+		$entry_id = $info['entry_id'] ;
+		$blog_id = $info['blog_id'] ;
+		$entry_title = $info['entry_title'] ;
+		$entry_text = $info['entry_text'] ;
+		$revised_entry_text = $entry_text ;
+
+		// find the # of references to article.php
+
+		$article_link_count = substr_count ( $entry_text, 'article.php?article_id=') ;
+
+		// http://www.php.net/manual/en/function.preg-match-all.php
+		// preg_match_all ( "|\/?article\.php\?article_id=(\d{1,3})|", $entry_text, $matches, PREG_PATTERN_ORDER ) ;
+		preg_match_all ( "|(?:http:\/\/(?:www\.)?comtechreview.org\/)?article\.php\?article_id=(\d{1,3})|", $entry_text, $matches, PREG_PATTERN_ORDER ) ;
+
+		// print_r ( $matches ) ;
+		/*
+    [0] => Array {the URL to replace}
+        (
+            [0] => http://www.comtechreview.org/article.php?article_id=77
+            [1] => http://www.comtechreview.org/article.php?article_id=121
+        )
+
+    [1] => Array {the article ID to look up}
+        (
+            [0] => 77
+            [1] => 121
+        )
+
+		*/
+		print_r ( $replace_article_link_array ) ;
+
+		// reset value of this array
+		unset ( $replace_article_link_array ) ;
+
+		for ( $i = 0 ; $i < $article_link_count ; $i++ )
+		{
+			$replace_article_link_array[] = array (
+							'id' => $matches[1][$i],
+							'link' => $matches[0][$i]
+							) ;
+		}
+
+		foreach ( $replace_article_link_array as $index => $info )
+		{
+			$article_id = $info['id'] ;
+			$current_link_text = $info['link'] ;
+
+			// look up the right issue based on article_id
+
+
+			$get_issue_url_sql = "SELECT 
+				concat(replace(b.blog_site_url,'http://www.comtechreview.org',''),lpad(e.entry_id,6,'0'),'.html') as url 
+				FROM mt_blog as b,
+				mt_entry as e
+				WHERE b.blog_id=e.entry_blog_id AND
+				e.entry_id = $article_id " ;
+
+			$get_issue_url_return = execute_sql_query ( $get_issue_url_sql ) ;
+
+			$new_link_text = @mysql_result ( $get_issue_url_return, 0 ) ;
+
+			// replace the text with the correct url
+
+			$revised_entry_text = str_replace ( $current_link_text, $new_link_text, $revised_entry_text ) ;
+
+
+		}
+
+		$revised_entry_text = str_replace ( "'", "\'", $revised_entry_text ) ;
+
+
+		// execute the UPDATE statement
+		$update_article_references_sql = "UPDATE mt_entry
+					SET entry_text = '" . $revised_entry_text . "'
+					WHERE entry_id = $entry_id" ;
+
+		// echo 'UPDATE SQL: ' . $update_article_references_sql ;
+
+		if ( ! $update_article_references_return = execute_sql_query ( $update_article_references_sql ) )
+		{
+		?>
+		Error: could not update article <?=$entry_id?>. Exiting.
+		<?
+			exit ;
+		}
+		else
+		{
+		?>
+		Article	<?=$entry_id?> updated successfully.
+		<?
+		}
+
+		?>
+		Article #<?=$entry_id?> contained <?=$article_link_count?> internal references to articles.<br />
+		<?
+		$running_tally = $running_tally + $article_link_count ;
+
+	}
+	?>
+	<br /><strong><?=$running_tally?> references total in <?=count($interally_linked_articles)?> articles</strong>
+	<?
+
+?>

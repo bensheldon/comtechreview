@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+  <title>Front page</title>
+  <link rel="alternate" type="text/html" href="http://www.comtechreview.org/" />
+  <modified>2005-08-02T22:39:49Z</modified>
+  <tagline></tagline>
+  <id>tag:www.comtechreview.org,2005://1</id>
+  <generator url="http://www.movabletype.org/" version="2.661">Movable Type</generator>
+  <copyright>Copyright (c) 2005, Editor</copyright>
+  <entry>
+    <title>Not Found</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/000341.html" />
+    <modified>2005-08-02T22:39:49Z</modified>
+    <issued>2005-08-02T18:39:49-05:00</issued>
+    <id>tag:www.comtechreview.org,2005://1.341</id>
+    <created>2005-08-02T22:39:49Z</created>
+    <summary type="text/plain"> It seems you&apos;ve followed an outdated or invalid link. If the link is internal, the website administrators have been notified and will fix the error shortly. If you followed the link from an external site, you may want to...</summary>
+    <author>
+      <name>Editor</name>
+      
+      
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/">
+      <![CDATA[<!--
+
+DO NOT ERASE ME. 404 page.
+
+http://www.comtechreview.org/404.php
+
+-->
+
+
+
+<p>It seems you've followed an outdated or invalid link. If the link is internal, the website administrators have been notified and will fix the error shortly.</p>
+
+<p>If you followed the link from an external site, you may want to suggest the referring page update the link.</p>
+
+<p>We apologize for any inconvenince. Return <a href="/">home</a>.</p>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Contact</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/000334.html" />
+    <modified>2005-05-25T19:57:35Z</modified>
+    <issued>2005-05-25T15:57:35-05:00</issued>
+    <id>tag:www.comtechreview.org,2005://1.334</id>
+    <created>2005-05-25T19:57:35Z</created>
+    <summary type="text/plain"> Send all inquiries about the Community Technology Review to Danielle Martin....</summary>
+    <author>
+      <name>Editor</name>
+      
+      
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/">
+      <![CDATA[<!--
+
+DO NOT ERASE ME. Contact page.
+
+http://www.comtechreview.org/contact.php
+
+-->
+
+Send all inquiries about the Community Technology Review
+to <a href="mailto:danielle.martin@umb.edu">Danielle Martin</a>.]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Back Issues</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/000333.html" />
+    <modified>2005-05-25T19:57:10Z</modified>
+    <issued>2005-05-25T15:57:10-05:00</issued>
+    <id>tag:www.comtechreview.org,2005://1.333</id>
+    <created>2005-05-25T19:57:10Z</created>
+    <summary type="text/plain"> Issue Format Hardcopy Spring-Summer 2005 HTML Available Winter 2004-2005 HTML Available Summer 2004 HTML Available Winter-Spring 2004 HTML Available Summer 2003 HTML Available Spring 2003 HTML Available Fall-Winter 2002-2003 HTML Available Winter-Spring 2002 HTML Available Summer-Fall 2001 HTML Available...</summary>
+    <author>
+      <name>Editor</name>
+      
+      
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/">
+      <![CDATA[<!--
+
+DO NOT ERASE. back issues.
+
+http://www.comtechreview.org/issue.php
+
+-->
+
+<table border="0">
+<tr>
+<td><em>Issue</em></td>
+<td><em>Format</em></td>
+<td><em>Hardcopy</em></td>
+</tr>
+<tr>
+<td>Spring-Summer 2005</td>
+<td><a href="/spring-summer-2005/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Winter 2004-2005</td>
+<td><a href="/winter-2004-2005/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Summer 2004</td>
+<td><a href="/summer-2004/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Winter-Spring 2004</td>
+<td><a href="/winter-spring-2004/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Summer 2003</td>
+<td><a href="/summer-2003/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Spring 2003</td>
+<td><a href="/spring-2003/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Fall-Winter 2002-2003</td>
+<td><a href="/fall-02_winter-03/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Winter-Spring 2002</td>
+<td><a href="/winter-spring-2002/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Summer-Fall 2001</td>
+<td><a href="/summer-fall-2001/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Summer-Fall 1999</td>
+<td><a href="/summer-fall-1999/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Winter-Spring 1998</td>
+<td><a href="/winter-spring-1998/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Spring-Summer 1997</td>
+<td><a href="/pdf/spring-summer-1997.pdf" target="_blank">PDF</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Fall-Winter 1996-1997</td>
+<td><a href="/pdf/fall_96-winter_97.pdf" target="_blank">PDF</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+<tr>
+<td>Spring 1996</td>
+<td><a href="/spring-1996/" target="_blank">HTML</a></td>
+<td><a href="/order.php">Available</a></td>
+</tr>
+</table>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Order Hardcopy</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/000332.html" />
+    <modified>2005-05-25T19:56:33Z</modified>
+    <issued>2005-05-25T15:56:33-05:00</issued>
+    <id>tag:www.comtechreview.org,2005://1.332</id>
+    <created>2005-05-25T19:56:33Z</created>
+    <summary type="text/plain"> function computeSubtotal ( affiliation, quantity ) { var cost ; // FIXME: verify what the person entered is a number // need a couple loops to verify every character can be found in the set of [0-9] if (...</summary>
+    <author>
+      <name>Editor</name>
+      
+      
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/">
+      <![CDATA[<!--
+
+DO NOT ERASE THIS PAGE.
+
+http://www.comtechreview.org/order.php
+
+-->
+
+<script language="JavaScript">
+
+function computeSubtotal ( affiliation, quantity ) {
+
+	var cost ;
+	// FIXME: verify what the person entered is a number
+	// need a couple loops to verify every character can be found in the set of [0-9]
+	
+	if ( quantity < 1 ) {
+
+		alert ("Invalid quantity.") ;
+		quantity = 1 ;
+		document.order.quantity.value = quantity ;
+
+	}
+
+	// set the affiliation, if necessary
+
+	if ( affiliation == 'empty' ) {
+		for ( var i=0; i < document.order.affiliation.length; i++ ) {
+			if ( document.order.affiliation[i].checked ) {
+				affiliation = document.order.affiliation[i].value ;
+			}
+		}
+	}
+
+	if ( affiliation == 'other' ) {
+		cost = 10 ;
+	}
+	else if ( affiliation == 'nten' )
+	{
+		cost = 7.5 ;
+	}
+	else
+	{
+		cost = 5 ;
+	}
+
+
+	// compute subtotal
+	var subtotal = quantity * cost ;
+
+	// pretty-print the subtotal
+	if ( affiliation == 'nten' )
+	{
+		// if quantity is not divisble by two, add a 0
+		if ( quantity%2 == 0 )
+		{
+			document.order.subtotal.value = subtotal ;
+		}
+		else
+		{
+			document.order.subtotal.value = subtotal+'0'; ;
+		}
+	}
+	else
+	{
+		document.order.subtotal.value = subtotal ;
+	}
+
+	// update the PayPal subtotal (in hidden amount field)
+	document.order.amount.value = cost ;
+
+}
+
+function checkIssue ( issue ) {
+
+	if ( issue == 0 ) {
+		alert("Please select an issue.") ;
+		return false ;
+	}
+	else
+	{
+		document.order.item_name.value = issue ;
+		return true ;
+	}
+
+}
+
+</script>
+
+<p><small>Select an issue and quantity below.</small></p>
+<p><small>You will be prompted for your postal address and billing information after clicking the "buy now" button.</small></p>
+
+
+<form onSubmit="return checkIssue(document.order.issue.options[document.order.issue.selectedIndex].value)" name="order" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="peterm@igc.org">
+<input type="hidden" name="undefined_quantity" value="1">
+<input type="hidden" name="item_name" value="ctr_issue">
+<input type="hidden" name="amount" value="10">
+<input type="hidden" name="no_shipping" value="2">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+
+<center>
+<table>
+<!-- Beginning of the row -->
+<tr>
+<!-- Beginning of the cell -->
+<td>
+Issue:
+</td>
+<!-- End of the cell -->
+<!-- Beginning of the cell -->
+<td>
+<select name="issue">
+<option value="0">Select . . .</option>
+<option value="Winter 2004-2005">Spring-Summer 2005</option>
+<option value="Winter 2004-2005">Winter 2004-2005</option>
+<option value="Summer 2004">Summer 2004</option>
+<option value="Winter-Spring 2004">Winter-Spring 2004</option>
+<option value="Summer 2003">Summer 2003</option>
+<option value="Spring 2003">Spring 2003</option>
+<option value="Fall-Winter 2002-2003">Fall-Winter 2002-2003</option>
+<option value="Winter-Spring 2002">Winter-Spring 2002</option>
+<option value="Summer-Fall 2001">Summer-Fall 2001</option>
+<option value="Summer-Fall 1999">Summer-Fall 1999</option>
+<option value="Winter-Spring 1998">Winter-Spring 1998</option>
+<option value="Spring-Summer 1997">Spring-Summer 1997</option>
+<option value="Fall-Winter 1996-1997">Fall-Winter 1996-1997</option>
+<option value="Spring 1996">Spring 1996</option>
+</select>
+</td>
+<!-- End of the cell -->
+</tr>
+<!-- End of the row -->
+<!-- Beginning of the row -->
+<tr>
+<!-- Beginning of the cell -->
+<td>
+Quantity:
+</td>
+<!-- End of the cell -->
+<!-- Beginning of the cell -->
+<td>
+<input type="text" name="quantity" size="1" maxlength="2" value="1" onChange="computeSubtotal('empty', this.value)">
+</td>
+<!-- End of the cell -->
+</tr>
+<!-- End of the row -->
+<!-- Beginning of the row -->
+<tr>
+<!-- Beginning of the cell -->
+<td>
+Affiliation:
+</td>
+<!-- End of the cell -->
+<!-- Beginning of the cell -->
+<td>
+<input type="radio" name="affiliation" value="afcn" onClick="computeSubtotal(this.value, document.order.quantity.value)"> AFCN 
+<input type="radio" name="affiliation" value="ctcnet" onClick="computeSubtotal(this.value, document.order.quantity.value)"> CTCNet 
+<input type="radio" name="affiliation" value="nten" onClick="computeSubtotal(this.value, document.order.quantity.value)"> NTEN 
+<input type="radio" name="affiliation" value="other" checked onClick="computeSubtotal(this.value, document.order.quantity.value)"> Other
+</td>
+<!-- End of the cell -->
+</tr>
+<!-- End of the row -->
+<!-- Beginning of the row -->
+<tr>
+<!-- Beginning of the cell -->
+<td>
+Subtotal:
+</td>
+<!-- End of the cell -->
+<!-- Beginning of the cell -->
+<td>
+$<input type="text" name="subtotal" size="5" value="10" onfocus="this.blur()">
+</td>
+<!-- End of the cell -->
+</tr>
+<!-- End of the row -->
+<!-- Beginning of the row -->
+<tr>
+<!-- Beginning of the cell -->
+<td>
+</td>
+<!-- End of the cell -->
+<!-- Beginning of the cell -->
+<td>
+<input type="image" src="http://www.comtechreview.org/images/credit-cards.jpg" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<!--
+<input type="submit" name="submit" value="go">
+-->
+</td>
+<!-- End of the cell -->
+</tr>
+<!-- End of the row -->
+</table>
+</center>
+</form>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Abstracts</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/000305.html" />
+    <modified>2005-05-19T17:40:13Z</modified>
+    <issued>2005-05-19T13:40:13-05:00</issued>
+    <id>tag:www.comtechreview.org,2005://1.305</id>
+    <created>2005-05-19T17:40:13Z</created>
+    <summary type="text/plain"><![CDATA[ The Community Technology Review is now accepting abstracts and articles for future issues. We look for well-written articles on the use of media and technology in community building &mdash; projects and news that people can learn from and apply...]]></summary>
+    <author>
+      <name>The Editors</name>
+      
+      <email>daniel_schackman@yahoo.com,peterm@igc.org</email>
+    </author>
+    
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/">
+      <![CDATA[<!--
+
+DO NOT DELETE THIS PAGE.
+
+http://www.comtechreview.org/abstracts.php
+
+-->
+
+<p>The Community Technology Review is now accepting abstracts and articles for future issues.</p>
+
+<p>We look for well-written articles on the use of media and technology in community building &mdash; projects and news that people can learn from and apply in their community technology centers and nonprofit organizations (i.e., case studies, relevant, brief policy updates, short pieces on technique and practice, interviews with innovative individuals, what you've learned that works or doesn't work). Articles should focus on current or recent projects. We're especially interested in pieces on the use of broadband applications and projects supported by the Corporation for National and Community Service. We welcome articles with interesting photographs, charts, maps, etc. (Submissions regarding future projects are not usually considered.)</p>
+
+<p>Submissions should be 1-2 pages long (750-1500 words), although special features may be longer. (In all cases, we would be pleased to link to longer versions from our on-line publication.)</p>
+
+<p>If you would like to make a submission, please fill out the form below.</p>]]>
+      
+    </content>
+  </entry>
+
+</feed>

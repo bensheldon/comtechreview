@@ -1,0 +1,299 @@
+From: Frank Odasz [frank@lone-eagles.com]
+Sent: Tuesday, September 13, 2005 4:57 PM
+To: Danielle Martin
+Subject: CTR article suggestions: Katrina CTC/CN/Wireless innovations
+
+
+  Date: Tue, 13 Sep 2005 14:31:34 -0600
+  To: advisors@afcn.org
+  From: Frank Odasz <frank@lone-eagles.com>
+  Subject: Katrina CTC/CN/Wireless innovations
+  Cc: carlosp@etr.org
+
+  AFCN advisors
+
+
+  For those interested - below is a quick sampling of some of the CTC/CN innovations from DDN postings from Will Reed and Andy Carvin.
+  I sure hope someone is gatherings these innovations - they would make a great CTR article! If you have anything to add, please send them to me.
+
+  At issue is the best models for how to demonstrate the volunteer capacity within communities to create networks to establish infrastructure, match needs and services, capacity to deploy services simultaneously dealing with influx of people needing help and those offering help.
+   
+  The AFCN board agreed to gather and share Katrina CTC/CN innovations: 
+
+  Gary Shearman shared a Google GIS map with pins of what is happening where in New Orleans http://scipionus.com/ Katrina local map
+
+  Online registration for FEMA help, 400,000 registered online within the first few days.
+  Mobile hotspots based on battery operated wireless backpacks is viable.
+  Online coordination of volunteers, donations, general communications.
+  Free voicemail accounts are being given out.
+
+  Will Reed has a CTC set up in the Houston Astrodome.
+  Technology For All(TFA) is working with its community and corporate
+  partners to set up a Community Technology Center (CTC) at Houston's
+  Astrodome, which will soon be home for 25,000 evacuees from the New
+  Orleans Superdome.  We are pleased to have the opportunity to help in
+  this way and have made an initial commitment to install a 40 station
+  CTC. We expect we will need to expand that, but want to move quickly
+  with what we can do and then assess the additional need. TFA also
+  anticipates working with public leaders and officials to assist in the
+  deployment of a Wireless Mesh Network in the Astrodome. Those details
+  are under discussion. Pam Gardner (Pam.Gardner@techforall.org
+  713.454.6415) on our staff is coordinating volunteer efforts to set up
+  the CTC and then provide programming assistance. TFA will need
+  additional computers (Pentium 4 or faster), software, volunteers, $'s
+  and organizational capacity to pull this off. Thanks in advance for your
+  assistance. As more details are worked out we will pass them along.
+   
+  Will 
+  There is also the Survivor/Connector list at 
+  http://www.gulfcoastnews.com/ Yesterday, there were over 8000 on the
+  list. Today there are over 22000.  This is but one example of why we are
+  putting computers in the Astrodome and other refugee sites.
+
+  Will 
+
+  As of late last night, the Astrodome was full and evacuees were being
+  diverted to other sites. We have an internal TFA meeting this morning to
+  update everyone working on the Astrodome Community Technology Center
+  (CTC) project.  The minor change in plans is that we now expect to be
+  working on the development of CTCs at shelters and staging areas across
+  the city in addition to the Astrodome. 
+   
+  In speaking late yesterday to our contact in the mayor's office, it is
+  estimated that at least 100,000 persons will be scattered across the
+  city in multiple long term shelters including the Astrodome, empty
+  buildings, churches, and other sites. Helping to connect these folks to
+  the outside world will extend beyond this emergency situation, because
+  we expect many of these evacuees to stay as permanent residents in the
+  area. Many of them are the poorest of the poor and will need additional
+  assistance, training, support etc.   Schools are accepting new students.
+  Yesterday, for instance, my wife's school received 30 new students and
+  they were over capacity before that.  Many new students across the
+  region could benefit from CTCs that provide after school programs near
+  shelters and schools. Creating opportunities for digital stories of this
+  ordeal could be both a cathartic and a learning experience for victims
+  of Katrina. Using these computers for job training and searches will
+  also be important. This is just the beginning.
+   
+  The existing and rapidly expanding Houston CTC community will be asked
+  to step up to the plate to prepare for the opportunity/challenge.   We
+  have had enough equipment, software, and connectivity donated for the
+  initial installation at the dome, but we are going to need much more.
+  Once all our donors have signed off (some have asked for anonymity), I
+  will provide a summary of their donations. Thank you to each of you and
+  your corporations/organizations who have already signed up to help.
+   
+  Your help is needed. We now know we need additional equipment,
+  connectivity, software, volunteers, and of course $'s. I will put a list
+  of equipment needs on our blog at  http://texasctcs.blogspot.com/
+  < http://texasctcs.blogspot.com/> . 
+  Cash contributions can be made online at www.techforall.org or by check
+  to the address below. 
+   
+  Will
+
+  Andy, 
+  I spoke with Kavita Singh over the weekend regarding the same issue.
+  Based upon our experience in Houston, I believe there is both an
+  opportunity and a responsibility for  community technology centers to
+  take the lead in number of ways.
+          1.      CTCs should be established at every center serving the
+  Evacuee Community 
+          2.       Best practices and uniform policies for data collection
+  and survivor search should be implemented.
+          3.       A planning guide should be developed for CTCs serving
+  the needs of the evacuee community 
+          4.       Entrepreneurial solutions for training and job creation
+  should be developed for implementation at leading CTCs near significant
+  evacuee populations.
+          5.      Implementation of these suggestions should placed on a
+  fast track in order to address the short term critical needs of the
+  evacuee community and achieve longer term goals that include job
+  creation and acculturation of evacuees into new communities.
+
+  TFA is willing to share our lessons learned in order move such a plan
+  forward as quickly as possible. There are several hundred thousand
+  persons in shelters across the U.S. These persons will be our new
+  neighbors and they make our hometowns theirs. May CTCs welcome them and
+  lead the way to engage them and support them.
+
+  Will
+
+  William S. Reed
+  President/CEO
+  TECHNOLOGY FOR ALL(r)/Technology For All-Houston
+  2220 Broadway | Houston, TX 77012 
+  Tel: 713.454.6400 | Direct: 713.454.6411 | Fax: 713.454.6454 
+  e-mail: Will.Reed @ techforall.org    website: http://www.techforall.org
+  BLOG:  http://texasctcs.blogspot.com/  TFA-Wireless
+  http://www.techforall.org/tfa_wireless.html 
+  "We Empower Communities"
+   
+  http://www.andycarvin.com/archives/2005/09/if_katrinas_dam.html overlay katrina impact on boston map.
+   
+  Many of the evacuees in Houston have been given "Call Notes" by SBC.
+  This has allowed them to list their new personal number for persons
+  looking for them or for callbacks from job interview etc.
+   
+  With the help of volunteers from Yahoo, we worked together to create a
+  web crawler that have used quite successfully here in Houston.  Go to
+  http://news.yahoo.com/katrinahelp and put a name in the box on the top
+  right of the page. Click "enter" and it will web crawl all of the
+  various databases. Since all the sites are "crawled" we have chosen a
+  very simple site for evacuees to list themselves as survivors or to list
+  loved ones they are looking for. On the list of sites we have aggregated
+  is Family Messages which allows individuals to write extended comments
+  and provide other information in the comments section.  We have also
+  aggregated many other tools on the site.
+   
+  A month or so ago, Popular Science had an article on how to make a mobile wifi hotspot in a backpack. At the time it was published as just an uber-cool way for geeks with a little extra cash to show off their tech props. Given all that's been going on with Katrina, though, I wanted to relay the basics of the instructions here so that people on the ground would be able to implement their own mobile hotspots as wireless broadband goes back online along the Gulf Coast. The whole thing can be set up for around $1,100, but I imagine it'd be worth it for orgs working on the ground trying to maintain communications from the field. For the full details, please see the original article: http://tinyurl.com/ceyud
+   
+  I'm putting together a research project on the On-Line Nonprofit Response to
+  Katrina.  If anyone is interested, please contact me off list. I need to
+  know very soon.
+  John G. McNutt
+  Associate Professor
+  College of Social Work
+  University of South Carolina
+  Columbia, SC 29208
+  803.777.6258
+  website  www.policymagic.org
+   
+  Hi everyone,
+   
+  Many people have been asking me how they can use their Internet skills to help out with hurricane victims. I've been asking bloggers to blog. Now I'd like to ask photographers to photograph --  and help reunite victims with their families.
+   
+  I'd like to ask anyone of you who are able to go to an evacuation shelter to go there ASAP and start photographing people with a digital camera. Collect their name, physical description, names of people they are trying to reach, their location and contact information. Similarly, if you're able to get access to a bulletin board of photos of the missing, photograph them individually and collect whatever data is available. We should also do the same for online photo collections of the missing that are scattered around the Internet.
+   
+  Once you have all of this, upload it to Flickr.com. Flickr is a free photo sharing tool with very powerful aggregating tools. If you're not a member, go to the site and you'll have your account set up in just a few moments.
+   
+  When you upload photos, you can give them "tags" - keywords associated with that photo. Tags are very, very powerful tools for pooling photos together. I've been using them on http://katrina05.blogspot.com to display photos tagged with words like hurricane and neworleans.
+   
+  Photos should be tagged one of three ways:
+   
+  katrinamissing: persons who are missing
+   
+  katrinafound: persons who were once missing but are now found
+   
+  katrinaokay: persons who are safe in shelters and are trying to reach friends and family.
+   
+  When you post your photos, please include the tag in the title, such as
+   
+  KatrinaMissing: John Smith
+  or
+  KatrinaOkay: Jane Smith
+   
+  That way, their status and name will appear in the RSS feed's title tag. Then include all data you have about the person in the description of the photo. Don't skimp on information - include everything you can.
+   
+  Once people start posting photos, we'll be able to find them here:
+   
+  http://flickr.com/photos/tags/katrinamissing/
+  http://flickr.com/photos/tags/katrinafound/
+  http://flickr.com/photos/tags/katrinaokay/
+   
+  There are also RSS feeds located on each of these pages. We can then use these RSS feeds to aggregate the collections and distribute them to Red Cross field offices, the Astrodome (there will be an Internet lab there soon), etc. I will start aggregating them on http://katrina05.blogspot.com and will share the javascript so others can do the same once it's up and running.
+   
+  So let's get out our cameras and step up to the plate. Let's help in whatever way we can.
+   
+  andy
+   
+  I just finished watching the video blog Rocketboom and their take on Katrina. I'm practically speechless.
+   
+  Rocketboom is produced daily by Amanda Congdon and Andrew Baron. Normally it is a newscast made up of quirky short stories. Today it is quite different, all dedicated to a story of one woman's plight in New Orleans. It is not a true story - it is a performance done by Amanda. But that doesn't mitigate how extraordinary it is.
+   
+  http://www.rocketboom.com/vlog/archives/2005/09/rb_05_sep_01.html
+   
+  If there's anyone who questions the role video bloggers can play in making a difference in this godforsaken mess, please watch this video. It captures the helplessness and anguish of its victims better than pretty much anything I've seen on the news this week. It makes me proud to be a video blogger.
+   
+  Andy
+  The next issue of BusinessWeek will feature the following article about video blogging, examining the explosive growth of the video blog Rocketboom.com and other home-grown onlne video ventures.... -andy
+   
+  Rocketboom's Powerful Lift-Off
+   
+   These are the early days of video blogging. Most of the postings on the Web are rough and tedious -- little more than home movies. But the success of Rocketboom and a few sites like it underscore the potential of video blogs. Cheaper video recorders mean just about anyone can make videos, while the spread of speedy Net service means almost anybody can watch clips posted online. The result? The Internet is coming alive with a mix of video, from the polished parody of Rocketboom to the raw interviews of reporters. As these videos flow into the living room, they will reshape what we think of as television. "TV will be transformed," says Mitchell Kapor, the founder of Lotus Development Corp. and now an investor in Participatory Culture, an online video startup. "People will look at it as historically quaint that you had to watch something that others chose for you."
+   
+  http://www.businessweek.com/magazine/content/05_36/b3949087_mz063.htm 
+   
+   
+  This weekend I set up a new feature on my blog, which I call my "wall of video." It's like a "Flickr badge," for those of you familiar with the photo blogging website flickr.com. I'm using a script developed by the video blogging portal mefeedia.com that allows me to automatically post a collection of thumbnail pics of video blogs I've archived on my website. Like a flickr badge, the thumbnail collection is updated every time I post a new video to my site, using my site's RSS feed.
+   
+  If you go to my blog homepage - www.andycarvin.com - you'll be able to find the Wall of Video on the right side of the page, in the sidebar, near my flickr badge. I've also created a separate page linked from the homepage that makes it easier to visualize the collection of videos:
+   
+  http://www.andycarvin.com/video.html
+   
+  If you're interested in the script I used, take a look here:
+   
+  http://mefeedia.com/help/javascript/feedthumbs.php
+   
+  thanks,
+  ac
+   
+  Hi everyone,
+   
+  I've just launched an open blog and mobcast for people interested in following the aftermath of Hurricane Katrina:
+   
+  http://katrina05.blogspot.com/
+   
+  The blog is set up so that anyone can post a blog entry, podcast or photo to the site. I'm particularly hoping that residents of the Gulf Coast will be willing to call in and let people know how things are going for them. Similarly, anyone who would like to share ways to help out, or wishes to share their thoughts on the hurricane, may post as well.
+   
+  Here's how to participate.
+   
+  Post a blog entry:
+   
+  Send an email to katrina2005.comments @ blogger.com. The title of your email will be the title of the blog entry, and the email body will be the blog entry body. If you don't want your contact information, you should remove your signature file. Attachments will not be posted.
+   
+  Record a podcast:
+   
+   Dial 1-415-856-0205
+   Enter login 515-515-5555
+   PIN code 2005, then the # key
+   Record your message
+   Press the # key to save, then the 1 key to post
+   
+  Post a photo:
+   
+   The website is collecting photos from Flickr.com that are tagged with the word "hurricanekatrina." Simply log on to Flickr (or create an account), upload photos, and use this tag. Photos appear in the right column of the blog's homepage.
+   
+  Please feel free to share this email with anyone who might be interested in participating.
+   
+  thanks,
+  andy
+   
+  -- 
+  -----------------------------------
+  Andy Carvin
+  Program Director
+  EDC Center for Media & Community
+  acarvin @ edc . org
+  http://www.digitaldivide.net 
+  http://www.tsunami-info.org
+  Blog: http://www.andycarvin.com
+  -----------------------------------
+  Good point. Most, if not all, US military aircraft are TCP/IP enabled by now, as far as I know. (Should check with my dad - he designs these kinds of systems for a living.) So far I haven't heard any mention of the use of helicopters, unmanned drones or balloons for setting up airborne networks as of yet. The national guard is being deployed with large numbers of satellite phones, but that probably won't benefit individuals still stuck in New Orleans or the surrounding parishes, since they'll be reserved for first-responders and security.
+   
+  Taran Rampersad wrote:
+  OK, thanks Andy. If SMS isn't working, I suppose helicopters with
+  bullhorns will have to work. What's strange here is that modern military
+  helicopters should be TCP/IP enabled, and be able to propagate a
+  wireless network.
+   
+  Andy Carvin wrote:
+  Actually, communications are a huge issue. Reporters have interviewed
+  police officers who are at their wit's end. Almost none of them have
+  satellite phones, and the local mobile phone networks have failed.
+  Some SMS is getting through, but it's sporadic.
+   
+  I talked with Larry Anderson yesterday, who's in Mississippi, a way's
+  north of where the damage is. He's been using his ham radio to connect
+  with people in the coastal towns. He described the communications as
+  "real grim." Once again, ham radio seems to be the one technology
+  that's reliable...
+   
+  andy
+
+  Frank Odasz
+  Lone Eagle Consulting
+  Web: http://lone-eagles.com
+  Ph/Fax: 406 683 6270
+
+  Becoming is Superior to Being 

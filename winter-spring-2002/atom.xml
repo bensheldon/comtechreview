@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed version="0.3" xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+  <title>Winter-Spring 2002</title>
+  <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/" />
+  <modified>2005-06-14T11:01:00Z</modified>
+  <tagline></tagline>
+  <id>tag:comtechreview.org,2007:/winter-spring-2002//5</id>
+  <generator url="http://www.movabletype.org/" version="2.661">Movable Type</generator>
+  <copyright>Copyright (c) 2005, Richard Civille and Peter Miller</copyright>
+  <entry>
+    <title>Editors&apos; Introduction: Community Technology in a Post 9-11 World</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000076.html" />
+    <modified>2005-06-14T11:01:00Z</modified>
+    <issued>2005-06-14T07:01:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.76</id>
+    <created>2005-06-14T11:01:00Z</created>
+    <summary type="text/plain"> The rapid expansion of community technology programs ended well before September 11. The slow-down began with the burst of the dot-com bubble. But 9-11 contributed to the slowdown in its own ways. In our new, security-driven economy, all social...</summary>
+    <author>
+      <name>Richard Civille and Peter Miller</name>
+      
+      
+    </author>
+    <dc:subject>ComTechReview</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<DIV class=Section1>
+<P class=MsoNormal>The rapid expansion of community technology programs ended well before September 11. The slow-down began with the burst of the dot-com bubble. But 9-11 contributed to the slowdown in its own ways. In our new, security-driven economy, all social welfare, low-income assistance, and community revitalization efforts have been cutback in the face of new budget and policy priorities aimed at "homeland security," and there's less work being done on the bridge across the digital divide.</P>
+<P class=MsoNormal>Yet technology in service of community building is still a powerful draw for those who care about these matters. "Alive and Well, Not in Manhattan Today as Planned," read the Online Registry, as <U><SPAN style="COLOR: blue"><a href="http://www.comtechreview.org/winter-spring-2002/000062.html">Karen Zgoda</A></SPAN></U> reports and goes on to summarize the spate of useful online resources and approaches developed in the wake of 9-11 itself. Community technology has taken its hits, but continues apace.</P>
+<P class=MsoNormal>Funding for two key federal programs that support community technology has declined this year, and are proposed for elimination next year. The Department of Education's <U><a href="http://www.ed.gov/offices/ovae/ctc">Community Technology Centers program</A></U>, funded at $65 million in FY '01, will receive $32.5. The <U><a href="http://www.ntia.doc.gov/top">Technology Opportunities Program</A></U>, housed under the Department of Commerce's National Technology Infrastructure Administration, receives $15 million ... down 65% from $45 million in FY '01. This may be the final year for these programs unless Congress is convinced otherwise. For a fuller and more nuanced discussion, see <U><SPAN style="COLOR: blue"><a href="http://www.comtechreview.org/winter-spring-2002/000080.html">Ryan Turner's "Mixed Picture"</A></SPAN></U> policy assessment piece.</P>
+<P class=MsoNormal>Yet in the face of these changes in the world and in the funding frameworks and public policy that support community technology, our work is growing and becoming more important. The people who have made it their business to conceive, fund-raise and manage community technology programs are meeting more frequently, in larger numbers, and in different countries. "Community informatics," an emerging, interdisciplinary academic discipline, reveals the intersection of our work with economics, computer science, sociology and community development, with degree programs beginning to appear around the world, as <SPAN style="COLOR: blue"><a href="http://www.comtechreview.org/winter-spring-2002/000056.html">Michael Gurstein</A></SPAN> shows us.</P>
+<P class=MsoNormal><a href="http://www.ctcnet.org/conf2001/conf2001.html">Last summer's CTCNet's conference</A> drew 800 to San Diego and <a href="http://www.ctcnet.org/conf2002/confhome02.htm">this June's gathering in Austin</A> may be even larger. Four years of rural-based community technology meetings held at the Aspen Institute in Colorado have developed into a nationwide Rural Telecommunications Congress that will meet next fall in Washington, DC. The memberships of key associations such as the Association for Community Networking have grown by 40% over the past year. The Global Citizens Network Consortium which met in December in Buenos Aires drew nearly 500 even in the face of that country's recent difficulties, as <U><SPAN style="COLOR: blue"><a href="http://http://www.comtechreview.org/winter-spring-2002/000068.html">Doug Schuler</A></SPAN></U> reports. Plans are underway for next year's Montreal conference and the International Telecommunications Union's involvement in the 2003 World Summit on the Information Society marks that as an important gathering, too. These and other indicators show that the community technology movement is vital and world-wide.</P>
+<P class=MsoNormal>So it's a time of consolidation and shaking out rather than continued meteoric growth, and the <I>Community Technology Review</I> is moving quite well along those lines. We're pleased with the reception we have been given and to have found a key Community Building theme that helps direct our editorial efforts and call for material, one that's been so successful that we'll continue with this for the next issue. We're hopeful this issue's interactive components &#150; giving our readers and the community of practitioners the opportunity to send articles to colleagues, comment on them, and <a href="submit.php"><SPAN style="TEXT-DECORATION: none; text-underline: none"><U>add to our ongoing resource development</U></SPAN></A> will contribute not just to the <I>Review</I> but to the growing vitality of the field.</P>
+<P class=MsoNormal> &#150;  pm & rc</P></DIV>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>The Greater Boston Broadband Network: An Innovative University-Community Partnership</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000061.html" />
+    <modified>2005-06-14T11:00:00Z</modified>
+    <issued>2005-06-14T07:00:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.61</id>
+    <created>2005-06-14T11:00:00Z</created>
+    <summary type="text/plain"> George Stoney and Toni Stone on the Cablecast/webcast program on &amp;#8220;The Politics of Public Access Cable and the Community Technology Movement&amp;#8221; from last November. The program is currently available as video-on-demand. Since its founding in the early 1970s, the...</summary>
+    <author>
+      <name>Reebee Garafolo</name>
+      
+      
+    </author>
+    <dc:subject>ComTechReview</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<p><TABLE align=left border=0 cellPadding=0 cellSpacing=0 width=200>
+<TBODY>
+<TR>
+<TD><A href="http://www.cbcmedia.net"><IMG height=184 src="/winter-spring-2002/img/tony_george.jpg" width=180 alt="George Stoney and Antonia Stone"></A></TD></TR>
+<TR>
+<TD>
+<DIV align=center><span class="caption">George Stoney and Toni Stone on the Cablecast/webcast program on &#8220;The Politics of Public Access Cable and the <BR>Community Technology Movement&#8221; from last November. The program is currently available as <A href="http://www.cbcmedia.net/stoney.htm">video-on-demand</A>.</span></DIV></TD></TR></TBODY></TABLE></p>
+<p>Since its founding in the early 1970s, the College of Public and Community Service (CPCS) at UMass Boston has been an educational institution with a commitment to serving disadvantaged populations by providing a relevant, hands-on educational experience, oriented toward student empowerment, community development, and social justice. To this end CPCS has tried to introduce new technologies as they become appropriate and useful tools to help accomplish its goals. Over the past decade there has been a movement in the introduction of new technologies from uses on the administrative side toward uses on the academic side &#8212; including instruction, community assistance, and program development. This process is now beginning to peak in the synergistic relationship among a number of related initiatives: a proposal for <A href="http://www.cpcs.umb.edu/cmt">a new degree program in Community Media and Technology</A>, the construction of a new computer education center made possible by a major gift from Monster.com, and the development of the <A href="http://www.cbcmedia.net/GBBN.htm">Greater Boston Broadband Network (GBBN)</A> with a consortium of university-community partners. Together these efforts combine the broad-based planning and programming potential and economies of scale of a regional digital broadband network with the multi-level, multi-site educational opportunities of a university-community partnership.
+<P>The GBBN project began in earnest after CPCS secured a $1 million grant from AmeriCorps*VISTA to place, train, and support up to 80 VISTA members in Community Technology Centers in the greater Boston area and across the country. The Boston-area partners in the <A href="http://www.cpcs.umb.edu/vista">CTC VISTA Project</A> united to form the Greater Boston Broadband Network. The GBBN seeks to provide broadband connectivity, media rich content development, regional programming, resource and information sharing, innovative training, certified educational programs, and multi-site distance learning to the CTCs and community organizations in the five municipalities that constitute our regional target area.</P>
+<P>On November 15, 2001, the GBBN moved one step closer to reality with a multimedia presentation called &#8220;The Politics of Public Access Cable and the Community Technology Movement&#8221; &#8212; which included a live performance, a teleconference, a cablecast, a webcast, and an online chat. The event, sponsored by the CTC VISTA Project and the CPCS Community Media and Technology Program, featured George Stoney, community cable guru and NYU Professor of Film and Video, with comments by Antonia Stone, founder of CTCNet. The <A href="http://www.cbcmedia.net/stoney.htm">presentation has been archived</A> and prepared for on demand web streaming by the UMass Lowell Distance Learning Center and the Lowell Telecommunications Corporation, both major partners in the project.</P>
+<P>To put all the components of the GBBN through their paces, the talk by George Stoney was staged as a presentation to a live audience in one of the interactive distance learning classrooms of the UMass Boston Information Technology Center. This facility allowed us to teleconference Antonia Stone into the live presentation via a point-to-point link with Indian River Community College in Florida. The live presentation was cablecast on Boston Neighborhood Network's channel 23 via the city&#8217;s Public Institution Network trunk.</P>
+<P>The event was also sent to the Distance Education Center at UMass Lowell (UML) via the university&#8217;s MPEG fiber optic network.&nbsp; UML then sent the signal to Lowell's INet for cablecasting in the greater Lowell area and distributed the signal to a video server to provide an international audience with a live streaming video feed over the World Wide Web. In addition, the Lowell Telecommunications Corporation moderated a real time chat, which became part of the live event in Boston. The archived program now offers one glimpse of the capability of the network. And the GBBN is moving forward with a new season of similar presentations.</P>
+<P>The college has also ventured into international terrain via a teleconference with the Dominican Republic, which included the Vice President and Minister of Education, to develop online interactive educational programs in conjunction with the UMass Boston World Languages Program. Other initiatives include collaborative educational programs with the University of Havana in Cuba and plans to participate in a video streamed conference with the government of Puerto Rice celebrating the 50<SUP>th</SUP> anniversary of the island&#8217;s constitution.</P>
+<P>These operations have proceeded in tandem with the development of the new degree program in Community Media and Technology. As of fall 2001, the College began offering a Concentration and a freestanding Certificate in Community Media and Technology, and hopes to implement the full BA program in 2002. CPCS and its community partners are currently making plans to develop online versions of the instructional activities that comprise the Community Media and Technology Certificate. Buoyed by our recent successes with the GBBN, we have enlisted Professor Paul Nathanson of the University of New Mexico to develop an asynchronous, web-based course in &#8220;Media, Technology, and Community Organizing,&#8221; which combines on-demand streaming video presentations, real time chats, asynchronous discussions, and community-based projects. The course is being offered as part of the CMT Certificate and is open to CTC VISTAs to enhance their training and test the feasibility of developing a national constituency for our efforts.</P>
+<P>These initiatives have received a major boost in the recent donation of $150,000 from <A href="http://www.monster.com/">Monster.com</A> and its parent corporation <A href="http://www.tmp.com/">TMP Worldwide</A> to construct an information technology facility at the college. The gift from CEO Jeff Taylor was presented to CPCS in November 2001 on the occasion of the retirement of his father, Professor Clark Taylor, one of the founders of the College. We feel confident that the new center will enable us to develop sophisticated computer-enhanced educational projects with greater degrees of facility and effectiveness.</P>
+<P>In combination, then, the above project components&#8212;the CTC VISTA Project, the development of the GBBN, the construction of a new information technology facility, and the introduction of a new degree in Community Media and Technology, along with continued support for this <EM>Community Technology Review</EM>&#8212;establish a unique and exciting university-community partnership, enhancing the educational opportunities available to a broad spectrum of students as well as providing critical points of technological access for community organizations and collaborative regional, national, and international projects.</P>
+<HR>
+
+<TABLE align=left border=0 cellPadding=2 cellSpacing=2 width=259>
+<TBODY>
+<TR>
+<TD class=Normal rowSpan=2><FONT face="Arial, Helvetica, sans-serif" size=3><IMG height=217 src="/winter-spring-2002/img/Reebee_Title.jpg" width=250 alt="Reebee Garofalo"></FONT></TD></TR>
+<TR></TR></TBODY></TABLE>
+<P><div class="bionote"><A href="mailto:reebee.garofalo@umb.edu">Reebee Garofalo</A> is a professor in the College of Public and Community Service at UMass/Boston and coordinates the Community Media and Technology program.</div></P>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>The Space Between: An Interview with CTCNet Executive Director Karen Chandler</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000063.html" />
+    <modified>2005-06-14T10:01:00Z</modified>
+    <issued>2005-06-14T06:01:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.63</id>
+    <created>2005-06-14T10:01:00Z</created>
+    <summary type="text/plain"> Gathering after the national CTC VISTA orientation session with CTCNet staff last November (l to r, back row): Michael Allwood (Bruce Wall Ministries PREP Computer Center, Boston); Peter Miller (CTC VISTA Project); Karen Zgoda (CTCNet and CTC VISTA Project);...</summary>
+    <author>
+      <name>Karen Zgoda</name>
+      
+      
+    </author>
+    <dc:subject>CTCNet</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<p><TABLE align=left border=0 cellPadding=4 cellSpacing=2 width=252>
+<TBODY>
+<TR>
+<TD class=Normal height=182 vAlign=top width=256><IMG align=left border=0 height=174 src="/winter-spring-2002/img/CTCNet.VISTA_big.JPG" width=235 alt="CTC VISTA Orientation"></A></TD></TR>
+<TR>
+<TD class=Normal height=269 vAlign=top></p>
+<P align=center></P>
+<P><span class="caption">Gathering after the national CTC VISTA orientation session with CTCNet staff last November (l to r, back row): Michael Allwood (Bruce Wall Ministries PREP Computer Center, Boston); Peter Miller (CTC VISTA Project); Karen Zgoda (CTCNet and CTC VISTA Project); Monif Clarke (CTCNet); Kevin Loechner (Lowell Technology Consortium); Shirl Rogers (RTPNet, Raleigh, NC); Terence Kennedy (Lowell Technology Consortium); (middle) Gregory Fleischer (YMCA/Cyber Y, San Diego);Jacqueline Corliss (Bruce Wall Ministries, Boston); Ben Cain (CTCNet); Reebee Garofalo (UMass Boston); Marissa Martin (CTCNet), Nathan Kubiszewski (Friends of the Tyler School, Washington, DC); (front) Rob Hall (Fenway CDC, Boston); Matt Crichton (CTC VISTA Project); Karen Chandler (CTCNet); Liz Barnes (CTC VISTA Project), and Kourtney Hamilton (Lowell Technology Consortium). Photo by Terry McLarney.</FONT></P></TD></TR></TBODY></TABLE>
+<P>At the beginning of the year, we asked Karen Chandler to give people an update on <A href="http://www.ctcnet.org/">CTCNet</A> and how CTCs and the organization contributed to community building. This interview by Karen Zgoda is a result of that inquiry.</span></P>
+<P><I>Karen Zgoda</I>: How has CTCNet changed recently and how do you see your current role?</P>
+<P><I>Karen Chandler</I>: The past two years have been ones of transition for CTCNet. The organization has moved from being a project of Education Development Center (EDC) to its own incorporated nonprofit governed by its affiliate members. Since CTCNet began, our network has grown to over 600 affiliate members. During this time, CTCNet's organizational structure has adapted and solidified. As an independent organization, CTCNet has a Managing Director and an Executive Director. As ED, my role has been to help steer the organization through its own growth and change, which has taken place in an ever-changing economic and philanthropic climate. My role will continue to be to position CTCNet as a leading voice in the field of community technology, to work with the board and staff to ensure that we are serving the expressed needs of our membership through our programs and services, and to assure that we are responsive to the priorities expressed by our affiliate body.</P>
+<P><I>KZ:</I> What are growing/evolving CTC needs? How is CTCNet evolving and growing in response to them?</P>
+<P><I>KC:</I> CTC needs are at once constant yet evolving. Funding is a good example. Funding for technology programs is a constant need and, while recognized in the past three-four years by the federal and local governments and global corporations, remains an ongoing struggle for most centers. Funder awareness has changed, to be sure, and a wide audience now understands that CTC needs must be addressed in order to ensure a viable workforce, to offer youth the opportunity to create and to grow in their self-confidence, and to assure equal access to information and services. Subsequently, funding opportunities have been created. Community technology has slowly become recognized as a catalyst for social change, with CTCs as a key and recognized vehicle for bridging the technology gap. Witness, for example, the Federal Department of Education's creation of a CTC Program. Yet while funding has increased substantially, it hasn't kept pace with the demand and the need. </P>
+<P>Other primary challenges CTCs face—understaffing, maintaining technical equipment, and securing connectivity—have grown in proportion to the proliferation of technology centers. As the "digital divide" exploded into the public vernacular, so did the emergence of labs and centers within larger nonprofit agency associations. Boys & Girls Clubs, YMCAs, libraries, Urban League chapters, housing developments, and private corporations like Intel, to name a few, responded to the need for computer training and access that their constituencies were voicing by creating computer programs. The emerging gaps in the field of community technology, such as staff training and regional development, are being addressed through the work of CTCNet, the America Connects Consortium, and these national networks of CTCs.</P>
+<P><I>KZ: </I>How do CTCs support community building and how does CTCNet contribute to these efforts?</P>
+<P><I>KC: </I>CTCs have a vital role in any community, one that is a keystone in community building. Since CTCs come in all shapes and sizes, they provide immediate access points to different parts of a population (youth, adults, seniors). CTCs are well-poised to serve as technical assistance providers to other nonprofits. They are logical venues for citizens to become civicly engaged and to exercise their individual voices in the democratic process. CTCs are necessary components for any organization that provides job training, counseling, or placement. They can also fill a crucial role in advocating for themselves and technology education in local and state policy. CTCs have the potential to be the locus for activity such as calling representatives, letter-writing campaigns, and general civic education.</P>
+<P>Any CTC is better served by knowing what its neighbor is doing in order to create and determine effective partnerships, to offer a range of needed programs or classes, and to share costs where it makes sense, and CTCNet helps connect programs, locally, regionally, and nationally.</P>
+<P>As part of our America Connects work last year, CTCNet profiled <U><A href="http://www.ctcnet.org/resources/reports/regionalagenda.htm">three regional consortia-building efforts</A></U>--a key step in community building. While every local region has its own model of organizing, the common denominator is the impact of organizations working together collaboratively. This collaboration is not necessarily only amongst CTCs but also with other agencies in a given community.</P>
+<P>Such activity bolsters the position of CTCNet in all arenas and allows us to more strongly represent the valuable CTC work that is going on around the country. It is the work of our collective membership that places CTCNet in a central community-building role in the national arena where we play a vital role in building a community of organizationsthat have complementary missions. The US Department of Education-funded America Connects Consortium offers a good example of this "macro-community," featuring numerous partners and friends who share the responsibility for providing services to Department of Education grantees and CTCs more generally. With EDC, CTCNet, the Alliance for Technology Access, HUD Neighborhood Networks (through ICF Consulting), and CompuMentor, to name a few, each of us provides specialty resources in serving the growing array of centers.</P>
+<P><I>KZ:</I> What do you see as emerging trends and challenges in the field?</P>
+<P><EM>KC: </EM>As is the case in most avenues of working toward social justice, the cause of creating digital opportunity and providing access and technology education to all people has many prongs. CTCNet serves an essential—and otherwise unfilled—role in linking the diverse network of CTCs to each other, in supporting regional efforts organizing CTCs and cross-sector entities, in providing face-to-face training opportunities, and in advocating for CTC interests on a national level.</P>
+<P>In the past few years, more CTCs have incorporated classes and trainings into their services, either in addition to, or in place of, free-form public access hours. While many centers are placing greater emphasis on training and workforce development, there have also been expanding opportunities for CTC users to become content-creators. Some centers have shifted their focus (and sometimes their titles) to reflect "community production" rather than the more passive "community technology." For populations whose interests, languages, and cultures are underrepresented on the Internet, there is a growing effort to produce culturally relevant content.</P>
+<P>There is another trend, slowly emerging, of CTCs serving as nonprofit technical assistance providers. The corresponding challenge here is that many CTCs do not have the staff capacity to take on such an endeavor. We know of examples where graduates from a CTC technical training program then provide their skills at below-market cost to surrounding nonprofits. The corresponding challenge here is finding job placements for people once they have upgraded their technical skills.</P>
+<P>We've also seen an increase in programs like the City of Boston's <U><A href="http://www.tghboston.org/">Technology Goes Home</A> </U>program, where participants take a course in using a computer and upon graduation, take a PC home with them. This program represents an important element in our strategies to achieve digital equity; in order to truly integrate technology into people's lives, they must have access at home. One challenge here is in providing ongoing support once a PC is in the home as well as affordable connectivity.</P>
+<P>CTCNet continues to try to meet the needs of its member centers in the realms of policy, funding, and partnerships. One of these needs, based on direction from our affiliate Board of Directors, is to stay abreast of policy developments in Washington, D.C., to communicate them to our members, and to involve ourselves in their development more proactively. We will also continue to provide and supplement the services that have been validated over the years: our email lists, our <U><A href="http://www.ctcnet.org/membership/annual_conference.htm">national conference</A></U> and our Leadership Development Institutes</A></U> (with support from AT&T and ACC), our <U><A href="http://www.ctcnet.org/resources/toc.htm"><EM>Start-Up Manual </EM></A><A name=_Hlt536724825></A></U>(with support from the Surdna Foundation), our CTC Support Project (with support from the State Street Corporation), our role in the <U><A href="http://www.cpcs.umb.edu/vista">CTC VISTA Project</A></U> (with support from the Corporation for National Service), and more yet to be determined as we continue to build this vibrant and growing ensemble of individuals and organizations, working toward expanding technology access and education for all.</P>
+<HR>
+
+<DIV style="BORDER-BOTTOM: windowtext 1.5pt solid; BORDER-LEFT: medium none; BORDER-RIGHT: medium none; BORDER-TOP: medium none; PADDING-BOTTOM: 1pt; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PADDING-TOP: 0in"></DIV>
+<P><div class="bionote">Karen Zgoda is a Project Coordinator with CTCNet and VISTA Support Specialist with the CTC VISTA Project.</div></P>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Alive and Well, Not in Manhattan Today as Planned</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000062.html" />
+    <modified>2005-06-14T10:00:00Z</modified>
+    <issued>2005-06-14T06:00:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.62</id>
+    <created>2005-06-14T10:00:00Z</created>
+    <summary type="text/plain"> “Alive and Well, Not in Manhattan Today as Planned.”  So read one message left at the &quot;I&apos;m Okay&quot; Registry from a woman in Brooklyn.  This web site flourished in the wee hours after the September 11th attacks, briefly serving...</summary>
+    <author>
+      <name>Karen Zgoda</name>
+      
+      
+    </author>
+    <dc:subject>CTCNet</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<TABLE cellSpacing=0 cellPadding=0 width=200 align=left border=0>
+<TBODY>
+<TR>
+<TD><A href="http://www.shunn.net/okay"><IMG height=207 src="/winter-spring-2002/img/plate-wtc.gif" width=205 border=0></A></TD></TR></TBODY></TABLE>
+<P>“Alive and Well, Not in Manhattan Today as Planned.”  So read one message left at the <A href="http://www.shunn.net/okay">"I'm Okay" Registry</A> from a woman in Brooklyn.  This web site flourished in the wee hours after the September 11th attacks, briefly serving as an online survivor registry.  Created by William Shunn to let friends and family know he was safe in the wake of the attacks, news of the site quickly spread.  It had a million hits the first day, and William was unable to keep up with demand for information.  He now refers visitors to official survivor registries but leaves the "I'm Okay" site up, complete with reports from survivors, requests for information, and expressions of support, as a collection of our memories.</P>
+<P>One could scarcely imagine that the global roots of hatred and intolerance would manifest in such a horrific loss of life and force us to watch hijacked airplanes demolish icons of American stability.  Like many on September 11th, I sat and watched events unfold in shock and disbelief.  At work, the television and radio were on in the background while co-workers rushed to call loved ones and hear the blessed "I'm okay."  A cousin sent me a frantic email as I was scheduled to travel for a conference on September 12th.  My officemates and I jumped from one jammed news web site to another.  Steve Coe posted a message to the CTC email list describing how <A href="http://www.cairn.org/">Community Access, Inc.</A>, a CTC located three blocks from the World Trade Centers, opened its doors to help survivors as they walked by.</P>
+<P>The <A href="http://www.pewinternet.org/">Pew Internet & American Life Project</A> <A name=_Hlt536719722></A>released a report titled "<A href="http://www.pewinternet.org/reports/toc.asp?Report=46">The Commons of the Tragedy</A> <A name=_Hlt536719922></A><A name=_Hlt536719917></A>: How the Internet was used by millions after the terror attacks to grieve, console, share news, and debate the country's response."  According to this report, online traffic dropped in the immediate aftermath of the attacks as we relied on television and the telephone for communication and news sources.  However, more than 53 million people, over half of all Internet users, sought news about the attacks online in the days that followed.  Almost three-quarters of Internet users have used email to contact friends and family, discuss events and the fate of victims, display patriotism, and share news.</P>
+<P>In addition, nearly a third of Internet users participated in online communities and forums to read or post materials in chat rooms or bulletin boards.  Most reported that such virtual common spaces were both rational and civil.  Derek Powazek describes how grief and hope connected us online at the Design for Community: the Art of Connecting Real People in Virtual Places web site</A> <A name=_Hlt536720097></A><A name=_Hlt536720186></A>. Three teenagers in Vermont, North Carolina, and California created the <A href="http://www.wherewereyou.org/">"Where were you?"</A> <A name=_Hlt536720256></A>web site to gather thoughts and emotions of everyday people on the events on and after September 11th.  Fray.com chronicled <A href="http://fray.com/hope/pieces">personal stories</A> <A name=_Hlt536720321></A><A name=_Hlt536720339></A>from folks in NYC and Washington, D.C. <A href="http://groups.yahoo.com/">Yahoo! groups</A> currently list over 120 different online community groups in their September 11th category. As part of my volunteer work for AOL's Social Work forum, I participated in nightly chats to help folks cope.  I can't describe how difficult and wonderful it was to have some small, yet tangible, role.</P>
+<P>In addition to enhancing our communication, the web has also become a tremendous source of follow-up resources. The <A href="http://www.familiesofseptember11.org/">Families of September 11th organization</A> <A name=_Hlt536720760></A>was created to promote the interests of families of victims and support public policies that improve prevention of and response to terrorism.  The National Association of Social Workers Response to the Terrorist Attacks <A name=_Hlt536720871></A><A name=_Hlt536720809></A><A name=_Hlt536720839></A><A name=_Hlt536720867></A><A name=_Hlt536720818></A><A name=_Hlt536720824></A>page and the National Center for PTSD, Disaster Mental Health: Dealing with the Aftereffects of Terrorism <A name=_Hlt536721078></A>page have been very helpful.  The <I>New York Times</I> has a wonderful memorial web site titled “<A href="http://www.nytimes.com/pages/national/portraits/index.htm">Portraits of Grief</A> <A name=_Hlt536721152></A>.”  Tracking down Federal government resources is less cumbersome on the FirstGov: America Responds to Terrorism</A> <A name=_Hlt536721233></A>page.</P>
+<P>In the spirit of wanting to help citizens be on alert for scams and false information, the Federal Trade Commission has published "<A href="http://www.ftc.gov/bcp/conline/pubs/alerts/victimalrt.htm">Consumer Alert: Helping Victims of Terrorist Attacks, Your Guide to Giving Wisely</A><A name=_Hlt536721446></A>." They have also released Tips for Consumers <A name=_Hlt536721659></A><A href="http://www.ftc.gov/opa/2001/11/alert.htm">Eyeing Online Anthrax Cures</A><A name=_Hlt536721719></A>. The Urban Legends Reference Pages has assembled, as always, <A href="http://www.snopes2.com/rumors/rumors.htm">the definitive guide to unfounded rumors</A> <A name=_Hlt536721779></A>related to September 11<SUP>th</SUP>.</P>
+<P>Ben Cain and I have collected youth activity, mental health, and communication resources in response to the September 11th tragedy for CTCNet members and others. Our CTC communities have historically addressed issues of cultural awareness and tolerance and will continue to address them beyond this event.  We are all in a position to benefit from increased exploration and education on these issues.</P>
+<P>Our deepest sympathies go out to all those affected by the September 11th tragedies.  Be safe, and be well.</P>
+<HR>
+
+<P><div class="bionote">Karen Zgoda is a Project Coordinator with CTCNet and VISTA Support Specialist with the CTC VISTA Project.</span></P>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>AFCN Organizational Update</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000064.html" />
+    <modified>2005-06-14T09:03:00Z</modified>
+    <issued>2005-06-14T05:03:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.64</id>
+    <created>2005-06-14T09:03:00Z</created>
+    <summary type="text/plain"> New office building housing the AFCN Central Office in Blacksburg, VA. In the last six months, AFCN has made some major changes and has initiated some new programs. One of the most significant changes for the organization has been...</summary>
+    <author>
+      <name>Andrew Cohill</name>
+      
+      
+    </author>
+    <dc:subject>AFCN</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<p><table width="250" border="0" cellspacing="0" cellpadding="0" align="left">
+  <tr>
+    <td><div align="center"><img src="/winter-spring-2002/img/Cohill.building.JPG" width="216" height="162" alt="AFCN World Headquarters"></td>
+  </tr>
+  <tr>
+    <td>
+       <span class="caption">New office building housing the AFCN Central Office in Blacksburg, VA.</span></div>
+    </td>
+  </tr>
+</table></p>
+<p>In the last six months, <a href="http://www.afcn.org/"><span
+style='text-decoration:none;text-underline:none'><u>AFCN</u></span></a> has made 
+  some major changes and has initiated some new programs.</p>
+<p>One of the most significant changes for the organization has been hosting and 
+  services. Since its start, the AFCN has relied on support from members like 
+  Charlotte's Web and RTPNet for the AFCN Web site and email. In the early fall, 
+  AFCN made the move to its own Web site, which has allowed us to provide increased 
+  member benefits. All AFCN members are now eligible for an email account (of 
+  the form jsmith@afcn.org). All members also have access to a phpGroupWare account. 
+  phpGroupWare is an Open Source software project that provides a broad set of 
+  services via a web interface, including web email, shared calendar, shared to-do 
+  list, chat, forums, project manager, and many other features.</p>
+<p>Open source projects are likely to become increasingly important sources of 
+  software for community networks. Two phenomena are driving this: first, years 
+  of open source efforts are now resulting in very mature products that rival 
+  commercial products in terms of feature richness and overall robustness. For 
+  example, the &quot;trinity&quot; of Apache/PHP/mySQL provides a superb Web hosting 
+  and development environment that provides the best set of development tools 
+  that I've used in the past thirty years.</p>
+<p>One of the criticisms of the Open Source effort has been the lack of a &quot;conversation,&quot; 
+  in the sense of the <a
+href="http://www.cluetrain.com/"><span style='text-decoration:none;text-underline:
+none'><u>Clue Train Manifesto</u></span></a>, between open source developers and 
+  open source software users. In the traditional marketplace, money provides the 
+  basis for a &quot;conversation&quot; about matching customer needs with product 
+  features. In the absence of a conversation, open source developers tend to write 
+  software that interests them, not necessarily the users. Late in 2001, the AFCN 
+  partnered with the Blacksburg Electronic Village to help create a conversation 
+  between open source developers and community networks. The BEV and the AFCN 
+  are creating an Open Source Software Award with a modest cash prize, in the 
+  hope that some open source developers will begin writing software specifically 
+  to meet the needs of community networks. If the initial effort is successful, 
+  AFCN hopes this will become an annual award that will help sustain the &quot;conversation.&quot;</p>
+<p>AFCN has also experienced rapid growth this year, with a 40% increase in membership. 
+  Last year, virtually all existing members renewed, and new members from around 
+  the United States and Canada also joined the association. Part of the increase 
+  can be attributed to AFCN's participation and sponsorship of two major community 
+  technology conferences. In June, AFCN partnered with CTCNet for a very successful 
+  conference in San Diego that had over 700 participants, many of whom attended 
+  the five AFCN sessions at the conference. In December, the AFCN sponsored several 
+  sessions at the 4th Annual Community Network Conference in Austin. This conference, 
+  organized by Gene Crick of the TeleCommunity Resource Center (and incoming AFCN 
+  President) had more than 250 participants from more than 40 active community 
+  network projects, and many of those projects signed up to become AFCN members.</p>
+<p>Finally, the AFCN publishing effort mentioned in the last issue of the <i>Review</i> 
+  is now underway, with numerous AFCN members writing articles for the upcoming 
+  AFCN "Community Network Guide." The CN "Guide," to be distributed to all AFCN 
+  members in late spring, will contain a rich mix of articles that cover a single 
+  topic in depth, case studies of operating community networks, and shorter technical 
+  articles.</p>
+<p>Looking forward, AFCN will again sponsor several sessions at the summer <a href="http://www.ctcnet.org/conf/2002/confhome02.htm"><span
+style='text-decoration:none;text-underline:none'><u>CTCNet conference in Austin</u></span></a>. 
+  This year should be a particularly interesting meeting because Texas has more 
+  active community network projects than any other state in the country; community 
+  network projects should be well represented at the meeting.</p>
+<hr>
+<div style='border:none;border-bottom:solid windowtext 1.5pt;padding:0in 0in 1.0pt 0in'> 
+</div>
+<p><div class="bionote">For more information on AFCN activities, contact <a href="mailto:cohill@afcn.org">Andrew Cohill</a> by email.</div></p>
+</body>
+</html>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Thinking Chaordically - The Future of Communities and Technology</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000071.html" />
+    <modified>2005-06-14T09:02:00Z</modified>
+    <issued>2005-06-14T05:02:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.71</id>
+    <created>2005-06-14T09:02:00Z</created>
+    <summary type="text/plain"> We have to look for power sources here, and distribution networks we were never taught, routes of power our teachers never imagined, or were encouraged to avoid...We have to find meters whose scales are unknown in the world, draw...</summary>
+    <author>
+      <name>Andrew Cohill</name>
+      
+      
+    </author>
+    <dc:subject>AFCN</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<TABLE align=left border=0 cellPadding=5 cellSpacing=0 width=200>
+<TBODY>
+<TR>
+<TD><I><FONT size=-1>We have to look for power sources here, and distribution networks we were never taught, routes of power our teachers never imagined, or were encouraged to avoid...We have to find meters whose scales are unknown in the world, draw our own schematics, getting feedback, making connections, reducing the error, trying to learn the real function...</FONT></I></TD></TR>
+<TR>
+<TD><FONT size=-1>&#151; Thomas Pynchon, <I>Gravity's Rainbow</I> (1972)</FONT></TD></TR></TBODY></TABLE>
+<P>Community networks (CNs) and community technology centers (CTCs) have evolved over the past fifteen years to provide a wide variety of services, ranging from training classes in neighborhood access centers (relatively low tech) to providing sophisticated networks that include Internet access and commercial quality information services (e.g., email, web hosting, database design, network management, etc.). For many years, these organizations (CNs and CTCs) were largely ignored, but the rise of the digital divide as a political issue and the changing landscape of the telecommunications industry have led to an interesting set of interlocking and conflicting challenges and opportunities.</P>
+<P>The challenges focus on competitive pressures, a changing regulatory climate that continually redefines the "rules," and the need to constantly extend technological expertise. But opportunities also abound--increasing demand for services and a fragmented private sector that leaves many communities without adequate access and services.<BR><BR><BR></P>
+<H2>A Chaordic Alliance</H2>
+<P>We now live in a world of such complexity, diversity, and multiplicity of scales that there is little possibility of achieving constructive, sustained governance with existing concepts of organization. People, everywhere, are growing desperate for a renewed sense of community. Shared purpose and principles leading to new concepts of self-governance at multiple scales from the individual to the global have become essential (see Dee Hock, <I>Birth of the Chaordic Age</I>, San Francisco: Berett-Koehler, 1999, p. 90).</P>
+<P>Dee Hock, the former CEO of VISA, the multinational credit card company, coined the term "chaordic alliance," the adjective being a combination of the words "chaos" and "order." Hock's vision is to create a new organization that is based not on traditional, hierarchical, topdown decision-making, but rather on shared purpose and consensus.</P>
+<P>A chaordic alliance does not rely on heroic leadership to make decisions (and having the organization blindly follow), but rather the alliance does only those things that all the partners agree to in advance--that is, the organization initiates actions and activities only when all members of the alliance agree. This is a fundamentally different approach that discards the "I win--you lose" antagonism in favor of a collaborative model based on "I win--you win." Consensus is most likely to be reached when all parties find something of value in the outcome.</P>
+<P>A chaordic technology alliance would have three primary, equal, and autonomous organizations, each with its own goals and services. These three organizations are:</P>
+<UL>
+<LI>The Community Technology Center (CTC) provides intra-community services. There may be one or more CTCs in a community. 
+<LI>The Community Network (CN) provides services across an entire community, and may collaborate on programs and services with local CTCs. 
+<LI>The Regional Technology Alliance (RTA) provides services across an entire region, and works collaboratively with CNs and CTCs on service and infrastructure projects too large for any individual CN or CTC to handle alone. </LI></UL>
+<P>CTCs would continue to be independent organizations, but find it in their self-interest to collaborate with the local community network on projects or to share service costs (e.g., a community network may run a mail server for several CTCs). Similarly, CNs may collaborate with CTCs and other CNs as needed. The Regional Technology Alliance provides an organizational mechanism to facilitate the "coming together" of individual projects.</P>
+<H2>Regional Technology Alliances</H2>
+<P>RTAs could play many important roles, limited only by the interests and needs of the participating partners.</P>
+<P><B>Regional network access and network administration</B>&#151;network access and administration is most effective and cost efficient when aggregated over a large area, ignoring political boundaries. RTAs can act as brokers to purchase Internet access and provide a Network Operations Center (NOC).</P>
+<P><B>Server and services administration and support</B>--most services (e.g., email, web hosting, etc.) also benefit from aggregation. By spreading the cost of the most expensive technical support across many organizations, costs for all are reduced and local organizations have more staff time and budget to spend on delivering core services and avoiding much of the expense of back end systems.</P>
+<P><B>Research and development</B>--RTAs could provide R&D support for member organizations, helping to push more sophisticated services and support out into user hands more quickly.</P>
+<P><B>Training</B>--Support and training/education of staff who would work on the local level in CNs and CTCs. RTAs could provide less expensive and more frequent training opportunities.</P>
+<P><B>Infrastructure development</B>--Telecommunications infrastructure development (such as for fiber and wireless transmission, colocation facilities) is also best done at the regional level, and requires technical expertise that most individual CNs and CTCs lack. </P>
+<P>Each RTA might have a staff of 7-8 people plus a director. As the service arm of the chaordic alliance, the RTA would be dedicated to the success of the community networks and community technology centers. The RTA would never initiate projects on its own; it would always provide services and support to projects started by the member organizations of the alliance. These services and systems would never be forced upon a member of the alliance; a consensus would be needed before the RTA initiated an effort.</P>
+<P>It would be essentially "invisible" to the public because it would have no public mission. The community networks and community technology centers would work on behalf of the public common good; the RTA would work on behalf of the common good of the chaordic alliance.</P>
+<H2>Summary</H2>
+<P>We live in a time when technology is becoming not just ubiquitous but pervasive--nearly every device we touch at home and at work may be "wired" in just a few years. Most of this wiring is being done by transnational corporations with little or no thought about the consequences and effects on individuals, communities, and the common good. Dee Hock asks: "Is this how things ought to be?"</P>
+<P>The work of community technology centers and community networks is to ensure that technology supports human goals and aspirations, and that technology supports the growth and development of human relationships, not machine relationships. This commitment to the common good suggests that CNs and CTCs can become not just technology pioneers but organizational pioneers as well, seeking out and enacting new collaborative structures like Regional Technology Alliances.</P>
+<HR>
+
+<DIV class="bionote"><A href="mailto:cohill@afcn.org">Andrew Cohill</A> is Director of the <A href="http://www.bev.net/">Blacksburg Electronic Village</A> as well as President of <A href="http://www.afcn.org/">AFCN</A>. He is also co-chair of the Governor's Task Force on eCommunities for Virginia.</DIV>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Community Networking on the Night Shift, Part Three: Librarians, Community Networks, and Philosophy Lite</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000069.html" />
+    <modified>2005-06-14T09:01:00Z</modified>
+    <issued>2005-06-14T05:01:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.69</id>
+    <created>2005-06-14T09:01:00Z</created>
+    <summary type="text/plain">In Part 2 of this series, &quot;When A Community Organizer Tries to be a Techie,&quot; I detailed my losing battle with technology and publicly admitted to being a technomoron. Hating to leave myself with that label, I have been looking...</summary>
+    <author>
+      <name>Anne McFarland</name>
+      
+      
+    </author>
+    <dc:subject>AFCN</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<P>In Part 2 of this series, "<A href="http://www.comtechreview.org/summer-fall-2001/000092.html">When A Community Organizer Tries to be a Techie," </A>I detailed my losing battle with technology and publicly admitted to being a technomoron. Hating to leave myself with that label, I have been looking for something that I'm reasonably good at that I could share with community networkers. A few things I've learned from my day job as a law librarian might actually be helpful. So I'm going to divest myself of some philosophy lite, which is what you get when you philosophize on the night shift.</P>
+<P>I find myself rereading Tom Grundner's Letters to the Fourth World, which are far better philosophy than I'm capable of, yet I find myself debating some of his thoughts about the relationship of libraries and librarians to community networking.</P>
+<P>Two of those letters are online at <A href="http://www.acorn.net/">www.acorn.net</A>, in the Original Acorn Menus section under "Community Nets Theme Parks"; the <A href="http://www.lafn.org/webconnect/inspire.htm">Final Letter</A> is also online at the Los Angeles FreeNet. </P>
+<P>The first letter was what got me started in community networking. Much of the philosophy of community networking is in that letter, and there's nothing that I can add to it. The Final Letter was one that Tom agreed to write to those of us at ACORN, the Akron Community Online Resource Network, before he retired from community networking.</P>
+<P>In that letter he talked about the radius, the idea that within a ten-mile radius of the center of most reasonably well populated areas there is enough knowledge to answer the questions of everyone within that radius. And he saw that knowledge ranging from what we commonly call "book knowledge" to life experience, which is also what folks are looking for&#151;maybe even thirsting for.</P>
+<P>So how does that relate to libraries? And how do libraries relate to community networking? In that Final Letter Tom asks "Would the role of librarians remain largely that of managing printed materials, or would it become that of managing community information--in whatever form?" </P>
+<P>My knee-jerk reaction is that, of course, librarians will manage information in whatever form it's in; that's our job. We've managed print, and we've specialized as music librarians and art librarians, to mention a few of the non-print specialties. </P>
+<P>The major part of library work has been managing large chunks of information, such as books. The Library of Congress classification and subject heading systems were designed to manage these large chunks. The smaller chunks found in periodicals and other serials are managed by indexes which have the hallmarks of subject heading systems if not classifications.</P>
+<P>The Internet is, indeed, a horse of an entirely different wheelbase. A quick check of Google for materials about cataloging the Internet brought up a number of very interesting items, indicating that that concept may have been more daunting than originally thought. I find material on the Internet Public Library, <A href="http://www.ipl.org/ref/QUE/PF/orgweb.html">"Pathfinder: Organizing the Web -- Resources for Librarians,"</A> helpful in this regard as well as a piece by Anne Callery, a Yahoo cataloger, on <A href="http://www.library.ucsb.edu/untangle/callery.html">"Cataloging the Web."</A></P>
+<P>To the extent that the radius contains people with knowledge that is already in print form and available through libraries and increasingly directly in electronic format on the net, community networkers don't have to worry about including it, let alone organizing it. There's no need to reinvent either the wheel or basic library cataloging systems.</P>
+<P>But to the extent that the radius contains personal information, we need to consider collecting and organizing it. This personal information might be an individual's self-publishing of a web page to share his writing, his art, his philosophy. One of the things that we've been playing around with on <A href="http://www.chuh.net/"><SPAN style="COLOR: windowtext; TEXT-DECORATION: none; text-underline: none">chuh.net</SPAN></A>, the Cleveland Heights-University Heights Community Network, is the idea of showcasing local talent&#151;from artists to writers, etc. This is indeed in keeping with the concept of the radius, concentrating on material that is unique to our community.</P>
+<P>And I think that this material is complementary to another part of the radius, the information that citizens need to live productively and fully in their local communities and to participate in the governance of those communities. Most people outside a local community could not care less who won the city council or school board election and have no desire to discuss those matters. But the locals do. And the community networks make it possible to keep that information within reach (archiving) as well as to provide forums in which to discuss it. </P>
+<P>And how will we organize this material? I think that most community networks are small enough so that organization has not been a major problem. Although there are site search mechanisms, it's a matter of pride for a librarian to arrange content logically enough so site searches should only be necessary as a last resort. </P>
+<P>Early on in my career as a librarian, I was a cataloger in an academic library. The stereotype of catalogers is not pretty, but it is as mistaken as other stereotypes of librarians. Cataloging is an intellectual challenge and involves classification, subject headings, and description of the item being cataloged. We can bring those concepts to bear as we need them in organizing community networks. Try to keep a cataloger away from this challenge!</P>
+<HR>
+
+<P><div class="bionote"><A href="mailto:amcfarland@clelaw.lib.oh.us">Anne S. McFarland, Esq. </A>is a regular contributor to the ComTechReview and the Research and Reference Librarian for the <A href="http://www.clelaw.lib.oh.us/">Cleveland Law Library Association</A>.</div></P>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Northern New Mexico&apos;s Last Mile Technology: Wireless Service!</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000152.html" />
+    <modified>2005-06-14T09:00:00Z</modified>
+    <issued>2005-06-14T05:00:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.152</id>
+    <created>2005-06-14T09:00:00Z</created>
+    <summary type="text/plain">With the growing use of the worldwide Internet, communication companies are providing high bandwidth fiber optic backbones to connect communities to the rest of the world. Left behind are the small rural towns and villages that communication companies cannot economically...</summary>
+    <author>
+      <name>Judith Pepper</name>
+      
+      
+    </author>
+    <dc:subject>AFCN</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<p>With the 
+  growing use of the worldwide Internet, communication companies are providing 
+  high bandwidth fiber optic backbones to connect communities to the rest of the 
+  world. Left behind are the small rural towns and villages that communication 
+  companies cannot economically servicing. Broadband fixed wireless technology 
+  is providing a competitive alternative to solve this "last mile" or in many 
+  cases the last fifty miles of connectivity to bring technological equality to 
+  these small communities. <a href="http://www.laplaza.org/">La Plaza Telecommunity</a>, 
+  a nonprofit 501c3 community technology center and network, is located in northern 
+  New Mexico's remote, rural community, Taos, NM. La Plaza has a three-fold mission:</p>
+<ul type=disc>
+  <li>Providing 
+    Internet access with dialup email accounts and 4 free public access sites;</li>
+  <li>Education 
+    and training, and;</li>
+  <li>A virtual 
+    community website.</li>
+</ul>
+<p>La Plaza 
+  began services in 1994 with a T1 line and 24 modems, 1 free public access site, 
+  and free classes in Introduction to Email. In 1996 La Plaza installed two 56Kbps 
+  lines, a server and 5 modems in the villages of Questa (25 miles north of Taos) 
+  and Penasco (26 miles southeast of Taos) for dialup access and public access 
+  sites in each village, as the telecom had no plans to install fiber optic cable 
+  to these areas.</p>
+<h2>Questa 
+  Wireless Broadband Initiative</h2>
+<p class=MsoBodyTextIndent><img name="n1128LaPlaza" src="/winter-spring-2002/img/1128LaPlaza.gif" width="270" height="196" border="0" align="right" hspace="5">In 
+  1998, La Plaza collaborated with the New Mexico Dept of Communication and developed 
+  a <a
+href="http://www.nasca.org/awards/ppa.cfm">microwave radio wireless system with 
+  T1 speed</a> for the Village of Questa. This system showcased to the New Mexico 
+  State Legislature public/private partnerships in using State microwave towers 
+  to develop broadband Internet services into rural areas that will never have 
+  fiber optic capabilities.</p>
+<p>The Penasco 
+  School District, serving 800+ students, became aware of the Questa wireless 
+  model and in 1999 requested La Plaza to develop a similar wireless system for 
+  their computer labs and classrooms; thus, the Penasco Project was developed. 
+  The Penasco Project had some unusual demands, far from the normal WAN installations. 
+  The task was to provide Internet connectivity to the rural community of Penasco, 
+  located in northern New Mexico and surrounded by mountains on all sides. La 
+  Plaza was the closest ISP, some 26 miles to the North, with Picuris Peak, a 
+  10,800-foot peak directly in line between the two towns.</p>
+<p>Collaboration 
+  for this project required many partners including La Plaza, Penasco School District, 
+  U.S. Forest Service, La Serna Land Grant (who claims ownership of the property 
+  on the Picuris Peak), Integrity Networking Systems, La Jicarita Enterprises, 
+  and a private snow mobile company. La Plaza applied and received permission 
+  to use the U.S. Forest Service Ranger Station tower and outbuilding atop Picuris 
+  Peak.</p>
+<h2>One Wireless 
+  Technology Solution</h2>
+<p>Wireless 
+  equipment manufacturers have designed radios for specific use in Wide Area Networks, 
+  WANs. These radios, designated Wireless Ethernet Bridges, are designed to be 
+  fully compatible with computer networking standards. They have standard Ethernet 
+  interfaces, 10baseTX or 100BaseTX, which are connected by a standard RJ-45 connector. 
+  Many bandwidth options are available from several hundred Kbps to over 100 Mbps.</p>
+<p><a
+href="http://www.wmux.com/company/resource_center/app_tsunami.html">Tsunami radios</a>, 
+  manufactured by Western Multiplex, were selected for the Penasco Project. These 
+  Wireless Bridges operate in the unlicensed Industrial, Scientific and Medical 
+  (ISM) band of 2.4 Ghz and do not require FCC licensing. The wavelength is not 
+  affected by adverse weather of rain or snow. The radios have a wide temperature 
+  operating range, necessary for locating at the mountain peak where extreme temperatures 
+  are common. The radios operate over a wide range of DC voltage, lending themselves 
+  to be powered by a solar / storage battery power supply. The radios also provide 
+  the maximum RF output allowed by FCC regulation for that frequency. New wires 
+  were placed on the tower to ensure proper leverage for placement of the antennas, 
+  golf batteries were installed in the outbuilding and 18 solar panels were installed 
+  surrounding the outbuilding to supplement the existing systems in place that 
+  powered the government and private transmitters.</p>
+<p>The following 
+  is an account by the Integrity engineer of the actual install:</p>
+<blockquote> 
+  <p>"The original 
+    schedule called for installation during the late summer of 1999. By the time 
+    all the approvals from the government agencies and the landowners were obtained 
+    it was February 28, 2000 when the install was attempted. Reaching the top 
+    of Picuris Peak at that time of year was a major accomplishment in itself. 
+    Three snowmobiles were rented and the services of a mountain guide were obtained. 
+    The trail wound around the mountain and next to shear cliffs, sometimes through 
+    snowdrifts deeper than one could stand. One snowmobile pulled a large sled 
+    loaded with radio gear including two large 2-ft diameter antennas. Over the 
+    more than six-mile trip up the mountain the sled and pulling snowmobile tipped 
+    over and got stuck several times. It took approximately 2.5 hours to reach 
+    the ranger station atop the peak. It was a bright sunny day. The air was 
+    clear and crisp, and you could see for miles to the horizon. The sun was 
+    warming and the temperature was about 35 degrees. As we worked we noticed 
+    the air was thin and we tired more quickly. We quickly got the first link 
+    up and running and measured very close to the calculated signal strength. 
+    The second link was installed with equal success and we started to pack up 
+    our equipment as the day was waning and the temperature was dropping. As 
+    we started down the mountain the snow was wet and heavy. As we approached 
+    the bottom of the mountain we encountered large segments of the trail that 
+    had turned to mud. The unusually warm day, which gave us some comfort at 
+    the top of the mountain, had melted the shallow snow layer at the base of 
+    the mountain. The snowmobile pulling the sled had a great deal of difficulty 
+    traveling through the mud. Several times the sled would get bogged down and 
+    the drive belt of the snowmobile slipped and burned. About a mile before 
+    we reached the meadow next to the parking area, all the snow was gone and 
+    an ATV had to haul personnel and equipment through the mud."</p>
+</blockquote>
+<p>With wireless 
+  link in place, the Penasco school computer labs were able to connect to La Plaza 
+  Telecommunity for Internet access. The link provided T1 bandwidth at a reasonable 
+  initial cost and no recurring monthly fee. The 800+ students enjoy T1 speed, 
+  as does the public access site sponsored by La Plaza. Through cooperation with 
+  the school, other organizations in the Penasco area are able to have fast Internet 
+  access. One such organization is the La Jicarita Enterprise Zone office based 
+  in Penasco, which provides economic development and e-commerce opportunities 
+  to over 9,500 native New Mexicans in three Northern New Mexico counties. The 
+  entire Penasco Valley and neighboring communities now have broadband Internet 
+  access that would otherwise not be available.</p>
+<h2>Bridging 
+  the Digital Divide With Wireless</h2>
+<p>This leading 
+  edge technology is worthy of recognition due to the many challenges of the remote, 
+  rural and mountainous location populated by a tricultural peoples. The U.S. 
+  Department of Commerce measures the Digital Divide by household connectivity 
+  as a means of determining which Americans are connected to the nation's telecommunications 
+  and information infrastructure. In 1998, they found penetration levels differ, 
+  often substantially, according to income, race, geography, education level, 
+  among other demographic characteristics. The Penasco Valley has the top 4 demographic 
+  characteristics of low penetration rates with respect to computers and Internet 
+  access. The Penasco Project and La Plaza provides for the entire Penasco community 
+  broadband T1 Internet speed, free public access to both computers and the Internet, 
+  and free training classes. The Penasco Schools now offer similar educational 
+  opportunities to their students as schools in urban and metroplex areas.</p>
+<p>The previous 
+  solution of the 56Kbps phone line for Internet access to this Village is far 
+  surpassed with the wireless system. Penasco Schools is the only school district 
+  in New Mexico that is using the existing technology of broadband fixed wireless 
+  Internet access. The telecom has no plans to lay fiber now or in the future 
+  and without the new wireless system, the schools, enterprise zone offices, and 
+  private citizens would continue to be left behind on the information highway. 
+  The technology surpasses current solutions as it is less expensive, easier to 
+  install, faster and more efficient, takes one day's time of installation, and 
+  accessible as a solution.</p>
+<p>The application 
+  of wireless technology is making a huge contribution to this low-income, geographically 
+  challenged community. The school district has in place a state-of-the-art Internet 
+  access wireless system for educational purposes. La Plaza provides a Community 
+  Outreach Trainer, 15 hours weekly, and has an agreement with Penasco Schools 
+  to use the High School computer lab as a public access site. The students use 
+  the site to complete homework and research paper assignments. During the school 
+  year, there are 300 monthly visits in the site; during the summer, there are 
+  350 monthly visits. A community college, 28 miles south of Penasco, offers 
+  distance education courses for the Penasco teachers and these teachers often 
+  visit the public access site to complete assignments. La Plaza received a grant 
+  from the W.K. Kellogg Foundation to train northern NM teachers how to integrate 
+  the Internet into their class activities. Sixteen of the Penasco teachers were 
+  trained and became trainers for the other classroom teachers.</p>
+<p>Community 
+  members use the site to access email and information on the WWW. Also, La Plaza 
+  received a funding from a local foundation to develop a training model for at-risk 
+  youth in web design. Six Penasco students are involved in this project. They 
+  use the digital equipment, located at the La Jicarita Enterprise office and 
+  purchased by La Plaza, to complete their assignments in web development. La 
+  Plaza plans to integrate the web development classes in the high school, for 
+  not only at-risk youth, but also other interested youth in the Penasco area.</p>
+<p>The project 
+  contribution is a wired community in a remote, rural, and mountainous area. 
+  The future educational and professional contribution is unknown, but we do know 
+  without the wireless application this village would remain forever in the Digital 
+  Divide "have-nots" of computer and Internet access.</p>
+<p>La Plaza 
+  reports project results to the La Plaza Board of Directors, Penasco School Board, 
+  and the funding sources of the special projects; i.e.; number of dialin users 
+  for email accounts, number of students enrolled in Penasco schools, number of 
+  visits in the Penasco public access site, and the positive outcomes of the special 
+  projects available through this wireless system. To date, no one has considered 
+  this project to be problematic.</p>
+<p>This project 
+  can be replicated in any community, whether remote, rural or mountainous. La 
+  Plaza has installed wireless systems to the Town of Taos municipal offices, 
+  the county hospital, private businesses, and has a pending project for the Taos 
+  Pueblo. The model is based on the geographical challenges and the lack of telecom 
+  infrastructure in the area. Any community that is willing to develop partnerships 
+  and collaborate with need, engineering design, finances, and solution can replicate 
+  this project. A PowerPoint <a
+href="http://www.laplaza.org/about_lap/network/wirelessPresentation2/pages/11.htm">presentation 
+  of the project</a> is available online.</p>
+<hr>
+<div style='border:none;border-bottom:solid windowtext .75pt;padding:0in 0in 1.0pt 0in'> 
+</div>
+<p><div class="bionote">Judith Pepper 
+  is Executive Director of the La Plaza Telecommunity, in Taos, New Mexico. </div></p>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Small Points of Connection</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000059.html" />
+    <modified>2005-06-14T08:07:00Z</modified>
+    <issued>2005-06-14T04:07:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.59</id>
+    <created>2005-06-14T08:07:00Z</created>
+    <summary type="text/plain"> At the heart of any community there exist many small connecting points: a conversation at the bus stop, a nod in the grocery store, a shared smile over youthful antics. Through fostering these seemingly insignificant beginnings communities are made....</summary>
+    <author>
+      <name>Rhonda Allison</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<p><table width="300" border="0" cellspacing="1" cellpadding="1" align="left">
+  <tr>
+    <td width="300"><div align="left"><img src="/winter-spring-2002/img/rallison.jpg" width="250" height="317" alt="Two women at a terminal" align="center">
+</div></td>
+  </tr></table></p>
+<p>At the heart of any community there exist many small connecting points: a conversation 
+  at the bus stop, a nod in the grocery store, a shared smile over youthful antics. 
+  Through fostering these seemingly insignificant beginnings communities are made. 
+  The Community Technology Center where I work, the Rainier Vista Technology and 
+  Job Resource Center, is centrally located in a public housing community. The 
+  people using our center vary widely in educational background, areas of interest, 
+  and level of support needed in their interactions with technology. Some of 
+  them come in groups, most come singly. Some of those who walk through the door 
+  for the first time are isolated in their own communities, having lived in the 
+  same place for ten years, yet not knowing their neighbors. They never attend 
+  community events. Their lives revolve around work and family. Their community 
+  lives elsewhere.</p>
+<p>When people come in for the first time, they find a welcoming and inclusive 
+  atmosphere with artwork, photographs and signs up from different language groups 
+  and cultures. When I first put up a world map, no one looked at it until I 
+  printed out photographs from the various countries and put them on the map; 
+  now that's one of the first places people look.</p>
+<p>In the orientation and assessment phase we talk a bit to find out what a person's 
+  interests are. I introduce new comers around the room telling people not just 
+  their name, but what they are interested in learning. We do this each time 
+  they come in for a while: "You remember Ayalew, he was here last week. Would 
+  you walk him through opening up the typing program?" A couple of week ago, 
+  an older Vietnamese gentleman was having trouble controlling his mouse. An 
+  eleven-year-old from Ethiopia working on an adjacent computer piped up. "Oh, 
+  I remember how I used to do that! Here let me show you. It's really easy once 
+  you understand how." It is from such moments that a community begins to come 
+  together.</p>
+<p><img src="/winter-spring-2002/img/RAllison2.Vietnamese.JPG" width="359" height="184" align="right" alt="Vietnamese Women">I 
+  liketo think of it as a subtext for everything that we do, the foundation for 
+  continued learning and dispelling the myths about technology, because for me, 
+  technology is really about connecting people, connecting people to resources, 
+  new ideas, and each other. I believe that through technology we are able to 
+  explore the larger concepts of communities that live in a wider arena than may 
+  be contained in physical space. </p>
+<p>But I also believe that the process must be conscious, not necessarily engineered 
+  but fostered. A few ground rules for interaction are helpful. The first rule 
+  is that we are a neighborhood place and we greet our neighbors when they come 
+  in the center. If I am not in the room when a newer participant comes in, I 
+  ask if anyone greeted them. Then I may introduce them around again. A few 
+  times like this and people get the idea. The way learners demonstrate competency 
+  in a task or technique is to teach that technique to someone else. I try to 
+  suggest as much cross-cultural interaction as possible. If a student has a 
+  homework question, I may ask if someone in the room has any information about 
+  the topic or suggestions about research avenues. Or if a learner has made a 
+  break through, I will announce it to the room for others to offer congratulations. 
+  Learners take ownership in such an environment. They include others. They 
+  learn to work together and share their experiences. And what is community, after 
+  all, than sharing our lives?</p>
+<hr>
+<p><div class="bionote"><a href="mailto:rhonda_allison@yahoo.com">Rhonda Allison</a> is a Community 
+  Technology Center Development Consultant based in Seattle, WA with a focus on 
+  culturally inclusive multilingual curriculum. She is an active member of the 
+  Citizens Telecommunications and Technology Advisory Board for the City of Seattle.</div></p>
+</body>
+</html>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Community Mapping for Neighborhood Knowledge in Los Angeles</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000058.html" />
+    <modified>2005-06-14T08:06:00Z</modified>
+    <issued>2005-06-14T04:06:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.58</id>
+    <created>2005-06-14T08:06:00Z</created>
+    <summary type="text/plain">Background: Data Integration and Dissemination The Neighborhood Knowledge Los Angeles (NKLA) project began in 1996 as a web portal for people concerned with improving the conditions of Los Angeles neighborhoods. From the beginning of the project, NKLA has provided free...</summary>
+    <author>
+      <name>Bill Pitkin and Nick Rattray</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<p><span class="subhead">Background: Data Integration and Dissemination</span></p>
+<P class=MsoBodyText>The <A href="http://nkla.ucla.edu/">Neighborhood Knowledge Los Angeles </A>(NKLA) project began in 1996 as a web portal for people concerned with improving the conditions of Los Angeles neighborhoods. From the beginning of the project, NKLA has provided free access to a wide range of property and neighborhood data sets, information that can help community residents and activists in Los Angeles monitor neighborhood conditions by tracking early-warning indicators of decline. For example, users can map out indicators such as tax delinquencies, code complaints, or nuisance properties across the city in color-shaded maps to track where conditions are worst. They can also compare these trends with other demographic trends using census data. Moreover, they can access detailed historical property data such as code violations, building permits, and tax liens.</P>
+<TABLE align=center border=0 cellPadding=0 cellSpacing=0 width=360>
+<TBODY>
+<TR>
+<TD width=360><IMG align=center height=240 src="/winter-spring-2002/img/nkla_1.jpg" width=320></TD></TR>
+<TR>
+<TD>
+</TD></TR></TBODY></TABLE>
+<p><span class="subhead">Presentation by Community Coalition</span></p>
+<P class=MsoBodyText>The motto of NKLA, proudly displayed at the top of the welcome page, has always been, "Neighborhood improvement and recovery is not just for the experts!" NKLA was largely designed with community residents and community-based organizations in mind. To our surprise, however, the earliest frequent users of the web site were not community activists, but rather staff from local governmental agencies. We had given policy makers and staff from city council offices and departments such as Housing, Building and Safety, and Community Development a tool for easily accessing data that they should have been able to get through a phone call, but&#151;for one reason or another&#151;preferred to get by going to our web site. Through funding from the US Department of Commerce's <A href="http://www.ntia.doc.gov/otiahome/top/index.html">Technology Opportunities Program</A> (1998-2001), we were able to conduct extensive community outreach and training on how to take advantage of the data and tools on NKLA for community improvement.</P>
+<span class="subhead">A New Innovation: Community Mapping on the Web</span>
+<P class=MsoBodyText>As part of our community-based outreach, we've done training in many community technology centers and community-based organizations throughout Los Angeles over the past three years, and this helped increase usage by community residents and activists. However, we still recognized that there was a need for a greater role for community residents in the project. It was suggested by community partners that we allow residents to be not only consumers of information, but also producers of information on NKLA. Besides governmental data, an important part of neighborhood knowledge is the everyday experience of community residents. In line with a "community building" strategy of community development, we began to look to residents to map out their knowledge of the neighborhoods in which they live. Following the "asset-based community development" approach, popularized by John Kretzmann and John McKnight from Northwestern University's ABCD Institute, we began to work with youth groups and students to map out community assets in the Boyle Heights and Vernon Central neighborhoods of Los Angeles. This asset mapping approach has become increasingly popular in community building projects, and NKLA's Inter Active Mapping Los Angeles (I AM LA) application went one step further by linking this process to the web. Participants enter property-level information into the NKLA data base though a simple web form, thus decentralizing the data collection process. These data points are then displayed on a dynamic map on NKLA, where users can view the community-created data on maps or lists with associated data. </P>
+<span class="subhead">Community Mapping Projects in Los Angeles</SPAN>
+<P class=MsoBodyText>During the summer of 2001, NKLA worked intensively with three different community groups on creating their own web-based mapping systems. With the help of VISTA interns, the NKLA team worked with Youth United for Community Change (YUCA) in the Crenshaw district, the Neighborhoods Fighting Back (NFB) group in South LA, and the Pacoima Beautiful Youth Environmentalists (PBYES) in the Pacoima neighborhood. Each of the groups gave dynamic public presentations of their work at the <A href="http://nkla.sppsr.ucla.edu/photos/2001nklauserconference/index.html"><SPAN style="COLOR: windowtext; TEXT-DECORATION: none; text-underline: none">2001 NKLA User Conference</SPAN></A>. The fact that each of these groups had their own approach and geographic focus necessitated a web application and training program that was both flexible and customizable.</P>
+<P class=MsoBodyText>As a youth organizing program dedicated to cultivating grassroots leadership, YUCA was looking to use the I AM LA project as means to raise awareness about social and environmental justice in their neighborhood. Since the YUCA youth had taken part in previous training on asset mapping, we focused mostly on asset collection, input and ways to publicize their findings. In a short six week period, the group was able to collect and input 27 assets with full descriptions and images in categories ranging from churches and schools to "kick-it" spots. YUCA drove the process by selecting their own categories and publishing their project in a magazine.</P>
+<TABLE align=left border=0 cellPadding=10 cellSpacing=2 width=307>
+<TBODY>
+<TR>
+<TD><IMG height=200 src="/winter-spring-2002/img/IAMLA_APIMAP12801928952.jpg" width=300></TD></TR>
+<TR>
+<TD height=50>
+<DIV align=center><span class="caption">Community-based organizations seeks to show environmental, youth, and recreational assets in their neighborhood. </span></DIV></TD></TR></TBODY></TABLE>
+<P class=MsoBodyText>NFB's work remedying "nuisance" properties took the I AM LA application in new direction. Instead of mapping assets in their neighborhood, NFB leaders envisioned I AM LA as a way to monitor various liquor stores and motels that they had been organizing against since the civil unrest of 1992. In addition, NFB was composed almost entirely of seniors eager to utilize their little-used computer skills. Working closely with NKLA staff, NFB converted many of their paper records into a database on NKLA, and mapped nuisance sites throughout South Los Angeles. Included in their database was information on crime activities, dates of public hearings, and an automated tool for inputting additional comments on each nuisance. To date, NFB has presented their work to city agencies and plans to expand the database to capture all of their historical work.</P>
+<P class=MsoBodyText>In Pacoima, the process of community mapping was at least as important as the maps and data that were produced. PBYES was interested in cataloging the cultural and artistic assets in their neighborhood as a method of promoting positive local images. However, as a relatively new group, community mapping was used a means of leadership development for the youth. PBYES's asset maps are part of larger vision of using mapping as a tool for community empowerment by designating potential development sites and organizing for increased resources for youth in Pacoima.</P>
+<span class="subhead">Lessons for Building Community and Neighborhood Knowledge</span>
+<P class=MsoBodyText>The experience of using NKLA for community mapping has enhanced the community building process in several ways. First, it has served as a vehicle for training youth and seniors on how to utilize information technology and electronic media in their daily lives. For example, the youth in Pacoima used asset mapping to find previously unknown locations and individuals in their neighborhood. Second, I AM LA functions as an efficient data management tool that enables community groups to better document and archive community information. NFB adopted I AM LA as their own information system in order to better share and standardize their data collection. Third, web-enabled community mapping allows them to produce maps and data instantly, and share that information broadly. This means that groups can share their knowledge of their neighborhoods to a wide audience in a variety of formats. For example, YUCA plans to present their research findings to their city council member as a slideshow presentation to argue for increased youth resources. NFB has presented their online maps to local officials as documentary materials in public nuisance cases.Apart from its value to community groups, the community mapping process provides a vital service for other consumers of neighborhood information. I AM LA serves as a platform to organize and present the vastly untapped knowledge base of local residents and neighborhood groups. When this is integrated with other public datasets, it becomes a powerful snapshot that has the ability to aid substantially in building community and neighborhood knowledge.</P>
+<HR>
+
+<P><div class="bionote"><A href="mailto:wpitkin@ucla.edu">Bill Pitkin</A> and <A href="mailto:nrattray@ucla.edu">Nick Rattray</A> both work at the <A href="http://api.ucla.edu/">UCLA Advanced Policy Institute</A> and have overseen much of the technical and outreach work on NKLA. To see the community mapping work described in this article, login to the "Data & Maps" section of NKLA and click on "I AM LA." For additional information on the political and technical background to NKLA, check out the "NKLA How-To Kit" in the "Help" section of the site, where you will also find evaluation documents.</div></P>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Running LAPs: On the Local Access Path</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000055.html" />
+    <modified>2005-06-14T08:05:00Z</modified>
+    <issued>2005-06-14T04:05:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.55</id>
+    <created>2005-06-14T08:05:00Z</created>
+    <summary type="text/plain"> The challenges we face are very real. So is our potential to solve them. We are at once on the brink of annihilation&amp;#151;and global fulfillment. Information and communications technologies are making it possible for our voices to reach each...</summary>
+    <author>
+      <name>Max Gail and Casey Hughes</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<table width="200" border="0" cellspacing="0" cellpadding="0" align="left">
+  <tr> 
+    <td><a href="http://www.lap.org" target="_blank"><img src="/winter-spring-2002/img/lap_logo_with_url.jpg" width="216" height="234" border="0" alt="LAP Logo and URL"></a></td>
+  </tr>
+</table>
+<p class=MsoTitle align=left style='text-align:left'>The challenges we face are 
+  very real. So is our potential to solve them. We are at once on the brink 
+  of annihilation&#151;and global fulfillment. Information and communications technologies 
+  are making it possible for our voices to reach each other, an essential part 
+  of the positive solution. And it is local access to information and communications 
+  technologies that can be the pathway to a livable future. </p>
+<p>But the local access pathway is not a clear, well-traveled one yet. "Community" 
+  and "technology" are older than the words we use for them, as are "centers" 
+  and "networks." We are using these words in the context of a profound transformation. 
+  We search for and create new metaphors to talk about it, to guide us in our 
+  next steps on the path, on our quest for a new paradigm.<br>
+</p>
+<span class="subhead">Paradigms and Changing Times</span>
+<p>Science historian Thomas Kuhn pointed out that the mechanistic theory of life 
+  was what he called a <i>paradigm,</i> Greek for "pattern," a<i> </i>collectively 
+  held model of reality, a belief system or worldview that influences the way 
+  we perceive our universe, our institutions and ourselves. Kuhn showed that 
+  periods of revolutionary change involve the replacement of old scientific paradigms 
+  by new ones.</p>
+<p><div class="sidebar_left">Consider the familiar drawing of two profiles face to 
+        face that "transforms" into a vessel of some type. The information on 
+        the page is the same, but a different pattern or paradigm is re-cognized. 
+        This is a great visual metaphor for the notion of social capital, the 
+        human capital that resides in the relationship between individuals.</p>
+      <p>Can you imagine the vessel, the contents and container, 
+        with all the social capital of all the relationships? What could we call 
+        that vessel of social capital? How do we access it?</p>
+         <p><img name="trust" src="/winter-spring-2002/img/trust.gif" width="150" height="129" border="0" align="center" alt="drawing of two profiles"></p>
+      <p align=left><b>What do YOU &quot;see&quot;?</b></div></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>For millennia Europeans clung to the paradigm that the sun traveled around 
+  the Earth. Now we hold a larger paradigm within which we perceive "sunsets" 
+  but conceive a solar system nested in a galaxy nested in a cluster of galaxies 
+  and so on. Such shifts do not happen easily. </p>
+<p>Can you imagine the whole picture, the pattern, existing at every level from 
+  individual to organizational to global including the ecosystem of which we are 
+  a part?</p>
+<p>How do we collectively steer this abundant relation ship of relationships? 
+</p>
+<span class="subhead">
+  LAP &#151; a big little word</span>
+<table width="200" border="0" cellspacing="0" cellpadding="4" align="right">
+  <tr> 
+    <td><b><i><img border=0 width=255 height=198
+src="/winter-spring-2002/img/trust.png" v:shapes="_x0000_i1026" alt="The Lap Circle"></i></b></td>
+  </tr>
+  <tr> 
+    <td><span class="caption">The Lap Circle, a trust-building exercise. When you 
+      sit down, you create a physical environment out of your physical self, your 
+      lap. And you sit on something you trust for support. If a group of people 
+      comes together in a circle of trust, the circle can support itself. It looks 
+      funny because it's a lot of laughs. (The Lap session pictured here was 
+      run in Reno last year with participants from the community technology, parks 
+      and recreation, disability fields, and elsewhere.)</span></td>
+  </tr>
+</table>
+<p class=MsoBodyText2>The notion of LAP involves both a metaphor and a "macronym," 
+  meaning one acronym for many overlapping components of one whole. A community 
+  LAP is the safe, nurturing storytelling, teaching/learning, responsibility sharing 
+  circle of community made up of Local Access Places, Platforms, Programs, Partners, 
+  Participants. The Local Access Purpose is the fulfillment of needs and aspirations 
+  that enhances the chances for new generations. The Local Access Process is to 
+  run LAPs. At the primary level that means to circle up and share visions according 
+  to the Local Access Principles of Love And Peace, Learn At Play, Laughter And 
+  Passion, Language And Process, Looking At Possibilities, Leveraging All Participation, 
+  Linking Alternate Paradigms, Literacy Artistry Poetry, Legality Accountability 
+  Proactivity, Lens Aperture Perspective, and, particularly relevant here, Land 
+  And People.</p>
+<p>The Local Access Promise is to nurture diverse, interwoven sustainable local 
+  communities globally by facilitating and modeling the emergence of computer-empowered, 
+  creativity-inspiring, consensus-building community communication centers and 
+  networks. These LAPs are emerging in community centers, parks, schools, libraries, 
+  housing projects, college and trade school campuses, training centers, and hospitals 
+  as well as in public/retail areas such as malls, bookstores, and workplaces. 
+  (This is being written from the Vital LAP. The Vital is Southern California's 
+  oldest organic farm.)</p>
+<p>Community technology practitioners operate in these different organizational 
+  circles, connected and integrated with all kinds of media and technology, from 
+  broadcast to the Internet. One of the most exciting and essential areas where 
+  this is happening is the lapping of community technology and parks and recreation 
+  public space. As all the circles grow they overlap and the perception of a 
+  field emerges, aided immensely by efforts such as this journal. We need to keep 
+  growing the circle thus helping all the circles to grow...and lap with all the 
+  circles of community in the circle of life. LAP is an open invitation to an 
+  open heart, open mind, open source, open space, open game. No one owns it; 
+  everyone can use it; anyone can improve it. <a
+href="http://www.lap.org/">LAP.org</a> shows more about LAPs and how they can 
+  be run in any and all communities.</p>
+<hr>
+<table width="360" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+<td>
+<img name="gail" src="/winter-spring-2002/img/gail.jpg" width="324" height="155" border="0" align="left"></td></tr></table>
+<p><div class="bionote"><a href="mailto:seelap@aol.com">Max 
+Gail</a> is an LAP caretaker, 
+community activist, and actor (frequently known for his portrayal of Wojohowicz 
+on "Barney Miller"). <a href="mailto:casey@kmunity.net">Casey Hughes</a> is the founder of <a href="http://www.kmunity.net/">KMunity</a> 
+and a pioneer in developing community technology applications.</div></p>
+</body>
+</html>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Parks and Recreation LAPs Are &quot;Connected&quot; for the Future</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000153.html" />
+    <modified>2005-06-14T08:04:00Z</modified>
+    <issued>2005-06-14T04:04:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.153</id>
+    <created>2005-06-14T08:04:00Z</created>
+    <summary type="text/plain">Parks and Recreation Services are naturally positioned to become local technology centers. Parks and Recreation department services have historically been mandated to meet the social, physical, and educational needs of citizens. Through building the physical structures and the opportunities to...</summary>
+    <author>
+      <name>Pam Earle and Cathy Matheson</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<p><a href="http://www.nrpa.org/"><img name="PamLAP0123" src="/winter-spring-2002/img/PamLAP0123.jpg" width="252" height="252" border="0" align="left" alt="National Parks and Recreation Association"></a>Parks 
+  and Recreation Services are naturally positioned to become local technology 
+  centers. Parks and Recreation department services have historically been mandated 
+  to meet the social, physical, and educational needs of citizens. Through building 
+  the physical structures and the opportunities to bring community together, Parks 
+  and Rec has fostered community pride, and created relationships that help sustain 
+  vital, healthy communities. It is here where we have established cultural, 
+  social, and educational places where our community comes together. </p>
+<p>Parks and Recreation departments are masters in creating successful partnerships 
+  to achieve mutual gain. Be it a partnership between a non-profit and education 
+  organization, a partnership between government and a corporation, leisure professionals 
+  know how to develop key win-win relationships. For many years, they have struggled 
+  to increase their services with fewer financial resources. Even faced with 
+  the challenges of "doing more with less," Parks and Recreation departments serve 
+  more children during after school hours than any other local agency. They are 
+  known as the places where people "cluster." They are safe, welcoming, and nurturing 
+  environments for people of all ages, cultures and abilities.</p>
+<p>Parks and Recreation Department Centers are perfect sponsors for LAPs because 
+  they're open long hours and provide community resources that include day-care 
+  services, volunteers and volunteer infrastructure, and access to information 
+  and technology that might not be available and affordable elsewhere.</p>
+<p>As Andrew Cohill, President of the Association for Community Networking, put 
+  it: "Just as recreation centers and parks create gathering places for community 
+  residents of all ages, community-wide networks create online gathering places, 
+  and the intersection of these two mediums (physical and virtual) creates great 
+  opportunities &#8212; for technology centers, for learning centers, for technology fairs, 
+  community networked offices, and other creative uses."</p>
+<p class=MsoBodyText3>The <a
+href="http://www.nrpa.org/"><b>National Recreation and Park Association</b></a> 
+  is taking a lead in encouraging the development of public access to technology 
+  at Parks and Recreation sites. The NRPA represents over 24,000 citizens and 
+  professionals in 5,000 or more communities around the country. There is great 
+  opportunity for public Parks and Recreation to add value to existing services 
+  through technology based programs and for the public to enjoy the added benefit 
+  of connecting with their community in new ways. We are not surprised to see 
+  Parks and Recreation programs and staff emerging as leaders in creating the 
+  foundation for new and sustainable "local access places." </p>
+<p class=MsoBodyText3>The following are some examples of Parks and Recreation 
+  based programs that represent successful models, as reported by those who staff 
+  and work at them.</p>
+<span class="subhead">Public Recreation in Largo, Florida</span>
+<p>Technology is creating a shift in the recreation programming paradigm with 
+  intergenerational applications of computer training through public recreation 
+  in Largo. The many requests about where senior citizens could learn to use 
+  computers led our staff to develop a partnership at the Community Center with 
+  the city's Recreation, Parks and Arts Department, the Pinellas County Technical 
+  Education Center (PTEC), and a private computer education company (that has 
+  since gone out of business.) The Community Center offered space and furniture, 
+  and scheduling, accounting and advertising services as well as youth members 
+  to serve as computer mentors for seniors. PTEC offered the loan and up-keep 
+  of 14 state-of-the-art computer systems and trained instructors. The computer 
+  education company supplied workbooks and a large collection of interactive, 
+  learn-on-your-own programs for various software applications.</p>
+<p>The program objectives were designed to create increased mutual esteem for 
+  the generations involved through educational interaction; e-mail was actually 
+  the number one reason and stimulus motivating senior citizens to learn to use 
+  the computer.</p>
+<p>Begun in January, 2000, the program became an immediate success because of 
+  a well done human interest story published in our regional newspaper, the <i>St. 
+  Petersburg Times</i>. In fact, the Largo Community Center was forced by demand 
+  to triple the number of course offerings which filled up for the next six months 
+  by the end of that January! </p>
+<p>Currently, the Largo Community Center is developing a partnership with a local 
+  medical facility to create personal home computer applications for physical 
+  fitness, dietary, and other wellness management and monitoring issues for use 
+  with our patrons. As our elder population has become more confident in their 
+  use of new technologies they are helping to define for recreation practitioners 
+  those applications best suited to their needs and abilities. The Center is 
+  in the process of remodeling space in order to facilitate higher speed Internet 
+  connectivity and develop digital photography, voice and digitized music programs 
+  and an area for paper craft creations such as birthday cards, flyers, origami, 
+  and posters.</p>
+<p>Through the use of technology, the relevance of our Community Center programming 
+  is being redefined to better suit the needs of today's public recreation patrons. 
+  &#8212; <a href="mailto:mwhelan@largo.com">Michael Whelan</a></p>
+<p>&nbsp;</p>
+<span class="subhead">City of North Miami Beach, Florida</span>
+<table width="334" border="0" cellspacing="0" cellpadding="0" align="left">
+  <tr>
+    <td><img width=324 height=194
+src="/winter-spring-2002/img/moresmiles.jpg" align=left hspace=12 v:shapes="_x0000_s1029"></td>
+  </tr>
+  <tr>
+    <td>
+      <span class="caption">At the North Miami Beach Youth Center 
+        with Ella Tavares, Nathaniel Flores, Oscar Bilini, Clarissa Jiminian, Phillip Cheron, Eric Aljure, Tatyana Cheron.</span>
+    </td>
+  </tr>
+</table>
+<p class=MsoBodyText>The City of North Miami Beach, Florida, completed the renovation 
+  for youth center in July 1999 with infrastructure for a future computer lab. 
+  Monies became available through a grant six months later and, with the assistance 
+  of the city's Information Technology Department, 12 computers with web cameras, 
+  headphones, and a full array of software were purchased and installed.</p>
+<p>The lab is open daily under supervision by a computer teacher. Children do 
+  homework, email friends and family, play games, take pictures, make holiday 
+  theme cards, and receive one on one instruction. They line up to use the lab 
+  and it is rare to see an empty seat. In fact, the children have time limits 
+  when others are waiting.</p>
+<p>Classes for senior citizens held in the morning have proven to be a popular 
+  program, with email to their families being the number one priority interest. 
+  These are highly successful programs, especially for those in the area who do 
+  not have computers in their home. &#8212; <a href="mailto:harriett.orr@citynmb.fl.us">Harriett 
+  Orr </a><br>
+</p>
+<span class="subhead">Library and Recreation Services in Aurora, Colorado</span>
+<p>When the Moorhead Recreation Center in North Aurora, Colorado, held an ice 
+  cream social in 1999, participants completed a "60 second survey" identifying 
+  what they would like to see in this low-income area of the city. One of the 
+  top five items for both youth and adults was "library services." It was the 
+  number one priority for youth.</p>
+<p class=MsoBodyText2>Based on this assessment, a branch library learning center 
+  was created by renovating an old office and an adjacent closet through a Community 
+  Development Block grant. Jointly developed with Recreation and Library staff, 
+  the center was initially set up with three computers, providing access to the 
+  library online system and the Internet, and a small collection of books and 
+  tapes, some in Spanish. Patrons can check out books, request materials from 
+  other libraries and pick them up at Moorehead, and they can type resumes, search 
+  the web, and perform other computer activities. Last year the Colorado Library 
+  Association gave the Moorhead Library Learning Center an award for "best outreach 
+  to diverse populations." And thanks to a Gates Foundation grant, Moorhead was 
+  the recipient of four state of the art replacement computers loaded with educational 
+  software for children and adults.</p>
+<p>In March of 2001, a small grant from Parks and Recreation for People was obtained 
+  to support a volunteer teen library team to staff the center and encourage its 
+  use, especially by youth. "LibTeens" (the name chosen by the group) take turns 
+  staffing the library learning center every afternoon, check material in and 
+  out and help users on the computers.</p>
+<p>We have begun having preschool story and craft times at the Recreation Center 
+  for parents and toddlers, scheduled immediately after parents drop off older 
+  children at the school across the street. Recreation and Library staff work 
+  together to set up snacks, crafts, and conduct the story time sessions. Fifteen 
+  to twenty people attend them weekly. &#8212; <a href="mailto:knelson@ci.aurora.co.us">Katherine 
+  Nelson</a></p>
+<span class="subhead">Technology, Recreation and Learning Centers in the City 
+  of New York/Parks &amp; Recreation</span>
+<p class=MsoBodyText><b><a href="http://www.nyc.gov/parks"><img border=0 width=72 height=72
+src="/winter-spring-2002/img/compresource.jpg" v:shapes="_x0000_i1026" alt="City of NY Parks and Recreation" align="left"></a></b>In 
+  the Computer Resource Centers (CRC) Program, we incorporate technology directly into 
+  recreational programming &#8212; mainly sports &#8212; building a strong recreation/education 
+  partnership. Our students write stories about their favorite players and conduct 
+  research on their favorite sports. Our curriculum introduces children to educational 
+  technology resources in a fun and approachable way. </p>
+<p>We recently began posting our most successful lesson plans on the CRC 
+  electronic curricula section of <a href="http://www.nyc.gov/parks">www.nyc.gov/parks</a>. 
+  Hotshot Animation is a storytelling and art project where children create a 
+  "digital flip book" by stringing images together in a PowerPoint slide show, 
+  an exemplary project because children learn a useful software application while 
+  doing a creative activity that they enjoy. In the Partners Project, children 
+  team up to represent their partners on posters, using a digital camera and design 
+  tools. Displaying students' work and photographs in the classroom is a great 
+  way to warm up the room and make newcomers feel welcome in the beginning of 
+  any class cycle. (It is also helpful to teachers who have to memorize lots 
+  of new names in the beginning of the school year.)</p>
+<p>Both activities are popular because of their adaptability to various age groups. 
+  Anyone can contribute to a simple slide show, and variations can be developed 
+  as appropriate. I have used variations of the partners project with adults. 
+  In our desktop publishing classes, adults present images that they have edited 
+  next to descriptions of their individual editing processes. This reinforces 
+  their skills and makes them feel proud of their new abilities. It is also an 
+  easy way for adults to swap editing tricks and share new skills. &#8212; <a href="mailto:Ariel.Berhr@parks.nyc.gov">Ariel 
+  Behr</a></p>
+<p><b>Red Mountain Multigenerational Center in Mesa, Arizona</b></p>
+<p>&nbsp;</p>
+<table width="200" border="0" cellspacing="0" cellpadding="0" align="right">
+  <tr>
+    <td><img width=250 height=172
+src="/winter-spring-2002/img/mtnctr.jpg" align=right hspace=16 v:shapes="_x0000_s1043" alt="Red Mountain Multigenerational Center 
+        in Mesa, Arizona"></td>
+  </tr>
+  <tr>
+    <td>
+      <span class="caption">Red Mountain Multigenerational Center 
+        in Mesa, Arizona</span>
+    </td>
+  </tr>
+</table>
+<p>The Mesa Red Mountain Multigenerational Center, or "MG" as nicknamed by local 
+  youth, is a multi-use 65,000+ square foot Parks and Recreation facility that 
+  includes a gym, climbing wall, fitness center and walking track. Six classrooms 
+  are programmed for special interest classes and a large dividable hall is used 
+  for ongoing recreation programs as well as rentals and special events. Mesa 
+  Senior Services, Inc., operates programs from 8am to 5pm weekdays. The center 
+  also houses Sirrine Adult Day Health Care, a vital service for families with 
+  frail elderly. </p>
+<p>Along with these programs and amenities an additional, distinctive partnership 
+  was developed to meet the ever-growing demand for community access to computer 
+  technology. Beginning in April 1999, City Parks and Recreation staff and representatives 
+  from Mesa Community College at Red Mountain (MCC) began discussing their educational 
+  and recreational technology objectives and programming needs and found they 
+  were very much in line with each other. MCC wanted to develop courses that would 
+  appeal to the community. The classes offered would be developed based on feedback 
+  from participants and public surveys. Since the partnership developed towards 
+  the end of construction of the center, an existing classroom was retrofitted 
+  and has 16 student workstations and an instructor station with projector and 
+  screen. </p>
+<p>The partnership has been operating for nearly three years with all classes 
+  and activities, initially targeted for adults and seniors, filled to capacity. 
+  Courses cover introduction to the Internet, basics of common desktop programs, 
+  and workshops designed for first time computer users. There are 15 to 20 hours 
+  per week of free lab time that are open to the public.</p>
+<p>During the summer of 2001 drop-in programs were implemented for kids. An unexpected 
+  intergenerational program developed from youth participant interest in digital 
+  photography and desktop publishing. Senior participants have been interviewed 
+  by youth and highlighted in the multigenerational center newsletter that will 
+  be further developed in 2002 along with planning for specialty camps and enhanced 
+  intergenerational drop-in programs. Most of the credit for the success of the 
+  Red Mountain Multigenerational Center computer lab goes to staff and administrators 
+  of Mesa Community College who have made a firm and positive commitment to developing 
+  community education and technology access opportunities. &#8212; <a href="mailto:paul_widman@ci.mesa.az.us">Paul 
+  Widman</a> </p>
+<span class="subhead">The University Park CTC in Portland, Oregon</span>
+<p>The University Park Computer Technology Center, located in the largest public 
+  housing project in Portland, is a partnership between Portland Parks and Recreation 
+  and the Intel Foundation. Our computer classes are available to everyone, regardless 
+  of age or skill level. Our curriculum and programs include everything from 
+  typing, Internet basics, and using educational games such as math in the real 
+  world to video/audio creation, photo design, Lego robotics, computer building, 
+  and web design.</p>
+<p>We have a crew of youth who have been working on creating videos and music 
+  to add to them. We are venturing out with web cams and live broadcasting of 
+  events in the local neighborhood. We offer a variety of programs for elementary 
+  and middle school students, and a laptop program for youth who are heading off 
+  to college that requires them to keep up their grade point average and work 
+  with the community center on a regular basis.</p>
+<p class=MsoBodyText>At University Park we are thinking of new services to offer 
+  the community, including starting a business where youth can design and offer 
+  web hosting to local businesses. We are also looking for more volunteers and 
+  mentors so we can accommodate more people. Please visit <a
+href="http://www.universitypark.org/">www.universitypark.org</a> to keep updated 
+  on the projects and programs we are offering. &#8212; <a
+href="mailto:farnellnewton@yahoo.com)">Farnell Newton</a></p>
+<hr>
+<p><div class="bionote"> 
+ <a href="mailto:prpapac@aol.com">Pam Earle</a> is the National 
+    Parks and Recreation Association Regional Director of the Pacific Service 
+    Center; <a href="mailto:cathym@classinfo.com">Cathy Matheson</a> is Marketing 
+    Director for Class Software Solutions.</div></p>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>New Technology Policy and Advocacy Resource from The Children&apos;s Partnership</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000070.html" />
+    <modified>2005-06-14T08:03:00Z</modified>
+    <issued>2005-06-14T04:03:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.70</id>
+    <created>2005-06-14T08:03:00Z</created>
+    <summary type="text/plain">With federal leadership related to communities and technology uncertain at best, opportunities to define this emerging arena are planted squarely with city and states. In response to this reality The Children&apos;s Partnership has developed a new online resource for leaders...</summary>
+    <author>
+      <name>Wendy Lazarus and James Lau</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<P>With federal leadership related to communities and technology uncertain at best, opportunities to define this emerging arena are planted squarely with city and states. In response to this reality <A href="http://www.childrenspartnership.org/">The Children's Partnership</A> has developed a new online resource for leaders involved at the city or state level in addressing the Digital Divide.</p>
+<p><A href="http://www.techpolicybank.org/">"Bridging the Technology Gap: Action Ideas for Cities & States"</A> is the newest addition to our <A href="http://www.childrenspartnership.org/youngamericans">Young Americans & the Digital Future Campaign</A>, a sustained effort to promote city and state policies that increase young Americans' access to the benefits of the Internet and other information technologies. This multi-year education effort is carried out in conjunction with our partners: Leadership Conference on Civil Rights, National Urban League, Center for Policy Alternatives, and Fight Crime: Invest in Kids.<</P>
+<P>This new action guide is based on seven months of research on activities underway across the country to address the technology gap, from May to November 2001. Based on dozens of interviews with informants in the public and private sectors, along with a review of available analyses and other web resources, we:</P>
+<P>&#183; Summarize cities' and states' progress in addressing the technology gap;</P>
+<P>&#183; Analyze a number of city and state efforts now underway; and</P>
+<P>&#183; Suggest practical action steps that can be taken, now, at the state or local level.</P>
+<P>The examples we feature and recommendations we make are specifically designed to be realistic and achievable in these tight fiscal times.</P>
+<H2>An Overview of What We Found</H2>
+<OL>
+<LI>Many city and state leaders are beginning to understand that there is a technology gap affecting low-income communities and are ready to take a leadership role.
+<LI>A wide variety of goals are prompting city and state leaders to promote Digital Divide initiatives, including: workforce development, e-government, e-commerce, building city or state infrastructures, reducing crime or gang activity, transitioning from welfare to work, increasing school achievement, youth development, and civic participation.
+<LI>Similarly, a wide variety of program and funding approaches are being used. The guide reviews in some depth the Digital Divide initiatives in Alabama, Florida, Illinois, Kentucky, Montana, North Carolina, Ohio, Texas, Virginia, and Washington as well as municipal efforts in Atlanta, Durham, and Seattle. 
+<LI>Much of the activity now underway focuses on technology policy and practice in schools, often leaving out the all-important developments affecting technology access and use in local communities.
+<LI>While there are some very promising examples of state and community leaders who are beginning to develop policy responses, relatively little systematic information exists across cities and states about what is being done and what works. 
+<LI>Leaders who are active on the issue report feeling isolated, a situation which is particularly worrisome to them because most lack expertise in this uncharted and highly technical area.</LI></OL>
+<H2 class=MsoBodyText>Recommendations for Action</H2>
+<P>The enterprise and creativity exercised by leaders in a host of places suggests a number of practical steps that other cities and states can take to begin to bridge the technology gap.</P>
+<P>These ideas take into account the budgetary shortfalls cities and states now face due to the slowing of the economy, terrorism risks, and energy shortages.</P>
+<OL>
+<LI>Tap into existing funding streams that may not be specifically earmarked for technology initiatives. For example, the federal Workforce Investment Act, which directs approximately $3.3 billion to states to prepare youth, adults, and other displaced workers for jobs, is being used in California to support community-based technology centers to train at-risk youth in multimedia job skills.
+<LI>Redeploy personnel previously used for other purposes, located where they can help address the Digital Divide. Washington State uses its land grant university to organize a program deploying resources from its 4-H youth development program toward its Digital Divide efforts. 
+<LI>Harness existing facilities (and related staff) that cities and counties can deploy toward technology. The city of Durham, NC, uses existing parks and recreation centers to teach computer skills.
+<LI>Tie activities into city or state initiatives to strengthen and build city and state infrastructures. In California, for example, Governor Davis' Infrastructure Commission on Building for the 21<SUP>st</SUP> Century is developing recommendations for a host of infrastructure systems including water, facilities, and technology.
+<LI>Develop incentives to build high-speed, broadband access in rural and underserved areas through state tax policies. Montana has demonstrated the effectiveness of tax credits for telecommunications providers to build broadband in underserved communities.
+<LI>Influence cable franchise terms between local cable companies and city councils. Atlanta has succeeded in obtaining funds and other kinds of resources to expand access points where residents can use community technology and to support needed training and support.
+<LI>Partner with companies or foundations. North Carolina received in-kind resources like computers or software that are costly to buy.
+<LI>Use legal settlements and targeted tax assessments to generate substantial resources. Texas receives money to build infrastructure by an assessment on telecommunications companies. Illinois recently established a $30 million Digital Divide initiative, funded partly through a settlement with telecommunications companies. Similarly, Ohio, through a series of settlements with Ameritech, has received over $3 million to establish community technology centers in low-income neighborhoods.
+<LI>Urge state public utility commissions to expand telecommunications access in underserved communities. A handful of states have begun to redefine universal service (and the subsidies for it) to extend beyond telephone service.</LI></OL>
+<P>Examples in "Action Ideas for Cities and States" are organized into different categories to help you find information most relevant to your interests. Whether you want "Examples that Start Small," "Examples that Focus on Rural Needs," or "Cities and States that Involved Community Organizations," you will find leads and practical ideas. We hope this new resource helps spur positive actions to address the Digital Divide in many local communities and states in 2002--and beyond.</P>
+<HR>
+<P><div class="bionote"><A href="mailto:wlazarus@childrenspartnership.org">Wendy Lazarus</A> is CoFounder and CoDirector of The Children's Partnership; <A href="mailto:jlau@childrenspartnership.org">James Lau</A> is TCP's Technology Program Manager. To share a lead or good example for "Action Ideas," contact <A href="mailto:frontdoor@childrenspartnership">frontdoor@childrenspartnership.org</A>.</div>]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Contentbank.org: Content-Building for and by Local Communities</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000065.html" />
+    <modified>2005-06-14T08:02:00Z</modified>
+    <issued>2005-06-14T04:02:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.65</id>
+    <created>2005-06-14T08:02:00Z</created>
+    <summary type="text/plain"> The Children&amp;#8217;s Partnership is launching a new web site geared toward community technology center staff that focuses on helping build content for and by local under-served communities in early 2002 &amp;#8212; Contentbank.org. When The Children&amp;#8217;s Partnership released its study...</summary>
+    <author>
+      <name>Laurie Lipper and Francisco Mora</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<P class=MsoTitle><A href="http://www.childrenspartnership.org/"><IMG align=center height=59 src="/winter-spring-2002/img/aboutcpheader.gif" width=333></p>
+<p>The Children&#8217;s Partnership</A> is launching a new web site geared toward community technology center staff that focuses on helping build content for and by local under-served communities in early 2002 &#8212; <A href="http://www.contentbank.org/">Contentbank.org</A>. </P>
+<P>When The Children&#8217;s Partnership released its study <A href="http://www.childrenspartnership.org/pub/low_income/index.html">&#8220;Online Content for Low-Income and Under-served Communities: The Digital Divide&#8217;s New Frontier&#8221;</A> in March 2000, it found that of 1000 relevant web sites surveyed:</P>
+<UL>
+<LI>6% or less of online content was the local information users want and need, 
+<LI>1% of online content was developed for adults with limited literacy, 
+<LI>1% of online content was created in a culturally relevant manner, and 
+<LI>2% of sites made information available in a variety of languages. </LI></UL>
+<P>The research also found that these types of information were precisely what low-income and other underserved users were often looking for to meet their daily needs.&nbsp; Moreover, community-users were more likely to be using the Internet to increase opportunities for themselves and their families: to find jobs, educational/training opportunities, housing and services. </P>
+<P>The release of the research spurred a rich response from communities all around the country, and internationally, amplifying the findings of the report.&nbsp; In addition, many people sent ideas, requests and examples of community content.&nbsp; </P>
+<P>Based on this outpouring and extensive research, The Children&#8217;s Partnership is creating &#8220;The Community Contentbank&#8221; to assist local communities find, use, build and share content within their underserved communities.&nbsp; In addition, The Children&#8217;s Partnership is working with advisors and community technology centers to make sure Contentbank directly meets the needs of community tech staff. </P>
+<P>Contentbank provides three major elements:</P>
+<UL type=disc>
+<LI>Knowledge (e.g., ready-to-use curriculum, in-depth analysis of groundbreaking initiatives); 
+<LI>Information (e.g., web resources in general categories, such as health, education and housing); 
+<LI>Technology resources (e.g., web design, portals, e-learning) </LI></UL>
+<P>Contentbank.org is envisioned as a &#8220;community space&#8221; that will provide an ongoing process for users to develop materials for themselves, alongside experts who help quantify and analyze what users need and want.&nbsp; The results will be shared on Contentbank.org with the broader community of those interested in local content and with policymakers, funders, the media and&nbsp; the Internet industry.</P>
+<P><B>What to Expect from Contentbank</B></P>
+<P>&nbsp; The following features are incorporated into the web site:&nbsp; </P>
+<UL>
+<LI>A translation utility to make the site accessible in Spanish; 
+<LI>A Read-A-Loud utility that reads material out loud to provide assistance for those learning English (ESL users); 
+<LI>A compilation of program profiles which created interactive manuals to develop community technology programs; 
+<LI>A collection of reliable web resources approved by a team of content area experts; 
+<LI>A community section for &#8216;community learning and sharing&#8217; with seasoned practitioners that will be archived and easy to search; 
+<LI>An advocacy section to spur community and policy action on community technology issues.&nbsp; This will be closely linked to The Children&#8217;s Partnership&#8217;s online advocacy program: <A href="http://www.childrenspartnership.org/youngamericans">Young Americans and the Digital Future</A>. </LI></UL>
+<P>The web site is one element in a broader national program about content for underserved children and families that will help achieve the following objectives of the program:</P>
+<UL>
+<LI>To advance the development of quality content FOR AND BY low-income communities as a key strategy for overcoming social disparities and social divisions; 
+<LI>To assist organizations, such as community technology access centers, get started with building their own local content for low-income families; 
+<LI>To serve as a research tool to identify what low-income users need, what exists, and what should be done; 
+<LI>To foster a link between the needs of low-income communities and the abilities of policymakers, the Internet industry, and other decision-makers, so they fashion their policies and products in a way that includes community interests. </LI></UL>
+<HR>
+
+<div class="bionote"><A href="mailto:llipper@childrenspartnership.org">Laurie Lipper</A> is Co-Founder and Co-Director of The Children&#8217;s Partnership; Francisco Mora is a TCP Senior Consultant and co-author of the study cited in this article.</div>
+]]>
+      
+    </content>
+  </entry>
+  <entry>
+    <title>Community Informatics: Current Status and Future Prospects - Some Thoughts</title>
+    <link rel="alternate" type="text/html" href="http://www.comtechreview.org/winter-spring-2002/000056.html" />
+    <modified>2005-06-14T08:01:00Z</modified>
+    <issued>2005-06-14T04:01:00-05:00</issued>
+    <id>tag:comtechreview.org,2005:/winter-spring-2002//5.56</id>
+    <created>2005-06-14T08:01:00Z</created>
+    <summary type="text/plain"> What is Community Informatics? Community Informatics (CI) is the application of information and communications technologies (ICTs) to enable community processes and the achievement of community objectives including overcoming “digital divides” both within and among communities.  But CI also goes...</summary>
+    <author>
+      <name>Michael Gurstein</name>
+      
+      
+    </author>
+    <dc:subject>Profiles</dc:subject>
+    <content type="text/html" mode="escaped" xml:lang="en" xml:base="http://www.comtechreview.org/winter-spring-2002/">
+      <![CDATA[<p><table><tr><td height="200" width="160" align="left">
+<IMG align=left height=200 src="/winter-spring-2002/img/fto_gurstein.jpg" width=134 alt="Michael Gurstein"></td></tr></table></p>
+<p><span class="subhead">What is Community Informatics?</span></p>
+<p>Community Informatics (CI) is the application of information and communications technologies (ICTs) to enable community processes and the achievement of community objectives including overcoming “digital divides” both within and among communities.  But CI also goes beyond discussions of the “Digital Divide” to examine how and under what conditions ICT access can be made usable and useful to the range of excluded populations and communities and particularly to support local economic development, social justice, and political empowerment using the Internet.</P>
+<P>CI is emerging as the framework for systematically approaching Information Systems from a “community” perspective and parallels Management Information Systems (MIS) in the development of strategies and techniques for managing community use and application of information systems.  As well, it is closely linked with the variety of Community Networking research and applications.</P>
+<P>CI is based on the assumption that geographically-based communities (also known as “physical” or “geo-local” communities) have characteristics, requirements, and opportunities that require different strategies for ICT intervention and development from the widely accepted implied models of individual or in-home computer/Internet access and use. Because of cost factors, of course, much of the world is unlikely to have in-home Internet access in the near future.  Also, CI addresses the questions of those with a concern for ICT use in Developing Countries as well as among the poor, the marginalized, the elderly, or those living in remote locations in Developed Countries.</P>
+<P>CI represents an area of interest both to ICT practitioners and academic researchers and to all those with an interest in community-based information technologies.  CI addresses the connections between the academic theory and research, and the policy and pragmatic issues arising from the tens of thousands of Community Networks, Community Technology Centres, Telecentres, Community Communications Centres, and Telecottages currently in place globally. </P>
+<span class="subhead">Research Issues in CI</span>
+<P>What characterizes a CI approach to public computing is a commitment to universality of technology-enabled opportunity including to the disadvantaged; a recognition that the “lived physical community” is at the very center of individual and family well-being-economic, political, and cultural-and a belief that this can be enhanced through the judicious use of ICTs; a sophisticated user-focussed understanding of Information technology; and applied social leadership, entrepreneurship and creativity.</P>
+<P>The research issues of interest to CI include how communities can become the “subject” of technology applications and how technology in turn can enable communities to become more active, effective and secure as “subjects”; the differing strategies required for urban and rural, low and moderate income, digitally literate and non-literate communities to become technologically enabled; strategies for “re-engineering community processes” of environmental and land management, cultural production, and democratic participation/empowerment; appropriate and sustainable business models for community based e-commerce initiatives; and the most effective methods of scaling/linking these processes laterally between networks of similarly enabled communities. A further issue of considerable practical importance is the on-going economic/institutional "sustainability" of local access--how it will survive once initial funding sources and volunteer participation are exhausted. The issue of "sustainability," of course, raises issues of the on-going benefits that ICTs provide to community members.</P>
+<P>A theory and a practice of Community Informatics is gradually developing.  Partly this is arising out of experiences with community access and community networks in the US and Canada and partly out of a need to develop systematic approaches to some of the challenges which ICTs are surfacing with astonishing speed, including the recognition that access in itself is insufficient—rather it is what is and can be done with the access that makes ICTs meaningful. CI is also developing out of a recognition that there is a need to ensure a local, civic and “public” presence in an increasingly commercialized Internet environment.</P>
+<P>The use of ICTs as a basis for local economic development and as a way of enabling and supporting local innovation is of considerable interest as well, particularly in the context of communities having to adjust to the often dramatic changes in local circumstances and opportunities resulting from technology change and globalization of production and competition. ICTs are also emerging as a tool for enabling the development and enhancing the effectiveness of local leadership and providing the means to create collaborative networks of economic, social, and political initiatives particularly for local responses to externally imposed change.</P>
+<P>These questions are not of purely academic interest.  Very considerable public (and private philanthropic as well as commercial) resources are being directed toward responding to the perceived Digital Divide as well as using ICTs as a platform for enabling economic and social development among marginalized populations and in Less Developed Countries.  Determining how these resources might most effectively be deployed, as, for example, through "community" institutions, and the most appropriate strategies and models, requires both formalized research and the systematization of the range of practical experience.</P>
+<span class="subhead">Community Informatics: “Discipline” and “Practice”</span>
+<P>CI functions both as an academic discipline for study and research and as a practice for those working, implementing, or managing community-based technology initiatives.  In both areas it is still emerging, with a number of recent initiatives in universities and colleges and with attempts in various parts of the world to provide formalization and certification for community based technology practitioners.</P>
+<P>As an academic discipline CI draws resources and participants from a wide range of backgrounds including Computer Science, Management, Information and Library Science, Planning, Sociology, Education, Social Policy and Rural, Regional, and Development Studies.  As a practice, CI is of interest to those concerned with Community and Local Economic Development both in Developing and Developed Countries and has close connections with those working in such areas as Community Development, Community Economic Development, Community Based Health Informatics, Adult and Continuing Education, and Agricultural Extension.</P>
+<P>There are a number of university-based courses in Community Informatics emerging across a range of disciplines but particularly in Schools of Information (Library) Sciences and of Management.  Currently there are CI academic programs and research being undertaken in a number of universities world-wide including in Australia (Central Queensland University), the UK (University of Brighton and the University of the West of England), the University of Buenos Aires, the University of Milan, and Evergreen College in the USA and there are a number of recent Ph.D.’s—from the University of Brighton, Aarlborg University in Denmark, Georgia Tech and UCLA and several in the University of Michigan, School of Library and Information Science.</P>
+<P>Recent collections of papers in CI include:</P>
+<UL>
+<LI>L. Keeble & B, Loader (Eds.) <I>Community Informatics: Shaping Computer-Mediated Social Networks</I>, Routledge, 2001 
+<LI>M. Gurstein (Ed.) <I>Community Informatics: Enabling Communities with Information and Communications Technologies</I>, Idea Group, 2000, and 
+<LI>he Proceedings of the IT in Regional Areas Conference: <I>Using Informatics to Transform Regions</I> (Eds. S. Marshall, Wal Taylor and Xinghou Yu). </LI></UL>
+<P>Several more are either in planning or in press.</P>
+<P>Community Informatics currently functions as a loose network focussed around the electronic discussion list, <A href="mailto:CommunityInformatics@vcn.bc.ca">CommunityInformatics@vcn.bc.ca</A>.  To subscribe send a message to: <U><A href="mailto:majordomo@vcn.bc.ca">majordomo@vcn.bc.ca</A></U> with a blank subject line and in the body write:  subscribe communityinformatics.  <A href="http://vancouvercommunity.net/lists/arc/communityinformatics">Archives</A> are available.</P>
+<span class="subhead">Resources</span>
+<P>If anything, the overwhelming impact of the Internet has increased the challenges for both the theory and practise of Community Informatics where CI practitioners and researchers are leading the way forward as in the following Canadian examples, including</P>
+<UL type=disc>
+<LI>Designing ways of using ICTs to enhance the quality and coverage of electronically enabled public services such as the Conservation Council of New Brunswick; 
+<LI>Building, rebuilding and re-rebuilding the bridges across the Digital Divide as the multiple chasms of income, education, location, nationality widen between the sides such as through the <U><A href="http://cap.ic.gc.ca/">Canadian Community Access Program</A></U> (CAP), or <U><A href="http://olt-bta.hrdc-drhc.gc.ca/CLN/">Community Learning Networks;</A></U> 
+<LI>Developing sustainable models for a community public space on the Internet such as the <U><A href="http://vcn.bc.ca/">Vancouver Community Network</A></U>; 
+<LI>Developing strategies and techniques so that local E-Commerce can find ways to co-exist/collaborate/compete with global E-Commerce such as the Strait East Nova Scotia Community Enterprise Network, or <U><A href="http://www.knet.on.ca/info.html">Keewaytinook Okimakanak </A></U>; 
+<LI>Creating local, national, and global democratic practices in a world of Electronic Citizenship such as <U><A href="http://www.web.net/">WebNet</A></U>; 
+<LI>Using the Net to support development in the Third World (such as the <U><A href="http://www.idrc.ca/acacia/">Acacia Network</A></U>; 
+<LI>Supporting communities as they find ways of using the Net to be contributors to as well as consumers of global culture and global (See <U><A href="http://www.cbmusic.com/">Cape Breton Music Online</A></U>; and 
+<LI>Applying the principles of open source to the practise of civic governance such as <U><A href="http://www.geocities.com/c4ld/">Citizens for Local Democracy</A></U>. </LI></UL>
+<span class="subhead">Conclusion</span>
+<P>Community Informatics continues to provide a place where academics and practitioners can meet and discuss issues of common interest—assess strategies, develop models, explore controversies. As the area of community based technology applications grows, one can expect an increasing interest in and formal institutional attention to Community Informatics as a discipline.</P>
+<P>The development of strategies to enable management use of ICTs to accomplish corporate ends is a well-recognized and widely supported component of business research, education and training. Community Informatics provides a parallel set of opportunities for those with an interest in enabling community objectives with ICTs.</P>
+<P>ICTs are transforming the terms and conditions through which large scale enterprise activity is being conducted. To date, the opportunities for the generation of wealth, the achievement of operating efficiencies and scope, the extension of political and social influence and control have by-passed many as the technologies and their implementation have been geographically and socially focussed. It is proposed through the development of community focussed ICT concepts, strategies, applications and cases to provide opportunities for those outside of the narrow band of current participants/beneficiaries and particularly those most at risk from the aggravation of continuing social inequalities to have the opportunity to participate and gain benefit from this current transformation.</P>
+<HR>
+
+<P><div class="bionote"><A href="mailto:Mgurst@vcn.bc.ca">Michael Gurstein</A>, Ph.D. is Visiting Professor with the School of Management at the New Jersey Institute of Technology in Newark, NJ. He was formerly on the Board of the Vancouver Community Network, the British Columbia Community Networking Association, and Telecommunities Canada and a charter member of the Global Community Networking Partnership.</div></P>]]>
+      
+    </content>
+  </entry>
+
+</feed>

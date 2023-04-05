@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.comtechreview.org/winter-2004-2005/">
+<title>Winter 2004-2005</title>
+<link>http://www.comtechreview.org/winter-2004-2005/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2005-06-14T09:00:00-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000274.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000236.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000237.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000262.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000278.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000275.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000264.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000282.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000266.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000267.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000268.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000269.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000270.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000281.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/winter-2004-2005/000272.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000274.html">
+<title>Cover photos/graphics</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000274.html</link>
+<description>“Wireless Internet at Philadelphia&apos;s Love Park,” AP/Wide World Photos; Tony Wilhelm (top) and Michael Maranda (bottom); Shem Rajoon at Playing to Win; Japanese Teen Digital Culture by Lucy Haagen....</description>
+<dc:subject>Cover Info</dc:subject>
+<dc:creator>anonymous</dc:creator>
+<dc:date>2005-06-14T09:00:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000236.html">
+<title>Downs and Ups in Community Technology</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000236.html</link>
+<description>We stumbled onto a most surprising contradiction that informs our current community technology environs while putting together this issue-opposing trends. On the one hand, in light of the post-election doldrums and confusion, and the loss of energy and resources that...</description>
+<dc:subject>ComTechReview</dc:subject>
+<dc:creator>anonymous</dc:creator>
+<dc:date>2005-06-14T08:01:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000237.html">
+<title>CTC VISTA Project Year 5, EITC/TOP Project</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000237.html</link>
+<description> The CMT Program at the College of Public and Community Service (CPCS) at UMass/Boston is currently offering a Bachelor of Arts degree in community media and technology, the first of its kind in the country, and a six course/competency...</description>
+<dc:subject>ComTechReview</dc:subject>
+<dc:creator>Daniel Schackman and Dorie Krauss</dc:creator>
+<dc:date>2005-06-14T08:00:01-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000262.html">
+<title>CTCNet Update: Board, Staff, Grant Programs</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000262.html</link>
+<description> CTCNet Staff and Board of Directors at Strategic Planning Retreat, October, 2004 (Click the image for a larger version.) Throughout 2004, CTCNet undertook an intensive strategic planning process, culminating in a planning retreat this past fall. Our board and...</description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>CTCNet Staff</dc:creator>
+<dc:date>2005-06-14T07:11:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000278.html">
+<title>CTCNet Annual Conference</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000278.html</link>
+<description><![CDATA[CTCNet Annual Conference Over 500 participants, representing thirty states and nine countries, attended the 2004 CTCNet Annual Conference, held June 11-13, 2004 in Seattle, WA. The theme, &ldquo;Building Connected Communities: the Power of People &amp; Technology,&rdquo; explored the vision of...]]></description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>CTCNet Staff</dc:creator>
+<dc:date>2005-06-14T07:10:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000275.html">
+<title>FY 2005 Federal Community Technology Appropriations</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000275.html</link>
+<description>CTCNet has actively monitored the funding outlook for federal investments in community technology for the year ahead. 2005 will present a mixture of challenges and opportunities for the community technology field. Congress recently passed a spending package that not only...</description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>Ryan Turner</dc:creator>
+<dc:date>2005-06-14T07:09:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000264.html">
+<title>CTCs Throughout Illinois Gather in Chicago for the 1st Annual Community Technology Conference</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000264.html</link>
+<description><![CDATA[Over 100 representatives from the Illinois community technology community came together in Chicago on September 23 and 24, 2004 to participate in the Illinois Community Technology Consortium&rsquo;s (ilCTC) 1st annual Community Technology Conference, &ldquo;Building Connected Communities in Illinois: The Power...]]></description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>Debra Johnson</dc:creator>
+<dc:date>2005-06-14T07:08:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000282.html">
+<title>The Community Technology Empowerment Project: Technology Literacy in the Twin Cities</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000282.html</link>
+<description> Community Technology Centers have teamed up with 17 AmeriCorps members in the Minneapolis-St. Paul area to increase technology literacy within the new Community Technology Empowerment Program (CTEP). CTEP is the result of five years of work by the regional...</description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>Jennifer Drewyor</dc:creator>
+<dc:date>2005-06-14T07:07:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000266.html">
+<title>Community Technology Center and Library Partnerships in Ohio</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000266.html</link>
+<description><![CDATA[ CTCs and libraries share many similarities, and thus the opportunities for collaboration are vast.&nbsp; But when I surveyed Ohio's CTC community, even I was surprised by the breadth and variety of CTC/Library partnerships. From partnering to provide high-speed Internet...]]></description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>Gabriel Gloden</dc:creator>
+<dc:date>2005-06-14T07:06:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000267.html">
+<title>CTCNet Delaware Valley/Philadelphia Update</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000267.html</link>
+<description> In Philadelphia, access to and utilization of technology continues to grow as a result of initiatives by the City of Philadelphia, the School District of Philadelphia, Temple University, and Teaming for Technology. All four institutions have implemented, or plan...</description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>Sabra Williams</dc:creator>
+<dc:date>2005-06-14T07:05:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000268.html">
+<title>One Economy VISTAs in NYC</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000268.html</link>
+<description> AmeriCorps VISTAs Dan Wood, Carette Perkins, and jaebi The New York City office of the national non-profit One Economy welcomed its first group of VISTAs in September 2003. I joined Dan Wood, Juliana Schwartz, Kristina Kennedy, and Lamar Howell...</description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>jaebi</dc:creator>
+<dc:date>2005-06-14T07:04:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000269.html">
+<title>Sustainability: ScienceQuest in Columbia, SC</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000269.html</link>
+<description> Keeping a good program going takes more than money. This article explores the techniques one community technology center, Fast Forward CTC in Columbia, South Carolina, has employed to ensure the longevity of one after-school program, ScienceQuest. Background: ScienceQuest at...</description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>Kate Snow</dc:creator>
+<dc:date>2005-06-14T07:03:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000270.html">
+<title>&quot;Mi Computadora&quot;: Improving Computer Use for Non-English Speakers at CTCs</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000270.html</link>
+<description> Community Technology Centers (CTCs) have played a key role in providing access to technology to the underserved population throughout the United States. The free or low-cost beginner computer classes that CTCs offer, whether at a library, YMCA, or local...</description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>Colin Bill</dc:creator>
+<dc:date>2005-06-14T07:02:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000281.html">
+<title>Raw Talent at Playing2Win</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000281.html</link>
+<description> On the corner of 111th Street and 5th Avenue, two young men with corn rolls and baggy pants spent their summer working side-by-side to make ends meet and were never questioned by the police patrolling the area. Shem Rajoon...</description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>Anthony Rhodes</dc:creator>
+<dc:date>2005-06-14T07:01:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/winter-2004-2005/000272.html">
+<title>Award-winning Homeless Youth Website at Cyber Y Technology Center in San Diego</title>
+<link>http://www.comtechreview.org/winter-2004-2005/000272.html</link>
+<description> In August 2003 the Time Warner Foundation awarded the Global SchoolNet Foundation (GBF) a grant to work with youth in San Diego, California, focused on a specific challenge that the local community faced. GBF and the Cyber Y Technology...</description>
+<dc:subject>CTCs</dc:subject>
+<dc:creator>Cesar Marcano</dc:creator>
+<dc:date>2005-06-14T07:00:00-05:00</dc:date>
+</item>
+
+
+</rdf:RDF>

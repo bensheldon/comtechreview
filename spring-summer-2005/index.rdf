@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.comtechreview.org/spring-summer-2005/">
+<title>Spring-Summer 2005</title>
+<link>http://www.comtechreview.org/spring-summer-2005/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2005-06-08T16:35:43-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000310.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000309.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000324.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000319.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000320.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000321.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000322.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000323.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000325.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000326.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000327.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000328.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000329.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000308.html" />
+<rdf:li rdf:resource="http://www.comtechreview.org/spring-summer-2005/000339.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000310.html">
+<title>An Update on Digital Divide Research</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000310.html</link>
+<description>The Digital Divide is a slippery fish but trying to grasp its complex and dynamic nature is absolutely critical to finding solutions. National level studies and those covering particular regions, states, and communities teach us to avoid a “one-size-fits-all” understanding...</description>
+<dc:subject><![CDATA[Research &amp; Evaluation]]></dc:subject>
+<dc:creator>Mary Stansbury</dc:creator>
+<dc:date>2005-05-25T17:02:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000309.html">
+<title>New Immigrants and Internet Use: Crossing Borders for Social and Cultural Benefit</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000309.html</link>
+<description>New immigrant groups are among the many without easy or common access to high-speed Internet, having limited personal as well as public access. In this article, we identify a few of the barriers new immigrants face in accessing and using...</description>
+<dc:subject><![CDATA[Research &amp; Evaluation]]></dc:subject>
+<dc:creator>Corry Bregendahl and Cornelia Flora</dc:creator>
+<dc:date>2005-05-25T17:03:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000324.html">
+<title>The Stockholm Challenge Awards</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000324.html</link>
+<description>The Stockholm Challenge enables ICT community development projects in all parts of the world to share their work. The biennial Stockholm Challenge Awards are accepting entries for the current event until December 31st, 2005. Categories are Public Administration, Culture, Health,...</description>
+<dc:subject>International</dc:subject>
+<dc:creator>Editor</dc:creator>
+<dc:date>2005-05-25T17:05:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000319.html">
+<title>Community Technology, Guatemalan style</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000319.html</link>
+<description><![CDATA[ Guatemala There is no short job description of my current work at Acci&oacute;n Cultural Guatemalteca (ACG), a small non-profit community and cultural development organization made up of entirely indigenous Mayans based in Santa Cruz del Quich&eacute;, Guatemala. One-room, one-computer...]]></description>
+<dc:subject>International</dc:subject>
+<dc:creator>Paul Pitcher</dc:creator>
+<dc:date>2005-05-25T18:00:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000320.html">
+<title>Technology and Culture in Nepal</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000320.html</link>
+<description>Nepal I spent the month of November 2004 in Nepal doing technology assessment and planning, and I&apos;m scheduled to go back in late summer, 2005. Working with the non-governmental organization (NGO) Lumanti: Support Group for Shelter in the Kathmandu Valley,...</description>
+<dc:subject>International</dc:subject>
+<dc:creator>Patricia Perkins</dc:creator>
+<dc:date>2005-05-25T18:01:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000321.html">
+<title>e-Literacy and Connectivity for Development in India, the Akshaya Approach</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000321.html</link>
+<description> Kerala, India The Akshaya Project in the Malappuram district of Kerala in southern India has established the first district-wide e-literacy project in the country, claiming to reach at least one resident in over 600,000 households, representing a population of...</description>
+<dc:subject>International</dc:subject>
+<dc:creator>Joyojeet Pal and G.R. Kiran</dc:creator>
+<dc:date>2005-05-25T18:02:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000322.html">
+<title>eSeva E-services in Southeast India</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000322.html</link>
+<description> Andhra Pradesh, India Democracy, as we all learned in high school, has been defined as government of the people, for the people and by the people. While the first two goals have been to an extent met, the true...</description>
+<dc:subject>International</dc:subject>
+<dc:creator>Sanjay Jaju</dc:creator>
+<dc:date>2005-05-25T18:03:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000323.html">
+<title>Burkina Faso, West Africa: A Case Study of Internet Development and Usage in Higher Education in Emerging Countries</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000323.html</link>
+<description> Africa spotlighting Burkina Faso Burkina Faso Among the former French colonies of West Africa, Burkina Faso (formerly Upper Volta), gained its independence in 1960 and became one of the first countries in francophone Africa to gain access to the...</description>
+<dc:subject>International</dc:subject>
+<dc:creator>Ibrahima Poda and William Brescia</dc:creator>
+<dc:date>2005-05-25T18:04:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000325.html">
+<title>Publications Update: The Journal of Community Informatics, Community Media Review, The Nation, The Nonprofit Quarterly, Brainstorm</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000325.html</link>
+<description><![CDATA[ The Journal of Community Informatics The newly-inaugurated Journal of Community Informatics brings together a global range of academics, CI practitioners, and national and multi-lateral policy makers. The third issue is dedicated to the theme of &quot;Putting Our Work in...]]></description>
+<dc:subject>Resources</dc:subject>
+<dc:creator>Editor</dc:creator>
+<dc:date>2005-05-25T19:00:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000326.html">
+<title>Research Methods for Community Change: A Project-Based Approach</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000326.html</link>
+<description><![CDATA[ Written by Randy Stoecker Sage Publications, Inc. Thousand Oaks, CA, USA London, UK &copy; 2005 076192888X/ 0761928898 Order online Research Methods for Community Change is a practical and thoughtful guide for all who have a burning desire to actualize...]]></description>
+<dc:subject>Resources</dc:subject>
+<dc:creator>Melissa C. Jeter</dc:creator>
+<dc:date>2005-05-25T19:01:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000327.html">
+<title>Community Practice in the Network Society: Local Action/Global Interaction</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000327.html</link>
+<description><![CDATA[ Edited by Peter Day and Douglas Schuler Routledge (Taylor &amp; Francis Group) London, UK and New York, NY, USA &copy; 2004 0415301955 Order online As a companion volume to Shaping the Network Society (previously reviewed here), this interesting collection...]]></description>
+<dc:subject>Resources</dc:subject>
+<dc:creator>Daniel Schackman</dc:creator>
+<dc:date>2005-05-25T19:02:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000328.html">
+<title>Atomiclearning.com</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000328.html</link>
+<description> Atomiclearning.com is a website that provides software training for various Windows and Macintosh applications. Some of the application tutorials for Mac are Macromedia Dreamweaver, Adobe Photoshop, Microsoft Excel, Adobe Illustrator, Final Cut Pro, GarageBand. Windows tutorials include Adobe Reader,...</description>
+<dc:subject>Resources</dc:subject>
+<dc:creator>Shannon McCue</dc:creator>
+<dc:date>2005-05-25T19:03:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000329.html">
+<title>ArcView and TerraSeer Data Analysis Software</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000329.html</link>
+<description>Technology Assistance and Resource Centers, CTCs, and other community organizations provide persons with a variety of needs with technology access and training and other technology-based social services. By using geographic information systems (GIS) and exploratory spatial data analysis (ESDA) to...</description>
+<dc:subject>Resources</dc:subject>
+<dc:creator>Michael Wolf-Branigin</dc:creator>
+<dc:date>2005-05-25T19:04:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000308.html">
+<title>My Fuzzy Crystal Ball</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000308.html</link>
+<description>I am very skeptical of those who call themselves visionaries, thus I hesitate to reveal the scene in my crystal ball. A few members of the OCCN Board have pressed upon me the importance of being ready for the future,...</description>
+<dc:subject>Perspective</dc:subject>
+<dc:creator>Angela Stuber</dc:creator>
+<dc:date>2005-05-25T20:00:00-05:00</dc:date>
+</item>
+<item rdf:about="http://www.comtechreview.org/spring-summer-2005/000339.html">
+<title>newCube</title>
+<link>http://www.comtechreview.org/spring-summer-2005/000339.html</link>
+<description> newCube, a sculpture by Paul Hansen, was installed on and around Sol LeWitt’s sculpture, Double Cubes, at UMass/Boston in May ‘05. newCube plays off LeWitt’s minimalist system based approach—essentially extending the system while also questioning many of the underlying...</description>
+<dc:subject>Back Cover</dc:subject>
+<dc:creator>Editor</dc:creator>
+<dc:date>2005-06-08T16:35:43-05:00</dc:date>
+</item>
+
+
+</rdf:RDF>

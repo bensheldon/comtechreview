@@ -1,0 +1,44 @@
+<?
+/*
+	-----------------------------------------------
+		Comment Queue (Moveable Type Hack)
+		Written by Jennifer of scriptygoddess.com
+		
+		This script is available for download on
+		scriptygoddess.com.
+
+		Please do not re-distribute or remove
+		this credit line.
+
+		If you use this script, a link back to 
+		scriptygoddess would be appreciated.
+	-----------------------------------------------
+*/
+include("config.php");
+include("logincheck.php");
+include("$dbconnect");
+
+if (isset($submit)) {
+	mysql_pconnect("$dbserver","$dbuser","$dbpassword")
+		or die("Could not connect");
+	mysql_select_db("$db");
+	if ($submit == "Approve Comment") {
+		$query = sprintf("UPDATE mt_comment set comment_entry_id = '%s', comment_author ='%s', comment_email = '%s', comment_url='%s', comment_text = '%s' WHERE comment_id ='%s';", $comment_entry, $comment_author, $comment_email, $comment_url, $comment_text, $comment_id);
+		mysql_query($query);
+		$feedback = "Comment successfully approved.";
+		
+		system($mtpath."mt-rebuild.pl -mode=\"entry\" -blog_id=\"".$comment_blog_id."\" -entry_id=\"".$comment_entry."\"");
+		// add functions to email author and comment poster that the comment has been approved.  
+	
+			
+	} else if ($submit == "Delete Comment") {
+		$query = sprintf("DELETE FROM mt_comment WHERE comment_id ='%s';", $comment_id);
+		mysql_query($query);
+		$feedback = "Your comment has successfully been deleted and will not be seen on your site";
+	} else if ($submit == "Save changes") {
+		$query = sprintf("UPDATE mt_comment set comment_author ='%s', comment_email = '%s', comment_url='%s', comment_text = '%s' WHERE comment_id ='%s';", $comment_author, $comment_email, $comment_url, $comment_text, $comment_id);
+		mysql_query($query);
+		$savedchanges = "Your changes to this comment have been saved. This comment has still not been approved, and therefore will not yet show up on the site.";
+	}// end chosing if approved or deleted
+} //end if form has been submitted
+?>
